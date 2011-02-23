@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bd#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Burundi"@en ;
+  owl:sameAs <http://sws.geonames.org/433561/>, <http://purl.org/NET/marccodes/gacs/f-bd#location>, <info:lc/vocabulary/countries/bd> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "bd" .

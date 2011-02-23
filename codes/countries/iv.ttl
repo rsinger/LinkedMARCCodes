@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<iv#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Côte d'Ivoire"@en ;
+  skos:altLabel "Ivory Coast"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/f-iv#location>, <info:lc/vocabulary/countries/iv> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "iv" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "China"@en ;
+  skos:altLabel "Hainan Island"@en, "Hong Kong"@en, "Inner Mongolia"@en, "Kowloon"@en, "Macao"@en, "Macau"@en, "Manchuria"@en, "Sinkiang"@en, "New Territories"@en, "Taipa"@en, "Tibet"@en ;
+  owl:sameAs <http://sws.geonames.org/1814991/>, <http://purl.org/NET/marccodes/gacs/a-cc#location>, <info:lc/vocabulary/countries/cc> ;
+  skos:note "Before 1997-10-01 use hk (Hong Kong)"@en, "Before 2000-05-01 use mh (Macao)"@en, "Before 2000-05-01 use mh (Macao)"@en, "Before 1997-10-01 use hk (Hong Kong)"@en, "Before 2000-05-01 use mh (Macao)"@en, "Before 2000-05-01 use mh (Macao)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "cc" .

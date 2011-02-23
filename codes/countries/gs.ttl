@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gs#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Georgia (Republic)"@en ;
+  skos:altLabel "Georgian S.S.R."@en, "Soviet Union"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/a-gs#location>, <info:lc/vocabulary/countries/gs> ;
+  skos:note "Before 1992-06-01 use gsr (Georgian S.S.R.)"@en, "Before 1992-06-01 use gsr (Georgian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use gsr (Georgian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "gs" .

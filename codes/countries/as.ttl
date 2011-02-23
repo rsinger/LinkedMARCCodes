@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<as#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "American Samoa"@en ;
+  skos:altLabel "Eastern Samoa"@en, "Samoa, American"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/poas#location>, <info:lc/vocabulary/countries/as> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "as" .

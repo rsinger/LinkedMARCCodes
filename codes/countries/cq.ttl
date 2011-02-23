@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cq#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Comoros"@en ;
+  skos:altLabel "Anjouan Island"@en, "Comores"@en, "Grande Comore Island"@en, "Moheli Island"@en ;
+  owl:sameAs <http://sws.geonames.org/921929/>, <http://dbpedia.org/resource/Comoros>, <http://purl.org/NET/marccodes/gacs/i-cq#location>, <info:lc/vocabulary/countries/cq> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "cq" .

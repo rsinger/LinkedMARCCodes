@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tz#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Tanzania"@en ;
+  skos:altLabel "Pemba"@en, "Tanganyika"@en, "Zanzibar"@en ;
+  owl:sameAs <http://sws.geonames.org/149590/>, <info:lc/vocabulary/countries/tz> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "tz" .

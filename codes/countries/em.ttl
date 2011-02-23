@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<em#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "East Timor"@en ;
+  owl:sameAs <http://sws.geonames.org/1966436/>, <http://purl.org/NET/marccodes/gacs/a-em#location>, <info:lc/vocabulary/countries/em> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "em" .

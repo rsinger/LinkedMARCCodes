@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nhu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "New Hampshire"@en ;
+  owl:sameAs <http://sws.geonames.org/5090174/>, <info:lc/vocabulary/countries/nhu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nhu" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ta#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Tajikistan"@en ;
+  skos:altLabel "Soviet Union"@en, "Tadzhik S.S.R."@en, "Tajik S.S.R."@en ;
+  owl:sameAs <http://sws.geonames.org/1220409/>, <info:lc/vocabulary/countries/ta> ;
+  skos:note "Before 1992-06-01 use tar (Tajik S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use tar (Tajik S.S.R.)"@en, "Before 1992-06-01 use tar (Tajik S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use tar (Tajik S.S.R.)"@en, "Before 1992-06-01 use tar (Tajik S.S.R.)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ta" .

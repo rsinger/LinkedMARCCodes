@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Macedonia"@en ;
+  owl:sameAs <http://sws.geonames.org/718075/>, <info:lc/vocabulary/countries/xn> ;
+  skos:note "Before 1992-10-01 use yu (Yugoslavia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "xn" .

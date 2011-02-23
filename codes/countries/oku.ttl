@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oku#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Oklahoma"@en ;
+  owl:sameAs <http://sws.geonames.org/4544379/>, <info:lc/vocabulary/countries/oku> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "oku" .

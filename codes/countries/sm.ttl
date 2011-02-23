@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sm#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "San Marino"@en ;
+  owl:sameAs <http://sws.geonames.org/3168068/>, <info:lc/vocabulary/countries/sm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "sm" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "France"@en ;
+  skos:altLabel "Corsica"@en ;
+  owl:sameAs <http://sws.geonames.org/3017382/>, <http://purl.org/NET/marccodes/gacs/e-fr#location>, <info:lc/vocabulary/countries/fr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "fr" .

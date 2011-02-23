@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vi#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Virgin Islands of the United States"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "vi" .

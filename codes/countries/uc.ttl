@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "United States Misc. Caribbean Islands"@en ;
+  skos:altLabel "Navassa Island"@en, "Quita Sueno Bank"@en, "Roncador Cay"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "uc" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ay#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Antarctica"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/t#location>, <info:lc/vocabulary/countries/ay> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/7#location> ;
+  skos:notation "ay" .

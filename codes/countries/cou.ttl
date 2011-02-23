@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cou#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Colorado"@en ;
+  owl:sameAs <http://sws.geonames.org/5417618/>, <http://dbpedia.org/resource/Colorado>, <http://purl.org/NET/marccodes/gacs/n-us-co#location>, <info:lc/vocabulary/countries/cou> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "cou" .

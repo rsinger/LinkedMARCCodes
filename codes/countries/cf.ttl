@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cf#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Congo (Brazzaville)"@en ;
+  skos:altLabel "Middle Congo"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/f-cf#location>, <info:lc/vocabulary/countries/cf> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "cf" .

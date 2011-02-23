@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ne#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Netherlands"@en ;
+  skos:altLabel "Holland"@en ;
+  owl:sameAs <http://sws.geonames.org/2750405/>, <info:lc/vocabulary/countries/ne> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "ne" .

@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dcu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "District of Columbia"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "dcu" .

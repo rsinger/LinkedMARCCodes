@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vm#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Vietnam"@en ;
+  skos:altLabel "Democratic People's Republic of Vietnam"@en, "North Vietnam"@en, "South Vietnam"@en, "Vietnam, North"@en, "Vietnam, Republic of"@en, "Vietnam, South"@en ;
+  owl:sameAs <http://sws.geonames.org/1562822/>, <info:lc/vocabulary/countries/vm> ;
+  skos:note "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "vm" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xs#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "South Georgia and the South Sandwich Islands"@en ;
+  skos:altLabel "South Georgia Island"@en, "South Sandwich Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/3474415/>, <info:lc/vocabulary/countries/xs> ;
+  skos:note "Before 1991-01-01 use fk (Falkland Islands)"@en, "Before 1991-01-01 use fk (Falkland Islands)"@en, "Before 1991-01-01 use fk (Falkland Islands)"@en, "Before 1991-01-01 use fk (Falkland Islands)"@en, "Before 1991-01-01 use fk (Falkland Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
+  skos:notation "xs" .

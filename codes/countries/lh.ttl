@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lh#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Liechtenstein"@en ;
+  owl:sameAs <http://sws.geonames.org/3042058/>, <http://dbpedia.org/resource/Liechtenstein>, <http://purl.org/NET/marccodes/gacs/e-lh#location>, <info:lc/vocabulary/countries/lh> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "lh" .

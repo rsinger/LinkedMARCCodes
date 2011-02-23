@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xd#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Saint Kitts-Nevis"@en ;
+  skos:altLabel "Saint Christopher"@en, "Saint Kitts-Nevis-Anguilla"@en, "St. Christopher"@en ;
+  skos:note "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en, "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en, "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "xd" .

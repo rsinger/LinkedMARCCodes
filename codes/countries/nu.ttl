@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Nauru"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/ponu#location>, <info:lc/vocabulary/countries/nu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "nu" .

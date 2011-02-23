@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xb#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Cocos (Keeling) Islands"@en ;
+  skos:altLabel "Keeling Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/i-xb#location>, <info:lc/vocabulary/countries/xb> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "xb" .

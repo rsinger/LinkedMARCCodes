@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<un#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Ukraine"@en ;
+  owl:sameAs <http://sws.geonames.org/690791/>, <info:lc/vocabulary/countries/un> ;
+  skos:note "Before 1992-06-01 use unr (Ukraine)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "un" .

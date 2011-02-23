@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gi#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Gibraltar"@en ;
+  owl:sameAs <http://sws.geonames.org/2411586/>, <http://dbpedia.org/resource/Gibraltar>, <http://purl.org/NET/marccodes/gacs/e-gi#location>, <info:lc/vocabulary/countries/gi> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "gi" .

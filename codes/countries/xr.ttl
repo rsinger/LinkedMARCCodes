@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Czech Republic"@en ;
+  skos:altLabel "Czechoslovakia"@en ;
+  owl:sameAs <http://sws.geonames.org/3077311/>, <http://purl.org/NET/marccodes/gacs/e-xr#location>, <http://purl.org/NET/marccodes/gacs/e-cs#location>, <info:lc/vocabulary/countries/xr> ;
+  skos:note "Before 1993-05-01 use cs (Czechoslovakia)"@en, "Before 1993-05-01 use cs (Czechoslovakia)"@en, "Before 1993-05-01 use cs (Czechoslovakia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "xr" .

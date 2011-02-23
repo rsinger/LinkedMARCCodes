@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ba#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Bahrain"@en ;
+  skos:altLabel "Bahrein"@en ;
+  owl:sameAs <http://sws.geonames.org/290291/>, <http://dbpedia.org/resource/Bahrain>, <http://purl.org/NET/marccodes/gacs/a-ba#location>, <info:lc/vocabulary/countries/ba> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ba" .

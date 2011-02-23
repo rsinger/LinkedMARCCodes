@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oru#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Oregon"@en ;
+  owl:sameAs <http://sws.geonames.org/5744337/>, <http://dbpedia.org/resource/Oregon>, <info:lc/vocabulary/countries/oru> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "oru" .

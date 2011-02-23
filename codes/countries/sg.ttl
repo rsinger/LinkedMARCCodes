@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sg#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Senegal"@en ;
+  owl:sameAs <http://sws.geonames.org/2245662/>, <info:lc/vocabulary/countries/sg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sg" .

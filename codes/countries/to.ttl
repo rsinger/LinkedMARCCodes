@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<to#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Tonga"@en ;
+  skos:altLabel "Friendly Islands"@en, "Haapai"@en, "Lulunga"@en, "Nomuka"@en, "Otu Tolu"@en, "Tongatapu"@en, "Vavau"@en ;
+  owl:sameAs <http://sws.geonames.org/4032283/>, <info:lc/vocabulary/countries/to> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "to" .

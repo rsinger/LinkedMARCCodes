@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "French Polynesia"@en ;
+  skos:altLabel "Austral Islands"@en, "Clipperton Island"@en, "Gambier Islands"@en, "Iles Australes"@en, "Iles du Vent"@en, "Iles Sous le Vent"@en, "Marquesas Islands"@en, "Polynesia, French"@en, "Society Islands"@en, "Sous le Vent, Iles"@en, "Tahiti"@en, "Tuamotu Archipelago"@en, "Vent, Iles du"@en ;
+  owl:sameAs <http://sws.geonames.org/4030656/>, <http://purl.org/NET/marccodes/gacs/pofp#location>, <info:lc/vocabulary/countries/fp> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "fp" .

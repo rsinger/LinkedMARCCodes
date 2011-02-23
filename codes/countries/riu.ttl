@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<riu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Rhode Island"@en ;
+  owl:sameAs <http://sws.geonames.org/5224323/>, <info:lc/vocabulary/countries/riu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "riu" .

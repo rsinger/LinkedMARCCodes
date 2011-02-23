@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<so#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Somalia"@en ;
+  skos:altLabel "Somali Republic"@en ;
+  owl:sameAs <http://sws.geonames.org/51537/>, <info:lc/vocabulary/countries/so> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "so" .

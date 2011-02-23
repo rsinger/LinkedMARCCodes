@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xm#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Saint Vincent and the Grenadines"@en ;
+  skos:altLabel "Grenadine Islands, Northern"@en, "Saint Vincent"@en ;
+  owl:sameAs <http://sws.geonames.org/3577815/>, <info:lc/vocabulary/countries/xm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "xm" .

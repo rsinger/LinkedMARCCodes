@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wj#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "West Bank of the Jordan River"@en ;
+  skos:altLabel "Jordan (Territory under Israeli occupation, 1967- )"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "wj" .

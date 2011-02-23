@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<at#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Australia"@en ;
+  skos:altLabel "Ashmore and Cartier Islands"@en, "Macquarie Island"@en ;
+  owl:sameAs <http://sws.geonames.org/2077456/>, <http://dbpedia.org/resource/Australia>, <http://purl.org/NET/marccodes/gacs/u-ac#location>, <http://purl.org/NET/marccodes/gacs/u-at#location>, <info:lc/vocabulary/countries/at> ;
+  skos:note "Before 1978-01-01 use ac (Ashmore and Cartier Islands)"@en, "Before 1978-01-01 use ac (Ashmore and Cartier Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "at" .

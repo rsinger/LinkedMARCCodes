@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<le#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Lebanon"@en ;
+  owl:sameAs <http://sws.geonames.org/272103/>, <http://dbpedia.org/resource/Lebanon>, <http://purl.org/NET/marccodes/gacs/a-le#location>, <info:lc/vocabulary/countries/le> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "le" .

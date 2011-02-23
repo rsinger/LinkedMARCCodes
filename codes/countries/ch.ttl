@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ch#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "China (Republic : 1949- )"@en ;
+  skos:altLabel "Formosa Island"@en, "Nationalist China"@en, "P'eng-hu Island"@en, "Pescadores Islands"@en, "Taiwan Island"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ch" .

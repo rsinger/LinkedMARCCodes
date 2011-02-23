@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mg#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Madagascar"@en ;
+  skos:altLabel "Malagasy Republic"@en ;
+  owl:sameAs <http://sws.geonames.org/1062947/>, <http://purl.org/NET/marccodes/gacs/f-mg#location>, <info:lc/vocabulary/countries/mg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "mg" .

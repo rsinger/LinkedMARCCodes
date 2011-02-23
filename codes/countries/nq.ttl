@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nq#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Nicaragua"@en ;
+  skos:altLabel "Corn Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/3617476/>, <info:lc/vocabulary/countries/nq> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "nq" .

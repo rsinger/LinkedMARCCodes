@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ru#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Russia (Federation)"@en ;
+  skos:altLabel "Franz Josef Land"@en, "Habomai Islands"@en, "Kuril Islands (Southern)"@en, "New Siberian Islands"@en, "Novaya Zemlya"@en, "Russian S.F.S.R."@en, "Sakhalin (Southern)"@en, "Severnaya Zemlya"@en, "Soviet Union"@en, "Wrangel Island"@en ;
+  skos:note "Before 1992-06-01 use rur (Russian S.F.S.R.)"@en, "Before 1992-06-01 use rur (Russian S.F.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use rur (Russian S.F.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "ru" .

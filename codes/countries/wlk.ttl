@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wlk#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Wales"@en ;
+  owl:sameAs <http://sws.geonames.org/2634895/>, <info:lc/vocabulary/countries/wlk> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "wlk" .

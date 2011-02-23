@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<an#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Andorra"@en ;
+  owl:sameAs <http://sws.geonames.org/3041565/>, <http://purl.org/NET/marccodes/gacs/e-an#location>, <info:lc/vocabulary/countries/an> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "an" .

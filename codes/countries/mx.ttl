@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mx#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Mexico"@en ;
+  skos:altLabel "Islas de Revillagigedo"@en, "Revillagigedo, Islas de"@en ;
+  owl:sameAs <http://sws.geonames.org/3996063/>, <http://purl.org/NET/marccodes/gacs/n-mx#location>, <info:lc/vocabulary/countries/mx> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "mx" .

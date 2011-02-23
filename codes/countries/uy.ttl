@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uy#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Uruguay"@en ;
+  owl:sameAs <http://sws.geonames.org/3439705/>, <info:lc/vocabulary/countries/uy> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "uy" .

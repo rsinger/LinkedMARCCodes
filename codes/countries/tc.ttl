@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Turks and Caicos Islands"@en ;
+  skos:altLabel "Caicos Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/3576916/>, <info:lc/vocabulary/countries/tc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "tc" .

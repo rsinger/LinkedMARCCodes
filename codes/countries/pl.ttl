@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Poland"@en ;
+  owl:sameAs <http://sws.geonames.org/798544/>, <info:lc/vocabulary/countries/pl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "pl" .

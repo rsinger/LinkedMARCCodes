@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Trinidad and Tobago"@en ;
+  skos:altLabel "Tobago"@en ;
+  owl:sameAs <http://sws.geonames.org/3573591/>, <http://dbpedia.org/resource/Trinidad_and_Tobago>, <info:lc/vocabulary/countries/tr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "tr" .

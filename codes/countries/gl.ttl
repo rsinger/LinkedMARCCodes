@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Greenland"@en ;
+  owl:sameAs <http://sws.geonames.org/3425505/>, <http://purl.org/NET/marccodes/gacs/n-gl#location>, <info:lc/vocabulary/countries/gl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "gl" .

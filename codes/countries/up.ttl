@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<up#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "United States Misc. Pacific Islands"@en ;
+  skos:altLabel "Baker Island"@en, "Howland Island"@en, "Jarvis Island"@en, "Kingman Reef"@en, "Palmyra Atoll"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "up" .

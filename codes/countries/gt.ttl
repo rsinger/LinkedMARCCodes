@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gt#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Guatemala"@en ;
+  owl:sameAs <http://sws.geonames.org/3595528/>, <http://dbpedia.org/resource/Guatemala>, <http://purl.org/NET/marccodes/gacs/ncgt#location>, <info:lc/vocabulary/countries/gt> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "gt" .

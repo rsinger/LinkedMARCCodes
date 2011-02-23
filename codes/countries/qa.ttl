@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<qa#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Qatar"@en ;
+  owl:sameAs <http://sws.geonames.org/289688/>, <info:lc/vocabulary/countries/qa> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "qa" .

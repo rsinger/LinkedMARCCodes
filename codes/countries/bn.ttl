@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Bosnia and Hercegovina"@en ;
+  skos:altLabel "Hercegovina"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/e-bn#location>, <info:lc/vocabulary/countries/bn> ;
+  skos:note "Before 1992-10-01 use yu (Yugoslavia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "bn" .

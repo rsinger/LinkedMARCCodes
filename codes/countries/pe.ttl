@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pe#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Peru"@en ;
+  owl:sameAs <http://sws.geonames.org/3932488/>, <info:lc/vocabulary/countries/pe> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "pe" .

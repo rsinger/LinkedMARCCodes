@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ot#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Mayotte"@en ;
+  owl:sameAs <http://sws.geonames.org/921810/>, <http://dbpedia.org/resource/Mayotte>, <http://purl.org/NET/marccodes/gacs/i-my#location>, <info:lc/vocabulary/countries/ot> ;
+  skos:note "Before 1987-07-01 use cq (Comoros)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "ot" .

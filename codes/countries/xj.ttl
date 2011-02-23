@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xj#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Saint Helena"@en ;
+  skos:altLabel "Ascension Island (Atlantic Ocean)"@en, "Gough Island"@en, "Inaccessible Island"@en, "Nightingale Island"@en, "Tristan da Cunha Island"@en ;
+  owl:sameAs <http://sws.geonames.org/3370751/>, <http://dbpedia.org/resource/Saint_Helena>, <http://purl.org/NET/marccodes/gacs/lsai#location>, <info:lc/vocabulary/countries/xj> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
+  skos:notation "xj" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ksu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Kansas"@en ;
+  owl:sameAs <http://sws.geonames.org/4273857/>, <http://purl.org/NET/marccodes/gacs/n-us-ks#location>, <info:lc/vocabulary/countries/ksu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "ksu" .

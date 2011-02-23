@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Monaco"@en ;
+  owl:sameAs <http://sws.geonames.org/2993457/>, <http://purl.org/NET/marccodes/gacs/e-mc#location>, <info:lc/vocabulary/countries/mc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "mc" .

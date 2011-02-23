@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nkc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "New Brunswick"@en ;
+  owl:sameAs <http://sws.geonames.org/6087430/>, <info:lc/vocabulary/countries/nkc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nkc" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sq#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Swaziland"@en ;
+  owl:sameAs <http://sws.geonames.org/934841/>, <http://dbpedia.org/resource/Swaziland>, <info:lc/vocabulary/countries/sq> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sq" .

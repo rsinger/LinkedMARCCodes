@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<za#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Zambia"@en ;
+  skos:altLabel "Northern Rhodesia"@en ;
+  owl:sameAs <http://sws.geonames.org/895949/>, <info:lc/vocabulary/countries/za> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "za" .

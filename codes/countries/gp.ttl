@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Guadeloupe"@en ;
+  skos:altLabel "Basse-Terre"@en, "Grande-Terre"@en, "Ile Saint-Barthélemy"@en, "Iles de la Petite Terre"@en, "Iles des Saintes"@en, "La Désirade"@en, "Marie-Galante"@en, "Petite Terre, Iles de"@en, "Saint-Barthélemy"@en, "Saint Martin, Northern"@en, "Saintes, Iles des"@en ;
+  owl:sameAs <http://sws.geonames.org/3579143/>, <http://purl.org/NET/marccodes/gacs/nwgp#location>, <info:lc/vocabulary/countries/gp> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "gp" .

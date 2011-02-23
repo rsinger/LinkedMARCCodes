@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Saint Pierre and Miquelon"@en ;
+  skos:altLabel "Miquelon"@en ;
+  owl:sameAs <http://sws.geonames.org/3424932/>, <http://dbpedia.org/resource/Saint_Pierre_and_Miquelon>, <info:lc/vocabulary/countries/xl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "xl" .

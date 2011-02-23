@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ug#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Uganda"@en ;
+  owl:sameAs <http://sws.geonames.org/226074/>, <info:lc/vocabulary/countries/ug> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ug" .

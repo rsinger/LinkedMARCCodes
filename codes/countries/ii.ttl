@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ii#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "India"@en ;
+  skos:altLabel "Amindivi Islands"@en, "Andaman Islands"@en, "Daman"@en, "Diu"@en, "Goa"@en, "Laccadive Island"@en, "Minicoy Island"@en, "Nicobar Islands"@en, "Sikkim"@en ;
+  owl:sameAs <http://sws.geonames.org/1269750/>, <http://purl.org/NET/marccodes/gacs/a-ii#location>, <info:lc/vocabulary/countries/ii> ;
+  skos:note "Before 1978-01-01 use sk (Sikkim)"@en, "Before 1978-01-01 use sk (Sikkim)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ii" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<li#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Lithuania"@en ;
+  owl:sameAs <http://sws.geonames.org/597427/>, <http://purl.org/NET/marccodes/gacs/e-li#location>, <info:lc/vocabulary/countries/li> ;
+  skos:note "Before 1992-06-01 use lir (Lithuania)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "li" .

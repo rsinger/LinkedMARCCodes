@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nik#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Northern Ireland"@en ;
+  skos:altLabel "Ireland, Northern"@en ;
+  owl:sameAs <http://sws.geonames.org/2641364/>, <info:lc/vocabulary/countries/nik> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "nik" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sa#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "South Africa"@en ;
+  skos:altLabel "Bophuthatswana"@en, "Ciskei"@en, "Lebowa"@en, "Machangana"@en, "Marion Island"@en, "Prince Edward Islands"@en, "South Sotho"@en, "Transkei"@en, "Tswana"@en, "Venda"@en, "Walvis Bay Enclave"@en, "Zulu"@en ;
+  owl:sameAs <http://sws.geonames.org/953987/>, <info:lc/vocabulary/countries/sa> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sa" .

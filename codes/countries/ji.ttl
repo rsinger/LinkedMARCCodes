@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ji#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Johnston Atoll"@en ;
+  skos:altLabel "Sand Island"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "ji" .

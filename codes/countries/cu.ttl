@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Cuba"@en ;
+  skos:altLabel "Isle of Pines (Caribbean)"@en, "Pines, Isle of (Caribbean)"@en ;
+  owl:sameAs <http://sws.geonames.org/3562981/>, <http://purl.org/NET/marccodes/gacs/nwcu#location>, <info:lc/vocabulary/countries/cu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "cu" .

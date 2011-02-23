@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Tokelau"@en ;
+  skos:altLabel "Atafu Atoll"@en, "Fakaofu Atoll"@en, "Nukunono Atoll"@en, "Union Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/4031074/>, <info:lc/vocabulary/countries/tl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "tl" .

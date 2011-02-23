@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uik#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "United Kingdom Misc. Islands"@en ;
+  skos:altLabel "Alderney"@en, "Brechou"@en, "Channel Islands"@en, "Guernsey Island"@en, "Herm Island"@en, "Isle of Man"@en, "Jersey (Island)"@en, "Jethou"@en, "Lihou"@en, "Orkney Islands"@en, "Sark Island"@en, "Shetland Islands"@en ;
+  skos:note "Before 1988-03-01 use ui (United Kingdom Misc. Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "uik" .

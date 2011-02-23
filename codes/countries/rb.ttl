@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rb#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Serbia"@en ;
+  skos:altLabel "Yugoslavia"@en ;
+  owl:sameAs <http://sws.geonames.org/6290252/>, <info:lc/vocabulary/countries/rb> ;
+  skos:note "Coded [yu] for Serbia and Montenegro from 1992-April 2007"@en, "Before 1992-01-01 use yu (Yugoslavia)"@en, "Before 1992-01-01 use yu (Yugoslavia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "rb" .

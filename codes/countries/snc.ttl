@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<snc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Saskatchewan"@en ;
+  owl:sameAs <http://sws.geonames.org/6141242/>, <info:lc/vocabulary/countries/snc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "snc" .

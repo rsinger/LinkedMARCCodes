@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<py#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Paraguay"@en ;
+  owl:sameAs <http://sws.geonames.org/3437598/>, <info:lc/vocabulary/countries/py> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "py" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wf#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Wallis and Futuna"@en ;
+  skos:altLabel "Alofi"@en, "Futuna"@en, "Horne, Iles de"@en, "Ile Uvea (Wallis and Futuna)"@en, "Iles de Horne"@en, "Uvea (Wallis and Futuna)"@en ;
+  owl:sameAs <http://sws.geonames.org/4034749/>, <http://dbpedia.org/resource/Wallis_and_Futuna>, <info:lc/vocabulary/countries/wf> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "wf" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cj#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Cayman Islands"@en ;
+  skos:altLabel "Cayman Brac Island"@en, "Grand Cayman Island"@en, "Little Cayman Island"@en ;
+  owl:sameAs <http://sws.geonames.org/3580718/>, <http://purl.org/NET/marccodes/gacs/nwcj#location>, <info:lc/vocabulary/countries/cj> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "cj" .

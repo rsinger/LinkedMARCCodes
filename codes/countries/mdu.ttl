@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mdu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Maryland"@en ;
+  owl:sameAs <http://sws.geonames.org/4361885/>, <http://dbpedia.org/resource/Maryland>, <http://purl.org/NET/marccodes/gacs/n-us-md#location>, <info:lc/vocabulary/countries/mdu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "mdu" .

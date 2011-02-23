@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Puerto Rico"@en ;
+  owl:sameAs <http://sws.geonames.org/4566966/>, <info:lc/vocabulary/countries/pr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "pr" .

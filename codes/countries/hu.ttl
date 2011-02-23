@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Hungary"@en ;
+  owl:sameAs <http://sws.geonames.org/719819/>, <http://purl.org/NET/marccodes/gacs/e-hu#location>, <info:lc/vocabulary/countries/hu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "hu" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<no#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Norway"@en ;
+  skos:altLabel "Bear Island"@en, "Jan Mayen"@en, "Spitsbergen"@en, "Svalbard (Norway)"@en ;
+  owl:sameAs <http://sws.geonames.org/3144096/>, <info:lc/vocabulary/countries/no> ;
+  skos:note "Before 1988-03-01 use jn (Jan Mayen)"@en, "Before 1988-03-01 use sb (Svalbard)"@en, "Before 1988-03-01 use jn (Jan Mayen)"@en, "Before 1988-03-01 use sb (Svalbard)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "no" .

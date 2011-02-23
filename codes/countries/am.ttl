@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<am#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Anguilla"@en ;
+  skos:altLabel "Saint Kitts-Nevis-Anguilla"@en, "Sombrero Island"@en ;
+  owl:sameAs <http://sws.geonames.org/3573511/>, <http://dbpedia.org/resource/Anguilla>, <http://purl.org/NET/marccodes/gacs/nwxa#location>, <info:lc/vocabulary/countries/am> ;
+  skos:note "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en, "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en, "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "am" .

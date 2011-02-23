@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<es#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "El Salvador"@en ;
+  skos:altLabel "Salvador"@en ;
+  owl:sameAs <http://sws.geonames.org/3585968/>, <http://purl.org/NET/marccodes/gacs/nces#location>, <info:lc/vocabulary/countries/es> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "es" .

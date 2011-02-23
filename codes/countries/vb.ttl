@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vb#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "British Virgin Islands"@en ;
+  skos:altLabel "Anegada"@en, "Colony of the Virgin Islands"@en, "Jost Van Dyke"@en, "Tortola"@en, "Virgin Gorda"@en, "Virgin Islands (British)"@en ;
+  owl:sameAs <http://sws.geonames.org/3577718/>, <http://dbpedia.org/resource/British_Virgin_Islands>, <http://purl.org/NET/marccodes/gacs/nwvb#location>, <info:lc/vocabulary/countries/vb> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "vb" .

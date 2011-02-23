@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sj#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Sudan"@en ;
+  owl:sameAs <http://sws.geonames.org/366755/>, <info:lc/vocabulary/countries/sj> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sj" .

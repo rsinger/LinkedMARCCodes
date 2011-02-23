@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Vatican City"@en ;
+  skos:altLabel "Holy See"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "vc" .

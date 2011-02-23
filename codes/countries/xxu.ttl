@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xxu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "United States"@en ;
+  skos:note "Before 1988-03-01 use us (United States)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "xxu" .

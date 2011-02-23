@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ctu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Connecticut"@en ;
+  owl:sameAs <http://sws.geonames.org/4831725/>, <http://purl.org/NET/marccodes/gacs/n-us-ct#location>, <info:lc/vocabulary/countries/ctu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "ctu" .

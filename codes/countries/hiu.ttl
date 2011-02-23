@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hiu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Hawaii"@en ;
+  owl:sameAs <http://sws.geonames.org/5855797/>, <http://purl.org/NET/marccodes/gacs/n-us-hi#location>, <info:lc/vocabulary/countries/hiu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "hiu" .

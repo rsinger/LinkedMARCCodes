@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bv#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Bouvet Island"@en ;
+  owl:sameAs <http://sws.geonames.org/3371123/>, <http://purl.org/NET/marccodes/gacs/lsbv#location>, <info:lc/vocabulary/countries/bv> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
+  skos:notation "bv" .

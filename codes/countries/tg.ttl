@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tg#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Togo"@en ;
+  owl:sameAs <http://sws.geonames.org/2363686/>, <info:lc/vocabulary/countries/tg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "tg" .

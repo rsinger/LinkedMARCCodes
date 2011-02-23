@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bi#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "British Indian Ocean Territory"@en ;
+  skos:altLabel "Chagos Archipelago"@en, "Diego Garcia Island"@en ;
+  owl:sameAs <http://sws.geonames.org/1282588/>, <http://purl.org/NET/marccodes/gacs/i-bi#location>, <info:lc/vocabulary/countries/bi> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "bi" .

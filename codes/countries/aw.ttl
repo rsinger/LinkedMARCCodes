@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aw#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Aruba"@en ;
+  owl:sameAs <http://sws.geonames.org/3577279/>, <http://dbpedia.org/resource/Aruba>, <http://purl.org/NET/marccodes/gacs/nwaw#location>, <info:lc/vocabulary/countries/aw> ;
+  skos:note "Before 1988-03-01 use na (Netherlands Antilles)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "aw" .

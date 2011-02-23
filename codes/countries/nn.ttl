@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Vanuatu"@en ;
+  skos:altLabel "Banks Islands"@en, "New Hebrides"@en, "Torres Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/2134431/>, <info:lc/vocabulary/countries/nn> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "nn" .

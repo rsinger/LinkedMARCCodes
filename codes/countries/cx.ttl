@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cx#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Central African Republic"@en ;
+  skos:altLabel "Central African Empire"@en, "Ubangi-Shari"@en ;
+  owl:sameAs <http://sws.geonames.org/239880/>, <http://purl.org/NET/marccodes/gacs/f-cx#location>, <info:lc/vocabulary/countries/cx> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "cx" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mv#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Moldova"@en ;
+  skos:altLabel "Moldavian S.S.R."@en, "Soviet Union"@en ;
+  owl:sameAs <http://sws.geonames.org/617790/>, <http://purl.org/NET/marccodes/gacs/e-mv#location>, <info:lc/vocabulary/countries/mv> ;
+  skos:note "Before 1992-06-01 use mvr (Moldavian S.S.R.)"@en, "Before 1992-06-01 use mvr (Moldavian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use mvr (Moldavian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "mv" .

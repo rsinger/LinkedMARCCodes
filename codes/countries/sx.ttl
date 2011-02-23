@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sx#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Namibia"@en ;
+  skos:altLabel "South-West Africa"@en ;
+  owl:sameAs <http://sws.geonames.org/3355338/>, <http://purl.org/NET/marccodes/gacs/f-sx#location>, <info:lc/vocabulary/countries/sx> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sx" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ph#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Philippines"@en ;
+  owl:sameAs <http://sws.geonames.org/1694008/>, <info:lc/vocabulary/countries/ph> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ph" .

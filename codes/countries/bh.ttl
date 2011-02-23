@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bh#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Belize"@en ;
+  skos:altLabel "British Honduras"@en ;
+  owl:sameAs <http://sws.geonames.org/3582678/>, <http://dbpedia.org/resource/Belize>, <http://purl.org/NET/marccodes/gacs/ncbh#location>, <info:lc/vocabulary/countries/bh> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "bh" .

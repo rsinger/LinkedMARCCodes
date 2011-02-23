@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Panama"@en ;
+  skos:altLabel "Canal Zone"@en ;
+  owl:sameAs <http://sws.geonames.org/3703430/>, <http://purl.org/NET/marccodes/gacs/nccz#location>, <info:lc/vocabulary/countries/pn> ;
+  skos:note "Before 1985-01-01 use cz (Canal Zone)"@en, "Before 1985-01-01 use cz (Canal Zone)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "pn" .

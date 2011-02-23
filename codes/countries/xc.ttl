@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Maldives"@en ;
+  skos:altLabel "Maldive Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/1282028/>, <http://purl.org/NET/marccodes/gacs/i-xc#location>, <info:lc/vocabulary/countries/xc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "xc" .

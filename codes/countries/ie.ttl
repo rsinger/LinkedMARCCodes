@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ie#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Ireland"@en ;
+  skos:altLabel "Eire"@en ;
+  owl:sameAs <http://sws.geonames.org/2963597/>, <http://purl.org/NET/marccodes/gacs/e-ie#location>, <info:lc/vocabulary/countries/ie> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "ie" .

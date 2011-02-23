@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sh#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Spanish North Africa"@en ;
+  skos:altLabel "Ceuta"@en, "Chafarinas, Islas"@en, "Islas Chafarinas"@en, "Melilla"@en, "Peñón de Alhucemas"@en, "Peñón de Vélez de la Gomera"@en, "Plazas de Soberania"@en, "Spanish Territories in Northern Morocco"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sh" .

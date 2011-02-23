@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xe#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Marshall Islands"@en ;
+  skos:altLabel "Ailinglapalap Atoll"@en, "Arno (Atoll)"@en, "Bikini (Atoll)"@en, "Ebon Atoll"@en, "Eniwetok Atoll"@en, "Jaluit Atoll"@en, "Kili Island"@en, "Kwajalein Atoll"@en, "Majuro Atoll"@en, "Maloelap Atoll"@en, "Mili Atoll"@en, "Namorik Atoll"@en, "Pacific Islands (Trust Territory)"@en, "Ralik Chain"@en, "Ratak Chains"@en, "Rongelap Atoll"@en, "Taongi Atoll"@en, "Trust Territory of the Pacific Islands"@en, "Ujelang Atoll"@en, "Utirik Atoll"@en, "Wotje Atoll"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/poxe#location>, <info:lc/vocabulary/countries/xe> ;
+  skos:note "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "xe" .

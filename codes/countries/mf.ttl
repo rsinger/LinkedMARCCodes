@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mf#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Mauritius"@en ;
+  skos:altLabel "Agalega Islands"@en, "Cargados Carajos Shoals"@en, "Rodrigues Island"@en, "Saint Brandon"@en ;
+  owl:sameAs <http://sws.geonames.org/934292/>, <http://dbpedia.org/resource/Mauritius>, <http://purl.org/NET/marccodes/gacs/i-mf#location>, <info:lc/vocabulary/countries/mf> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "mf" .
