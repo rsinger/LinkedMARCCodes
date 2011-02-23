@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ma#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Arab countries"@en ;
+  skos:altLabel "Arabic countries"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Arab_World>, <info:lc/vocabulary/gacs/ma> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85006278#concept> ;
+  skos:notation "ma" .

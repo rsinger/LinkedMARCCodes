@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-ph#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Philippines"@en ;
+  skos:altLabel "Eastern Samar (Philippines)"@en, "Luzon (Philippines)"@en, "Mindanao Island (Philippines)"@en, "Negros Island (Philippines)"@en, "Northern Samar (Philippines)"@en, "Panay Island (Philippines)"@en, "Samar (Philippines)"@en, "Philippine Islands"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/a-ph> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85079061#concept>, <http://id.loc.gov/authorities/sh85085493#concept>, <http://id.loc.gov/authorities/sh85090659#concept>, <http://id.loc.gov/authorities/sh85097358#concept> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-ph" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<awgz#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Gaza Strip"@en ;
+  skos:altLabel "Palestine"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/gz#location>, <http://sws.geonames.org/281132/>, <http://dbpedia.org/resource/Gaza_Strip>, <info:lc/vocabulary/gacs/awgz> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85053589#concept>, <http://dbpedia.org/resource/Category:Gaza_Strip> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85097163#concept> ;
+  skos:notation "awgz" .

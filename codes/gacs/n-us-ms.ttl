@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-ms#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Mississippi"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/msu#location>, <http://sws.geonames.org/4436296/>, <http://dbpedia.org/resource/Mississippi>, <info:lc/vocabulary/gacs/n-us-ms> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Mississippi> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-ms" .

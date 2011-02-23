@@ -1,0 +1,12 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "China"@en ;
+  skos:altLabel "Manchuria (China)"@en, "Mainland China"@en, "People's Republic of China"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/cc#location>, <http://sws.geonames.org/1814991/>, <http://dbpedia.org/resource/China>, <info:lc/vocabulary/gacs/a-cc> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:China> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85080399#concept> ;
+  dcterms:isPartOf <a#location> ;
+  dcterms:hasPart <a-cc-an#location>, <a-cc-pe#location>, <a-ccp#location>, <a-cc-cq#location>, <a-cc-fu#location>, <a-cc-ka#location>, <a-cc-kn#location>, <a-cc-kc#location>, <a-cc-kw#location>, <a-cc-ha#location>, <a-cc-hp#location>, <a-cc-he#location>, <a-cc-ho#location>, <a-cc-hk#location>, <a-cc-hh#location>, <a-cc-hu#location>, <a-cc-im#location>, <a-cc-ku#location>, <a-cc-ki#location>, <a-cc-kr#location>, <a-cck#location>, <a-cc-lp#location>, <a-cc-mh#location>, <a-cc-nn#location>, <a-cc-ts#location>, <a-cc-ss#location>, <a-cc-sp#location>, <a-cc-sm#location>, <a-cc-sh#location>, <a-cc-sz#location>, <a-cc-tn#location>, <a-cc-ti#location>, <a-ccs#location>, <a-cc-su#location>, <a-ccg#location>, <a-ccy#location>, <a-cc-yu#location>, <a-cc-ch#location> ;
+  skos:notation "a-cc" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-mh#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Macau (China : Special Administrative Region)"@en ;
+  skos:altLabel "Macao"@en ;
+  owl:sameAs <http://sws.geonames.org/1821275/>, <info:lc/vocabulary/gacs/a-cc-mh> ;
+  skos:note "Coded [a-mh] (Macao) before May 29, 2000"@en ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-mh" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-ia#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Iowa"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/iau#location>, <http://sws.geonames.org/4862182/>, <http://dbpedia.org/resource/Iowa>, <info:lc/vocabulary/gacs/n-us-ia> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Iowa> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-ia" .

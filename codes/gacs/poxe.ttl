@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<poxe#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Marshall Islands"@en ;
+  skos:altLabel "Bikini Atoll (Marshall Islands)"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/xe#location>, <http://sws.geonames.org/2080185/>, <http://dbpedia.org/resource/Marshall_Islands>, <info:lc/vocabulary/gacs/poxe> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Marshall_Islands> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85013994#concept> ;
+  skos:notation "poxe" .

@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwuc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "United States Miscellaneous Caribbean Islands"@en ;
+  skos:altLabel "Caribbean Island Dependencies of the United States"@en, "Island Dependencies of the United States in the Caribbean"@en ;
+  skos:notation "nwuc" .

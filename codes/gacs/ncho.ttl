@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ncho#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Honduras"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ho#location>, <http://sws.geonames.org/3608932/>, <http://dbpedia.org/resource/Honduras>, <info:lc/vocabulary/gacs/ncho> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Honduras> ;
+  skos:notation "ncho" .

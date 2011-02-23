@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-rm#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Romania"@en ;
+  skos:altLabel "Moldavia"@en, "Rumania"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-rm" .

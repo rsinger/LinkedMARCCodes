@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aw#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Middle East"@en ;
+  skos:altLabel "Islamic Empire"@en, "Latin Orient"@en, "Rome"@en, "Roman Empire"@en, "Roman Empire"@en, "Asia, Southwestern"@en, "Asia, Western"@en, "East (Near East)"@en, "Eastern Mediterranean"@en, "Levant"@en, "Mediterranean Region, Eastern"@en, "Mideast"@en, "Near East"@en ;
+  owl:sameAs <http://sws.geonames.org/6269133/>, <http://dbpedia.org/resource/Middle_East>, <info:lc/vocabulary/gacs/aw> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85090501#concept>, <http://dbpedia.org/resource/Category:Middle_East> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85068444#concept>, <http://id.loc.gov/authorities/sh85074970#concept> ;
+  skos:notation "aw" .

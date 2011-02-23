@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-ure#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Siberia, Eastern (Russia)"@en ;
+  skos:altLabel "East Siberian Region (Russia)"@en, "Eastern Siberia (Russia)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-ure> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85122209#concept> ;
+  dcterms:isPartOf <e-ur#location> ;
+  skos:notation "e-ure" .

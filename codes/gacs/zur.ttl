@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zur#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Uranus (Planet)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/zur> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85141296#concept> ;
+  skos:notation "zur" .

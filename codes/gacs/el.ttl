@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<el#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Benelux countries"@en ;
+  skos:altLabel "Low countries"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Benelux_countries>, <http://dbpedia.org/resource/Benelux>, <info:lc/vocabulary/gacs/el> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85013135#concept>, <http://dbpedia.org/resource/Category:Benelux_countries> ;
+  skos:notation "el" .

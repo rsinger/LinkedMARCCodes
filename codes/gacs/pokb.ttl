@@ -1,0 +1,12 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pokb#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Kiribati"@en ;
+  skos:altLabel "Banaba (Kiribati)"@en, "Ocean Island (Kiribati)"@en, "Ocean Island (Kiribati)"@en, "Canton and Enderbury Islands"@en, "Enderbury and Canton Islands"@en, "Enderbury and Canton Islands"@en, "Gilbert and Ellice Islands Colony"@en, "Kiritimati (Kiribati)"@en, "Christmas Island (Pacific Ocean)"@en, "Christmas Island (Pacific Ocean)"@en, "Phoenix Islands (Kiribati)"@en, "Gilbert Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/gb#location>, <http://sws.geonames.org/4030945/>, <http://dbpedia.org/resource/Kiribati>, <info:lc/vocabulary/gacs/pokb> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Kiribati> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh93007595#concept>, <http://id.loc.gov/authorities/sh85025311#concept>, <http://id.loc.gov/authorities/sh94001956#concept> ;
+  skos:note "Coded [pogn] (Gilbert and Ellice Islands) or [poln] (Line Islands) before Mar.
+        1988"@en, "Coded [pocp] (Canton and Enderbury Islands) before Mar. 1988"@en, "Coded [pogn] (Gilbert and Ellice Islands) before Mar. 1988"@en, "Coded [pocp] (Canton and Enderbury Islands) before Mar. 1988"@en, "Coded [pogn] (Gilbert and Ellice Islands) before Mar. 1988"@en ;
+  skos:notation "pokb" .

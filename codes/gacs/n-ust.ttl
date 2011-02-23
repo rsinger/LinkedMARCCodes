@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-ust#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Southwest, New"@en ;
+  skos:altLabel "Southwestern States"@en, "Sunbelt States"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-ust> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85125669#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85125686#concept>, <http://id.loc.gov/authorities/sh85130501#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-ust" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fq#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Africa, French-speaking Equatorial"@en ;
+  skos:altLabel "Chad, Lake"@en, "Africa, Equatorial"@en, "French Equatorial Africa"@en, "French-speaking Equatorial Africa"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/fq> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85001608#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85022287#concept> ;
+  skos:notation "fq" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-bg#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Bangladesh"@en ;
+  skos:altLabel "East Pakistan (Pakistan)"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/bg#location>, <http://sws.geonames.org/1210997/>, <http://dbpedia.org/resource/Bangladesh>, <info:lc/vocabulary/gacs/a-bg> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Bangladesh> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-bg" .

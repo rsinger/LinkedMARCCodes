@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-ga#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Georgia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/gau#location>, <http://sws.geonames.org/4197000/>, <http://dbpedia.org/resource/Georgia_%28U.S._state%29>, <info:lc/vocabulary/gacs/n-us-ga> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-ga" .

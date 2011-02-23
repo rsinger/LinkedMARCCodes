@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-ng#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Niger"@en ;
+  skos:altLabel "Songhai Empire"@en, "Tibesti Mountains"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/f-ng> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh2005002663#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85135214#concept> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-ng" .

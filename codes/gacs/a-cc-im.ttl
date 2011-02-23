@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-im#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Inner Mongolia (China)"@en ;
+  skos:altLabel "Mongolia (Inner Mongolia)"@en ;
+  owl:sameAs <http://sws.geonames.org/2035607/>, <info:lc/vocabulary/gacs/a-cc-im> ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-im" .

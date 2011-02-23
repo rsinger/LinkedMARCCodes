@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<poto#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Tonga"@en ;
+  skos:altLabel "Friendly Islands"@en, "Tonga Islands"@en ;
+  skos:notation "poto" .

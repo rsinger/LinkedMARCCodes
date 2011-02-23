@@ -1,0 +1,26 @@
+Linked Data MARC Codes data
+=======================
+
+This project contains the source data for http://purl.org/NET/marccodes/
+
+The files are RDF/Turtle fragments that represent the graph found at the analogous URI (e.g. codes/gacs/a-af.ttl is the data for http://purl.org/NET/marccodes/gacs/a-af).  All files in a directory share the same PREFIX.ttl, which would need to be concatenated with the graph file to make a valid turtle document.
+
+The data is being shared in github so that others can contribute links/data/etc.  It is an experiment to see how well a service like github can work for collaboratively managing datasets.
+
+To edit a resource, clone the repository, make your changes, check to make sure your change results in valid RDF (and says what you think you're saying) using a tool like rapper (http://librdf.org/raptor/rapper.html).
+
+For example:
+  $ cat ./gacs/PREFIX.ttl ./gacs/a-af.ttl | rapper -q -i turtle -o ntriples - ./
+
+should produce something that looks like:
+
+<http://purl.org/NET/marccodes/gacs/a-af#location> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://purl.org/NET/marccodes/gacs/a-af#location> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afghanistan"@en .
+<http://purl.org/NET/marccodes/gacs/a-af#location> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/1149361/> .
+<http://purl.org/NET/marccodes/gacs/a-af#location> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Afghanistan> .
+<http://purl.org/NET/marccodes/gacs/a-af#location> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/vocabulary/gacs/a-af> .
+<http://purl.org/NET/marccodes/gacs/a-af#location> <http://umbel.org/umbel#isAbout> <http://dbpedia.org/resource/Category:Afghanistan> .
+<http://purl.org/NET/marccodes/gacs/a-af#location> <http://purl.org/dc/terms/isPartOf> <http://purl.org/NET/marccodes/gacs/a#location> .
+<http://purl.org/NET/marccodes/gacs/a-af#location> <http://www.w3.org/2004/02/skos/core#notation> "a-af" .
+
+If you are satisfied with your edits, send me a pull request (http://help.github.com/pull-requests/) and, assuming the assertions are legit, I'll add them to the site.

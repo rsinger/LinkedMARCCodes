@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-ha#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Hainan Sheng (China)"@en ;
+  skos:altLabel "Hainan Island (China)"@en, "Hainan Province (China)"@en ;
+  owl:sameAs <http://sws.geonames.org/1809054/>, <info:lc/vocabulary/gacs/a-cc-ha> ;
+  skos:note "Coded [a-cc-kn] (Kwangtung Province (China)) before June 1998"@en ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-ha" .

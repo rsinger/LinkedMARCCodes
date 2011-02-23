@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zme#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Mercury (Planet)"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Mercury_%28planet%29>, <info:lc/vocabulary/gacs/zme> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85083791#concept> ;
+  skos:notation "zme" .

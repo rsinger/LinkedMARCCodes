@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<w#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Tropics"@en ;
+  skos:altLabel "Equator"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/w> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85138064#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2002000009#concept> ;
+  skos:notation "w" .

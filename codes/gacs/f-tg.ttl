@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-tg#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Togo"@en ;
+  skos:altLabel "Togoland"@en, "French Togoland"@en, "Togoland (French)"@en ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-tg" .

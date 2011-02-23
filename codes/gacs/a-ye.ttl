@@ -1,0 +1,13 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-ye#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Yemen (Republic)"@en ;
+  skos:altLabel "Aden"@en, "Aden (Protectorate)"@en, "Arabia, Southern"@en, "Federation of South Arabia"@en, "South Arabia, Federation of"@en, "South Arabia, Federation of"@en, "Socotra (Yemen)"@en, "Sokotra (Yemen)"@en, "Sokotra (Yemen)"@en, "Arab Republic of Yemen"@en, "People's Democratic Republic of Yemen"@en, "Southern Yemen"@en, "Yemen (Arab Republic)"@en, "Yemen (People's Democratic Republic)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/a-ye> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh86000427#concept>, <http://id.loc.gov/authorities/sh85124239#concept> ;
+  skos:note "Coded [a-ys] (Yemen (People's Democratic Republic) before Oct. 1992] "@en, "Coded [a-ys] (Yemen (People's Democratic Republic) before Oct. 1992"@en, "Coded [i-xo] (Socotra Island) before Mar. 1988; Coded [a-ys] (Yemen (People's
+            Democratic Republic) before Oct. 1992"@en, "Coded [a-ys] (Yemen (People's Democratic Republic) before Oct. 1992"@en, "Coded [a-ys] (Yemen (People's Democratic Republic) before Oct. 1992] "@en, "Coded [a-ys] (Yemen (People's Democratic Republic) before Oct. 1992"@en, "Coded [i-xo] (Socotra Island) before Mar. 1988; Coded [a-ys] (Yemen (People's
+            Democratic Republic) before Oct. 1992"@en, "Coded [a-ys] (Yemen (People's Democratic Republic) before Oct. 1992"@en ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-ye" .

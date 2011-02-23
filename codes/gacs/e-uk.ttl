@@ -1,0 +1,12 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-uk#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Great Britain"@en ;
+  skos:altLabel "British Isles"@en, "United Kingdom"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/xxk#location>, <http://sws.geonames.org/2635167/>, <http://dbpedia.org/resource/Great_Britain>, <info:lc/vocabulary/gacs/e-uk> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85056605#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh86003202#concept> ;
+  dcterms:isPartOf <e#location> ;
+  dcterms:hasPart <e-uk-en#location>, <e-uk-ui#location>, <e-uk-ni#location>, <e-uk-st#location>, <e-uk-wl#location> ;
+  skos:notation "e-uk" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cck#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Kunlun Mountains (China and India)"@en ;
+  skos:altLabel "Kwenlun Mountains"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/a-cck> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh00006756#concept> ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cck" .

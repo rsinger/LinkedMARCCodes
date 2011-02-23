@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-be#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Belgium"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/be#location>, <http://sws.geonames.org/2802361/>, <http://dbpedia.org/resource/Belgium>, <info:lc/vocabulary/gacs/e-be> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Belgium> ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-be" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<i-fs#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Terres australes et antarctiques françaises"@en ;
+  skos:altLabel "Kerguelen Islands"@en, "Desolation Islands"@en, "Îles Kerguélen"@en, "Desolation Islands"@en, "Îles Kerguélen"@en, "French Southern and Antarctic Lands"@en, "French Southern Indian Ocean Islands"@en, "Indian Ocean Islands, French"@en, "T.A.A.F."@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/i-fs> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85072051#concept> ;
+  dcterms:isPartOf <i#location> ;
+  skos:notation "i-fs" .

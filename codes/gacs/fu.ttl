@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Suez Canal (Egypt)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/fu> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85129633#concept> ;
+  skos:notation "fu" .

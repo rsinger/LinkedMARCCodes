@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-br#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Burma"@en ;
+  skos:altLabel "Shan States"@en, "Myanmar"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/br#location>, <http://sws.geonames.org/1327865/>, <http://dbpedia.org/resource/Burma>, <info:lc/vocabulary/gacs/a-br> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Burma> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-br" .

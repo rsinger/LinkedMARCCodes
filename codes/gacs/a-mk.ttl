@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-mk#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Oman"@en ;
+  skos:altLabel "Arabia, Southern"@en, "Muscat and Oman"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/a-mk> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh86000427#concept> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-mk" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zpl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Pluto (Planet)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/zpl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85103579#concept> ;
+  skos:notation "zpl" .

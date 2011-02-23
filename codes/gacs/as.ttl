@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<as#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Southeast Asia"@en ;
+  skos:altLabel "East Indies"@en, "Indies, East"@en, "Indies, East"@en, "Malay Archipelagon"@en, "Asia, Southeastern"@en, "Southeastern Asia"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/as> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85008627#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh86004070#concept> ;
+  skos:notation "as" .

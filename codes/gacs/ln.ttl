@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ln#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "North Atlantic Ocean"@en ;
+  skos:altLabel "Baltic Sea"@en, "Bermuda Triangle"@en, "English Channel"@en, "Fundy, Bay of"@en, "Bay of Fundy"@en, "Bay of Fundy"@en, "Georges Bank"@en, "Irish Sea"@en, "North Sea"@en, "Norwegian Sea"@en, "Skagerrak (Denmark and Norway)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/ln> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85092468#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85011368#concept>, <http://id.loc.gov/authorities/sh85013366#concept>, <http://id.loc.gov/authorities/sh85043331#concept>, <http://id.loc.gov/authorities/sh85052376#concept>, <http://id.loc.gov/authorities/sh85054208#concept>, <http://id.loc.gov/authorities/sh85068118#concept>, <http://id.loc.gov/authorities/sh85092528#concept>, <http://id.loc.gov/authorities/sh85092739#concept>, <http://id.loc.gov/authorities/sh85123089#concept> ;
+  skos:notation "ln" .

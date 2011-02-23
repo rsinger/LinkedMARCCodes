@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-kc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Guangxi Zhuangzu Zizhiqu (China)"@en ;
+  skos:altLabel "Kuang-hsi Chuang tsu tzu chih ch'ü (China)"@en, "Kwangsi Chuang Autonomous Region"@en ;
+  owl:sameAs <http://sws.geonames.org/1809867/>, <info:lc/vocabulary/gacs/a-cc-kc> ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-kc" .

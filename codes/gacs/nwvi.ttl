@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwvi#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Virgin Islands of the United States"@en ;
+  skos:altLabel "Virgin Islands"@en, "Virgin Islands (American)"@en, "Virgin Islands (Danish)"@en ;
+  skos:note "Coded [nwvr] (Virgin Islands) before Mar. 1988"@en, "Coded [nwvr] (Virgin Islands) before Mar. 1988"@en ;
+  skos:notation "nwvi" .

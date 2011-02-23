@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ar#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Arabian Peninsula"@en ;
+  skos:altLabel "Persian Gulf States"@en, "Arabia"@en ;
+  owl:sameAs <http://sws.geonames.org/78272/>, <http://dbpedia.org/resource/Arabian_Peninsula>, <info:lc/vocabulary/gacs/ar> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85006293#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85100068#concept> ;
+  skos:notation "ar" .

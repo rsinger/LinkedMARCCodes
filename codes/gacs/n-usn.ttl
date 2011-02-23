@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-usn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "New England"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-usn> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85091260#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-usn" .

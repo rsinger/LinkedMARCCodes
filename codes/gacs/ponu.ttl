@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ponu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Nauru"@en ;
+  skos:altLabel "Pleasant Island"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/nu#location>, <http://sws.geonames.org/2110425/>, <http://dbpedia.org/resource/Nauru>, <info:lc/vocabulary/gacs/ponu> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Nauru> ;
+  skos:notation "ponu" .

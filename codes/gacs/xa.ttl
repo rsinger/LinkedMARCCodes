@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xa#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Eastern Hemisphere"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Eastern_Hemisphere>, <info:lc/vocabulary/gacs/xa> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85040608#concept> ;
+  skos:notation "xa" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-me#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Maine"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/meu#location>, <http://sws.geonames.org/4971068/>, <http://dbpedia.org/resource/Maine>, <info:lc/vocabulary/gacs/n-us-me> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Maine> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-me" .

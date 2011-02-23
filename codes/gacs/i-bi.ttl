@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<i-bi#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "British Indian Ocean Territory"@en ;
+  skos:altLabel "Diego Garcia (British Indian Ocean Territory)"@en, "Chagos Islands"@en, "Indian Ocean Territory, British"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/bi#location>, <http://sws.geonames.org/1282588/>, <http://dbpedia.org/resource/British_Indian_Ocean_Territory>, <info:lc/vocabulary/gacs/i-bi> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:British_Indian_Ocean_Territory> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85037775#concept> ;
+  dcterms:isPartOf <i#location> ;
+  skos:notation "i-bi" .

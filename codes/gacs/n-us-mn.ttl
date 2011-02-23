@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-mn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Minnesota"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/mnu#location>, <http://sws.geonames.org/5037779/>, <http://dbpedia.org/resource/Minnesota>, <info:lc/vocabulary/gacs/n-us-mn> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Minnesota> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-mn" .

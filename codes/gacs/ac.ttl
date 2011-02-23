@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ac#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Asia, Central"@en ;
+  skos:altLabel "Central Asia"@en, "Soviet Central Asia"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Central_Asia>, <info:lc/vocabulary/gacs/ac> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85008625#concept>, <http://dbpedia.org/resource/Category:Central_Asia> ;
+  skos:notation "ac" .

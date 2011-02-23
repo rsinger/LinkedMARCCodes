@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<u-at#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Australia"@en ;
+  skos:altLabel "Norfolk Island"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/at#location>, <http://sws.geonames.org/2077456/>, <http://dbpedia.org/resource/Australia>, <info:lc/vocabulary/gacs/u-at> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Australia> ;
+  dcterms:isPartOf <u#location> ;
+  dcterms:hasPart <u-at-ac#location>, <u-atc#location>, <u-ate#location>, <u-at-ne#location>, <u-atn#location>, <u-at-no#location>, <u-at-qn#location>, <u-at-sa#location>, <u-at-tm#location>, <u-at-vi#location>, <u-at-we#location> ;
+  skos:notation "u-at" .

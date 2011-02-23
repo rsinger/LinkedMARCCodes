@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ah#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Himalaya Mountains"@en ;
+  owl:sameAs <http://sws.geonames.org/1252558/>, <http://dbpedia.org/resource/Himalaya_mountains>, <info:lc/vocabulary/gacs/ah> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85060851#concept> ;
+  skos:notation "ah" .

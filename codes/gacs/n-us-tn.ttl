@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-tn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Tennessee"@en ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-tn" .

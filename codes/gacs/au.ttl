@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<au#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Arabian Sea"@en ;
+  skos:altLabel "Oman, Gulf of"@en, "Gulf of Oman"@en, "Gulf of Oman"@en ;
+  owl:sameAs <http://sws.geonames.org/1158455/>, <http://dbpedia.org/resource/Arabian_Sea>, <info:lc/vocabulary/gacs/au> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85006295#concept>, <http://dbpedia.org/resource/Category:Arabian_Sea> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85094673#concept> ;
+  skos:notation "au" .

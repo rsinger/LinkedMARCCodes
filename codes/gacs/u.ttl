@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<u#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Australasia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/regions/9#location>, <http://dbpedia.org/resource/Australasia>, <info:lc/vocabulary/gacs/u> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85009573#concept>, <http://dbpedia.org/resource/Category:Australasia> ;
+  dcterms:hasPart <u-ac#location>, <u-at#location>, <u-cs#location>, <u-nz#location> ;
+  skos:notation "u" .

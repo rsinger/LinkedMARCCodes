@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<u-at-no#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Northern Territory"@en ;
+  skos:altLabel "Carpentaria, Gulf of (N.T. and Qld.)"@en, "Gulf of Carpentaria (N.T. and Qld.)"@en, "Gulf of Carpentaria (N.T. and Qld.)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/u-at-no> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh92006777#concept> ;
+  skos:note "Coded [ps] (South Pacific Ocean) before June 1998"@en, "Coded [ps] (South Pacific Ocean) before June 1998"@en ;
+  dcterms:isPartOf <u-at#location> ;
+  skos:notation "u-at-no" .

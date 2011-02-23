@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-cs#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Czechoslovakia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/xr#location>, <http://purl.org/NET/marccodes/countries/xo#location>, <http://dbpedia.org/resource/Czechoslovakia>, <info:lc/vocabulary/gacs/e-cs> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Czechoslovakia> ;
+  skos:note "Includes the Czech Republic and Slovakia treated collectively"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-cs" .

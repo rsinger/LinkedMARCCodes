@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nccz#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Canal Zone"@en ;
+  skos:altLabel "Panama Canal Zone"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/pn#location>, <http://dbpedia.org/resource/Panama_Canal_Zone>, <info:lc/vocabulary/gacs/nccz> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Panama_Canal_Zone> ;
+  skos:notation "nccz" .

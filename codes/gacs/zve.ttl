@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zve#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Venus (Planet)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/zve> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85142768#concept> ;
+  skos:notation "zve" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-use#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Northeastern States"@en ;
+  skos:altLabel "Northeast (U.S.)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-use> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85092541#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-use" .

@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-cn-qu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Québec (Province)"@en ;
+  dcterms:isPartOf <n-cn#location> ;
+  skos:notation "n-cn-qu" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwvb#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "British Virgin Islands"@en ;
+  skos:altLabel "Virgin Islands"@en, "Virgin Islands, British"@en, "Virgin Islands (Great Britain)"@en, "Virgin Islands (Presidency)"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/vb#location>, <http://sws.geonames.org/3577718/>, <http://dbpedia.org/resource/British_Virgin_Islands>, <info:lc/vocabulary/gacs/nwvb> ;
+  skos:note "Coded [nwvr] (Virgin Islands) before Mar. 1988"@en, "Coded [nwvr] (Virgin Islands) before Mar. 1988"@en ;
+  skos:notation "nwvb" .

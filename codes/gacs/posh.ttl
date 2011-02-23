@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<posh#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Samoan Islands"@en ;
+  skos:altLabel "Samoa (Islands)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/posh> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85117033#concept> ;
+  skos:notation "posh" .

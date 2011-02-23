@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-bu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Bulgaria"@en ;
+  skos:altLabel "Macedonia"@en, "Macedonia (Bulgaria)"@en, "People's Republic of Bulgaria"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/bu#location>, <http://sws.geonames.org/732800/>, <http://dbpedia.org/resource/Bulgaria>, <info:lc/vocabulary/gacs/e-bu> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Bulgaria> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85079266#concept>, <http://id.loc.gov/authorities/sh91000353#concept> ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-bu" .

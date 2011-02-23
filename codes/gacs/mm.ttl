@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mm#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Mediterranean Sea"@en ;
+  skos:altLabel "Adriatic Sea"@en, "Gibraltar, Strait of"@en, "Strait of Gibraltar"@en, "Strait of Gibraltar"@en, "Islands of the Mediterranean"@en ;
+  owl:sameAs <http://sws.geonames.org/363196/>, <http://dbpedia.org/resource/Mediterranean_Sea>, <info:lc/vocabulary/gacs/mm> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85083236#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85001020#concept>, <http://id.loc.gov/authorities/sh85054865#concept>, <http://id.loc.gov/authorities/sh94001272#concept> ;
+  skos:notation "mm" .

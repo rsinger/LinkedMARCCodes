@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lnfa#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Faroe Islands"@en ;
+  skos:altLabel "Faeroe Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/fa#location>, <http://sws.geonames.org/2622320/>, <http://dbpedia.org/resource/Faroe_Islands>, <info:lc/vocabulary/gacs/lnfa> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Faroe_Islands> ;
+  skos:notation "lnfa" .

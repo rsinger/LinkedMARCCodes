@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Red Sea"@en ;
+  skos:altLabel "Aden, Gulf of"@en, "Gulf of Aden"@en, "Gulf of Aden"@en, "Aqaba, Gulf of"@en, "Gulf of Aqaba"@en, "Gulf of Aqaba"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/mr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85112090#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85000832#concept>, <http://id.loc.gov/authorities/sh85006208#concept> ;
+  skos:notation "mr" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ls#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "South Atlantic Ocean"@en ;
+  skos:altLabel "Guinea, Gulf of"@en, "Gulf of Guinea"@en, "Gulf of Guinea"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/ls> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85125546#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85057776#concept> ;
+  skos:notation "ls" .

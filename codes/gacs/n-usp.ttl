@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-usp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "West (U.S.)"@en ;
+  skos:altLabel "Colorado River (Colo.-Mexico)"@en, "Great Basin"@en, "Northwest, Pacific"@en, "Northwest (U.S.)"@en, "Pacific Northwest"@en, "Northwest (U.S.)"@en, "Pacific Northwest"@en, "Northwestern States"@en, "Far West (U.S.)"@en, "Pacific and Mountain States"@en, "Western States (U.S.)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-usp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85146140#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85028687#concept>, <http://id.loc.gov/authorities/sh85056601#concept>, <http://id.loc.gov/authorities/sh85092604#concept>, <http://id.loc.gov/authorities/sh85092620#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-usp" .

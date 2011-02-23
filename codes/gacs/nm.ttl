@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nm#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Mexico, Gulf of"@en ;
+  skos:altLabel "Gulf of Mexico"@en ;
+  owl:sameAs <http://sws.geonames.org/3523271/>, <http://dbpedia.org/resource/Gulf_of_Mexico>, <info:lc/vocabulary/gacs/nm> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85084621#concept>, <http://dbpedia.org/resource/Category:Gulf_of_Mexico> ;
+  skos:notation "nm" .

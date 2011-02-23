@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-np#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Nepal"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/np#location>, <http://sws.geonames.org/1282988/>, <http://dbpedia.org/resource/Nepal>, <info:lc/vocabulary/gacs/a-np> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Nepal> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-np" .

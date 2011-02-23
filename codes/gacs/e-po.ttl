@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-po#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Portugal"@en ;
+  skos:altLabel "Iberian Peninsula"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-po> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2005005381#concept> ;
+  skos:note "Coded [ei] (Iberian Peninsula) before Mar. 1988"@en, "Coded [ei] (Iberian Peninsula) before Mar. 1988"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-po" .

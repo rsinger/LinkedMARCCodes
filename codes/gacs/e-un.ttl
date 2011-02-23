@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-un#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Ukraine"@en ;
+  skos:altLabel "Kievan Rus"@en ;
+  skos:note "Coded [e-ur-un] (Ukraine) before June 1998"@en, "Coded [e-ur] (Soviet Union) before June 1998"@en, "Coded [e-ur] (Soviet Union) before June 1998"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-un" .

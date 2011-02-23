@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fg#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Congo River"@en ;
+  owl:sameAs <http://sws.geonames.org/2241717/>, <http://dbpedia.org/resource/Congo_River>, <info:lc/vocabulary/gacs/fg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85031104#concept>, <http://dbpedia.org/resource/Category:Congo_River> ;
+  skos:notation "fg" .

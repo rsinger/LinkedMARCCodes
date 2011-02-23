@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<i-my#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Mayotte"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ot#location>, <http://dbpedia.org/resource/Mayotte>, <info:lc/vocabulary/gacs/i-my> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Mayotte> ;
+  skos:note "Coded [i-cq] (Comoros) before Mar. 1988"@en ;
+  dcterms:isPartOf <i#location> ;
+  skos:notation "i-my" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-lv#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Latvia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/lv#location>, <http://sws.geonames.org/458258/>, <http://dbpedia.org/resource/Latvia>, <info:lc/vocabulary/gacs/e-lv> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Latvia> ;
+  skos:note "Coded [e-ur-lv] (Latvia) before June 1998"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-lv" .

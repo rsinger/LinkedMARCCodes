@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "North America"@en ;
+  skos:altLabel "America"@en, "New France"@en, "Pacific Coast (North America)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85092455#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85004220#concept>, <http://id.loc.gov/authorities/sh85096460#concept> ;
+  dcterms:hasPart <n-cn#location>, <n-gl#location>, <n-mx#location>, <n-xl#location>, <n-us#location> ;
+  skos:notation "n" .

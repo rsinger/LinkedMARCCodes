@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-ru#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Russia (Federation)"@en ;
+  skos:altLabel "Kievan Rus"@en, "Chishima-retto (Russia)"@en, "Kurile Islands (Russia)"@en, "Kuril'skie ostrova (Russia)"@en, "Non-Chernozem Region (Russia)"@en, "Non-Black Earth Region (Russia)"@en, "Non-Black Earth Region (Russia)"@en, "Russia, Northern"@en, "Northern Russia"@en, "Northern Soviet Union"@en, "Soviet Union, Northern"@en, "Northern Russia"@en, "Northern Soviet Union"@en, "Soviet Union, Northern"@en, "Sakha (Russia)"@en, "Àkutskaíà A.S.S.R. (Russia)"@en, "Yakutia (Russia)"@en, "Àkutskaíà A.S.S.R. (Russia)"@en, "Yakutia (Russia)"@en, "Volgo-Viatskii Region (Russia)"@en, "R.S.F.S.R."@en, "Russian Republic"@en, "Russian S.F.S.R."@en, "Russian Soviet Federated Socialist Republic"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-ru> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh86003236#concept>, <http://id.loc.gov/authorities/sh85125865#concept> ;
+  skos:note "Coded [e-ur-ru] (Russia (Federation)) before June 1998"@en, "Coded [e-ur] (Soviet Union) before June 1998"@en, "Coded [e-ur-ru] (Russia Federation) before June 1998"@en, "Coded [e-ur-ru] (Russia Federation) before June 1998"@en, "Coded [e-ur-ru] (Russia (Federation)) before June 1998"@en, "Coded [e-urv] (Volgo-Viatskii Region, RSFSR) before Mar. 1988"@en, "Coded [e-ur] (Soviet Union) before June 1998"@en, "Coded [e-ur-ru] (Russia Federation) before June 1998"@en, "Coded [e-ur-ru] (Russia (Federation)) before June 1998"@en, "Coded [e-urv] (Volgo-Viatskii Region, RSFSR) before Mar. 1988"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-ru" .

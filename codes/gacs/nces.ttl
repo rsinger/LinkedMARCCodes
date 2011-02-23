@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nces#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "El Salvador"@en ;
+  skos:altLabel "Salvador"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/es#location>, <http://sws.geonames.org/3585968/>, <http://dbpedia.org/resource/El_Salvador>, <info:lc/vocabulary/gacs/nces> ;
+  skos:notation "nces" .

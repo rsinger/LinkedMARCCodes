@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-uv#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Burkina Faso"@en ;
+  skos:altLabel "Upper Volta"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/uv#location>, <http://sws.geonames.org/2361809/>, <http://dbpedia.org/resource/Burkina_Faso>, <info:lc/vocabulary/gacs/f-uv> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-uv" .

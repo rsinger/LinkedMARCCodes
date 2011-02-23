@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pocw#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Cook Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/cw#location>, <http://sws.geonames.org/1899402/>, <http://dbpedia.org/resource/Cook_Islands>, <info:lc/vocabulary/gacs/pocw> ;
+  skos:notation "pocw" .

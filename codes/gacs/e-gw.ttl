@@ -1,0 +1,12 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-gw#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Germany (West)"@en ;
+  skos:altLabel "Federal German Republic"@en, "German Federal Republic"@en, "Germany, Western"@en, "West Germany"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/gw#location>, <http://dbpedia.org/resource/West_Germany>, <info:lc/vocabulary/gacs/e-gw> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:West_Germany> ;
+  skos:note "For the western part of Germany before 1949 or after 1990 and for the Federal Republic
+          of Germany between 1949-1990"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-gw" .

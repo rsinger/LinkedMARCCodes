@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-jo#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Jordan"@en ;
+  skos:altLabel "Transjordan"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/jo#location>, <http://sws.geonames.org/248816/>, <http://dbpedia.org/resource/Jordan>, <info:lc/vocabulary/gacs/a-jo> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Jordan> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-jo" .

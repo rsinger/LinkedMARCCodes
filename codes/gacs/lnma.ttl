@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lnma#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Madeira Islands"@en ;
+  skos:altLabel "Selvagens Islands (Madeira Islands)"@en, "Salvage Islands (Madeira Islands)"@en, "Salvages (Madeira Islands)"@en, "Salvage Islands (Madeira Islands)"@en, "Salvages (Madeira Islands)"@en ;
+  owl:sameAs <http://sws.geonames.org/2266877/>, <info:lc/vocabulary/gacs/lnma> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Madeira_Islands> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85119860#concept> ;
+  skos:notation "lnma" .

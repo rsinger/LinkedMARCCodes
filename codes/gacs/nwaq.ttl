@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwaq#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Antigua and Barbuda"@en ;
+  skos:altLabel "Antigua"@en, "Barbuda"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/aq#location>, <http://sws.geonames.org/3576396/>, <http://dbpedia.org/resource/Antigua_and_Barbuda>, <info:lc/vocabulary/gacs/nwaq> ;
+  skos:note "Coded [nwbc] (Barbuda) before Mar. 1988"@en, "Coded [nwbc] (Barbuda) before Mar. 1988"@en ;
+  skos:notation "nwaq" .

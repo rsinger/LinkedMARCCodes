@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-tk#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Turkmenistan"@en ;
+  skos:altLabel "Turkmen S.S.R."@en ;
+  skos:note "Coded [e-ur-tk] (Turkmenistan) before June 1998"@en ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-tk" .

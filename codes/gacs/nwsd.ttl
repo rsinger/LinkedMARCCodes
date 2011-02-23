@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwsd#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Saba (Netherlands Antilles)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/nwsd> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85116169#concept> ;
+  skos:notation "nwsd" .

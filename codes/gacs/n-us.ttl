@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "United States"@en ;
+  skos:altLabel "Atlantic Coast (U.S.)"@en, "Atlantic States"@en, "Saint Lawrence River"@en, "Snowbelt States"@en, "Frostbelt (U.S.)"@en, "Frostbelt (U.S.)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-us> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85009190#concept>, <http://id.loc.gov/authorities/sh85009208#concept>, <http://id.loc.gov/authorities/sh85116587#concept>, <http://id.loc.gov/authorities/sh87006078#concept> ;
+  dcterms:isPartOf <n#location> ;
+  dcterms:hasPart <n-us-al#location>, <n-us-ak#location>, <n-usa#location>, <n-us-az#location>, <n-us-ar#location>, <n-us-ca#location>, <n-us-co#location>, <n-us-ct#location>, <n-us-de#location>, <n-usr#location>, <n-us-ga#location>, <n-us-hi#location>, <n-us-id#location>, <n-us-il#location>, <n-us-in#location>, <n-us-ia#location>, <n-us-ks#location>, <n-us-ky#location>, <n-us-la#location>, <n-us-me#location>, <n-us-md#location>, <n-us-m#location>, <n-us-mi#location>, <n-usl#location>, <n-usc#location>, <n-us-mn#location>, <n-us-ms#location>, <n-usm#location>, <n-us-mo#location>, <n-uss#location>, <n-us-mt#location>, <n-us-nb#location>, <n-us-nv#location>, <n-usn#location>, <n-us-nh#location>, <n-us-nj#location>, <n-us-nm#location>, <n-us-ny#location>, <n-us-nc#location>, <n-us-nd#location>, <n-use#location>, <n-us-oh#location>, <n-uso#location>, <n-us-ok#location>, <n-us-or#location>, <n-us-pa#location>, <n-us-ri#location>, <n-us-sc#location>, <n-us-sd#location>, <n-usu#location>, <n-ust#location>, <n-us-tn#location>, <n-us-tx#location>, <n-us-ut#location>, <n-us-vt#location>, <n-us-va#location>, <n-us-dc#location>, <n-us-wa#location>, <n-usp#location>, <n-us-wv#location>, <n-us-wi#location>, <n-us-wy#location> ;
+  skos:notation "n-us" .

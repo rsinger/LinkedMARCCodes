@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fi#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Niger River"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/fi> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85091852#concept> ;
+  skos:notation "fi" .

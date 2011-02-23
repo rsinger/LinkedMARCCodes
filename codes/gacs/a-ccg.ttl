@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-ccg#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Yangtze River (China)"@en ;
+  skos:altLabel "Chang Chiang (China)"@en, "Long River (China)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/a-ccg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85148991#concept> ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-ccg" .

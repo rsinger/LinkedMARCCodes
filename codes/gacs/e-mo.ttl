@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-mo#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Montenegro"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/mo#location>, <http://sws.geonames.org/3194884/>, <http://dbpedia.org/resource/Montenegro>, <info:lc/vocabulary/gacs/e-mo> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Montenegro> ;
+  skos:note "Coded [e-yu] (Yugoslavia) before April 2007"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-mo" .

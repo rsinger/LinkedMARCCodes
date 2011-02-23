@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-xl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Saint Pierre and Miquelon"@en ;
+  skos:altLabel "Miquelon"@en, "Iles Saint-Pierre et Miquelon"@en, "St. Pierre and Miquelon"@en ;
+  dcterms:isPartOf <n#location> ;
+  skos:notation "n-xl" .

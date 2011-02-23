@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-ccy#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Yellow River (China)"@en ;
+  skos:altLabel "Hoang Ho (China)"@en, "Huang Ho (China)"@en, "Hwang Ho (China)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/a-ccy> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85149104#concept> ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-ccy" .

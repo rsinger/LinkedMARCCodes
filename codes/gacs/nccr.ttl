@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nccr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Costa Rica"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/cr#location>, <http://sws.geonames.org/3624060/>, <http://dbpedia.org/resource/Costa_Rica>, <info:lc/vocabulary/gacs/nccr> ;
+  skos:notation "nccr" .

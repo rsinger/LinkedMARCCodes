@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fd#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Sahara"@en ;
+  skos:altLabel "Sahara Desert"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/fd> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85116501#concept> ;
+  skos:notation "fd" .

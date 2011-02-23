@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ps#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "South Pacific Ocean"@en ;
+  skos:altLabel "Arafura Sea"@en, "Pacific Ocean, South"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/ps> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh86006003#concept> ;
+  skos:notation "ps" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-tu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Turkey"@en ;
+  skos:altLabel "Aegean Islands (Greece and Turkey)"@en, "Islands of the Aegean"@en, "Islands of the Aegean"@en, "Aegean Sea"@en, "Armenia"@en, "Asia Minor"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/a-tu> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85001233#concept>, <http://id.loc.gov/authorities/sh85001234#concept> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-tu" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<r#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Arctic regions"@en ;
+  skos:altLabel "Polar regions"@en, "Northeast Passage"@en, "Northwest Passage"@en, "North Pole"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/r> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85006955#concept>, <http://dbpedia.org/resource/Category:Regions_of_the_Arctic> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85104136#concept>, <http://id.loc.gov/authorities/sh85092540#concept>, <http://id.loc.gov/authorities/sh85092611#concept> ;
+  skos:notation "r" .

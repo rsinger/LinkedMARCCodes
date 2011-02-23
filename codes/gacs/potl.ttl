@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<potl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Tokelau"@en ;
+  skos:altLabel "Union Islands"@en ;
+  skos:notation "potl" .

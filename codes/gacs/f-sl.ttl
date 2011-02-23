@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-sl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Sierra Leone"@en ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-sl" .

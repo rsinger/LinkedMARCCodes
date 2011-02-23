@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ec#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Europe, Central"@en ;
+  skos:altLabel "Central Europe"@en, "Europe, East Central"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Central_Europe>, <info:lc/vocabulary/gacs/ec> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85021901#concept>, <http://dbpedia.org/resource/Category:Central_Europe> ;
+  skos:note "Coded [et] (Europe, East Central) before Mar. 1988"@en, "Coded [et] (Europe, East Central) before Mar. 1988"@en ;
+  skos:notation "ec" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-lb#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Liberia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/lb#location>, <http://sws.geonames.org/2275384/>, <http://dbpedia.org/resource/Liberia>, <info:lc/vocabulary/gacs/f-lb> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Liberia> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-lb" .

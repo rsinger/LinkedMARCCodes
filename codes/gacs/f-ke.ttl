@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-ke#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Kenya"@en ;
+  skos:altLabel "East Africa Protectorate"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ke#location>, <http://sws.geonames.org/192950/>, <http://dbpedia.org/resource/Kenya>, <info:lc/vocabulary/gacs/f-ke> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Kenya> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-ke" .

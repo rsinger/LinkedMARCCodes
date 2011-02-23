@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwsv#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Swan Islands (Honduras)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/nwsv> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh97005334#concept> ;
+  skos:notation "nwsv" .

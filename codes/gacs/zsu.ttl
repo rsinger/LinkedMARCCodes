@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zsu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Sun"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/zsu> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85130462#concept> ;
+  skos:notation "zsu" .

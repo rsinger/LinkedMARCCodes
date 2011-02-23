@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ab#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Bengal, Bay of"@en ;
+  skos:altLabel "Bay of Bengal"@en ;
+  owl:sameAs <http://sws.geonames.org/1281789/>, <http://dbpedia.org/resource/Bay_of_Bengal>, <info:lc/vocabulary/gacs/ab> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85013142#concept>, <http://dbpedia.org/resource/Category:Bay_of_Bengal> ;
+  skos:notation "ab" .

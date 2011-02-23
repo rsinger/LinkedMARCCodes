@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ai#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Indochina"@en ;
+  skos:altLabel "French Indochina"@en ;
+  owl:sameAs <http://sws.geonames.org/1579995/>, <http://dbpedia.org/resource/Indochina>, <info:lc/vocabulary/gacs/ai> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85065716#concept> ;
+  skos:notation "ai" .

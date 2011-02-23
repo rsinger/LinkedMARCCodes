@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwxa#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Anguilla"@en ;
+  skos:altLabel "Saint Kitts-Nevis-Anguilla"@en, "St. Christopher-Nevis-Anguilla"@en, "St. Christopher-Nevis-Anguilla"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/am#location>, <http://sws.geonames.org/3573511/>, <http://dbpedia.org/resource/Anguilla>, <info:lc/vocabulary/gacs/nwxa> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Anguilla> ;
+  skos:note "Coded [nwxi] (Saint Kitts and Nevis) before Mar. 1988"@en ;
+  skos:notation "nwxa" .

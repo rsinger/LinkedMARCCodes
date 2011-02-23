@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zne#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Neptune (Planet)"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Neptune>, <info:lc/vocabulary/gacs/zne> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85090874#concept> ;
+  skos:notation "zne" .

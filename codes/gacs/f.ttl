@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Africa"@en ;
+  skos:altLabel "Islamic countries"@en, "Sahel"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/regions/4#location>, <http://sws.geonames.org/6255146/>, <http://dbpedia.org/resource/Africa>, <info:lc/vocabulary/gacs/f> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85001531#concept>, <http://dbpedia.org/resource/Category:Africa> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85068436#concept>, <http://id.loc.gov/authorities/sh85116502#concept> ;
+  dcterms:hasPart <f-ae#location>, <f-ao#location>, <f-dm#location>, <f-bs#location>, <f-uv#location>, <f-bd#location>, <f-cm#location>, <f-cx#location>, <f-cd#location>, <f-cf#location>, <f-cg#location>, <f-iv#location>, <f-ft#location>, <f-ua#location>, <f-eg#location>, <f-ea#location>, <f-et#location>, <f-go#location>, <f-gm#location>, <f-gh#location>, <f-gv#location>, <f-pg#location>, <f-ke#location>, <f-lo#location>, <f-lb#location>, <f-ly#location>, <f-mg#location>, <f-mw#location>, <f-ml#location>, <f-mu#location>, <f-mr#location>, <f-mz#location>, <f-sx#location>, <f-ng#location>, <f-nr#location>, <f-rw#location>, <f-sf#location>, <f-sg#location>, <f-sl#location>, <f-so#location>, <f-sa#location>, <f-sh#location>, <f-sj#location>, <f-sq#location>, <f-tz#location>, <f-tg#location>, <f-ti#location>, <f-ug#location>, <f-ss#location>, <f-za#location>, <f-rh#location> ;
+  skos:notation "f" .

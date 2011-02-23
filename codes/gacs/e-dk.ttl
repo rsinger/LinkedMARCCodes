@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-dk#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Denmark"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/dk#location>, <http://sws.geonames.org/2623032/>, <http://dbpedia.org/resource/Denmark>, <info:lc/vocabulary/gacs/e-dk> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Denmark> ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-dk" .

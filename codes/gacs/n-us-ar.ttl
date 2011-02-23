@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-ar#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Arkansas"@en ;
+  skos:altLabel "Ozark Mountains"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/aru#location>, <http://sws.geonames.org/4099753/>, <http://dbpedia.org/resource/Arkansas>, <info:lc/vocabulary/gacs/n-us-ar> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Arkansas> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85096385#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-ar" .

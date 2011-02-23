@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<en#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Europe, Northern"@en ;
+  skos:altLabel "Northern Europe"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Northern_Europe>, <info:lc/vocabulary/gacs/en> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85045778#concept>, <http://dbpedia.org/resource/Category:Northern_Europe> ;
+  skos:notation "en" .

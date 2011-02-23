@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-in#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Indiana"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/inu#location>, <http://sws.geonames.org/4921868/>, <http://dbpedia.org/resource/Indiana>, <info:lc/vocabulary/gacs/n-us-in> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Indiana> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-in" .

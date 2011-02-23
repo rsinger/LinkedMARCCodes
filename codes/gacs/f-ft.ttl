@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-ft#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Djibouti"@en ;
+  skos:altLabel "Afars and Issas, French Territory of the"@en, "French Somaliland"@en, "French Territory of the Afars and Issas"@en, "Somaliland, French"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ft#location>, <http://sws.geonames.org/223816/>, <http://dbpedia.org/resource/Djibouti>, <info:lc/vocabulary/gacs/f-ft> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Djibouti> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-ft" .

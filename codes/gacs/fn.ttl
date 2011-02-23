@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Sudan (Region)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/fn> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh86000769#concept> ;
+  skos:notation "fn" .

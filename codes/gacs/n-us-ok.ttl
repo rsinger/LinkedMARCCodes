@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-ok#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Oklahoma"@en ;
+  skos:altLabel "Indian Territory"@en, "Ozark Mountains"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-us-ok> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85096385#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-ok" .

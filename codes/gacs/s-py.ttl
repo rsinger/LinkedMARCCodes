@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<s-py#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Paraguay"@en ;
+  dcterms:isPartOf <s#location> ;
+  skos:notation "s-py" .

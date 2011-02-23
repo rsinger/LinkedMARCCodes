@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Lake States"@en ;
+  skos:altLabel "Great Lakes States"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/nl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85074022#concept> ;
+  skos:notation "nl" .

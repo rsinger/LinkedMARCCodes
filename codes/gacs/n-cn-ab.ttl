@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-cn-ab#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Alberta"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/abc#location>, <http://sws.geonames.org/5883102/>, <http://dbpedia.org/resource/Alberta>, <info:lc/vocabulary/gacs/n-cn-ab> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Alberta> ;
+  dcterms:isPartOf <n-cn#location> ;
+  skos:notation "n-cn-ab" .

@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-io#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Indonesia"@en ;
+  skos:altLabel "Celebes (Indonesia)"@en, "Sulawesi (Indonesia)"@en, "Sulawesi (Indonesia)"@en, "Java (Indonesia)"@en, "Kalimantan Barat (Indonesia)"@en, "Lesser Sunda Islands (Indonesia and East Timor)"@en, "Madura Island (Indonesia)"@en, "Maluku (Indonesia)"@en, "Moluccas (Indonesia)"@en, "Moluccas (Indonesia)"@en, "Papua (Indonesia)"@en, "Irian Barat (Indonesia)"@en, "Irian Jaya (Indonesia)"@en, "West Irian"@en, "West New Guinea"@en, "Irian Barat (Indonesia)"@en, "Irian Jaya (Indonesia)"@en, "West Irian"@en, "West New Guinea"@en, "Sunda Islands, Lesser (Indonesia and East Timor)"@en, "Sumatra (Indonesia)"@en, "Timor Island"@en, "Dutch East Indies"@en, "Netherlands East Indies"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/io#location>, <http://sws.geonames.org/1643084/>, <http://dbpedia.org/resource/Indonesia>, <info:lc/vocabulary/gacs/a-io> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Indonesia> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85021616#concept>, <http://id.loc.gov/authorities/sh85069786#concept>, <http://id.loc.gov/authorities/sh85079554#concept>, <http://id.loc.gov/authorities/sh85130407#concept>, <http://id.loc.gov/authorities/sh85135462#concept> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-io" .

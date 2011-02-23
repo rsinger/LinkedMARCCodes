@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ak#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Caspian Sea"@en ;
+  owl:sameAs <http://sws.geonames.org/630671/>, <http://dbpedia.org/resource/Caspian_Sea>, <info:lc/vocabulary/gacs/ak> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85020611#concept>, <http://dbpedia.org/resource/Category:Caspian_Sea> ;
+  skos:notation "ak" .

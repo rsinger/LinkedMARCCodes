@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ep#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Pyrenees"@en ;
+  skos:altLabel "Pirineos"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/ep> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85109312#concept> ;
+  skos:notation "ep" .

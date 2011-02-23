@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-th#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Thailand"@en ;
+  skos:altLabel "Malay Peninsula"@en, "Siam"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/a-th> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85080074#concept> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-th" .

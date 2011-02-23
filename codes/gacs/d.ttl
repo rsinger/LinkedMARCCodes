@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<d#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Developing countries"@en ;
+  skos:altLabel "Emerging nations"@en, "Third World"@en, "Underdeveloped areas"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/d> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85037341#concept> ;
+  skos:notation "d" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<u-ate#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Eastern Australia"@en ;
+  skos:altLabel "Australia, Eastern"@en ;
+  skos:note "Coded [u-at] (Australia) before September 2005"@en ;
+  dcterms:isPartOf <u-at#location> ;
+  skos:notation "u-ate" .

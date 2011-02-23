@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<powk#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Wake Island"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/powk> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh91003697#concept> ;
+  skos:notation "powk" .

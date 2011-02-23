@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-kg#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Kyrgyzstan"@en ;
+  skos:altLabel "Kirghiz S.S.R."@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/kg#location>, <http://sws.geonames.org/1527747/>, <http://dbpedia.org/resource/Kyrgyzstan>, <info:lc/vocabulary/gacs/a-kg> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Kyrgyzstan> ;
+  skos:note "Coded [e-ur-kg] (Kyrgystan) before June 1998"@en ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-kg" .

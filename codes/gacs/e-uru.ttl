@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-uru#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Ural Mountains (Russia)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-uru> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85141266#concept> ;
+  dcterms:isPartOf <e-ur#location> ;
+  skos:notation "e-uru" .

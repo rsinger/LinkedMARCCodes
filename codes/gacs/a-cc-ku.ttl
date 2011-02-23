@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-ku#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Jiangsu Sheng (China)"@en ;
+  skos:altLabel "Kiangsu Province (China)"@en ;
+  owl:sameAs <http://sws.geonames.org/1806260/>, <info:lc/vocabulary/gacs/a-cc-ku> ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-ku" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwgp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Guadeloupe"@en ;
+  skos:altLabel "Marie-Galante (Guadeloupe)"@en, "Saint-Barthélemy"@en, "Saint Bartholomew"@en, "Saint Barts"@en, "St. Barthélémy"@en, "Saint Bartholomew"@en, "Saint Barts"@en, "St. Barthélémy"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/gp#location>, <http://sws.geonames.org/3579143/>, <http://dbpedia.org/resource/Guadeloupe>, <info:lc/vocabulary/gacs/nwgp> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Guadeloupe> ;
+  skos:note "Coded [nwsb] (Saint-Barthelemy) before Mar. 1988"@en, "Coded [nwsb] (Saint-Barthelemy) before Mar. 1988"@en ;
+  skos:notation "nwgp" .

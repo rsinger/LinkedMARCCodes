@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<s-bl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Brazil"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/bl#location>, <http://sws.geonames.org/3469034/>, <http://dbpedia.org/resource/Brazil>, <info:lc/vocabulary/gacs/s-bl> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Brazil> ;
+  dcterms:isPartOf <s#location> ;
+  skos:notation "s-bl" .

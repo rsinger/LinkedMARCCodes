@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-xo#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Slovakia"@en ;
+  skos:altLabel "Slovak Socialist Republic (Czechoslovakia)"@en ;
+  skos:note "Coded [e-cs] (Czechoslovakia) before May 1993"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-xo" .

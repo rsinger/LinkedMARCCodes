@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-tz#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Tanzania"@en ;
+  skos:altLabel "Pemba Island (Tanzania)"@en, "Huthera (Tanzania)"@en, "Huthera (Tanzania)"@en, "Tanganyika"@en, "Zanzibar"@en, "German East Africa"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/f-tz> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2001008846#concept> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-tz" .

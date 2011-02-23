@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<popl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Palau"@en ;
+  skos:altLabel "Belau"@en, "Pelew"@en, "Republic of Palau"@en ;
+  skos:note "Coded [poci] (Caroline Islands) before Mar. 1988"@en ;
+  skos:notation "popl" .

@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<awba#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "West Bank"@en ;
+  skos:altLabel "Jerusalem"@en, "Palestine"@en, "Judaea and Samaria"@en, "West Bank of the Jordan River"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/awba> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85146164#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85097163#concept> ;
+  skos:note "Coded [a-is] (Israel) and/or [a-jo] (Jordan) before Mar. 1988"@en ;
+  skos:notation "awba" .

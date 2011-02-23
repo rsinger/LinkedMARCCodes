@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-so#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Somalia"@en ;
+  skos:altLabel "British Somaliland"@en, "Italian Somaliland"@en, "Somali Republic"@en ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-so" .

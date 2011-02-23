@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zsa#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Saturn (Planet)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/zsa> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85117690#concept> ;
+  skos:notation "zsa" .

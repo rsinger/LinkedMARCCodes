@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-kr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Korea"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Korea>, <info:lc/vocabulary/gacs/a-kr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85073008#concept>, <http://dbpedia.org/resource/Category:Korea> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-kr" .

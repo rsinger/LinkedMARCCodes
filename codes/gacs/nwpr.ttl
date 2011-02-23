@@ -1,0 +1,6 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwpr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Puerto Rico"@en ;
+  skos:notation "nwpr" .

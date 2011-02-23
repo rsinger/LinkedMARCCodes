@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fa#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Atlas Mountains"@en ;
+  owl:sameAs <http://sws.geonames.org/2556769/>, <http://dbpedia.org/resource/Atlas_Mountains>, <info:lc/vocabulary/gacs/fa> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85009230#concept>, <http://dbpedia.org/resource/Category:Atlas_Mountains> ;
+  skos:notation "fa" .

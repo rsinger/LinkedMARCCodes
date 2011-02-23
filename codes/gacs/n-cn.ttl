@@ -1,0 +1,12 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-cn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Canada"@en ;
+  skos:altLabel "Canada, Eastern"@en, "Eastern Canada"@en, "Eastern Canada"@en, "Canada, Northern"@en, "Northern Canada"@en, "Northern Canada"@en, "Northwest, Canadian"@en, "Canadian Northwest"@en, "West (Canada)"@en, "Canadian Northwest"@en, "West (Canada)"@en, "Saint Lawrence River"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/xxc#location>, <http://sws.geonames.org/6251999/>, <http://dbpedia.org/resource/Canada>, <info:lc/vocabulary/gacs/n-cn> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Canada> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85019361#concept>, <http://id.loc.gov/authorities/sh85019363#concept>, <http://id.loc.gov/authorities/sh85092589#concept>, <http://id.loc.gov/authorities/sh85116587#concept> ;
+  dcterms:isPartOf <n#location> ;
+  dcterms:hasPart <n-cn-ab#location>, <n-cn-bc#location>, <n-cnh#location>, <n-cn-mb#location>, <n-cnm#location>, <n-cn-nk#location>, <n-cn-nf#location>, <n-cn-nt#location>, <n-cn-ns#location>, <n-cn-nu#location>, <n-cn-on#location>, <n-cnp#location>, <n-cn-pi#location>, <n-cn-qu#location>, <n-cn-sn#location>, <n-cn-yk#location> ;
+  skos:notation "n-cn" .

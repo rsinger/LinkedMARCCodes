@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-urr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Caucasus, Northern (Russia)"@en ;
+  skos:altLabel "North Caucasus (Russia)"@en, "Northern Caucasus (Russia)"@en ;
+  owl:sameAs <http://dbpedia.org/resource/North_Caucasus>, <info:lc/vocabulary/gacs/e-urr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85021435#concept> ;
+  dcterms:isPartOf <e-ur#location> ;
+  skos:notation "e-urr" .

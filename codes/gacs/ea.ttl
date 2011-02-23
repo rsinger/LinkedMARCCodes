@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ea#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Alps"@en ;
+  owl:sameAs <http://sws.geonames.org/2661786/>, <http://dbpedia.org/resource/Alps>, <info:lc/vocabulary/gacs/ea> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85003839#concept>, <http://dbpedia.org/resource/Category:Alps> ;
+  skos:notation "ea" .

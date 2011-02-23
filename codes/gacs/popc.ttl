@@ -1,0 +1,6 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<popc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Pitcairn Island"@en ;
+  skos:notation "popc" .

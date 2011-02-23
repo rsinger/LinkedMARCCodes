@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwmj#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Montserrat"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/mj#location>, <http://sws.geonames.org/3578097/>, <http://dbpedia.org/resource/Montserrat>, <info:lc/vocabulary/gacs/nwmj> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Montserrat> ;
+  skos:notation "nwmj" .

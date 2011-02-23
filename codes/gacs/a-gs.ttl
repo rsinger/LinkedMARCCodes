@@ -1,0 +1,13 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-gs#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Georgia (Republic)"@en ;
+  skos:altLabel "Transcaucasia"@en, "Georgia (Soviet Union)"@en, "Georgian S.S.R."@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/gs#location>, <http://sws.geonames.org/614540/>, <info:lc/vocabulary/gacs/a-gs> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85136878#concept> ;
+  skos:note "Coded [e-ur-gs] (Georgia (Republic)) before June 1998"@en, "Coded [e-ur-ai] (Armenia (Republic)), [e-ur-aj] (Azerbaijan), [e-ur-gs] (Georgia
+            (Republic)) before June 1998]"@en, "Coded [e-ur-ai] (Armenia (Republic)), [e-ur-aj] (Azerbaijan), [e-ur-gs] (Georgia
+            (Republic)) before June 1998]"@en ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-gs" .

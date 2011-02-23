@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-nw#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "New Guinea"@en ;
+  skos:altLabel "New Guinea Island"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/a-nw> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85091290#concept> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-nw" .

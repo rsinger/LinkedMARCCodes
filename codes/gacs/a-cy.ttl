@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cy#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Cyprus"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/cy#location>, <http://sws.geonames.org/146669/>, <http://dbpedia.org/resource/Cyprus>, <info:lc/vocabulary/gacs/a-cy> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Cyprus> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-cy" .

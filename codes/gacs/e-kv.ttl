@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-kv#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Kosovo"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/kv#location>, <http://sws.geonames.org/6940286/>, <http://dbpedia.org/resource/Kosovo>, <info:lc/vocabulary/gacs/e-kv> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Kosovo> ;
+  skos:note "Coded [e-rb] (Serbia) before May 2008 and [e-yu] (Serbia and Montenegro) before April
+          2007"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-kv" .

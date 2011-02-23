@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-mv#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Moldova"@en ;
+  skos:altLabel "Moldavia"@en, "Moldavian S.S.R."@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/mv#location>, <http://sws.geonames.org/617790/>, <http://dbpedia.org/resource/Moldova>, <info:lc/vocabulary/gacs/e-mv> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85086557#concept>, <http://dbpedia.org/resource/Category:Moldova> ;
+  skos:note "Coded [e-ur-mv] (Moldova) before June 1998"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-mv" .

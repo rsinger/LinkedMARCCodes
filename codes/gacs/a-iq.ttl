@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-iq#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Iraq"@en ;
+  skos:altLabel "Babylonia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/iq#location>, <http://sws.geonames.org/99237/>, <http://dbpedia.org/resource/Iraq>, <info:lc/vocabulary/gacs/a-iq> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Iraq> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-iq" .

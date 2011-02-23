@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-kr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Jilin Sheng (China)"@en ;
+  skos:altLabel "Kirin Province (China)"@en ;
+  owl:sameAs <http://sws.geonames.org/2036500/>, <info:lc/vocabulary/gacs/a-cc-kr> ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-kr" .

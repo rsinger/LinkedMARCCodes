@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<er#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Rhine River"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/er> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85113657#concept> ;
+  skos:notation "er" .

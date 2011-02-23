@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-cnh#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Hudson Bay"@en ;
+  owl:sameAs <http://sws.geonames.org/3831552/>, <http://sws.geonames.org/6640371/>, <http://sws.geonames.org/5978134/>, <http://dbpedia.org/resource/Hudson_Bay>, <info:lc/vocabulary/gacs/n-cnh> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85062778#concept>, <http://dbpedia.org/resource/Category:Hudson_Bay> ;
+  dcterms:isPartOf <n-cn#location> ;
+  skos:notation "n-cnh" .

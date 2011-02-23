@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-uso#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Ohio River"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-uso> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85094289#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-uso" .

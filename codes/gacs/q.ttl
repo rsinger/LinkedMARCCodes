@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<q#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Cold regions"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/q> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85027923#concept> ;
+  skos:notation "q" .

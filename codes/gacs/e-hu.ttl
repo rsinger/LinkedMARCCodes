@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-hu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Hungary"@en ;
+  skos:altLabel "Pannonia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/hu#location>, <http://sws.geonames.org/719819/>, <http://dbpedia.org/resource/Hungary>, <info:lc/vocabulary/gacs/e-hu> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Hungary> ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-hu" .

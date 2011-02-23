@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Asia"@en ;
+  skos:altLabel "Islamic countries"@en, "Orient"@en, "East"@en, "East"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/regions/1#location>, <http://sws.geonames.org/6255147/>, <http://dbpedia.org/resource/Asia>, <info:lc/vocabulary/gacs/a> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85008606#concept>, <http://dbpedia.org/resource/Category:Asia> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85068436#concept>, <http://id.loc.gov/authorities/sh85040515#concept> ;
+  dcterms:hasPart <a-af#location>, <a-ai#location>, <a-aj#location>, <a-ba#location>, <a-bg#location>, <a-bt#location>, <a-bn#location>, <a-bx#location>, <a-br#location>, <a-cb#location>, <a-cc#location>, <a-cy#location>, <a-em#location>, <a-gs#location>, <a-ii#location>, <a-io#location>, <a-ir#location>, <a-iq#location>, <a-is#location>, <a-ja#location>, <a-jo#location>, <a-kz#location>, <a-kr#location>, <a-kn#location>, <a-ko#location>, <a-ku#location>, <a-kg#location>, <a-ls#location>, <a-le#location>, <a-my#location>, <a-mp#location>, <a-np#location>, <a-nw#location>, <a-mk#location>, <a-pk#location>, <a-pp#location>, <a-ph#location>, <a-qa#location>, <a-su#location>, <a-si#location>, <a-ce#location>, <a-sy#location>, <a-ch#location>, <a-ta#location>, <a-th#location>, <a-tu#location>, <a-tk#location>, <a-ts#location>, <a-uz#location>, <a-vt#location>, <a-ye#location> ;
+  skos:notation "a" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-no#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Norway"@en ;
+  skos:altLabel "Lapland"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-no> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85074668#concept> ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-no" .

@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwtc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Turks and Caicos Islands"@en ;
+  skos:altLabel "Caicos Islands"@en ;
+  skos:notation "nwtc" .

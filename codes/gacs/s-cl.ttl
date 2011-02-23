@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<s-cl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Chile"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/cl#location>, <http://sws.geonames.org/3895114/>, <http://dbpedia.org/resource/Chile>, <info:lc/vocabulary/gacs/s-cl> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Chile> ;
+  dcterms:isPartOf <s#location> ;
+  skos:notation "s-cl" .

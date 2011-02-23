@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-or#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Oregon"@en ;
+  skos:altLabel "Pacific States"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-us-or> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85096494#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-or" .

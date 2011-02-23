@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<p#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Pacific Ocean"@en ;
+  skos:altLabel "Pacific Area"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/p> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85096476#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85096445#concept> ;
+  skos:notation "p" .

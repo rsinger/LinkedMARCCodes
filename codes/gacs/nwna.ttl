@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwna#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Netherlands Antilles"@en ;
+  skos:altLabel "Dutch West Indies"@en, "Netherlands West Indies"@en, "West Indies, Dutch"@en ;
+  skos:notation "nwna" .

@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-uk-en#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "England"@en ;
+  skos:altLabel "Brownsea Island (England)"@en, "Isle of Wight (England)"@en, "Wight, Isle of"@en, "Wight, Isle of"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/enk#location>, <http://sws.geonames.org/6269131/>, <http://dbpedia.org/resource/England>, <info:lc/vocabulary/gacs/e-uk-en> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:England> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh88002350#concept> ;
+  dcterms:isPartOf <e-uk#location> ;
+  skos:notation "e-uk-en" .

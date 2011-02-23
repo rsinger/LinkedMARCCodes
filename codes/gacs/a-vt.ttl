@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-vt#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Vietnam"@en ;
+  skos:altLabel "Vietnam (Democratic Republic)"@en, "North Vietnam"@en, "Vietnam, North"@en, "North Vietnam"@en, "Vietnam, North"@en, "Vietnam (Republic)"@en, "South Vietnam"@en, "Vietnam, South"@en, "South Vietnam"@en, "Vietnam, South"@en ;
+  skos:note "Coded [a-vn] (Vietnam, North) before Mar. 1988"@en, "Coded [a-vs] (Viet Nam, South) before Mar. 1988"@en, "Coded [a-vn] (Vietnam, North) before Mar. 1988"@en, "Coded [a-vs] (Viet Nam, South) before Mar. 1988"@en ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-vt" .

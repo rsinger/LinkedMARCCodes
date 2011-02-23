@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-urf#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Russian Far East (Russia)"@en ;
+  skos:altLabel "Far East (Russia)"@en, "Far Eastern Region (Russia)"@en, "Soviet Far East (Russia)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-urf> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85125702#concept> ;
+  skos:note "Coded [e-uro] (Soviet Central Asia) before 1994"@en, "Coded [e-uro] (Soviet Central Asia) before 1994"@en ;
+  dcterms:isPartOf <e-ur#location> ;
+  skos:notation "e-urf" .

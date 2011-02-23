@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-et#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Ethiopia"@en ;
+  skos:altLabel "Abyssinia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/et#location>, <http://sws.geonames.org/337996/>, <http://dbpedia.org/resource/Ethiopia>, <info:lc/vocabulary/gacs/f-et> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Ethiopia> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-et" .

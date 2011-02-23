@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-usa#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Appalachian Mountains"@en ;
+  skos:altLabel "Appalachian Mountains, Southern"@en, "Appalachian Region"@en, "Blue Ridge Mountains"@en ;
+  owl:sameAs <http://sws.geonames.org/5178401/>, <http://dbpedia.org/resource/Appalachian_Mountains>, <info:lc/vocabulary/gacs/n-usa> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85006071#concept>, <http://dbpedia.org/resource/Category:Appalachian_Mountains> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85006075#concept>, <http://id.loc.gov/authorities/sh85006073#concept>, <http://id.loc.gov/authorities/sh85015083#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-usa" .

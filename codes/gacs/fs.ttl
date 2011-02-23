@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fs#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Africa, Southern"@en ;
+  skos:altLabel "Southern Africa"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/fs> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85001653#concept>, <http://dbpedia.org/resource/Category:Southern_Africa> ;
+  skos:notation "fs" .

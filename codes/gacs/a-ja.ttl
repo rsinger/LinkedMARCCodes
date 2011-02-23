@@ -1,0 +1,12 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-ja#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Japan"@en ;
+  skos:altLabel "Okinawa Island (Japan)"@en, "Ryukyu Islands"@en, "Ryukyu Islands, Southern"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ja#location>, <http://sws.geonames.org/1861060/>, <http://dbpedia.org/resource/Japan>, <info:lc/vocabulary/gacs/a-ja> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Japan> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85094463#concept> ;
+  skos:note "Coded [a-ok] (Okinawa) before 1984]"@en, "Coded [pory] (Ryukyu Islands, Southern) before 1984"@en, "Coded [a-ok] (Okinawa) before 1984]"@en, "Coded [pory] (Ryukyu Islands, Southern) before 1984"@en ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-ja" .

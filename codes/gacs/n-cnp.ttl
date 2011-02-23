@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-cnp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Prairie Provinces"@en ;
+  skos:altLabel "Canada, Western"@en, "Western Canada"@en, "Western Canada"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-cnp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85106075#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85019364#concept> ;
+  dcterms:isPartOf <n-cn#location> ;
+  skos:notation "n-cnp" .

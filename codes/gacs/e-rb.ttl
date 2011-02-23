@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-rb#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Serbia"@en ;
+  skos:note "Coded [e-yu] (Yugoslavia) before April 2007"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-rb" .

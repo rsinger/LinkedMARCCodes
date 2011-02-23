@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-pe#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Beijing (China)"@en ;
+  skos:altLabel "Peiping (China)"@en, "Peking (China)"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Beijing>, <info:lc/vocabulary/gacs/a-cc-pe> ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-pe" .

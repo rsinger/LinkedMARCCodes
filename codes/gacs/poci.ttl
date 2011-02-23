@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<poci#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Caroline Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/2082300/>, <http://dbpedia.org/resource/Caroline_Islands>, <info:lc/vocabulary/gacs/poci> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85020397#concept> ;
+  skos:notation "poci" .

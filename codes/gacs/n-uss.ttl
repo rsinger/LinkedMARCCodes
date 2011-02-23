@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-uss#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Missouri River"@en ;
+  owl:sameAs <http://sws.geonames.org/4398665/>, <http://dbpedia.org/resource/Missouri_River>, <info:lc/vocabulary/gacs/n-uss> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85086237#concept>, <http://dbpedia.org/resource/Category:Missouri_River> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-uss" .

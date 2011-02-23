@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-mw#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Malawi"@en ;
+  skos:altLabel "Rhodesia and Nyasaland"@en, "Federation of Rhodesia and Nyasaland"@en, "Federation of Rhodesia and Nyasaland"@en, "Nyasaland"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/mw#location>, <http://sws.geonames.org/927384/>, <http://dbpedia.org/resource/Malawi>, <info:lc/vocabulary/gacs/f-mw> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Malawi> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-mw" .

@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Europe"@en ;
+  skos:altLabel "European Economic Community countries"@en, "European Union countries"@en, "Holy Roman Empire"@en, "Rome"@en, "Roman Empire"@en, "Roman Empire"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/regions/3#location>, <http://sws.geonames.org/6255148/>, <http://dbpedia.org/resource/Europe>, <info:lc/vocabulary/gacs/e> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85045631#concept>, <http://dbpedia.org/resource/Category:Europe> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85045811#concept>, <http://id.loc.gov/authorities/sh94003571#concept> ;
+  dcterms:hasPart <e-aa#location>, <e-an#location>, <e-au#location>, <e-bw#location>, <e-be#location>, <e-bn#location>, <e-bu#location>, <e-ci#location>, <e-xr#location>, <e-cs#location>, <e-dk#location>, <e-er#location>, <e-fi#location>, <e-fr#location>, <e-gx#location>, <e-ge#location>, <e-gw#location>, <e-gi#location>, <e-uk#location>, <e-gr#location>, <e-hu#location>, <e-ic#location>, <e-ie#location>, <e-it#location>, <e-kv#location>, <e-lv#location>, <e-lh#location>, <e-li#location>, <e-lu#location>, <e-xn#location>, <e-mm#location>, <e-mv#location>, <e-mc#location>, <e-mo#location>, <e-ne#location>, <e-no#location>, <e-pl#location>, <e-po#location>, <e-rm#location>, <e-ru#location>, <e-sm#location>, <e-rb#location>, <e-xo#location>, <e-xv#location>, <e-ur#location>, <e-sp#location>, <e-sw#location>, <e-sz#location>, <e-un#location>, <e-vc#location>, <e-yu#location> ;
+  skos:notation "e" .

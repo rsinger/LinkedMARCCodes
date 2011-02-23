@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-kz#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Kazakhstan"@en ;
+  skos:altLabel "Kazakh S.S.R."@en, "Kazakstan"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/kz#location>, <http://sws.geonames.org/1522867/>, <http://dbpedia.org/resource/Kazakhstan>, <info:lc/vocabulary/gacs/a-kz> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Kazakhstan> ;
+  skos:note "Coded [e-ur-kz] (Kazakhstan) before June 1998"@en ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-kz" .

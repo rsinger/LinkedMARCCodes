@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Southern Hemisphere"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/xc> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh86007206#concept> ;
+  skos:notation "xc" .

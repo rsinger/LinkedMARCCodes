@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-ls#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Laos"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ls#location>, <http://sws.geonames.org/1655842/>, <http://dbpedia.org/resource/Laos>, <info:lc/vocabulary/gacs/a-ls> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Laos> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-ls" .

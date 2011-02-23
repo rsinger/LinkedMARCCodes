@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-urs#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Siberia (Russia)"@en ;
+  skos:altLabel "Siberia, Northeastern (Russia)"@en, "Siberia, Northwestern (Russia)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-urs> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85122201#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85122210#concept>, <http://id.loc.gov/authorities/sh2003010567#concept> ;
+  dcterms:isPartOf <e-ur#location> ;
+  skos:notation "e-urs" .

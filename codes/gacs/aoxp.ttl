@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aoxp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Spratly Islands"@en ;
+  skos:altLabel "Nansha Islands"@en, "Shinnan Islands"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/aoxp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85126984#concept> ;
+  skos:notation "aoxp" .

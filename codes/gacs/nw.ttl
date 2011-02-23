@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nw#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "West Indies"@en ;
+  skos:altLabel "Antilles, Greater"@en, "Greater Antilles"@en, "Indies, West"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/nw> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85146187#concept> ;
+  skos:note "Coded [nwga] (Greater Antilles) before Mar. 1988"@en, "Coded [nwga] (Greater Antilles) before Mar. 1988"@en, "Coded [nwga] (Greater Antilles) before Mar. 1988"@en, "Coded [nwga] (Greater Antilles) before Mar. 1988"@en ;
+  skos:notation "nw" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ao#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "South China Sea"@en ;
+  skos:altLabel "Islands of the South China Sea"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/ao> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85125572#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh97005990#concept> ;
+  skos:notation "ao" .

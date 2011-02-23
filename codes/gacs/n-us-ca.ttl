@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-ca#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "California"@en ;
+  skos:altLabel "Pacific States"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/cau#location>, <http://sws.geonames.org/5332921/>, <http://dbpedia.org/resource/California>, <info:lc/vocabulary/gacs/n-us-ca> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:California> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85096494#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-ca" .

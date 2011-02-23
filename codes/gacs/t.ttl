@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<t#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Antarctica"@en ;
+  skos:altLabel "Polar regions"@en, "South Shetland Islands (Antarctica)"@en, "Antarctic regions"@en, "South Pole"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ay#location>, <http://sws.geonames.org/6255152/>, <http://dbpedia.org/resource/Antarctica>, <info:lc/vocabulary/gacs/t> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85005490#concept>, <http://dbpedia.org/resource/Category:Antarctica> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85104136#concept>, <http://id.loc.gov/authorities/sh86000478#concept> ;
+  skos:note "Coded also [t-ay] (Antarctica) before Mar. 1988"@en, "Coded [lsfk] (Falkland Islands) before Mar. 1998"@en, "Coded [lsfk] (Falkland Islands) before Mar. 1998"@en ;
+  skos:notation "t" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<s-ec#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Ecuador"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ec#location>, <http://sws.geonames.org/3658394/>, <http://dbpedia.org/resource/Ecuador>, <info:lc/vocabulary/gacs/s-ec> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Ecuador> ;
+  dcterms:isPartOf <s#location> ;
+  skos:notation "s-ec" .

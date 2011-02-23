@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwmq#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Martinique"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/mq#location>, <http://sws.geonames.org/3570311/>, <http://dbpedia.org/resource/Martinique>, <info:lc/vocabulary/gacs/nwmq> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Martinique> ;
+  skos:notation "nwmq" .

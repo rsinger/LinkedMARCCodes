@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-cq#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Chongqing (China)"@en ;
+  skos:altLabel "Ch'ung-ch'ing shih (China)"@en, "Chungking (China)"@en ;
+  owl:sameAs <http://sws.geonames.org/1814905/>, <http://dbpedia.org/resource/Chongqing>, <info:lc/vocabulary/gacs/a-cc-cq> ;
+  skos:note "Coded [a-cc-sz] (Szechuan Province (China)) before Sept. 2000"@en ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-cq" .

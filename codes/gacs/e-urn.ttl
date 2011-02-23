@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-urn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Soviet Union, Northwestern"@en ;
+  skos:altLabel "Northwestern Soviet Union"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-urn> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85125866#concept> ;
+  dcterms:isPartOf <e-ur#location> ;
+  skos:notation "e-urn" .

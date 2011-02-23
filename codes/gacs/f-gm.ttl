@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-gm#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Gambia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/gm#location>, <http://sws.geonames.org/2413451/>, <http://dbpedia.org/resource/Outline_of_the_Gambia>, <info:lc/vocabulary/gacs/f-gm> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:The_Gambia> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-gm" .

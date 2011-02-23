@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pobp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Solomon Islands"@en ;
+  skos:altLabel "Guadalcanal (Solomon Islands)"@en, "Santa Cruz Islands (Solomon Islands)"@en, "British Solomon Islands"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/pobp> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85117366#concept> ;
+  skos:note "Coded also [posn] (Solomon Islands) before Mar. 1988"@en, "Coded [posc] (Santa Cruz Islands) before Mar. 1988"@en, "Coded [posc] (Santa Cruz Islands) before Mar. 1988"@en ;
+  skos:notation "pobp" .

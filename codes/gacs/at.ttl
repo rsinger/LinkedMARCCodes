@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<at#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Tien Shan"@en ;
+  skos:altLabel "Thian Shan"@en, "Tian Shan"@en, "Tien Mountains"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/at> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85135294#concept> ;
+  skos:notation "at" .

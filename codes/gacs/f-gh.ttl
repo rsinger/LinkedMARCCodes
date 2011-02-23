@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-gh#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Ghana"@en ;
+  skos:altLabel "Togoland"@en, "Togoland (British)"@en, "British Togoland"@en, "British Togoland"@en, "Ashanti"@en, "Gold Coast"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/gh#location>, <http://sws.geonames.org/2300660/>, <http://dbpedia.org/resource/Ghana>, <info:lc/vocabulary/gacs/f-gh> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Ghana> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-gh" .

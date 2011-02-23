@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-cm#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Cameroon"@en ;
+  skos:altLabel "Adamawa (Emirate)"@en, "Cameroons, French"@en, "Cameroons, Southern"@en, "Cameroun"@en, "French Cameroons"@en, "Southern Cameroons"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/cm#location>, <http://sws.geonames.org/2233387/>, <http://dbpedia.org/resource/Cameroon>, <info:lc/vocabulary/gacs/f-cm> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Cameroon> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-cm" .

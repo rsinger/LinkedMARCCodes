@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fv#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Volta River (Ghana)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/fv> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh86001958#concept> ;
+  skos:notation "fv" .

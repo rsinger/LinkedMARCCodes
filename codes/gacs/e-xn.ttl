@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-xn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Macedonia (Republic)"@en ;
+  skos:altLabel "Macedonia"@en ;
+  owl:sameAs <http://sws.geonames.org/718075/>, <http://dbpedia.org/resource/Macedonia>, <info:lc/vocabulary/gacs/e-xn> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85079266#concept> ;
+  skos:note "Coded [e-yu] (Yugoslavia) before Oct. 1992"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-xn" .

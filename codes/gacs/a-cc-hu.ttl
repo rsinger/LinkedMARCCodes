@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-hu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Hunan Sheng (China)"@en ;
+  skos:altLabel "Hunan Province (China)"@en ;
+  owl:sameAs <http://sws.geonames.org/1806691/>, <info:lc/vocabulary/gacs/a-cc-hu> ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-hu" .

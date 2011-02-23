@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<s-sr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Suriname"@en ;
+  skos:altLabel "Dutch Guiana"@en, "Guiana, Dutch"@en, "Surinam"@en ;
+  dcterms:isPartOf <s#location> ;
+  skos:notation "s-sr" .

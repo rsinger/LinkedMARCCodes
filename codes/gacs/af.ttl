@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<af#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Thailand, Gulf of"@en ;
+  skos:altLabel "Gulf of Thailand"@en, "Siam, Gulf of"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/af> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85134453#concept> ;
+  skos:notation "af" .

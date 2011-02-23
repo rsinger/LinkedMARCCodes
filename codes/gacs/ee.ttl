@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ee#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Europe, Eastern"@en ;
+  skos:altLabel "Carpathian Mountains"@en, "Communist countries"@en, "Eastern Europe"@en, "Europe, East Central"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Eastern_Europe>, <info:lc/vocabulary/gacs/ee> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85045765#concept>, <http://dbpedia.org/resource/Category:Eastern_Europe> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85020425#concept>, <http://id.loc.gov/authorities/sh85029173#concept> ;
+  skos:note "Coded [v] (Communist countries) before June 1998"@en, "Coded [et] (Europe, East Central) before Mar. 1988"@en, "Coded [v] (Communist countries) before June 1998"@en, "Coded [et] (Europe, East Central) before Mar. 1988"@en ;
+  skos:notation "ee" .

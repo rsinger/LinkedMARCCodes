@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-sm#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Shanghai (China)"@en ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-sm" .

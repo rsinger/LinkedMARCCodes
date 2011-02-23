@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pogg#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Galapagos Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ec#location>, <http://sws.geonames.org/3658931/>, <info:lc/vocabulary/gacs/pogg> ;
+  skos:notation "pogg" .

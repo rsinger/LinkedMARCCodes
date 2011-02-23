@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-hk#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Hong Kong (China)"@en ;
+  skos:altLabel "Hong Kong"@en, "Hong Kong (China : Special Administrative Region)"@en ;
+  owl:sameAs <http://sws.geonames.org/1819730/>, <info:lc/vocabulary/gacs/a-cc-hk> ;
+  skos:note "Coded [a-hk] (Hong Kong) before June 1998"@en ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-hk" .

@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-hi#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Hawaii"@en ;
+  skos:altLabel "Sunbelt States"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/hiu#location>, <http://sws.geonames.org/5855797/>, <http://dbpedia.org/resource/Hawaii>, <info:lc/vocabulary/gacs/n-us-hi> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Hawaii> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85130501#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-hi" .

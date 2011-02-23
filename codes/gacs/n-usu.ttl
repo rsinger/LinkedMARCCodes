@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-usu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Southern States"@en ;
+  skos:altLabel "Confederate States of America"@en, "Cumberland Mountains"@en, "Gulf States"@en, "South Atlantic States"@en, "Atlantic States, South"@en, "Atlantic States, South"@en, "Southwest, Old"@en, "Southwestern States"@en, "Sunbelt States"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-usu> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85125633#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85034779#concept>, <http://id.loc.gov/authorities/sh85057890#concept>, <http://id.loc.gov/authorities/sh85125547#concept>, <http://id.loc.gov/authorities/sh85125681#concept>, <http://id.loc.gov/authorities/sh85125686#concept>, <http://id.loc.gov/authorities/sh85130501#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-usu" .

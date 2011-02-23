@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-mm#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Malta"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/mm#location>, <http://sws.geonames.org/2562770/>, <http://dbpedia.org/resource/Malta>, <info:lc/vocabulary/gacs/e-mm> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Malta> ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-mm" .

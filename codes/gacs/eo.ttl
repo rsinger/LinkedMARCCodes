@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<eo#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Danube River"@en ;
+  owl:sameAs <http://sws.geonames.org/791630/>, <http://dbpedia.org/resource/Danube>, <info:lc/vocabulary/gacs/eo> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85035769#concept> ;
+  skos:notation "eo" .

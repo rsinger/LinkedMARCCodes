@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-gv#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Guinea"@en ;
+  skos:altLabel "French Guinea"@en, "Guinea, French"@en, "Guinée"@en, "Republique de Guinée"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/gv#location>, <http://sws.geonames.org/2420477/>, <http://dbpedia.org/resource/Guinea>, <info:lc/vocabulary/gacs/f-gv> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Guinea> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-gv" .

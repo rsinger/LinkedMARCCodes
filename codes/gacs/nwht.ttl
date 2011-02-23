@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwht#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Haiti"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ht#location>, <http://sws.geonames.org/3723988/>, <http://dbpedia.org/resource/Haiti>, <info:lc/vocabulary/gacs/nwht> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Haiti> ;
+  skos:notation "nwht" .

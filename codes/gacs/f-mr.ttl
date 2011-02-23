@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-mr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Morocco"@en ;
+  skos:altLabel "Ifni"@en, "Tangier (Morocco)"@en, "French Morocco"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/mr#location>, <http://sws.geonames.org/2542007/>, <http://dbpedia.org/resource/Morocco>, <info:lc/vocabulary/gacs/f-mr> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Morocco> ;
+  skos:note "Coded [f-if] (Ifni) before Mar. 1988"@en, "Coded [f-if] (Ifni) before Mar. 1988"@en ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-mr" .

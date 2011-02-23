@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-va#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Virginia"@en ;
+  skos:altLabel "Chesapeake Bay (Md. and Va.)"@en, "Washington Region"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-us-va> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85023111#concept>, <http://id.loc.gov/authorities/sh85145389#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-va" .

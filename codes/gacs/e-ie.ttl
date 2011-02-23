@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-ie#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Ireland"@en ;
+  skos:altLabel "Aran Islands (Ireland)"@en, "British Isles"@en, "Eire"@en, "Ireland (Eire)"@en, "Irish Republic"@en, "Republic of Ireland"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ie#location>, <http://sws.geonames.org/2963597/>, <http://dbpedia.org/resource/Ireland>, <info:lc/vocabulary/gacs/e-ie> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85067964#concept>, <http://dbpedia.org/resource/Category:Ireland> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh86003202#concept> ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-ie" .

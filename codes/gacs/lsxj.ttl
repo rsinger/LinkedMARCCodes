@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lsxj#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Saint Helena"@en ;
+  skos:altLabel "St. Helena"@en ;
+  skos:notation "lsxj" .

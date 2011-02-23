@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<poxf#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Midway Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/xf#location>, <http://sws.geonames.org/5854942/>, <info:lc/vocabulary/gacs/poxf> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85085054#concept>, <http://dbpedia.org/resource/Category:Midway_Islands> ;
+  skos:notation "poxf" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pofp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "French Polynesia"@en ;
+  skos:altLabel "Austral Islands (French Polynesia)"@en, "Tubuai Islands (French Polynesia)"@en, "Tubuai Islands (French Polynesia)"@en, "Gambier Islands (French Polynesia)"@en, "Marquesas Islands (French Polynesia)"@en, "Archipel des Marquises (French Polynesia)"@en, "Îles Marquises de Mendoça (French Polynesia)"@en, "Islas Marquesas de Mendoza (French Polynesia)"@en, "Mendaña (French Polynesia)"@en, "Archipel des Marquises (French Polynesia)"@en, "Îles Marquises de Mendoça (French Polynesia)"@en, "Islas Marquesas de Mendoza (French Polynesia)"@en, "Mendaña (French Polynesia)"@en, "Society Islands (French Polynesia)"@en, "Tuamotu Archipelago (French Polynesia)"@en, "Oceania, French"@en, "Polynesia, French"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/fp#location>, <http://sws.geonames.org/4030656/>, <http://dbpedia.org/resource/French_Polynesia>, <info:lc/vocabulary/gacs/pofp> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:French_Polynesia> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh92000578#concept>, <http://id.loc.gov/authorities/sh85124182#concept>, <http://id.loc.gov/authorities/sh96004784#concept> ;
+  skos:notation "pofp" .

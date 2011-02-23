@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Latin America"@en ;
+  skos:altLabel "Neotropics"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Latin_America>, <info:lc/vocabulary/gacs/cl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85074879#concept>, <http://dbpedia.org/resource/Category:Latin_America> ;
+  skos:notation "cl" .

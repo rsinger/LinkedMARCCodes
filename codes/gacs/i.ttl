@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<i#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Indian Ocean"@en ;
+  skos:altLabel "Islands of the Indian Ocean"@en, "Timor Sea"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/regions/12#location>, <http://sws.geonames.org/1545739/>, <http://dbpedia.org/resource/Indian_Ocean>, <info:lc/vocabulary/gacs/i> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85064984#concept>, <http://dbpedia.org/resource/Category:Indian_Ocean> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85068611#concept>, <http://id.loc.gov/authorities/sh85135463#concept> ;
+  dcterms:hasPart <i-bi#location>, <i-xa#location>, <i-xb#location>, <i-cq#location>, <i-hm#location>, <i-xc#location>, <i-mf#location>, <i-my#location>, <i-re#location>, <i-se#location>, <i-fs#location> ;
+  skos:notation "i" .

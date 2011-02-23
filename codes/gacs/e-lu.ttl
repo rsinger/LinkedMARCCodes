@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-lu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Luxembourg"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/lu#location>, <http://sws.geonames.org/2960313/>, <http://dbpedia.org/resource/Luxembourg>, <info:lc/vocabulary/gacs/e-lu> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Luxembourg> ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-lu" .

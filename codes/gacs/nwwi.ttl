@@ -1,0 +1,6 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwwi#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Windward Islands (West Indies) [nwwi]"@en ;
+  skos:notation "nwwi" .

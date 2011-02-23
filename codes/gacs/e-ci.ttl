@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-ci#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Croatia"@en ;
+  skos:altLabel "People's Republic of Croatia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/ci#location>, <http://sws.geonames.org/3202326/>, <http://dbpedia.org/resource/Croatia>, <info:lc/vocabulary/gacs/e-ci> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Croatia> ;
+  skos:note "Coded [e-yu] (Yugoslavia) before Oct. 1992]"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-ci" .

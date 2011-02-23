@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<s#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "South America"@en ;
+  skos:altLabel "America"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/s> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85125524#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85004220#concept> ;
+  dcterms:hasPart <s-ag#location>, <s-bo#location>, <s-bl#location>, <s-cl#location>, <s-ck#location>, <s-ec#location>, <s-fg#location>, <s-gy#location>, <s-py#location>, <s-pe#location>, <s-sr#location>, <s-uy#location>, <s-ve#location> ;
+  skos:notation "s" .

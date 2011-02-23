@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fb#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Africa, Sub-Saharan"@en ;
+  skos:altLabel "Sub-Saharan Africa"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Sub_Saharan_Africa>, <info:lc/vocabulary/gacs/fb> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85001667#concept>, <http://dbpedia.org/resource/Category:Sub-Saharan_Africa> ;
+  skos:notation "fb" .

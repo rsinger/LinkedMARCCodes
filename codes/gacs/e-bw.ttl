@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-bw#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Belarus"@en ;
+  skos:altLabel "Kievan Rus"@en, "Belorussian S.S.R."@en, "Byelorussian S.S.R."@en, "White Russia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/bw#location>, <http://sws.geonames.org/630336/>, <http://dbpedia.org/resource/Belarus>, <info:lc/vocabulary/gacs/e-bw> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Belarus> ;
+  skos:note "Coded [e-ur-bw] (Belarus) before June 1998"@en, "Coded [e-ur] (Soviet Union) before June 1998"@en, "Coded [e-ur] (Soviet Union) before June 1998"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-bw" .

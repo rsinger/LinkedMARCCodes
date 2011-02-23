@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwtr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Trinidad and Tobago"@en ;
+  skos:altLabel "Tobago"@en, "Trinidad"@en ;
+  skos:notation "nwtr" .

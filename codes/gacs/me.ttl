@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<me#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Eurasia"@en ;
+  skos:altLabel "Asia and Europe (treated collectively)"@en, "Europe and Asia (treated collectively)"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Eurasia>, <info:lc/vocabulary/gacs/me> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85045617#concept>, <http://dbpedia.org/resource/Category:Eurasia> ;
+  skos:notation "me" .

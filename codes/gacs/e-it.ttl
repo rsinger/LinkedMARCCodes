@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-it#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Italy"@en ;
+  skos:altLabel "Sardinia (Italy)"@en, "Sicily (Italy)"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/it#location>, <http://sws.geonames.org/3175395/>, <http://dbpedia.org/resource/Italy>, <info:lc/vocabulary/gacs/e-it> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Italy> ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-it" .

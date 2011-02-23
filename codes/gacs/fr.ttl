@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fr#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Great Rift Valley"@en ;
+  skos:altLabel "Rift Valley"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Great_Rift_Valley>, <info:lc/vocabulary/gacs/fr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85057004#concept>, <http://dbpedia.org/resource/Category:Great_Rift_Valley> ;
+  skos:notation "fr" .

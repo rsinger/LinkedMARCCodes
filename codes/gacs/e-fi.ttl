@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-fi#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Finland"@en ;
+  skos:altLabel "Lapland"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/fi#location>, <http://sws.geonames.org/660013/>, <http://dbpedia.org/resource/Finland>, <info:lc/vocabulary/gacs/e-fi> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Finland> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85074668#concept> ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-fi" .

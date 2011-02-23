@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<powf#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Wallis and Futuna Islands"@en ;
+  skos:altLabel "Futuna Islands (Wallis and Futuna Islands)"@en, "Uvea Island (Wallis and Futuna Islands)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/powf> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh92003788#concept> ;
+  skos:notation "powf" .

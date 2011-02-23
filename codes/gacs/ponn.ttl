@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ponn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Vanuatu"@en ;
+  skos:altLabel "Banks Islands (Vanuatu)"@en, "New Hebrides"@en, "Republic of Vanuatu"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/ponn> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85011670#concept> ;
+  skos:notation "ponn" .

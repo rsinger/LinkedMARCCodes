@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-cn-nf#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Newfoundland and Labrador"@en ;
+  skos:altLabel "Labrador (N.L.)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/n-cn-nf> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85073777#concept> ;
+  dcterms:isPartOf <n-cn#location> ;
+  skos:notation "n-cn-nf" .

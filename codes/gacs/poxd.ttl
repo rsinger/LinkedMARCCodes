@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<poxd#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Mariana Islands"@en ;
+  skos:altLabel "Commonwealth of the Northern Mariana Islands"@en, "Northern Mariana Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/nw#location>, <http://sws.geonames.org/6269450/>, <http://dbpedia.org/resource/Mariana_Islands>, <info:lc/vocabulary/gacs/poxd> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Mariana_Islands> ;
+  skos:notation "poxd" .

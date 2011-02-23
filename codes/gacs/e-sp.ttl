@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-sp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Spain"@en ;
+  skos:altLabel "Balearic Islands (Spain)"@en, "Iberian Peninsula"@en, "Islamic Empire"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-sp> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2005005381#concept>, <http://id.loc.gov/authorities/sh85068444#concept> ;
+  skos:note "Coded [ei] (Iberian Peninsula) before Mar. 1988"@en, "Coded [ei] (Iberian Peninsula) before Mar. 1988"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-sp" .

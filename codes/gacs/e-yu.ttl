@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-yu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Yugoslavia"@en ;
+  skos:altLabel "Pannonia"@en, "Former Yugoslav republics"@en ;
+  dcterms:isPartOf <e#location> ;
+  skos:notation "e-yu" .

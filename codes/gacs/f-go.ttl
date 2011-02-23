@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-go#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Gabon"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/go#location>, <http://sws.geonames.org/2400553/>, <http://dbpedia.org/resource/Gabon>, <info:lc/vocabulary/gacs/f-go> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Gabon> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-go" .

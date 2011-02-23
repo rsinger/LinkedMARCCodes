@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-uk-ui#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Great Britain Miscellaneous Island Dependencies"@en ;
+  skos:altLabel "Alderney (Channel Islands)"@en, "Calf of Man (Isle of Man)"@en, "Channel Islands"@en, "Guernsey (Channel Islands)"@en, "Isle of Man"@en, "Man, Isle of"@en, "Man, Isle of"@en, "Jersey (Channel Islands)"@en, "Island Dependencies of Great Britain"@en, "United Kingdom Miscellaneous Island Dependencies"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-uk-ui> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2002009008#concept> ;
+  dcterms:isPartOf <e-uk#location> ;
+  skos:notation "e-uk-ui" .

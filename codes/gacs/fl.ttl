@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Nile River"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/fl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85091951#concept> ;
+  skos:notation "fl" .

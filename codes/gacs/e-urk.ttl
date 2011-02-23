@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-urk#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Caucasus"@en ;
+  owl:sameAs <http://sws.geonames.org/615318/>, <http://dbpedia.org/resource/Caucasus>, <info:lc/vocabulary/gacs/e-urk> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85021434#concept>, <http://dbpedia.org/resource/Category:Caucasus> ;
+  dcterms:isPartOf <e-ur#location> ;
+  skos:notation "e-urk" .

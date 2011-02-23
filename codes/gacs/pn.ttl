@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pn#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "North Pacific Ocean"@en ;
+  skos:altLabel "Alaska, Gulf of (Alaska)"@en, "Gulf of Alaska (Alaska)"@en, "Gulf of Alaska (Alaska)"@en, "Bering Sea"@en, "Philippine Sea"@en, "Pacific Ocean, North"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/pn> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85092520#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85003160#concept>, <http://id.loc.gov/authorities/sh85013327#concept>, <http://id.loc.gov/authorities/sh85100765#concept> ;
+  skos:notation "pn" .

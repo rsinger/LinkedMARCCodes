@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nwli#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Leeward Islands (West Indies)"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Leeward_Islands>, <info:lc/vocabulary/gacs/nwli> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85075697#concept> ;
+  skos:notation "nwli" .

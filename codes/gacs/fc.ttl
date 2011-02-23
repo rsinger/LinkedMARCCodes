@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fc#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Africa, Central"@en ;
+  skos:altLabel "Central Africa"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Central_Africa>, <info:lc/vocabulary/gacs/fc> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85001578#concept>, <http://dbpedia.org/resource/Category:Central_Africa> ;
+  skos:notation "fc" .

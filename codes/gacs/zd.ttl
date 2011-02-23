@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zd#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Deep space"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/zd> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh2008003313#concept> ;
+  skos:notation "zd" .

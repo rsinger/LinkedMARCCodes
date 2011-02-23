@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-urp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Volga River (Russia)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/e-urp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85144286#concept> ;
+  dcterms:isPartOf <e-ur#location> ;
+  skos:notation "e-urp" .

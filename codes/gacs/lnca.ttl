@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lnca#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Canary Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/sp#location>, <http://sws.geonames.org/2520308/>, <http://sws.geonames.org/5914810/>, <http://dbpedia.org/resource/Canary_Islands>, <info:lc/vocabulary/gacs/lnca> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Canary_Islands> ;
+  skos:notation "lnca" .

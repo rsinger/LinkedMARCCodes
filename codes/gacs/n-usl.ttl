@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-usl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Middle Atlantic States"@en ;
+  skos:altLabel "Middle States"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Mid-Atlantic_States>, <info:lc/vocabulary/gacs/n-usl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85085007#concept> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-usl" .

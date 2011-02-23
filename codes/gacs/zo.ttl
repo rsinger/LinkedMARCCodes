@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zo#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Outer space"@en ;
+  skos:altLabel "Space, Outer"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/zo> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85096156#concept> ;
+  skos:notation "zo" .

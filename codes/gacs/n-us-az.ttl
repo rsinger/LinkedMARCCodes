@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<n-us-az#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Arizona"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/azu#location>, <http://sws.geonames.org/5551752/>, <http://dbpedia.org/resource/Arizona>, <info:lc/vocabulary/gacs/n-us-az> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Arizona> ;
+  dcterms:isPartOf <n-us#location> ;
+  skos:notation "n-us-az" .

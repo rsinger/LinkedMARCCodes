@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-mp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Mongolia"@en ;
+  skos:altLabel "Mongolian People's Republic"@en, "Outer Mongolia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/mp#location>, <http://sws.geonames.org/2029969/>, <http://dbpedia.org/resource/Mongolia>, <info:lc/vocabulary/gacs/a-mp> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Mongolia> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-mp" .

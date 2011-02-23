@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fz#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Zambezi River"@en ;
+  skos:altLabel "Rio Zambezi"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/fz> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85149596#concept> ;
+  skos:notation "fz" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e-uk-ni#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Northern Ireland"@en ;
+  skos:altLabel "Ireland, Northern"@en ;
+  dcterms:isPartOf <e-uk#location> ;
+  skos:notation "e-uk-ni" .

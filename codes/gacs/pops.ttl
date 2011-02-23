@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pops#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Polynesia"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/pops> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85104688#concept> ;
+  skos:notation "pops" .

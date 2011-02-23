@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-pp#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Papua New Guinea"@en ;
+  skos:altLabel "Admiralty Islands (Papua New Guinea)"@en, "Bismarck Archipelago (Papua New Guinea)"@en, "Bougainville Island (Papua New Guinea)"@en, "D'Entrecasteaux Islands (Papua New Guinea)"@en, "Louisiade Archipelago (Papua New Guinea)"@en, "New Britain Island (Papua New Guinea)"@en, "New Guinea (Territory)"@en, "New Ireland Island (Papua New Guinea)"@en, "Papua"@en, "Trobriand Islands (Papua New Guinea)"@en, "Woodlark Islands (Papua New Guinea)"@en ;
+  owl:sameAs <info:lc/vocabulary/gacs/a-pp> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh91005509#concept>, <http://id.loc.gov/authorities/sh85014433#concept>, <http://id.loc.gov/authorities/sh85016083#concept>, <http://id.loc.gov/authorities/sh85036982#concept>, <http://id.loc.gov/authorities/sh94002067#concept>, <http://id.loc.gov/authorities/sh85091250#concept>, <http://id.loc.gov/authorities/sh2004003610#concept>, <http://id.loc.gov/authorities/sh85137956#concept>, <http://id.loc.gov/authorities/sh87005030#concept> ;
+  dcterms:isPartOf <a#location> ;
+  skos:notation "a-pp" .

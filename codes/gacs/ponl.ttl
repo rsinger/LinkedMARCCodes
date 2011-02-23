@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ponl#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "New Caledonia"@en ;
+  skos:altLabel "Loyalty Islands (New Caledonia)"@en ;
+  skos:notation "ponl" .

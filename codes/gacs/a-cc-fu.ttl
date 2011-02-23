@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a-cc-fu#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Fujian Sheng (China)"@en ;
+  skos:altLabel "Fukien Province (China)"@en ;
+  owl:sameAs <http://sws.geonames.org/1811017/>, <info:lc/vocabulary/gacs/a-cc-fu> ;
+  dcterms:isPartOf <a-cc#location> ;
+  skos:notation "a-cc-fu" .

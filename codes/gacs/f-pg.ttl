@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f-pg#location>
+  a wgs84:SpatialThing ;
+  skos:prefLabel "Guinea-Bissau"@en ;
+  skos:altLabel "Guinea, Portuguese"@en, "Portuguese Guinea"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/countries/pg#location>, <http://sws.geonames.org/2372248/>, <http://dbpedia.org/resource/Guinea-Bissau>, <info:lc/vocabulary/gacs/f-pg> ;
+  umbel:isAbout <http://dbpedia.org/resource/Category:Guinea-Bissau> ;
+  dcterms:isPartOf <f#location> ;
+  skos:notation "f-pg" .
