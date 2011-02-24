@@ -1,0 +1,13 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<10#location>
+  skos:prefLabel "Central America"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/nc#location> ;
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/bh#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/cr#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/es#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/gt#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/ho#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/nq#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/pn#location> ; 
+  a wgs84:SpatialThing .

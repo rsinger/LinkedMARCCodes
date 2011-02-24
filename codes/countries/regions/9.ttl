@@ -1,0 +1,18 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<9#location>
+  skos:prefLabel "Australasia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/u#location> ;
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/at#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/aca#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xga#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xna#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/nz#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/nx#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xoa#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/qea#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xra#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/tma#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/vra#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/wea#location> ; 
+  a wgs84:SpatialThing .

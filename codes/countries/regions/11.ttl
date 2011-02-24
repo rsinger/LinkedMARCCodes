@@ -1,0 +1,13 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<11#location>
+  skos:prefLabel "Atlantic Ocean"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/l#location> ;
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/bm#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/bv#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/cv#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/fk#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/fa#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xj#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xs#location> ; 
+  a wgs84:SpatialThing .

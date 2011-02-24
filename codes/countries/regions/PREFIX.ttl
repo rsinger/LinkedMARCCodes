@@ -1,0 +1,5 @@
+@prefix	skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix	rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix	owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix	wgs84:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@base	<http://purl.org/NET/marccodes/countries/regions/> .

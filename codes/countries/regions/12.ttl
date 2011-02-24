@@ -1,0 +1,17 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<12#location>
+  skos:prefLabel "Indian Ocean"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/i#location> ;
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/bi#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xa#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xb#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/cq#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/hm#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xc#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/mf#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/ot#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/re#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/se#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/fs#location> ; 
+  a wgs84:SpatialThing .
