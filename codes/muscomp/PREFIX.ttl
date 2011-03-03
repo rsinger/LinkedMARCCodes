@@ -1,0 +1,7 @@
+@prefix	skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix	rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix	owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix	mo:	<http://purl.org/ontology/mo/> .
+@prefix	umbel:	<http://umbel.org/umbel#> .
+@prefix	rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+@base	<http://purl.org/NET/marccodes/muscomp/> .

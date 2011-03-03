@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<car#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Carib"@en ;
+  skos:altLabel "Galibi"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/car>, <info:lc/vocabulary/languages/car> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85020274#concept> ;
+  skos:notation "car" .

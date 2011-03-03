@@ -2,7 +2,7 @@
 
 <re#location>
   a wgs84:SpatialThing ;
-  skos:prefLabel "Réunion"@en ;
+  skos:prefLabel "R\u00E9union"@en ;
   skos:altLabel "Bassas da India"@en, "Europa, Ile"@en, "Glorieuses, Iles"@en, "Ile Europa"@en, "Ile Juan de Nova"@en, "Ile Tromelin"@en, "Iles Glorieuses"@en, "Juan de Nova, Ile"@en, "Tromelin, Ile"@en ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
   skos:notation "re" .

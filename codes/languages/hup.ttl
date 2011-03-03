@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hup#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Hupa"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/hup>, <info:lc/vocabulary/languages/hup> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85063162#concept> ;
+  skos:notation "hup" .

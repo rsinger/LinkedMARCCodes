@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kik#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kikuyu"@en ;
+  skos:altLabel "Gikuyu"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ki>, <http://lexvo.org/id/iso639-3/kik>, <info:lc/vocabulary/languages/kik> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85072310#concept> ;
+  skos:notation "kik" .

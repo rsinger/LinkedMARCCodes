@@ -1,0 +1,6 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nqo#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "N'Ko"@en ;
+  skos:notation "nqo" .

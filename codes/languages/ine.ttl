@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ine#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Indo-European (Other)"@en ;
+  skos:altLabel "Carian"@en, "Dacian"@en, "Daco-Mysian"@en, "North Thracian"@en, "Daco-Mysian"@en, "North Thracian"@en, "Luwian"@en, "Luian"@en, "L\u00FBish"@en, "Luvian"@en, "Luian"@en, "L\u00FBish"@en, "Luvian"@en, "Lycian"@en, "Lydian"@en, "Macedonian (Ancient)"@en, "Messapic"@en, "Iapygian"@en, "Messapian"@en, "Iapygian"@en, "Messapian"@en, "Palaic"@en, "Balaic"@en, "Pal\u00E2 (Palaic)"@en, "Palaite"@en, "Palawi"@en, "Balaic"@en, "Pal\u00E2 (Palaic)"@en, "Palaite"@en, "Palawi"@en, "Phrygian"@en, "Proto-Indo-European"@en, "Proto-Aryan"@en, "Protoindoeuropean"@en, "Proto-Aryan"@en, "Protoindoeuropean"@en, "Thracian"@en, "Tokharian"@en, "Kuchean"@en, "Tocharian"@en, "Tocharish"@en, "Turfanish"@en, "Kuchean"@en, "Tocharian"@en, "Tocharish"@en, "Turfanish"@en, "Venetic"@en, "Yuezhi"@en, "Y\u00FCeh-chih"@en, "Y\u00FCeh-chih"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/ine> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh94000809#concept>, <http://id.loc.gov/authorities/sh85035355#concept>, <http://id.loc.gov/authorities/sh85079044#concept>, <http://id.loc.gov/authorities/sh85079082#concept>, <http://id.loc.gov/authorities/sh85079103#concept>, <http://id.loc.gov/authorities/sh85083973#concept>, <http://id.loc.gov/authorities/sh85096957#concept>, <http://id.loc.gov/authorities/sh85101444#concept>, <http://id.loc.gov/authorities/sh85107752#concept>, <http://id.loc.gov/authorities/sh85134998#concept>, <http://id.loc.gov/authorities/sh85135845#concept>, <http://id.loc.gov/authorities/sh85142644#concept>, <http://id.loc.gov/authorities/sh85149435#concept> ;
+  skos:notation "ine" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ca#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Mixed Chorus"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/c#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005089#concept> ;
+  skos:notation "ca" .

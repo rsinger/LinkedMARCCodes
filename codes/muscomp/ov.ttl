@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ov#genre>
+  a mo:Genre ;
+  skos:prefLabel "Overtures"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Overture>, <info:lc/vocabulary/muscomp/ov> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85096215#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85096214> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Overture> ;
+  skos:notation "ov" .

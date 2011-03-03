@@ -3,7 +3,7 @@
 <cl#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Chile"@en ;
-  skos:altLabel "Easter Island"@en, "Isla de Pasqua"@en, "Isla Sala y Gómez"@en, "Islas Juan Fernández"@en, "Juan Fernández, Islas"@en, "Pasqua, Isla de"@en, "Sala y Gómez, Isla"@en, "San Félix"@en ;
+  skos:altLabel "Easter Island"@en, "Isla de Pasqua"@en, "Isla Sala y G\u00F3mez"@en, "Islas Juan Fern\u00E1ndez"@en, "Juan Fern\u00E1ndez, Islas"@en, "Pasqua, Isla de"@en, "Sala y G\u00F3mez, Isla"@en, "San F\u00E9lix"@en ;
   owl:sameAs <http://sws.geonames.org/3895114/>, <http://purl.org/NET/marccodes/gacs/s-cl#location>, <http://purl.org/NET/marccodes/gacs/poea#location>, <info:lc/vocabulary/countries/cl> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
   skos:notation "cl" .

@@ -4,6 +4,5 @@
   a wgs84:SpatialThing ;
   skos:prefLabel "United States Miscellaneous Pacific Islands"@en ;
   skos:altLabel "Pacific Islands (Trust Territory)"@en, "Pacific Islands (Ter.)"@en, "Trust Territory of the Pacific Islands"@en, "Pacific Islands (Ter.)"@en, "Trust Territory of the Pacific Islands"@en, "Island Dependencies of the United States in the Pacific"@en, "Pacific Island Dependencies of the United States"@en ;
-  skos:note "Includes American Samoa, Guam, Pacific Islands (Trust Territory) treated
-        collectively"@en ;
+  skos:note "Includes American Samoa, Guam, Pacific Islands (Trust Territory) treated\n        collectively"@en ;
   skos:notation "poup" .

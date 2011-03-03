@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bd#genre>
+  a mo:Genre ;
+  skos:prefLabel "Ballads"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Ballads>, <info:lc/vocabulary/muscomp/bd> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85011228#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Ballads> ;
+  skos:notation "bd" .

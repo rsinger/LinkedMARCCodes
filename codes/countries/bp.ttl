@@ -3,7 +3,7 @@
 <bp#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Solomon Islands"@en ;
-  skos:altLabel "British Solomon Islands"@en, "Choiseul"@en, "Guadalcanal"@en, "Malaita"@en, "San Cristóbal"@en, "Santa Isabel"@en, "Solomon Islands Protectorate"@en ;
+  skos:altLabel "British Solomon Islands"@en, "Choiseul"@en, "Guadalcanal"@en, "Malaita"@en, "San Crist\u00F3bal"@en, "Santa Isabel"@en, "Solomon Islands Protectorate"@en ;
   owl:sameAs <http://sws.geonames.org/2103350/>, <info:lc/vocabulary/countries/bp> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
   skos:notation "bp" .

@@ -2,29 +2,5 @@
 
 <6#location>
   skos:prefLabel "West Indies"@en ;
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/am#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/aq#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/aw#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/bf#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/bb#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/vb#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/cj#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/cu#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/dq#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/dr#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/gd#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/gp#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/ht#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/jm#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/mq#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/mj#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/na#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/pr#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xd#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xk#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xm#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/tr#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/tc#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/uc#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/vi#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/am#location>, <http://purl.org/NET/marccodes/countries/aq#location>, <http://purl.org/NET/marccodes/countries/aw#location>, <http://purl.org/NET/marccodes/countries/bf#location>, <http://purl.org/NET/marccodes/countries/bb#location>, <http://purl.org/NET/marccodes/countries/vb#location>, <http://purl.org/NET/marccodes/countries/cj#location>, <http://purl.org/NET/marccodes/countries/cu#location>, <http://purl.org/NET/marccodes/countries/dq#location>, <http://purl.org/NET/marccodes/countries/dr#location>, <http://purl.org/NET/marccodes/countries/gd#location>, <http://purl.org/NET/marccodes/countries/gp#location>, <http://purl.org/NET/marccodes/countries/ht#location>, <http://purl.org/NET/marccodes/countries/jm#location>, <http://purl.org/NET/marccodes/countries/mq#location>, <http://purl.org/NET/marccodes/countries/mj#location>, <http://purl.org/NET/marccodes/countries/na#location>, <http://purl.org/NET/marccodes/countries/pr#location>, <http://purl.org/NET/marccodes/countries/xd#location>, <http://purl.org/NET/marccodes/countries/xk#location>, <http://purl.org/NET/marccodes/countries/xm#location>, <http://purl.org/NET/marccodes/countries/tr#location>, <http://purl.org/NET/marccodes/countries/tc#location>, <http://purl.org/NET/marccodes/countries/uc#location>, <http://purl.org/NET/marccodes/countries/vi#location> ; 
   a wgs84:SpatialThing .

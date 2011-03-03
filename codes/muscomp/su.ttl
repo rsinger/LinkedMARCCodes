@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<su#genre>
+  a mo:Genre ;
+  skos:prefLabel "Suites"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Suite>, <info:lc/vocabulary/muscomp/su> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85129761#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85129759#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Suite> ;
+  mo:similar_to <http://purl.org/NET/marccodes/muscomp/dv#genre> ;
+  skos:notation "su" .

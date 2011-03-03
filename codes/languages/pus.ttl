@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pus#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Pushto"@en ;
+  skos:altLabel "Afghan"@en, "Pakhto"@en, "Pakkhto"@en, "Pashto"@en, "Pashtu"@en, "Pukhtu"@en, "Pukkhto"@en, "Pukshto"@en, "Pushtu"@en, "Wanetsi"@en, "Vanechi"@en, "Waneci"@en, "Wanesi"@en, "Wenetsi"@en, "Vanechi"@en, "Waneci"@en, "Wanesi"@en, "Wenetsi"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ps>, <http://lexvo.org/id/iso639-3/pus>, <info:lc/vocabulary/languages/pus> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85109230#concept> ;
+  skos:notation "pus" .

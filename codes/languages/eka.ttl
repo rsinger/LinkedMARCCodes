@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<eka#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Ekajuk"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/eka>, <info:lc/vocabulary/languages/eka> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85041438#concept> ;
+  skos:notation "eka" .

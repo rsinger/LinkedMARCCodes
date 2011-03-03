@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<we#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Piccolo"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Piccolo>, <http://id.loc.gov/authorities/sh85101940#concept> ;
+  skos:notation "we" .

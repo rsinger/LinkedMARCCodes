@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sma#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Southern Sami"@en ;
+  skos:altLabel "Sami, Southern"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/sma>, <info:lc/vocabulary/languages/sma> ;
+  skos:notation "sma" .

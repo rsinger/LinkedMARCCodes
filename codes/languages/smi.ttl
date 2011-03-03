@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<smi#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Sami"@en ;
+  skos:altLabel "Lapp"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/smi> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85074670#concept> ;
+  skos:notation "smi" .

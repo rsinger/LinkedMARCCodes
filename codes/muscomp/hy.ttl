@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hy#genre>
+  a mo:Genre ;
+  skos:prefLabel "Hymns"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Hymn>, <info:lc/vocabulary/muscomp/hy> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85063599#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh99001951#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Hymn> ;
+  skos:notation "hy" .

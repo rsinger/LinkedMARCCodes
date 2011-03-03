@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bl#genre>
+  a mo:Genre ;
+  skos:prefLabel "Blues"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Blues>, <info:lc/vocabulary/muscomp/bl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85015115#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Blues> ;
+  skos:notation "bl" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Microfilm"@en ;
+  owl:sameAs <info:lc/vocabulary/forms/a> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85084838#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm006501> ;
+  skos:notation "a" .

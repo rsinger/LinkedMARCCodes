@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cb#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chants, Other religions"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/cb> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85022543#concept>, <http://purl.org/NET/marccodes/muscomp/cc#genre> ;
+  skos:notation "cb" .

@@ -6,7 +6,6 @@
   skos:altLabel "Democratic German Republic"@en, "East Germany"@en, "German Democratic Republic"@en, "Germany, Eastern"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/gw#location>, <http://dbpedia.org/resource/East_Germany>, <info:lc/vocabulary/gacs/e-ge> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:East_Germany> ;
-  skos:note "For the eastern part of Germany before 1949 or after 1990 and for the German
-          Democratic Republic between 1949-1990]"@en ;
+  skos:note "For the eastern part of Germany before 1949 or after 1990 and for the German\n          Democratic Republic between 1949-1990]"@en ;
   dcterms:isPartOf <e#location> ;
   skos:notation "e-ge" .

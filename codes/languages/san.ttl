@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<san#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Sanskrit"@en ;
+  skos:altLabel "Sanscrit"@en, "Buddhist Hybrid Sanskrit"@en, "Hybrid Sanskrit, Buddhist"@en, "Hybrid Sanskrit, Buddhist"@en, "Epigraphical Hybrid Sanskrit"@en, "Hybrid Sanskrit, Epigraphical"@en, "Hybrid Sanskrit, Epigraphical"@en, "Vedic"@en, "Indic, Old"@en, "Old Indic"@en, "Vedic Sanskrit"@en, "Indic, Old"@en, "Old Indic"@en, "Vedic Sanskrit"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/sa>, <http://lexvo.org/id/iso639-3/san>, <info:lc/vocabulary/languages/san> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85117335#concept>, <http://id.loc.gov/authorities/sh85117336#concept>, <http://id.loc.gov/authorities/sh85142475#concept> ;
+  skos:notation "san" .

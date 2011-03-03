@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pm#genre>
+  a mo:Genre ;
+  skos:prefLabel "Passion music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Passion_%28music%29>, <info:lc/vocabulary/muscomp/pm> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85098521#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85098522#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Passion_%28music%29> ;
+  skos:notation "pm" .

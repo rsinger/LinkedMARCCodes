@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<r#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Regular print reproduction"@en ;
+  dcterms:description "Eye-readable print, such as a photocopy."@en ;
+  skos:notation "r" .

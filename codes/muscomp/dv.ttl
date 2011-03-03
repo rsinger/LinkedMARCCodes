@@ -1,0 +1,13 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dv#genre>
+  a mo:Genre ;
+  skos:prefLabel "Divertimentos, serenades, cassations, divertissements, and notturni"@en ;
+  skos:altLabel "Divertimentos"@en, "Serenades"@en, "Cassations"@en, "Divertissements"@en, "Notturni"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/dv> ;
+  umbel:isLike <http://dbpedia.org/resource/Divertimento>, <http://dbpedia.org/resource/Serenade>, <http://dbpedia.org/resource/Divertissement> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85129761#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85129759#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Divertimento>, <http://en.wikipedia.org/wiki/Serenade>, <http://en.wikipedia.org/wiki/Divertissement> ;
+  mo:similar_to <http://purl.org/NET/marccodes/muscomp/su#genre> ;
+  skos:notation "dv" .

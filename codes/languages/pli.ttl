@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pli#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Pali"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/pi>, <http://lexvo.org/id/iso639-3/pli>, <info:lc/vocabulary/languages/pli> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85097195#concept> ;
+  skos:notation "pli" .

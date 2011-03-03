@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bul#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Bulgarian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/bg>, <http://lexvo.org/id/iso639-3/bul>, <info:lc/vocabulary/languages/bul> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85017903#concept> ;
+  skos:notation "bul" .

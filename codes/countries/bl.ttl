@@ -3,7 +3,7 @@
 <bl#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Brazil"@en ;
-  skos:altLabel "Fernando de Noronha"@en, "Ilha da Trindade"@en, "Ilhas Martim Vaz"@en, "Martim Vaz, Ilhas"@en, "Penedos de São Pedro e São Paulo"@en, "Rocas"@en, "Trindade, Ilha da"@en ;
+  skos:altLabel "Fernando de Noronha"@en, "Ilha da Trindade"@en, "Ilhas Martim Vaz"@en, "Martim Vaz, Ilhas"@en, "Penedos de S\u00E3o Pedro e S\u00E3o Paulo"@en, "Rocas"@en, "Trindade, Ilha da"@en ;
   owl:sameAs <http://sws.geonames.org/3469034/>, <http://purl.org/NET/marccodes/gacs/s-bl#location>, <info:lc/vocabulary/countries/bl> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
   skos:notation "bl" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<c#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Chorus"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/cb#term>, <http://purl.org/NET/marccodes/musperf/cu#term>, <http://purl.org/NET/marccodes/musperf/cc#term>, <http://purl.org/NET/marccodes/musperf/cd#term>, <http://purl.org/NET/marccodes/musperf/cy#term>, <http://purl.org/NET/marccodes/musperf/cn#term>, <http://purl.org/NET/marccodes/musperf/ca#term> ; 
+  skos:notation "c" .

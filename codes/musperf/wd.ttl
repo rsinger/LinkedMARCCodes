@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Bassoon"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Bassoon>, <http://id.loc.gov/authorities/sh85012193#concept> ;
+  skos:notation "wd" .

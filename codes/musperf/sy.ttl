@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sy#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, bowed - Ethnic"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:notation "sy" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Preschool"@en ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh87008036#concept> ;
+  dcterms:description "Intended for children, approximate ages 0-5 years."@en ;
+  skos:notation "a" .

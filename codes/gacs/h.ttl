@@ -3,6 +3,6 @@
 <h#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "French Community"@en ;
-  skos:altLabel "Communauté francaise"@en, "French Union"@en ;
+  skos:altLabel "Communaut\u00E9 francaise"@en, "French Union"@en ;
   owl:sameAs <http://dbpedia.org/resource/French_Community>, <info:lc/vocabulary/gacs/h> ;
   skos:notation "h" .

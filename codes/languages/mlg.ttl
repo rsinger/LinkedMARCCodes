@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mlg#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Malagasy"@en ;
+  skos:altLabel "Hova"@en, "Madagascan"@en, "Malgache"@en, "Merina"@en, "Bara (Madagascar)"@en, "Betsileo"@en, "Masikoro"@en, "Sakalava"@en, "Tsimihety"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/mg>, <http://lexvo.org/id/iso639-3/mlg>, <info:lc/vocabulary/languages/mlg> ;
+  skos:notation "mlg" .

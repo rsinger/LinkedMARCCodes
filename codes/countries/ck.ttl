@@ -3,7 +3,7 @@
 <ck#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Colombia"@en ;
-  skos:altLabel "Isla de Malpelo"@en, "Malpelo, Isla de"@en, "San Andrés y Providencia"@en, "Serrana Bank"@en, "Serranilla Bank"@en ;
+  skos:altLabel "Isla de Malpelo"@en, "Malpelo, Isla de"@en, "San Andr\u00E9s y Providencia"@en, "Serrana Bank"@en, "Serranilla Bank"@en ;
   owl:sameAs <http://sws.geonames.org/3686110/>, <http://purl.org/NET/marccodes/gacs/s-ck#location>, <info:lc/vocabulary/countries/ck> ;
   skos:note "Before 1978-01-01 use uc (United States Misc. Caribbean Islands)"@en, "Before 1978-01-01 use uc (United States Misc. Caribbean Islands)"@en, "Before 1978-01-01 use uc (United States Misc. Caribbean Islands)"@en, "Before 1978-01-01 use uc (United States Misc. Caribbean Islands)"@en ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;

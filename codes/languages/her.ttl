@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<her#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Herero"@en ;
+  skos:altLabel "Himba"@en, "Chimba"@en, "Cimba"@en, "Dhimba"@en, "Simba"@en, "Tjimba"@en, "Chimba"@en, "Cimba"@en, "Dhimba"@en, "Simba"@en, "Tjimba"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/hz>, <http://lexvo.org/id/iso639-3/her>, <info:lc/vocabulary/languages/her> ;
+  skos:notation "her" .

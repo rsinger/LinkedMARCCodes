@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vr#genre>
+  a mo:Genre ;
+  skos:prefLabel "Variations"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Variation_%28music%29>, <info:lc/vocabulary/muscomp/vr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85142099#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85142096#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Variation_%28music%29> ;
+  skos:notation "vr" .

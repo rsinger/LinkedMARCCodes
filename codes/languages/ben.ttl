@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ben#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Bengali"@en ;
+  skos:altLabel "Banga-Bhasa"@en, "Bangala"@en, "Bangla"@en, "Sylheti"@en, "Sylhet"@en, "Sylhetti Bangla"@en, "Sylhet"@en, "Sylhetti Bangla"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/bn>, <http://lexvo.org/id/iso639-3/ben>, <info:lc/vocabulary/languages/ben> ;
+  skos:notation "ben" .

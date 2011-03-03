@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<c#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Pre-adolescent"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Preadolescence> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh94001321#concept> ;
+  dcterms:description "Intended for young people, approximate ages 9-13."@en ;
+  skos:notation "c" .

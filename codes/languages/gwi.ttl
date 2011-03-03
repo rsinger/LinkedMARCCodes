@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gwi#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Gwich'in"@en ;
+  skos:altLabel "Kutchin"@en, "Loucheux"@en, "Takudh"@en, "Tukudh"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/gwi>, <info:lc/vocabulary/languages/gwi> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh96003287#concept> ;
+  skos:notation "gwi" .

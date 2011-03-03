@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<iro#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Iroquoian (Other)"@en ;
+  skos:altLabel "Cayuga"@en, "Iroquois"@en, "Oneida"@en, "Onondaga"@en, "Seneca"@en, "Tuscarora"@en, "Wyandot"@en, "Huron"@en, "Huron"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/iro> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh96003821#concept>, <http://id.loc.gov/authorities/sh85068273#concept>, <http://id.loc.gov/authorities/sh85094781#concept>, <http://id.loc.gov/authorities/sh85094817#concept>, <http://id.loc.gov/authorities/sh85119995#concept>, <http://id.loc.gov/authorities/sh85138975#concept>, <http://id.loc.gov/authorities/sh85063187#concept> ;
+  skos:notation "iro" .

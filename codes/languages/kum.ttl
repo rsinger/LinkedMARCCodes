@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kum#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kumyk"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/kum>, <info:lc/vocabulary/languages/kum> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85073430#concept> ;
+  skos:notation "kum" .

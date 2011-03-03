@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cus#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Cushitic (Other)"@en ;
+  skos:altLabel "Alaba"@en, "Alaaba"@en, "Allaaba"@en, "Halaba"@en, "Alaaba"@en, "Allaaba"@en, "Halaba"@en, "Burji"@en, "Dasenech"@en, "Geleb"@en, "Marille"@en, "Geleb"@en, "Marille"@en, "Gedeo"@en, "Darasa"@en, "Derasa"@en, "Darasa"@en, "Derasa"@en, "Hadiya"@en, "Iraqw"@en, "Kambata"@en, "Qebena"@en, "K'abena"@en, "Kebena"@en, "Qabena"@en, "Womba"@en, "Wombi Afoo"@en, "Wombisanat"@en, "K'abena"@en, "Kebena"@en, "Qabena"@en, "Womba"@en, "Wombi Afoo"@en, "Wombisanat"@en, "Rendille"@en, "Tunni"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/cus> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2009001351#concept>, <http://id.loc.gov/authorities/sh85018097#concept>, <http://id.loc.gov/authorities/sh2002009986#concept>, <http://id.loc.gov/authorities/sh90004284#concept>, <http://id.loc.gov/authorities/sh2005006934#concept>, <http://id.loc.gov/authorities/sh85067959#concept>, <http://id.loc.gov/authorities/sh2005006939#concept>, <http://id.loc.gov/authorities/sh85112833#concept>, <http://id.loc.gov/authorities/sh98003529#concept> ;
+  skos:notation "cus" .

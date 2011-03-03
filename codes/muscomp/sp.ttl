@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sp#genre>
+  a mo:Genre ;
+  skos:prefLabel "Symphonic poems"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Symphonic_poem>, <info:lc/vocabulary/muscomp/sp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85131460#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85131459#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Symphonic_poem> ;
+  skos:notation "sp" .

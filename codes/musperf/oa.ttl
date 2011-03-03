@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oa#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Full orchestra"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:relatedMatch <http://dbpedia.org/resource/Category:Orchestras> ;
+  skos:notation "oa" .

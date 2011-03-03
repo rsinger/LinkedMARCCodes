@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<orm#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Oromo"@en ;
+  skos:altLabel "Afan"@en, "Galla"@en, "Gallinya"@en, "Boran"@en, "Orma"@en, "Uardai"@en, "Warday"@en, "Uardai"@en, "Warday"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/om>, <http://lexvo.org/id/iso639-3/orm>, <info:lc/vocabulary/languages/orm> ;
+  skos:notation "orm" .

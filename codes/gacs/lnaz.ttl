@@ -3,7 +3,7 @@
 <lnaz#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Azores"@en ;
-  skos:altLabel "Açores"@en ;
+  skos:altLabel "A\u00E7ores"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/po#location>, <http://sws.geonames.org/3373385/>, <http://dbpedia.org/resource/Azores>, <info:lc/vocabulary/gacs/lnaz> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Azores> ;
   skos:notation "lnaz" .

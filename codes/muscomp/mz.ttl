@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mz#genre>
+  a mo:Genre ;
+  skos:prefLabel "Mazurkas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Mazurka>, <info:lc/vocabulary/muscomp/mz> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85082460#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Mazurka> ;
+  skos:notation "mz" .

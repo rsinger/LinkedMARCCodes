@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zul#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Zulu"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/zu>, <http://lexvo.org/id/iso639-3/zul>, <info:lc/vocabulary/languages/zul> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85150044#concept> ;
+  skos:notation "zul" .

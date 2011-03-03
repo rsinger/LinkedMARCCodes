@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cmc#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Chamic languages"@en ;
+  skos:altLabel "Cham"@en, "\u010Cam"@en, "\u010Cam"@en, "Haroi"@en, "Jarai"@en, "Rade"@en, "Ede"@en, "Rhade"@en, "Ede"@en, "Rhade"@en, "Roglai"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/cmc> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85022401#concept>, <http://id.loc.gov/authorities/sh85058983#concept>, <http://id.loc.gov/authorities/sh85069751#concept>, <http://id.loc.gov/authorities/sh85110329#concept>, <http://id.loc.gov/authorities/sh88003814#concept> ;
+  skos:notation "cmc" .

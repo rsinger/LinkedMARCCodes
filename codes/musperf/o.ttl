@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<o#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Larger ensemble"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/oz#term>, <http://purl.org/NET/marccodes/musperf/on#term>, <http://purl.org/NET/marccodes/musperf/oa#term>, <http://purl.org/NET/marccodes/musperf/ob#term>, <http://purl.org/NET/marccodes/musperf/oc#term>, <http://purl.org/NET/marccodes/musperf/ou#term>, <http://purl.org/NET/marccodes/musperf/od#term>, <http://purl.org/NET/marccodes/musperf/oe#term>, <http://purl.org/NET/marccodes/musperf/of#term>, <http://purl.org/NET/marccodes/musperf/oy#term> ; 
+  skos:notation "o" .

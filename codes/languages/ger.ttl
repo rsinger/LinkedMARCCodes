@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ger#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "German"@en ;
+  skos:altLabel "Hochdeutsch"@en, "Alemannic"@en, "Alamannic"@en, "Alemannisch"@en, "Allemannic"@en, "Allemannisch"@en, "Alsatian"@en, "Schwyzerd\u00FCtsch"@en, "Alamannic"@en, "Alemannisch"@en, "Allemannic"@en, "Allemannisch"@en, "Alsatian"@en, "Schwyzerd\u00FCtsch"@en, "Cimbrian"@en, "Tzimbro"@en, "Zimbrisch"@en, "Tzimbro"@en, "Zimbrisch"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/ger> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2002001717#concept> ;
+  skos:notation "ger" .

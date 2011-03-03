@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, plucked - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:notation "tu" .

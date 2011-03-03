@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wa#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Flute"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Flutes> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Flute>, <http://id.loc.gov/authorities/sh85049452#concept> ;
+  skos:notation "wa" .

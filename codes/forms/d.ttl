@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<d#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Large print"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Large-print>, <info:lc/vocabulary/forms/d> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85074712#concept> ;
+  dcterms:description "Item is in a large print format. Items are usually identified as large-print by a qualifier to the ISBN, a series statement, or a formal edition statement. According to the standard set by the National Library Service for the Blind and Physically Handicapped of the Library of Congress, 14-point type is the minimum to be regarded as large type. Items labeled \"large print\" or \"larger print,\" regardless of font size, should also be coded as large print."@en ;
+  skos:notation "d" .

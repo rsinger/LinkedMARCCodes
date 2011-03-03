@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ton#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Tongan"@en ;
+  skos:altLabel "Tonga (Tonga Islands)"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/to>, <http://lexvo.org/id/iso639-3/ton>, <info:lc/vocabulary/languages/ton> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85135982#concept> ;
+  skos:notation "ton" .

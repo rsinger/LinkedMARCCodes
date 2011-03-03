@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hin#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Hindi"@en ;
+  skos:altLabel "Badayuni"@en, "Bagheli"@en, "Bagelkhandi"@en, "Bhugelkhud"@en, "Ganggai"@en, "Kawathi"@en, "Kenat"@en, "Kevat Boli"@en, "Kevati"@en, "Kewani"@en, "Kewat"@en, "Kewati"@en, "Kewot"@en, "Mandal"@en, "Mannadi"@en, "Riwai"@en, "Bagelkhandi"@en, "Bhugelkhud"@en, "Ganggai"@en, "Kawathi"@en, "Kenat"@en, "Kevat Boli"@en, "Kevati"@en, "Kewani"@en, "Kewat"@en, "Kewati"@en, "Kewot"@en, "Mandal"@en, "Mannadi"@en, "Riwai"@en, "Bangaru"@en, "Hariani"@en, "Jatu"@en, "Hariani"@en, "Jatu"@en, "Bundeli"@en, "Bundelkhandi"@en, "Bundelkhandi"@en, "Chattisgarhi"@en, "Chhattisgarhi"@en, "Khal\u1E6D\u0101h\u012B"@en, "Khatahi"@en, "Laria"@en, "Chhattisgarhi"@en, "Khal\u1E6D\u0101h\u012B"@en, "Khatahi"@en, "Laria"@en, "Deswali"@en, "Kanauji"@en, "Bhakha"@en, "Braj Kanauji"@en, "Kannauj\u012B"@en, "Bhakha"@en, "Braj Kanauji"@en, "Kannauj\u012B"@en, "Khari Boli"@en, "Kaurav\u012B"@en, "Kha\u1E5B\u012Bbol\u012B"@en, "Kourvi"@en, "Kaurav\u012B"@en, "Kha\u1E5B\u012Bbol\u012B"@en, "Kourvi"@en, "Marari"@en, "Pawari"@en, "Powari"@en, "Pov\u0101r\u012B"@en, "Pov\u0101r\u012B"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/hi>, <http://lexvo.org/id/iso639-3/hin>, <info:lc/vocabulary/languages/hin> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85010964#concept>, <http://id.loc.gov/authorities/sh85072166#concept> ;
+  skos:notation "hin" .

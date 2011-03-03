@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<o#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Online"@en ;
+  dcterms:description "The resource is accessed by means of hardware and software connections to a communications network. If a distinction between types of electronic resources is not necessary, code s can be used as a generic code for any form of electronic resource."@en ;
+  skos:notation "o" .

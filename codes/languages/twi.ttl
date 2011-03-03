@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<twi#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Twi"@en ;
+  skos:altLabel "Akuapem"@en, "Ashanti"@en, "Chwee"@en, "Odschi"@en, "Tshi"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/tw>, <http://lexvo.org/id/iso639-3/twi>, <info:lc/vocabulary/languages/twi> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85139030#concept> ;
+  skos:notation "twi" .

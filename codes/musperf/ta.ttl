@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ta#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Harp"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Harps> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Harp>, <http://id.loc.gov/authorities/sh85058984#concept> ;
+  skos:notation "ta" .

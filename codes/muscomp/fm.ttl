@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fm#genre>
+  a mo:Genre ;
+  skos:prefLabel "Folk music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Folk_music>, <info:lc/vocabulary/muscomp/fm> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85049843#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Folk_music> ;
+  skos:notation "fm" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vf#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Bass"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005068#concept> ;
+  skos:notation "vf" .

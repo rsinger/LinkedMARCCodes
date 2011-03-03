@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<jpn#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Japanese"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ja>, <http://lexvo.org/id/iso639-3/jpn>, <info:lc/vocabulary/languages/jpn> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85069643#concept> ;
+  skos:note "Use for related Japanese languages and dialects"@en ;
+  skos:notation "jpn" .

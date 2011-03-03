@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<jav#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Javanese"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/jv>, <http://lexvo.org/id/iso639-3/jav>, <info:lc/vocabulary/languages/jav> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85069794#concept> ;
+  skos:notation "jav" .

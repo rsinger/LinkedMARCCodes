@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bos#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Bosnian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/bs>, <http://lexvo.org/id/iso639-3/bos>, <info:lc/vocabulary/languages/bos> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh00003105#concept> ;
+  skos:notation "bos" .

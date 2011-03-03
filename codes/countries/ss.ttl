@@ -3,6 +3,6 @@
 <ss#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Western Sahara"@en ;
-  skos:altLabel "Río de Oro"@en, "Saguia el Hamra"@en, "Spanish Sahara"@en ;
+  skos:altLabel "R\u00EDo de Oro"@en, "Saguia el Hamra"@en, "Spanish Sahara"@en ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
   skos:notation "ss" .

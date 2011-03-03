@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<goh#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "German, Old High (ca. 750-1050)"@en ;
+  skos:altLabel "Old High German"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/goh>, <info:lc/vocabulary/languages/goh> ;
+  skos:notation "goh" .

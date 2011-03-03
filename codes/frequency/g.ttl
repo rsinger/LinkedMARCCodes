@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<g#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Biennial"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Biennial> ;
+  dcterms:description "Issued or updated every two years."@en ;
+  skos:notation "g" .

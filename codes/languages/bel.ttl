@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bel#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Belarusian"@en ;
+  skos:altLabel "Belorussian"@en, "Byelorussian"@en, "Russian, White"@en, "White Russian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/be>, <http://lexvo.org/id/iso639-3/bel>, <info:lc/vocabulary/languages/bel> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85018438#concept> ;
+  skos:notation "bel" .

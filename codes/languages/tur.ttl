@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tur#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Turkish"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/tr>, <http://lexvo.org/id/iso639-3/tur>, <info:lc/vocabulary/languages/tur> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85138883#concept> ;
+  skos:notation "tur" .

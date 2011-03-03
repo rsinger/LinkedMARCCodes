@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sel#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Selkup"@en ;
+  skos:altLabel "Ostiak Samoyed"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/sel>, <info:lc/vocabulary/languages/sel> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85119814#concept> ;
+  skos:notation "sel" .

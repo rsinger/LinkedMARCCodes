@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sal#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Salishan languages"@en ;
+  skos:altLabel "Bella Coola"@en, "Colville"@en, "Comox"@en, "Komuk"@en, "Komuk"@en, "Cowlitz"@en, "Kalispel"@en, "Pend d'Oreille"@en, "Pend d'Oreille"@en, "Lillooet"@en, "Ntlakyapamuk"@en, "Netlakapamuk"@en, "Thompson"@en, "Netlakapamuk"@en, "Thompson"@en, "Okanagan"@en, "Okinagan"@en, "Okinagan"@en, "Quinault"@en, "Salish"@en, "Sechelt"@en, "Seshelt"@en, "Seshelt"@en, "Shuswap"@en, "Squawmish"@en, "Skwamish"@en, "Skwamish"@en, "Stalo"@en, "Halkomelem"@en, "Halkomelem"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/sal> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85013030#concept>, <http://id.loc.gov/authorities/sh85028776#concept>, <http://id.loc.gov/authorities/sh2004014053#concept>, <http://id.loc.gov/authorities/sh85071351#concept>, <http://id.loc.gov/authorities/sh85076978#concept>, <http://id.loc.gov/authorities/sh85092927#concept>, <http://id.loc.gov/authorities/sh85094462#concept>, <http://id.loc.gov/authorities/sh85109872#concept>, <http://id.loc.gov/authorities/sh85116800#concept>, <http://id.loc.gov/authorities/sh85119522#concept>, <http://id.loc.gov/authorities/sh85122171#concept>, <http://id.loc.gov/authorities/sh85127105#concept>, <http://id.loc.gov/authorities/sh85127288#concept> ;
+  skos:notation "sal" .

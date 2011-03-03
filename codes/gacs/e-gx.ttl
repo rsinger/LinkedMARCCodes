@@ -7,9 +7,6 @@
   owl:sameAs <http://purl.org/NET/marccodes/countries/gw#location>, <http://sws.geonames.org/2921044/>, <http://dbpedia.org/resource/Germany>, <info:lc/vocabulary/gacs/e-gx> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Germany> ;
   rdfs:seeAlso <http://id.loc.gov/authorities/sh85054676#concept>, <http://id.loc.gov/authorities/sh85054677#concept> ;
-  skos:note "For Germany as a whole regardless of time period; includes Germany (East) and Germany
-          (West) as a whole between 1949 and 1990]"@en, "Coded [e-gx] (Germany) for Berlin as a whole; [e-ge] (Germany (East)) for East
-            Berlin; or [e-gw] (Germany (West)) for West Berlin before Jan. 1991]"@en, "Coded [e-gx] (Germany) for Berlin as a whole; [e-ge] (Germany (East)) for East
-            Berlin; or [e-gw] (Germany (West)) for West Berlin before Jan. 1991]"@en ;
+  skos:note "For Germany as a whole regardless of time period; includes Germany (East) and Germany\n          (West) as a whole between 1949 and 1990]"@en, "Coded [e-gx] (Germany) for Berlin as a whole; [e-ge] (Germany (East)) for East\n            Berlin; or [e-gw] (Germany (West)) for West Berlin before Jan. 1991]"@en, "Coded [e-gx] (Germany) for Berlin as a whole; [e-ge] (Germany (East)) for East\n            Berlin; or [e-gw] (Germany (West)) for West Berlin before Jan. 1991]"@en ;
   dcterms:isPartOf <e#location> ;
   skos:notation "e-gx" .

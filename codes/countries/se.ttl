@@ -3,7 +3,7 @@
 <se#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Seychelles"@en ;
-  skos:altLabel "Aldabra Islands"@en, "Alphonse Island"@en, "Amirante Isles"@en, "Bijoutier Island"@en, "Cosmoledo Islands"@en, "Desroches, Ile"@en, "Farquhar Atoll"@en, "François Island"@en, "Ile Desroches"@en, "Saint Francois Island"@en, "Saint Pierre Islet"@en ;
+  skos:altLabel "Aldabra Islands"@en, "Alphonse Island"@en, "Amirante Isles"@en, "Bijoutier Island"@en, "Cosmoledo Islands"@en, "Desroches, Ile"@en, "Farquhar Atoll"@en, "Fran\u00E7ois Island"@en, "Ile Desroches"@en, "Saint Francois Island"@en, "Saint Pierre Islet"@en ;
   owl:sameAs <http://sws.geonames.org/241170/>, <info:lc/vocabulary/countries/se> ;
   skos:note "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;

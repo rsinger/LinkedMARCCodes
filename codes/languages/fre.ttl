@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fre#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "French"@en ;
+  skos:altLabel "Allevard French"@en, "French, Allevard"@en, "French, Allevard"@en, "Morvan French"@en, "French, Morvan"@en, "French, Morvan"@en, "Poitevin French"@en, "French, Poitevin"@en, "French, Poitevin"@en, "Saintongeais French"@en, "French, Saintongeais"@en, "French, Saintongeais"@en ;
+  skos:notation "fre" .

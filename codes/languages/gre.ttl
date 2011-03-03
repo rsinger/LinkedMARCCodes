@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gre#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Greek, Modern (1453- )"@en ;
+  skos:altLabel "East Cretan Greek"@en, "Cretan Greek, East"@en, "Greek, East Cretan"@en, "Cretan Greek, East"@en, "Greek, East Cretan"@en ;
+  skos:notation "gre" .

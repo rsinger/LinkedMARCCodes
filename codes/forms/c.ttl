@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<c#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Microopaque"@en ;
+  owl:sameAs <info:lc/vocabulary/forms/c> ;
+  umbel:isAbout <http://id.loc.gov/vocabulary/graphicMaterials/tgm006503> ;
+  skos:notation "c" .

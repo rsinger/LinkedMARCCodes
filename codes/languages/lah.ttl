@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lah#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Lahnd\u0101"@en ;
+  skos:altLabel "Ja\u1E6Dk\u012B"@en, "Lahndi"@en, "Panjabi, Western"@en, "Western Panjabi"@en, "Hindk\u014Do"@en, "Khetr\u0101n\u012B"@en, "P\u014D\u1E6Dhw\u0101r\u012B"@en, "Siraiki"@en, "Bahawalpuri"@en, "Lahnda, Southern"@en, "Multani"@en, "Mutani"@en, "Panjabi, Southern"@en, "Reasati"@en, "Riasati"@en, "Saraiki"@en, "Southern Lahnda"@en, "Southern Panjabi"@en, "Bahawalpuri"@en, "Lahnda, Southern"@en, "Multani"@en, "Mutani"@en, "Panjabi, Southern"@en, "Reasati"@en, "Riasati"@en, "Saraiki"@en, "Southern Lahnda"@en, "Southern Panjabi"@en, "Sir\u0101ik\u012B Hindk\u012B"@en, "Siraiki Lahndi"@en, "Siraiki Lahndi"@en, "Sir\u0101ik\u012B Sindh\u012B"@en, "Sindhi, Siraiki"@en, "Sindhi, Siraiki"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/lah>, <info:lc/vocabulary/languages/lah> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh89005564#concept> ;
+  skos:notation "lah" .

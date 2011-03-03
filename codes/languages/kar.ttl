@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kar#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Karen languages"@en ;
+  skos:altLabel "Kayah"@en, "Karen, Red"@en, "Red Karen"@en, "Karen, Red"@en, "Red Karen"@en, "Pwo Karen"@en, "Sgaw Karen"@en, "Taungthu"@en, "Pa-o"@en, "Pa-o"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/kar> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh91003035#concept>, <http://id.loc.gov/authorities/sh85109262#concept>, <http://id.loc.gov/authorities/sh85120762#concept>, <http://id.loc.gov/authorities/sh92006042#concept> ;
+  skos:notation "kar" .

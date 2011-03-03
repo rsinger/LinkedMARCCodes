@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pal#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Pahlavi"@en ;
+  skos:altLabel "Huzvaresh"@en, "Middle Persian (Pahlavi)"@en, "Parsi"@en, "Pazend"@en, "Pehlevi"@en, "Persian, Middle (Pahlavi)"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/pal>, <info:lc/vocabulary/languages/pal> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85096602#concept> ;
+  skos:notation "pal" .

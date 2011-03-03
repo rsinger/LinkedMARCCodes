@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kan#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kannada"@en ;
+  skos:altLabel "Canarese"@en, "Kanarese"@en, "Havyaka"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/kn>, <http://lexvo.org/id/iso639-3/kan>, <info:lc/vocabulary/languages/kan> ;
+  skos:notation "kan" .

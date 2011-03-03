@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<swa#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Swahili"@en ;
+  skos:altLabel "Kae"@en, "Kingwana"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/sw>, <http://lexvo.org/id/iso639-3/swa>, <info:lc/vocabulary/languages/swa> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85072460#concept> ;
+  skos:notation "swa" .

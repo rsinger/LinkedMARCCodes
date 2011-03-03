@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Voices - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:notation "vu" .

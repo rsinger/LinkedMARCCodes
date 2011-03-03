@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<srp#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Serbian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/sr>, <http://lexvo.org/id/iso639-3/srp>, <info:lc/vocabulary/languages/srp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh00003109#concept> ;
+  skos:notation "srp" .

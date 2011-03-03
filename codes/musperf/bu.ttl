@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Brass - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:notation "bu" .

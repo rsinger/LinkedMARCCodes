@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<crp#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Creoles and Pidgins (Other)"@en ;
+  skos:altLabel "Pidgins"@en, "Ambonese Malay"@en, "Malay, Ambonese"@en, "Malay, Ambonese"@en, "Betawi"@en, "Batawi"@en, "Jakarta Malay"@en, "Malay, Jakarta"@en, "Batawi"@en, "Jakarta Malay"@en, "Malay, Jakarta"@en, "Chabacano"@en, "Chavacano"@en, "Zamboangue\u00F1o"@en, "Chavacano"@en, "Zamboangue\u00F1o"@en, "Fanakalo"@en, "Fanagalo"@en, "Pidgin Kaffir"@en, "Fanagalo"@en, "Pidgin Kaffir"@en, "Kituba"@en, "Ikeleve"@en, "Monokutuba"@en, "Munukutuba"@en, "Ikeleve"@en, "Monokutuba"@en, "Munukutuba"@en, "Naga Pidgin"@en, "Nagamese"@en, "Nagamese"@en, "San Basilio del Palenque Spanish Creole"@en, "Palenquero (Colombia)"@en, "Spanish Creole, San Basilio del Palenque"@en, "Palenquero (Colombia)"@en, "Spanish Creole, San Basilio del Palenque"@en, "Unami jargon"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/crp> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85022232#concept>, <http://id.loc.gov/authorities/sh85072593#concept> ;
+  skos:notation "crp" .

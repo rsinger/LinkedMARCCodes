@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<csb#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kashubian"@en ;
+  skos:altLabel "Cashubian"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/csb>, <info:lc/vocabulary/languages/csb> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85071708#concept> ;
+  skos:notation "csb" .

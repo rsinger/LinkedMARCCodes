@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bem#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Bemba"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/bem>, <info:lc/vocabulary/languages/bem> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85013096#concept> ;
+  skos:notation "bem" .

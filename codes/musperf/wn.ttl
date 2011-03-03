@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wn#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Woodwinds - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:notation "wn" .

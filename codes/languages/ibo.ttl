@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ibo#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Igbo"@en ;
+  skos:altLabel "Ibo"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ig>, <http://lexvo.org/id/iso639-3/ibo>, <info:lc/vocabulary/languages/ibo> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85064203#concept> ;
+  skos:notation "ibo" .

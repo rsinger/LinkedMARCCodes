@@ -1,0 +1,13 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cn#genre>
+  a mo:Genre ;
+  skos:prefLabel "Canons and rounds"@en ;
+  skos:altLabel "Canons"@en, "Rounds"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/cn> ;
+  umbel:isLike <http://dbpedia.org/resource/Canon_%28music%29>, <http://dbpedia.org/resource/Round_%28music%29> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85019665#concept>, <http://id.loc.gov/authorities/sh85055248#concept>, <http://id.loc.gov/authorities/sj96006064#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh92004988#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Canon_%28music%29>, <http://en.wikipedia.org/wiki/Round_%28music%29> ;
+  mo:similar_to <http://purl.org/NET/marccodes/muscomp/fg#genre>, <http://purl.org/NET/marccodes/muscomp/pr#genre> ;
+  skos:notation "cn" .

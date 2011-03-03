@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uig#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Uighur"@en ;
+  skos:altLabel "Eastern Turki"@en, "Kashgar-Yarkend"@en, "Turki, Eastern"@en, "Uigur"@en, "Uyghur"@en, "Wighor"@en, "Yarkend"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ug>, <http://lexvo.org/id/iso639-3/uig>, <info:lc/vocabulary/languages/uig> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85139320#concept> ;
+  skos:notation "uig" .

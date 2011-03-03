@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mad#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Madurese"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/mad>, <info:lc/vocabulary/languages/mad> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85079555#concept> ;
+  skos:notation "mad" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<heb#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Hebrew"@en ;
+  skos:altLabel "Ancient Hebrew"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/he>, <http://lexvo.org/id/iso639-3/heb>, <info:lc/vocabulary/languages/heb> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85059867#concept> ;
+  skos:notation "heb" .

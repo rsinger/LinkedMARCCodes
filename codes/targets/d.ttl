@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<d#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Adolescent"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Adolescence> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh87006824#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm010613> ;
+  dcterms:description "Intended for young people, approximate ages 14-17."@en ;
+  skos:notation "d" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Bluegrass Music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Bluegrass_music>, <info:lc/vocabulary/muscomp/bg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85015108#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Bluegrass_music> ;
+  skos:notation "bg" .

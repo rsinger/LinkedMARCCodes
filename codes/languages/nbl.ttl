@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nbl#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Ndebele (South Africa)"@en ;
+  skos:altLabel "Ndzundza"@en, "Nrebele (South Africa)"@en, "Transvaal Ndebele"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/nr>, <http://lexvo.org/id/iso639-3/nbl>, <info:lc/vocabulary/languages/nbl> ;
+  skos:notation "nbl" .

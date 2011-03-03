@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<b#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Microfiche"@en ;
+  owl:sameAs <info:lc/vocabulary/forms/b> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85084829#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm006499> ;
+  skos:notation "b" .

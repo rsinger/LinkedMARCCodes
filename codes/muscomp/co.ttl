@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<co#genre>
+  a mo:Genre ;
+  skos:prefLabel "Concertos"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Concerto>, <info:lc/vocabulary/muscomp/co> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85029646#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85029644#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Concerto> ;
+  skos:notation "co" .

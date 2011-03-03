@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Adult"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Adult> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85001056#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm000096> ;
+  dcterms:description "Intended for adults."@en ;
+  skos:notation "e" .

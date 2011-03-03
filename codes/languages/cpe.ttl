@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cpe#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Creoles and Pidgins, English-based (Other)"@en ;
+  skos:altLabel "Bamyili Creole"@en, "Djuka"@en, "Aucaans"@en, "Aukan"@en, "Djoeka"@en, "Ndjuka"@en, "Aucaans"@en, "Aukan"@en, "Djoeka"@en, "Ndjuka"@en, "English-based Creoles and Pidgins (Other)"@en, "Fitzroy Valley Kriol"@en, "Hawaiian Pidgin English"@en, "Jamaican Creole"@en, "Krio"@en, "Aku (Creole)"@en, "Aku (Creole)"@en, "Kriol"@en, "Pijin"@en, "Neo-Solomonic"@en, "Solomons Pidgin"@en, "Neo-Solomonic"@en, "Solomons Pidgin"@en, "Pidgin English"@en, "Saramaccan"@en, "Sea Islands Creole"@en, "Geechee"@en, "Gullah"@en, "Geechee"@en, "Gullah"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/cpe> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85038668#concept>, <http://id.loc.gov/authorities/sh85073288#concept>, <http://id.loc.gov/authorities/sh91001734#concept>, <http://id.loc.gov/authorities/sh2008009792#concept>, <http://id.loc.gov/authorities/sh85117480#concept> ;
+  skos:notation "cpe" .

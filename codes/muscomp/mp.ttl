@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mp#genre>
+  a mo:Genre ;
+  skos:prefLabel "Motion picture music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Film_score>, <info:lc/vocabulary/muscomp/mp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85088056#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Film_score> ;
+  skos:notation "mp" .

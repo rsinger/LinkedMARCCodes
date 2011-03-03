@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Double bass"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Double_basses> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Double_Bass>, <http://id.loc.gov/authorities/sh85039150#concept> ;
+  skos:notation "sd" .

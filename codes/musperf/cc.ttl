@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Men's Chorus"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/c#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Boys%27_and_men%27s_choirs> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005088#concept> ;
+  skos:notation "cc" .

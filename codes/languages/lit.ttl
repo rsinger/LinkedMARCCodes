@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lit#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Lithuanian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/lt>, <http://lexvo.org/id/iso639-3/lit>, <info:lc/vocabulary/languages/lit> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85077647#concept> ;
+  skos:notation "lit" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Violoncello"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Cellos> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Cello>, <http://id.loc.gov/authorities/sh85143658#concept> ;
+  skos:notation "sc" .

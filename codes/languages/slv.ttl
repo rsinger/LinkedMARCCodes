@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<slv#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Slovenian"@en ;
+  skos:altLabel "Windic (Slovenian)"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/sl>, <http://lexvo.org/id/iso639-3/slv>, <info:lc/vocabulary/languages/slv> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85123525#concept> ;
+  skos:notation "slv" .

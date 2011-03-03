@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<art#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Artificial (Other)"@en ;
+  skos:altLabel "Ande (Artificial language)"@en, "Babm"@en, "Balaibalan"@en, "B\u00E2l-i b\u00EElen"@en, "Bala-i-balan"@en, "Balabalan"@en, "B\u00E2leybelen"@en, "Bali belen"@en, "B\u00E2lib\u00EElen"@en, "B\u00E2l-i b\u00EElen"@en, "Bala-i-balan"@en, "Balabalan"@en, "B\u00E2leybelen"@en, "Bali belen"@en, "B\u00E2lib\u00EElen"@en, "Enochian"@en, "Europanto"@en, "Glosa (Artificial language)"@en, "International auxiliari linguo (Artificial language)"@en, "INTAL (Artificial language)"@en, "INTAL (Artificial language)"@en, "Loglan (Artificial language)"@en, "Neo (Artificial language)"@en, "Novial (Artificial language)"@en, "Tsoly\u00E1ni (Artificial language)"@en, "Vela (Artificial language)"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/art> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85044042#concept> ;
+  skos:notation "art" .

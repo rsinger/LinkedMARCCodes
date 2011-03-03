@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sco#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Scots"@en ;
+  skos:altLabel "Lallans"@en, "Lowland Scots"@en, "Scots (English)"@en, "Scottish (Germanic)"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/sco>, <info:lc/vocabulary/languages/sco> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85118883#concept> ;
+  skos:notation "sco" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<amh#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Amharic"@en ;
+  skos:altLabel "Amarigna"@en, "Amarinya"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/am>, <http://lexvo.org/id/iso639-3/amh>, <info:lc/vocabulary/languages/amh> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85004449#concept> ;
+  skos:notation "amh" .

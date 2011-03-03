@@ -3,7 +3,7 @@
 <ag#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Mekong River"@en ;
-  skos:altLabel "Dza-chu"@en, "Lan-ts'ang Chiang"@en, "Lancang Jiang"@en, "Song Tíên Giang"@en ;
+  skos:altLabel "Dza-chu"@en, "Lan-ts'ang Chiang"@en, "Lancang Jiang"@en, "Song T\u00ED\u00EAn Giang"@en ;
   owl:sameAs <http://sws.geonames.org/1574716/>, <http://dbpedia.org/resource/Mekong>, <info:lc/vocabulary/gacs/ag> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85083357#concept>, <http://dbpedia.org/resource/Category:Mekong_River> ;
   skos:notation "ag" .

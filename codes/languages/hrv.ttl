@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hrv#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Croatian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/hr>, <http://lexvo.org/id/iso639-3/hrv>, <info:lc/vocabulary/languages/hrv> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh00003107#concept> ;
+  skos:notation "hrv" .

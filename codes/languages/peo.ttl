@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<peo#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Old Persian (ca. 600-400 B.C.)"@en ;
+  skos:altLabel "Persian, Old (ca. 600-400 B.C.)"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/peo>, <info:lc/vocabulary/languages/peo> ;
+  skos:notation "peo" .

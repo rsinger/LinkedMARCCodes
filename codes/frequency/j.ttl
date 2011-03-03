@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<j#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Three times a month"@en ;
+  dcterms:description "Issued or updated three times a month"@en ;
+  skos:notation "j" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oci#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Occitan (post-1500)"@en ;
+  skos:altLabel "Langue d'oc (post-1500)"@en, "Proven\u00E7al, Modern (post-1500)"@en, "B\u00E9arnais (post-1500)"@en, "Gascon (post-1500)"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/oc>, <http://lexvo.org/id/iso639-3/oci>, <info:lc/vocabulary/languages/oci> ;
+  skos:notation "oci" .

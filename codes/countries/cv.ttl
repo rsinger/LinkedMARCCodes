@@ -3,7 +3,7 @@
 <cv#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Cape Verde"@en ;
-  skos:altLabel "Boa Vista"@en, "Brava"@en, "Fogo"@en, "Maio"@en, "Sal"@en, "Santo Antao"@en, "São Nicolau"@en, "São Tiago"@en, "São Vicente"@en ;
+  skos:altLabel "Boa Vista"@en, "Brava"@en, "Fogo"@en, "Maio"@en, "Sal"@en, "Santo Antao"@en, "S\u00E3o Nicolau"@en, "S\u00E3o Tiago"@en, "S\u00E3o Vicente"@en ;
   owl:sameAs <http://sws.geonames.org/3374766/>, <http://purl.org/NET/marccodes/gacs/lncv#location>, <info:lc/vocabulary/countries/cv> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
   skos:notation "cv" .

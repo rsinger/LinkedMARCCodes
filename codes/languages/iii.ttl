@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<iii#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Sichuan Yi"@en ;
+  skos:altLabel "Yi, Sichuan"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ii>, <http://lexvo.org/id/iso639-3/iii>, <info:lc/vocabulary/languages/iii> ;
+  skos:notation "iii" .

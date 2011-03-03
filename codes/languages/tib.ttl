@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tib#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Tibetan"@en ;
+  skos:altLabel "Bhotanta"@en, "Helambu Sherpa"@en, "Hyolmo"@en, "Yohlmo"@en, "Hyolmo"@en, "Yohlmo"@en, "Kagate"@en, "Sherpa"@en, "Sharpa"@en, "Sharpa"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/tib> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2006003708#concept>, <http://id.loc.gov/authorities/sh85121374#concept> ;
+  skos:notation "tib" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<som#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Somali"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/so>, <http://lexvo.org/id/iso639-3/som>, <info:lc/vocabulary/languages/som> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85124757#concept> ;
+  skos:notation "som" .

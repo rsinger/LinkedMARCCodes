@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kom#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Komi"@en ;
+  skos:altLabel "Syryenian"@en, "Zyrian"@en, "Komi-Permyak"@en, "Permiak"@en, "Permiak"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/kv>, <http://lexvo.org/id/iso639-3/kom>, <info:lc/vocabulary/languages/kom> ;
+  skos:notation "kom" .

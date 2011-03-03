@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<div#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Divehi"@en ;
+  skos:altLabel "Dhivehi"@en, "Maldivian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/dv>, <http://lexvo.org/id/iso639-3/div>, <info:lc/vocabulary/languages/div> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh87003431#concept> ;
+  skos:notation "div" .

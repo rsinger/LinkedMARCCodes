@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ind#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Indonesian"@en ;
+  skos:altLabel "Bahasa Indonesia"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/id>, <http://lexvo.org/id/iso639-3/ind>, <info:lc/vocabulary/languages/ind> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85065767#concept> ;
+  skos:notation "ind" .

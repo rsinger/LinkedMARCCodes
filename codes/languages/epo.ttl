@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<epo#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Esperanto"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/eo>, <http://lexvo.org/id/iso639-3/epo>, <info:lc/vocabulary/languages/epo> ;
+  skos:notation "epo" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<guj#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Gujarati"@en ;
+  skos:altLabel "Dhodia"@en, "Dhobi"@en, "Dho\u1E0Diy\u0101"@en, "Dhore"@en, "Dhowari"@en, "Doria"@en, "Dhobi"@en, "Dho\u1E0Diy\u0101"@en, "Dhore"@en, "Dhowari"@en, "Doria"@en, "Gamit"@en, "Gamati"@en, "G\u0101m\u012Bta"@en, "Gamta"@en, "Gavit"@en, "Gamati"@en, "G\u0101m\u012Bta"@en, "Gamta"@en, "Gavit"@en, "Halari"@en, "Parsi-Gujarati"@en, "Saurashtri"@en, "Patanuli"@en, "Patnuli"@en, "Saurashtra"@en, "Saurastra"@en, "Sawrashtra"@en, "Sourashtra"@en, "Sowrashtra"@en, "Patanuli"@en, "Patnuli"@en, "Saurashtra"@en, "Saurastra"@en, "Sawrashtra"@en, "Sourashtra"@en, "Sowrashtra"@en, "Sidi"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/gu>, <http://lexvo.org/id/iso639-3/guj>, <info:lc/vocabulary/languages/guj> ;
+  skos:notation "guj" .

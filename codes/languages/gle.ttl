@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gle#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Irish"@en ;
+  skos:altLabel "Erse (Irish)"@en, "Gaelic (Irish)"@en, "Irish Gaelic"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ga>, <http://lexvo.org/id/iso639-3/gle>, <info:lc/vocabulary/languages/gle> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85068101#concept> ;
+  skos:notation "gle" .

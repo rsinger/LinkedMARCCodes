@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sot#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Sotho"@en ;
+  skos:altLabel "Sesuto"@en, "Southern Sotho"@en, "Suto"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/st>, <http://lexvo.org/id/iso639-3/sot>, <info:lc/vocabulary/languages/sot> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85125343#concept> ;
+  skos:notation "sot" .

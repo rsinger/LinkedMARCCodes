@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<son#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Songhai"@en ;
+  skos:altLabel "Dendi"@en, "Zarma"@en, "Djerma"@en, "Dyerma"@en, "Zerma"@en, "Djerma"@en, "Dyerma"@en, "Zerma"@en ;
+  skos:notation "son" .

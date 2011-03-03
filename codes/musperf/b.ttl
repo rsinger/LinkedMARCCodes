@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<b#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Brass"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/bn#term>, <http://purl.org/NET/marccodes/musperf/ba#term>, <http://purl.org/NET/marccodes/musperf/bu#term>, <http://purl.org/NET/marccodes/musperf/bb#term>, <http://purl.org/NET/marccodes/musperf/bc#term>, <http://purl.org/NET/marccodes/musperf/bd#term>, <http://purl.org/NET/marccodes/musperf/be#term>, <http://purl.org/NET/marccodes/musperf/bf#term>, <http://purl.org/NET/marccodes/musperf/by#term>, <http://purl.org/NET/marccodes/musperf/bz#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Brass>, <http://id.loc.gov/authorities/sh85016448#concept> ;
+  skos:notation "b" .

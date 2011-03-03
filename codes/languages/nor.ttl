@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nor#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Norwegian"@en ;
+  skos:altLabel "Bokm\u00E5l"@en, "Dano-Norwegian"@en, "Riksm\u00E5l"@en, "Tr\u00F8ndersk"@en, "Tr\u00F8nder"@en, "Tr\u00F8ndesk"@en, "Tr\u00F8ndsk"@en, "Tr\u00F8nder"@en, "Tr\u00F8ndesk"@en, "Tr\u00F8ndsk"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/no>, <http://lexvo.org/id/iso639-3/nor>, <info:lc/vocabulary/languages/nor> ;
+  skos:notation "nor" .

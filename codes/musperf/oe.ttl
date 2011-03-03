@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oe#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Dance orchestra"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh85035648#concept> ;
+  skos:notation "oe" .

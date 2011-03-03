@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sga#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Irish, Old (to 1100)"@en ;
+  skos:altLabel "Old Irish"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/sga>, <info:lc/vocabulary/languages/sga> ;
+  skos:notation "sga" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aze#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Azerbaijani"@en ;
+  skos:altLabel "Azari"@en, "Azeri"@en, "Afshar"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/az>, <http://lexvo.org/id/iso639-3/aze>, <info:lc/vocabulary/languages/aze> ;
+  skos:notation "aze" .

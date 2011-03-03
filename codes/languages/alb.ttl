@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<alb#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Albanian"@en ;
+  skos:altLabel "Calabrian Albanian"@en, "Albanian, Calabrian"@en, "Albanian, Calabrian"@en ;
+  skos:notation "alb" .

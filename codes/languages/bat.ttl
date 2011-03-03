@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bat#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Baltic (Other)"@en ;
+  skos:altLabel "Curonian"@en, "Proto-Baltic"@en, "Prussian"@en, "Old Prussian"@en, "Old Prussian"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/bat> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2003011111#concept>, <http://id.loc.gov/authorities/sh96002952#concept>, <http://id.loc.gov/authorities/sh85108100#concept> ;
+  skos:notation "bat" .

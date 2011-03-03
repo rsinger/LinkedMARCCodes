@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<st#genre>
+  a mo:Genre ;
+  skos:prefLabel "Studies and exercises"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/st> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh99001764#concept> ;
+  skos:notation "st" .

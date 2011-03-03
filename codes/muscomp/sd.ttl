@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sd#genre>
+  a mo:Genre ;
+  skos:prefLabel "Square dance music"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/sd> ;
+  umbel:isLike <http://dbpedia.org/resource/Square_dance> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85127085#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Square_dance> ;
+  skos:notation "sd" .

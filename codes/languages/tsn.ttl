@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tsn#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Tswana"@en ;
+  skos:altLabel "Bechuana"@en, "Chuana"@en, "Coana"@en, "Cuana"@en, "Cwana"@en, "Sechuana"@en, "Setswana"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/tn>, <http://lexvo.org/id/iso639-3/tsn>, <info:lc/vocabulary/languages/tsn> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85138359#concept> ;
+  skos:notation "tsn" .

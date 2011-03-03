@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dra#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Dravidian (Other)"@en ;
+  skos:altLabel "Abujhmaria"@en, "Alu Kurumba"@en, "Brahui"@en, "Berouhi"@en, "Birohi"@en, "Brohki"@en, "Berouhi"@en, "Birohi"@en, "Brohki"@en, "Gadaba (Dravidian)"@en, "Gadba (Dravidian)"@en, "Gudwa (Dravidian)"@en, "Gutob (Dravidian)"@en, "Konekor Gadaba"@en, "Ollari"@en, "Salur"@en, "Gadba (Dravidian)"@en, "Gudwa (Dravidian)"@en, "Gutob (Dravidian)"@en, "Konekor Gadaba"@en, "Ollari"@en, "Salur"@en, "Kodagu"@en, "Coorg"@en, "Kodava"@en, "Kurg"@en, "Coorg"@en, "Kodava"@en, "Kurg"@en, "Kolami"@en, "Kota (India)"@en, "Kui"@en, "Kandh"@en, "Kandh"@en, "Kuvi"@en, "Malto"@en, "Pengo"@en, "Toda (India)"@en, "Tuda (India)"@en, "Tuda (India)"@en, "Tulu"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/dra> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh90000035#concept>, <http://id.loc.gov/authorities/sh85016310#concept>, <http://id.loc.gov/authorities/sh85072773#concept>, <http://id.loc.gov/authorities/sh85072824#concept>, <http://id.loc.gov/authorities/sh85073375#concept>, <http://id.loc.gov/authorities/sh85073521#concept>, <http://id.loc.gov/authorities/sh85080225#concept>, <http://id.loc.gov/authorities/sh85099395#concept>, <http://id.loc.gov/authorities/sh85138534#concept> ;
+  skos:notation "dra" .

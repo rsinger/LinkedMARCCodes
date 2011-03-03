@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Chorus - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/c#term> ; 
+  skos:notation "cu" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sy#genre>
+  a mo:Genre ;
+  skos:prefLabel "Symphonies"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Symphony>, <info:lc/vocabulary/muscomp/sy> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85131473#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85131542#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Symphony> ;
+  skos:notation "sy" .

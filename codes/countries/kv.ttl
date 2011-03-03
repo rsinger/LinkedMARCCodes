@@ -4,7 +4,6 @@
   a wgs84:SpatialThing ;
   skos:prefLabel "Kosovo"@en ;
   owl:sameAs <http://sws.geonames.org/831053/>, <http://purl.org/NET/marccodes/gacs/e-kv#location>, <info:lc/vocabulary/countries/kv> ;
-  skos:note "Coded [rb] for Serbia from February 2007-May 2008. From 1992-April 2007 it was
-               coded [yu] for Serbia and Montenegro"@en ;
+  skos:note "Coded [rb] for Serbia from February 2007-May 2008. From 1992-April 2007 it was\n               coded [yu] for Serbia and Montenegro"@en ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
   skos:notation "kv" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<krl#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Karelian"@en ;
+  skos:altLabel "Carelian"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/krl>, <info:lc/vocabulary/languages/krl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85071627#concept> ;
+  skos:notation "krl" .

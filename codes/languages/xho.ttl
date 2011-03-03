@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xho#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Xhosa"@en ;
+  skos:altLabel "isiXhosa"@en, "Kafir"@en, "Xosa"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/xh>, <http://lexvo.org/id/iso639-3/xho>, <info:lc/vocabulary/languages/xho> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85148822#concept> ;
+  skos:notation "xho" .

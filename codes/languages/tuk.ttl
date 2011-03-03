@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tuk#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Turkmen"@en ;
+  skos:altLabel "Turkoman"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/tk>, <http://lexvo.org/id/iso639-3/tuk>, <info:lc/vocabulary/languages/tuk> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85138907#concept> ;
+  skos:notation "tuk" .

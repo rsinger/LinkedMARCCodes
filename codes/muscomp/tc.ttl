@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tc#genre>
+  a mo:Genre ;
+  skos:prefLabel "Toccatas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Tocatta>, <info:lc/vocabulary/muscomp/tc> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh93006216#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85135769#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Tocatta> ;
+  skos:notation "tc" .

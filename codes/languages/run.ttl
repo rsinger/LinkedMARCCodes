@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<run#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Rundi"@en ;
+  skos:altLabel "Kirundi"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/rn>, <http://lexvo.org/id/iso639-3/run>, <info:lc/vocabulary/languages/run> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85115846#concept> ;
+  skos:notation "run" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tha#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Thai"@en ;
+  skos:altLabel "Siamese"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/th>, <http://lexvo.org/id/iso639-3/tha>, <info:lc/vocabulary/languages/tha> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85134429#concept> ;
+  skos:notation "tha" .

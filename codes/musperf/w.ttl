@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<w#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Woodwinds"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/wn#term>, <http://purl.org/NET/marccodes/musperf/wa#term>, <http://purl.org/NET/marccodes/musperf/wu#term>, <http://purl.org/NET/marccodes/musperf/wb#term>, <http://purl.org/NET/marccodes/musperf/wc#term>, <http://purl.org/NET/marccodes/musperf/wd#term>, <http://purl.org/NET/marccodes/musperf/we#term>, <http://purl.org/NET/marccodes/musperf/wf#term>, <http://purl.org/NET/marccodes/musperf/wy#term>, <http://purl.org/NET/marccodes/musperf/wg#term>, <http://purl.org/NET/marccodes/musperf/wz#term>, <http://purl.org/NET/marccodes/musperf/wh#term>, <http://purl.org/NET/marccodes/musperf/wi#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Woodwind_instruments> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Woodwind>, <http://id.loc.gov/authorities/sh85147966#concept> ;
+  skos:notation "w" .

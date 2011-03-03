@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ms#genre>
+  a mo:Genre ;
+  skos:prefLabel "Masses"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Mass_%28music%29>, <info:lc/vocabulary/muscomp/ms> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85081963#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85081852#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Mass_%28music%29> ;
+  skos:notation "ms" .

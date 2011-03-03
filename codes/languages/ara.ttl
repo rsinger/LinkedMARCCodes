@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ara#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Arabic"@en ;
+  skos:altLabel "Hassaniyya"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ar>, <http://lexvo.org/id/iso639-3/ara>, <info:lc/vocabulary/languages/ara> ;
+  skos:notation "ara" .

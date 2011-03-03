@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gez#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Ethiopic"@en ;
+  skos:altLabel "Geez"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/gez>, <info:lc/vocabulary/languages/gez> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85045159#concept> ;
+  skos:notation "gez" .

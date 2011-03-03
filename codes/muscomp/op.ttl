@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<op#genre>
+  a mo:Genre ;
+  skos:prefLabel "Operas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Opera>, <info:lc/vocabulary/muscomp/op> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85094914#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85094900#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Opera> ;
+  skos:notation "op" .

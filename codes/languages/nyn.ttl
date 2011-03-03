@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nyn#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Nyankole"@en ;
+  skos:altLabel "Lunyankole"@en, "Nkole"@en, "Runyankore"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/nyn>, <info:lc/vocabulary/languages/nyn> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85093500#concept> ;
+  skos:notation "nyn" .

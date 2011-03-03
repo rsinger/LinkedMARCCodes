@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nc#genre>
+  a mo:Genre ;
+  skos:prefLabel "Nocturnes"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Nocturne>, <info:lc/vocabulary/muscomp/nc> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Nocturne> ;
+  skos:notation "nc" .

@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bad#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Banda languages"@en ;
+  skos:altLabel "Banda (Central Africa)"@en, "Linda"@en ;
+  skos:notation "bad" .

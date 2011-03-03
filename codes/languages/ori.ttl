@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ori#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Oriya"@en ;
+  skos:altLabel "Uriya"@en, "Adiwasi Oriya"@en, "Adibasi Oriy\u0101"@en, "\u0100div\u0101si Oriy\u0101"@en, "Desai"@en, "Kotia"@en, "Kotia Oriya"@en, "Kotiya"@en, "Tribal Oriya"@en, "Adibasi Oriy\u0101"@en, "\u0100div\u0101si Oriy\u0101"@en, "Desai"@en, "Kotia"@en, "Kotia Oriya"@en, "Kotiya"@en, "Tribal Oriya"@en, "Bhatri"@en, "Basturia"@en, "Bhatra"@en, "Bhattra"@en, "Bhattri"@en, "Bhottada"@en, "Bhottara"@en, "Basturia"@en, "Bhatra"@en, "Bhattra"@en, "Bhattri"@en, "Bhottada"@en, "Bhottara"@en, "Sambalpuri"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/or>, <http://lexvo.org/id/iso639-3/ori>, <info:lc/vocabulary/languages/ori> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85073193#concept> ;
+  skos:notation "ori" .

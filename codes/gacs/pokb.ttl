@@ -7,6 +7,5 @@
   owl:sameAs <http://purl.org/NET/marccodes/countries/gb#location>, <http://sws.geonames.org/4030945/>, <http://dbpedia.org/resource/Kiribati>, <info:lc/vocabulary/gacs/pokb> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Kiribati> ;
   rdfs:seeAlso <http://id.loc.gov/authorities/sh93007595#concept>, <http://id.loc.gov/authorities/sh85025311#concept>, <http://id.loc.gov/authorities/sh94001956#concept> ;
-  skos:note "Coded [pogn] (Gilbert and Ellice Islands) or [poln] (Line Islands) before Mar.
-        1988"@en, "Coded [pocp] (Canton and Enderbury Islands) before Mar. 1988"@en, "Coded [pogn] (Gilbert and Ellice Islands) before Mar. 1988"@en, "Coded [pocp] (Canton and Enderbury Islands) before Mar. 1988"@en, "Coded [pogn] (Gilbert and Ellice Islands) before Mar. 1988"@en ;
+  skos:note "Coded [pogn] (Gilbert and Ellice Islands) or [poln] (Line Islands) before Mar.\n        1988"@en, "Coded [pocp] (Canton and Enderbury Islands) before Mar. 1988"@en, "Coded [pogn] (Gilbert and Ellice Islands) before Mar. 1988"@en, "Coded [pocp] (Canton and Enderbury Islands) before Mar. 1988"@en, "Coded [pogn] (Gilbert and Ellice Islands) before Mar. 1988"@en ;
   skos:notation "pokb" .

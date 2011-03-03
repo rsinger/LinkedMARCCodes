@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wz#genre>
+  a mo:Genre ;
+  skos:prefLabel "Waltzes"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Waltz_%28music%29>, <info:lc/vocabulary/muscomp/wz> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85144994#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85144993#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Waltz_%28music%29> ;
+  skos:notation "wz" .

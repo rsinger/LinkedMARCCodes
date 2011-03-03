@@ -6,7 +6,6 @@
   skos:altLabel "Lesser Sunda Islands (Indonesia and East Timor)"@en, "Sunda Islands, Lesser (Indonesia and East Timor)"@en, "Sunda Islands, Lesser (Indonesia and East Timor)"@en, "Timor Island"@en, "Portuguese Timor"@en, "Timor, East"@en, "Timor, Portuguese"@en, "Timor Timur"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/em#location>, <http://sws.geonames.org/1966436/>, <http://dbpedia.org/resource/East_Timor>, <info:lc/vocabulary/gacs/a-em> ;
   rdfs:seeAlso <http://id.loc.gov/authorities/sh85135462#concept> ;
-  skos:note "Coded [a-pt] (Portuguese Timor) before April 21, 1980; coded [a-io] (Indonesia) from
-          1980-Sept. 2002]"@en ;
+  skos:note "Coded [a-pt] (Portuguese Timor) before April 21, 1980; coded [a-io] (Indonesia) from\n          1980-Sept. 2002]"@en ;
   dcterms:isPartOf <a#location> ;
   skos:notation "a-em" .

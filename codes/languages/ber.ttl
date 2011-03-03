@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ber#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Berber (Other)"@en ;
+  skos:altLabel "Mzab"@en, "Mozabite"@en, "Mozabite"@en, "Rif"@en, "Northern Shilha"@en, "Shilha, Northern"@en, "Tarifit"@en, "Northern Shilha"@en, "Shilha, Northern"@en, "Tarifit"@en, "Shilha"@en, "Chleuh"@en, "S\u00F6lha"@en, "Tachelhait"@en, "Tashelhiyt"@en, "Chleuh"@en, "S\u00F6lha"@en, "Tachelhait"@en, "Tashelhiyt"@en, "Tamazight"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/ber> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh86004730#concept>, <http://id.loc.gov/authorities/sh85114051#concept>, <http://id.loc.gov/authorities/sh85121439#concept>, <http://id.loc.gov/authorities/sh85132168#concept> ;
+  skos:notation "ber" .

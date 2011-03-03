@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<roa#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Romance (Other)"@en ;
+  skos:altLabel "Anglo-Norman"@en, "Anglo-French"@en, "Norman-French"@en, "Anglo-French"@en, "Norman-French"@en, "Cajun French"@en, "Acadian (Louisiana)"@en, "French, Cajun"@en, "Louisiana Acadian"@en, "Louisiana French"@en, "Acadian (Louisiana)"@en, "French, Cajun"@en, "Louisiana Acadian"@en, "Louisiana French"@en, "Franco-Venetian"@en, "Franco-Italian"@en, "Franco-Italian"@en, "Italian, Old (to 1300)"@en, "Old Italian"@en, "Old Italian"@en, "Ladin"@en, "Portu\u00F1ol"@en, "Bayano"@en, "Brasilero"@en, "Brasilero"@en, "Brazilero"@en, "Fronteiri\u00E7o"@en, "Fronterizo"@en, "Portanhol"@en, "Portunhol"@en, "Bayano"@en, "Brasilero"@en, "Brasilero"@en, "Brazilero"@en, "Fronteiri\u00E7o"@en, "Fronterizo"@en, "Portanhol"@en, "Portunhol"@en, "Spanish, Old (to 1500)"@en, "Old Spanish"@en, "Old Spanish"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/roa> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh89006524#concept> ;
+  skos:notation "roa" .

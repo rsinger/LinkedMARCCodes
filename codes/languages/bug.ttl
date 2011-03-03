@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bug#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Bugis"@en ;
+  skos:altLabel "Buginese"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/bug>, <info:lc/vocabulary/languages/bug> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85017675#concept> ;
+  skos:notation "bug" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ltz#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Luxembourgish"@en ;
+  skos:altLabel "Letzebuergesch"@en, "Letzeburgesch"@en, "Luxembourgeois"@en, "Luxemburgian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/lb>, <http://lexvo.org/id/iso639-3/ltz>, <info:lc/vocabulary/languages/ltz> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh2003005414#concept> ;
+  skos:notation "ltz" .

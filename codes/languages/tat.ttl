@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tat#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Tatar"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/tt>, <http://lexvo.org/id/iso639-3/tat>, <info:lc/vocabulary/languages/tat> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85132743#concept> ;
+  skos:notation "tat" .

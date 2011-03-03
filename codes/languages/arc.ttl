@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<arc#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Aramaic"@en ;
+  skos:altLabel "Aramean"@en, "Biblical Aramaic"@en, "Chaldaic"@en, "Chaldean (Aramaic)"@en, "Chaldee"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/arc>, <info:lc/vocabulary/languages/arc> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85006404#concept> ;
+  skos:notation "arc" .

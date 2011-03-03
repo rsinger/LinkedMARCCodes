@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cc#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chants, Christian"@en ;
+  skos:altLabel "Christian Chants"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/cc> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85022543#concept>, <http://purl.org/NET/marccodes/muscomp/cb#genre> ;
+  skos:notation "cc" .

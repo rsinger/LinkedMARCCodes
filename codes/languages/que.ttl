@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<que#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Quechua"@en ;
+  skos:altLabel "Inca"@en, "Kechua"@en, "Quichua"@en, "Runasimi"@en, "Huanca"@en, "Wanka"@en, "Wanka"@en, "Ingano"@en, "Inga"@en, "Inga"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/qu>, <http://lexvo.org/id/iso639-3/que>, <info:lc/vocabulary/languages/que> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85066340#concept> ;
+  skos:notation "que" .

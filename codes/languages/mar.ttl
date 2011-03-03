@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mar#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Marathi"@en ;
+  skos:altLabel "Mahratta"@en, "Mahratti"@en, "Murathee"@en, "Are"@en, "Ade Basha"@en, "Aray"@en, "Arrey"@en, "Arya"@en, "Kalika Arya Bhasha"@en, "Ade Basha"@en, "Aray"@en, "Arrey"@en, "Arya"@en, "Kalika Arya Bhasha"@en, "Koshti (Marathi)"@en, "Kosti (Marathi)"@en, "Kosti (Marathi)"@en, "Kunabi"@en, "Varhadi  Nagpuri"@en, "Berar Marathi"@en, "Berari"@en, "Dhanagari"@en, "Kumbhari"@en, "Madhya Pradesh Marathi"@en, "Nagpuri (Varhadi Nagpuri)"@en, "Nagpuri-Varhadi"@en, "Varhadi-Nagpuri Marathi"@en, "Berar Marathi"@en, "Berari"@en, "Dhanagari"@en, "Kumbhari"@en, "Madhya Pradesh Marathi"@en, "Nagpuri (Varhadi Nagpuri)"@en, "Nagpuri-Varhadi"@en, "Varhadi-Nagpuri Marathi"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/mr>, <http://lexvo.org/id/iso639-3/mar>, <info:lc/vocabulary/languages/mar> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85080916#concept> ;
+  skos:notation "mar" .

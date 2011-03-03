@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<men#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Mende"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/men>, <info:lc/vocabulary/languages/men> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85083537#concept> ;
+  skos:notation "men" .

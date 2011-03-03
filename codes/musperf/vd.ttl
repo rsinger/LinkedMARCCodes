@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Tenor"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:relatedMatch <http://dbpedia.org/resource/Category:Tenors> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005075#concept> ;
+  skos:notation "vd" .

@@ -2,7 +2,5 @@
 
 <7#location>
   skos:prefLabel "Other"@en ;
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/ay#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/xx#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/vp#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/ay#location>, <http://purl.org/NET/marccodes/countries/xx#location>, <http://purl.org/NET/marccodes/countries/vp#location> ; 
   a wgs84:SpatialThing .

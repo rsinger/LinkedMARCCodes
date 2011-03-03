@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mo#genre>
+  a mo:Genre ;
+  skos:prefLabel "Motets"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Motet>, <info:lc/vocabulary/muscomp/mo> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85087515#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85087514#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Motet> ;
+  skos:notation "mo" .

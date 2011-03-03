@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rd#genre>
+  a mo:Genre ;
+  skos:prefLabel "Rondos"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Rondo>, <info:lc/vocabulary/muscomp/rd> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85115233#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85115232#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Rondo> ;
+  skos:notation "rd" .

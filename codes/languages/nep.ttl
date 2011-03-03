@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nep#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Nepali"@en ;
+  skos:altLabel "Gorkhali"@en, "Gurkhali"@en, "Khas"@en, "Naipali"@en, "Nepalese"@en, "Parbate"@en, "Parbatiya"@en, "Purbutti"@en, "Baitadi"@en, "Kumali"@en, "Parvati"@en, "Parbati"@en, "Parbati"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ne>, <http://lexvo.org/id/iso639-3/nep>, <info:lc/vocabulary/languages/nep> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85090833#concept> ;
+  skos:notation "nep" .

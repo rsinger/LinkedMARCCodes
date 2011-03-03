@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lin#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Lingala"@en ;
+  skos:altLabel "Bangala (Congo)"@en, "Mangala (Congo)"@en, "Ngala (Congo)"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ln>, <http://lexvo.org/id/iso639-3/lin>, <info:lc/vocabulary/languages/lin> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85077197#concept> ;
+  skos:notation "lin" .

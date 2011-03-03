@@ -3,7 +3,7 @@
 <eg#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Equatorial Guinea"@en ;
-  skos:altLabel "Annobón"@en, "Bioko"@en, "Corisco Island"@en, "Elobey, Great"@en, "Elobey, Small"@en, "Fernando Po Island"@en, "Macias Nguema Biyogo"@en, "Pagalu"@en, "Rio Muni"@en ;
+  skos:altLabel "Annob\u00F3n"@en, "Bioko"@en, "Corisco Island"@en, "Elobey, Great"@en, "Elobey, Small"@en, "Fernando Po Island"@en, "Macias Nguema Biyogo"@en, "Pagalu"@en, "Rio Muni"@en ;
   owl:sameAs <http://sws.geonames.org/2309096/>, <http://purl.org/NET/marccodes/gacs/f-eg#location>, <info:lc/vocabulary/countries/eg> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
   skos:notation "eg" .

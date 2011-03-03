@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Organ"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Organs_(music)> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Organ>, <http://id.loc.gov/authorities/sh85095454#concept> ;
+  skos:notation "kb" .

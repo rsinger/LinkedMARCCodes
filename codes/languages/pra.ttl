@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pra#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Prakrit languages"@en ;
+  skos:altLabel "Gandhari Prakrit"@en, "Gandhari"@en, "Gandhari"@en, "Magadhi Prakrit"@en, "Maharashtri"@en, "\u015Aauras\u0113n\u012B"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/pra> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh00007226#concept>, <http://id.loc.gov/authorities/sh91004251#concept>, <http://id.loc.gov/authorities/sh85079837#concept>, <http://id.loc.gov/authorities/sh85117723#concept> ;
+  skos:notation "pra" .

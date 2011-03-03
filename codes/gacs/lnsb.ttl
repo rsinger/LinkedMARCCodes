@@ -3,7 +3,7 @@
 <lnsb#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Svalbard (Norway)"@en ;
-  skos:altLabel "Bear Island (Norway)"@en, "Bjørnøya (Norway)"@en, "Bjørnøya (Norway)"@en, "Spitsbergen Island (Norway)"@en, "West Spitsbergen (Norway)"@en, "West Spitsbergen (Norway)"@en ;
+  skos:altLabel "Bear Island (Norway)"@en, "Bj\u00F8rn\u00F8ya (Norway)"@en, "Bj\u00F8rn\u00F8ya (Norway)"@en, "Spitsbergen Island (Norway)"@en, "West Spitsbergen (Norway)"@en, "West Spitsbergen (Norway)"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/lnsb> ;
   rdfs:seeAlso <http://id.loc.gov/authorities/sh85012669#concept>, <http://id.loc.gov/authorities/sh85126805#concept> ;
   skos:notation "lnsb" .

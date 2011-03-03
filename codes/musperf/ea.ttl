@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ea#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Synthesizer"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/e#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Synthesizer>, <http://id.loc.gov/authorities/sh85131654#concept> ;
+  skos:notation "ea" .

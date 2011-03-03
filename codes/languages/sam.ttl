@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sam#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Samaritan Aramaic"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/sam>, <info:lc/vocabulary/languages/sam> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85116991#concept> ;
+  skos:notation "sam" .

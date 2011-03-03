@@ -2,6 +2,6 @@
 
 <quc#location>
   a wgs84:SpatialThing ;
-  skos:prefLabel "Québec (Province)"@en ;
+  skos:prefLabel "Qu\u00E9bec (Province)"@en ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
   skos:notation "quc" .

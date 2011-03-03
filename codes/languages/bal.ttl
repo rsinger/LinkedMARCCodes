@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bal#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Baluchi"@en ;
+  skos:altLabel "Balochi"@en, "Beloutchi"@en, "Biluchi"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/bal>, <info:lc/vocabulary/languages/bal> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85011389#concept> ;
+  skos:notation "bal" .

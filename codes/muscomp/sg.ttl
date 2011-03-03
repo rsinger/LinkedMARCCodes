@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Songs"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Song>, <info:lc/vocabulary/muscomp/sg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85125040#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Song> ;
+  skos:notation "sg" .

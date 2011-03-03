@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nde#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Ndebele (Zimbabwe)"@en ;
+  skos:altLabel "Nrebele (Zimbabwe)"@en, "Sindebele"@en, "Tebele"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/nd>, <http://lexvo.org/id/iso639-3/nde>, <info:lc/vocabulary/languages/nde> ;
+  skos:notation "nde" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zza#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Zaza"@en ;
+  skos:altLabel "Dimili"@en, "Dimli"@en, "Kirdki"@en, "Kirmanjki"@en, "Zazaki"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/zza> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh2004001818#concept> ;
+  skos:notation "zza" .

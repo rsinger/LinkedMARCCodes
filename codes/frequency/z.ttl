@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<z#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Other"@en ;
+  dcterms:description "None of the other defined codes are appropriate."@en ;
+  skos:notation "z" .

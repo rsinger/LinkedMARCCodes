@@ -2,6 +2,6 @@
 
 <n-cn-qu#location>
   a wgs84:SpatialThing ;
-  skos:prefLabel "Québec (Province)"@en ;
+  skos:prefLabel "Qu\u00E9bec (Province)"@en ;
   dcterms:isPartOf <n-cn#location> ;
   skos:notation "n-cn-qu" .

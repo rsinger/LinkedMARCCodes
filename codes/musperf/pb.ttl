@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Xylophone"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Xylophone>, <http://id.loc.gov/authorities/sh85148860#concept> ;
+  skos:notation "pb" .

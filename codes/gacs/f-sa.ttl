@@ -3,7 +3,7 @@
 <f-sa#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "South Africa"@en ;
-  skos:altLabel "Bophuthatswana (South Africa)"@en, "Homelands (South Africa)"@en, "Prince Edward Islands"@en, "Froides, Îles"@en, "Îles Froides"@en, "Froides, Îles"@en, "Îles Froides"@en, "Africa, South"@en, "Union of South Africa"@en ;
+  skos:altLabel "Bophuthatswana (South Africa)"@en, "Homelands (South Africa)"@en, "Prince Edward Islands"@en, "Froides, \u00CEles"@en, "\u00CEles Froides"@en, "Froides, \u00CEles"@en, "\u00CEles Froides"@en, "Africa, South"@en, "Union of South Africa"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/f-sa> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85125452#concept> ;
   rdfs:seeAlso <http://id.loc.gov/authorities/sh85061717#concept>, <http://id.loc.gov/authorities/sh85106714#concept> ;

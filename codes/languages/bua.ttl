@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bua#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Buriat"@en ;
+  skos:altLabel "Buryat"@en, "Mongolian, Northern"@en, "Northern Mongolian"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/bua>, <info:lc/vocabulary/languages/bua> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85018089#concept> ;
+  skos:notation "bua" .

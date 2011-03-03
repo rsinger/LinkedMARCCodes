@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cs#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chance compositions"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Aleatoric_music>, <info:lc/vocabulary/muscomp/cs> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85022486#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Aleatoric_music> ;
+  skos:notation "cs" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rar#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Rarotongan"@en ;
+  skos:altLabel "Cook Islands Maori"@en, "Maori, Cook Islands"@en, "Manihiki Rarotongan"@en, "Rarotongan, Manihiki"@en, "Rarotongan, Manihiki"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/rar>, <info:lc/vocabulary/languages/rar> ;
+  skos:notation "rar" .

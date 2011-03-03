@@ -3,7 +3,7 @@
 <f-eg#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Equatorial Guinea"@en ;
-  skos:altLabel "Fernando Po (Equatorial Guinea)"@en, "Bioco (Equatorial Guinea)"@en, "Bioko (Equatorial Guinea)"@en, "Macias Nguema (Equatorial Guinea)"@en, "Bioco (Equatorial Guinea)"@en, "Bioko (Equatorial Guinea)"@en, "Macias Nguema (Equatorial Guinea)"@en, "Guinea, Equatorial"@en, "Guinea, Spanish"@en, "Río Muni"@en, "Spanish Guinea"@en ;
+  skos:altLabel "Fernando Po (Equatorial Guinea)"@en, "Bioco (Equatorial Guinea)"@en, "Bioko (Equatorial Guinea)"@en, "Macias Nguema (Equatorial Guinea)"@en, "Bioco (Equatorial Guinea)"@en, "Bioko (Equatorial Guinea)"@en, "Macias Nguema (Equatorial Guinea)"@en, "Guinea, Equatorial"@en, "Guinea, Spanish"@en, "R\u00EDo Muni"@en, "Spanish Guinea"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/eg#location>, <http://sws.geonames.org/2309096/>, <http://dbpedia.org/resource/Equatorial_Guinea>, <info:lc/vocabulary/gacs/f-eg> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Equatorial_Guinea> ;
   rdfs:seeAlso <http://id.loc.gov/authorities/sh85047835#concept> ;

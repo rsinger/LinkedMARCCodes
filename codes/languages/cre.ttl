@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cre#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Cree"@en ;
+  skos:altLabel "Cris"@en, "Knistenaux"@en, "Maskegon"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/cr>, <http://lexvo.org/id/iso639-3/cre>, <info:lc/vocabulary/languages/cre> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85033883#concept> ;
+  skos:notation "cre" .

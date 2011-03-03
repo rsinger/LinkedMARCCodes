@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<t#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, plucked"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/ta#term>, <http://purl.org/NET/marccodes/musperf/tb#term>, <http://purl.org/NET/marccodes/musperf/tu#term>, <http://purl.org/NET/marccodes/musperf/tc#term>, <http://purl.org/NET/marccodes/musperf/td#term>, <http://purl.org/NET/marccodes/musperf/ty#term>, <http://purl.org/NET/marccodes/musperf/tz#term>, <http://purl.org/NET/marccodes/musperf/tn#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Plucked_string_instruments>, <http://id.loc.gov/authorities/sh98007684#concept> ;
+  skos:notation "t" .

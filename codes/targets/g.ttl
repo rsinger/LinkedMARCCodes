@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<g#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "General"@en ;
+  dcterms:description "Of general interest and not aimed at a particular target audience. The code is used for most fictional works that are not covered more appropriately by one of the other codes."@en ;
+  skos:notation "g" .

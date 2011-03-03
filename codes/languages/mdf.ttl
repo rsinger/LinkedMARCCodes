@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mdf#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Moksha"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/mdf>, <info:lc/vocabulary/languages/mdf> ;
+  skos:notation "mdf" .

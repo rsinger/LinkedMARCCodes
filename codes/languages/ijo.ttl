@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ijo#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Ijo"@en ;
+  skos:altLabel "Djo"@en, "Dzo"@en, "Ejo"@en, "Ido (African)"@en, "Iyo"@en, "Izo"@en, "Izon"@en, "Ojo"@en, "Oru"@en, "Udzo"@en, "Uzo"@en, "Ibani"@en, "Bonny"@en, "Ubani"@en, "Bonny"@en, "Ubani"@en, "Nembe"@en, "Nimbi"@en, "Nimbi"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/ijo> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85090715#concept> ;
+  skos:notation "ijo" .

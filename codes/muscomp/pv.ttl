@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pv#genre>
+  a mo:Genre ;
+  skos:prefLabel "Pavans"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Pavan_%28dance%29>, <info:lc/vocabulary/muscomp/pv> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85098834#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh98004408#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Pavan_%28dance%29> ;
+  skos:notation "pv" .

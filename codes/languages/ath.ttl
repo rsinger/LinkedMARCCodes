@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ath#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Athapascan (Other)"@en ;
+  skos:altLabel "Ahtena"@en, "Carrier"@en, "Takulli"@en, "Takulli"@en, "Chilcotin"@en, "Tsilkotin"@en, "Tsilkotin"@en, "Dena'ina"@en, "Tanaina"@en, "Tanaina"@en, "Kaska"@en, "Kiowa Apache"@en, "Koyukon"@en, "Sarsi"@en, "Sekani-Beaver"@en, "Southern Tutchone"@en, "Tutchone, Southern"@en, "Tutchone, Southern"@en, "Tagish"@en, "Tahltan"@en, "Tanacross"@en, "Tsattine"@en, "Upper Tanana"@en, "Tanana, Upper"@en, "Tanana, Upper"@en, "Upper Umpqua"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/ath> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85002537#concept>, <http://id.loc.gov/authorities/sh85020469#concept>, <http://id.loc.gov/authorities/sh85132244#concept>, <http://id.loc.gov/authorities/sh85073216#concept>, <http://id.loc.gov/authorities/sh85117591#concept>, <http://id.loc.gov/authorities/sh2003002048#concept>, <http://id.loc.gov/authorities/sh2006005955#concept>, <http://id.loc.gov/authorities/sh2004005699#concept>, <http://id.loc.gov/authorities/sh85138314#concept>, <http://id.loc.gov/authorities/sh87003144#concept> ;
+  skos:notation "ath" .

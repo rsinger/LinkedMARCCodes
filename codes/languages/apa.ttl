@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<apa#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Apache languages"@en ;
+  skos:altLabel "Chiricahua"@en, "Mescalero"@en, "White Mountain Apache"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/apa> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85024446#concept>, <http://id.loc.gov/authorities/sh85083909#concept>, <http://id.loc.gov/authorities/sh85146492#concept> ;
+  skos:notation "apa" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sid#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Sidamo"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/sid>, <info:lc/vocabulary/languages/sid> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85122306#concept> ;
+  skos:notation "sid" .

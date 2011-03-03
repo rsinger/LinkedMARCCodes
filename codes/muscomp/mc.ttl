@@ -1,0 +1,11 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mc#genre>
+  a mo:Genre ;
+  skos:prefLabel "Musical revues and comedies"@en ;
+  skos:altLabel "Musical revues"@en, "Musical comedies"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/mc> ;
+  umbel:isLike <http://dbpedia.org/resource/Revue>, <http://dbpedia.org/resource/Musical_theatre> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh89002763#concept>, <http://id.loc.gov/authorities/sh85089018#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Revue>, <http://en.wikipedia.org/wiki/Musical_theatre> ;
+  skos:notation "mc" .

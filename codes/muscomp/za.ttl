@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<za#genre>
+  a mo:Genre ;
+  skos:prefLabel "Zarzuelas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Zarzuela>, <info:lc/vocabulary/muscomp/za> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85149682#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85149681#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Zarzuela> ;
+  skos:notation "za" .

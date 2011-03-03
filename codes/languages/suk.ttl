@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<suk#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Sukuma"@en ;
+  skos:altLabel "Gwe (Tanzania)"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/suk>, <info:lc/vocabulary/languages/suk> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85130311#concept> ;
+  skos:notation "suk" .

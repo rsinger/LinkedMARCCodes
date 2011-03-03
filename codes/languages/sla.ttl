@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sla#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Slavic (Other)"@en ;
+  skos:altLabel "Belarusian, Old (to 1700)"@en, "Old Belarusian"@en, "Old Belarusian"@en, "\u010Cakavian"@en, "Carpatho-Rusyn"@en, "Rusyn"@en, "Rusyn"@en, "Czech, Old (to 1500)"@en, "Old Czech"@en, "Old Czech"@en, "Polabian"@en, "Russian, Old (to 1300)"@en, "East Slavic"@en, "Old East Slavic"@en, "Old Russian"@en, "East Slavic"@en, "Old East Slavic"@en, "Old Russian"@en, "Ukrainian, Old (ca. 1300-1700)"@en, "Old Ukrainian"@en, "Old Ukrainian"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/sla> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh96007026#concept>, <http://id.loc.gov/authorities/sh85103978#concept> ;
+  skos:notation "sla" .

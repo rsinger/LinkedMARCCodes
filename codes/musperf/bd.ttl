@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Trombone"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Trombone>, <http://id.loc.gov/authorities/sh85137992#concept> ;
+  skos:notation "bd" .

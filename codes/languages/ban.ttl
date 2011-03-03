@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ban#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Balinese"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/ban>, <info:lc/vocabulary/languages/ban> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85011177#concept> ;
+  skos:notation "ban" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<den#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Slavey"@en ;
+  skos:altLabel "Den\u00E9 (Slavey)"@en, "Den\u00E9 Tha"@en, "Ethchaottine"@en, "Mackenzian"@en, "North Slavey"@en, "Slave"@en, "Slavi"@en, "South Slavey"@en, "Kawchottine"@en, "Hare"@en, "Peaux-de-Li\u00E8vre"@en, "Hare"@en, "Peaux-de-Li\u00E8vre"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/den>, <info:lc/vocabulary/languages/den> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85071790#concept> ;
+  skos:notation "den" .

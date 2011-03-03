@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kf#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Celeste"@en ;
+  skos:altLabel "Celesta"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh85021624#concept>, <http://purl.org/ontology/mo/mit#Celesta> ;
+  skos:notation "kf" .

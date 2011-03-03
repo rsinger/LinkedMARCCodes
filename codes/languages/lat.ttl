@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lat#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Latin"@en ;
+  skos:altLabel "Latin, Vulgar"@en, "Vulgar Latin"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/la>, <http://lexvo.org/id/iso639-3/lat>, <info:lc/vocabulary/languages/lat> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85074944#concept> ;
+  skos:notation "lat" .

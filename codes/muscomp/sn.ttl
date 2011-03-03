@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sn#genre>
+  a mo:Genre ;
+  skos:prefLabel "Sonatas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Sonata>, <info:lc/vocabulary/muscomp/sn> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85124818#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85124817#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Sonata> ;
+  skos:notation "sn" .

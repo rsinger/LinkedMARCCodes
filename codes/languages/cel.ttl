@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cel#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Celtic (Other)"@en ;
+  skos:altLabel "Celtiberian"@en, "Celti-Iberian"@en, "Celto-Iberian"@en, "Celti-Iberian"@en, "Celto-Iberian"@en, "Gaulish"@en, "Gallic"@en, "Gallic"@en, "Proto-Celtic"@en, "Common Celtic"@en, "Common Celtic"@en, "Welsh, Middle (ca. 1100-1400)"@en, "Middle Welsh (ca. 1100-1400)"@en, "Middle Welsh (ca. 1100-1400)"@en, "Welsh, Old (to 1100)"@en, "Old Welsh (to 1100)"@en, "Old Welsh (to 1100)"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/cel> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh96009143#concept>, <http://id.loc.gov/authorities/sh85053545#concept>, <http://id.loc.gov/authorities/sh85107747#concept> ;
+  skos:notation "cel" .

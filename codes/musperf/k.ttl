@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<k#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Keyboard"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/kf#term>, <http://purl.org/NET/marccodes/musperf/ky#term>, <http://purl.org/NET/marccodes/musperf/kz#term>, <http://purl.org/NET/marccodes/musperf/kn#term>, <http://purl.org/NET/marccodes/musperf/ka#term>, <http://purl.org/NET/marccodes/musperf/kb#term>, <http://purl.org/NET/marccodes/musperf/ku#term>, <http://purl.org/NET/marccodes/musperf/kc#term>, <http://purl.org/NET/marccodes/musperf/kd#term>, <http://purl.org/NET/marccodes/musperf/ke#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Keyboard_instruments> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh85072117#concept> ;
+  skos:notation "k" .

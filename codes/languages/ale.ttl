@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ale#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Aleut"@en ;
+  skos:altLabel "Eleuth"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/ale>, <info:lc/vocabulary/languages/ale> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85003358#concept> ;
+  skos:notation "ale" .

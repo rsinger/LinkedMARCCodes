@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tgk#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Tajik"@en ;
+  skos:altLabel "Tadjik"@en, "Tadzhik"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/tg>, <http://lexvo.org/id/iso639-3/tgk>, <info:lc/vocabulary/languages/tgk> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85132023#concept> ;
+  skos:notation "tgk" .

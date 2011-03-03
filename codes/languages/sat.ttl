@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sat#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Santali"@en ;
+  skos:altLabel "Sonthal"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/sat>, <info:lc/vocabulary/languages/sat> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85117393#concept> ;
+  skos:notation "sat" .

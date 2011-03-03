@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nya#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Nyanja"@en ;
+  skos:altLabel "Chinyanja"@en, "Nyassa"@en, "Chewa"@en, "Cewa"@en, "Cewa"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ny>, <http://lexvo.org/id/iso639-3/nya>, <info:lc/vocabulary/languages/nya> ;
+  skos:notation "nya" .

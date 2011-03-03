@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<snd#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Sindhi"@en ;
+  skos:altLabel "Kachchhi"@en, "Kacch\u012B"@en, "Kutchi"@en, "Kacch\u012B"@en, "Kutchi"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/sd>, <http://lexvo.org/id/iso639-3/snd>, <info:lc/vocabulary/languages/snd> ;
+  skos:notation "snd" .

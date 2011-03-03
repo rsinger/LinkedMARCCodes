@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<znd#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Zande languages"@en ;
+  skos:altLabel "Nzakara"@en, "Sakara"@en, "Sakara"@en, "Zande"@en, "Azande"@en, "Azande"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/znd> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85149635#concept> ;
+  skos:notation "znd" .

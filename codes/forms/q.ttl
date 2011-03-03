@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<q#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Direct electronic"@en ;
+  dcterms:description "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc. If a distinction between types of electronic resources is not necessary, code s can be used as a generic code for any form of electronic resource."@en ;
+  skos:notation "q" .

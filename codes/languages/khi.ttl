@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<khi#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Khoisan (Other)"@en ;
+  skos:altLabel "Ju/'hoan"@en, "!X\u0169 (!Kung)"@en, "Zjuc'h\u00F4a"@en, "\u017Du/'h\u00F5asi"@en, "!X\u0169 (!Kung)"@en, "Zjuc'h\u00F4a"@en, "\u017Du/'h\u00F5asi"@en, "Khoikhoi"@en, "Hottentot"@en, "Hottentot"@en, "Korana"@en, "Nama"@en, "Nharo"@en, "Naro"@en, "Naro"@en, "San languages"@en, "Bushman languages"@en, "Bushman languages"@en, "!X\u00F5"@en, "Gxon"@en, "Hua-owani"@en, "!K\u00F5 (Botswana and Namibia)"@en, "Koon"@en, "Magong"@en, "!Xong (Botswana and Namibia)"@en, "Gxon"@en, "Hua-owani"@en, "!K\u00F5 (Botswana and Namibia)"@en, "Koon"@en, "Magong"@en, "!Xong (Botswana and Namibia)"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/khi> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85072214#concept>, <http://id.loc.gov/authorities/sh85072998#concept>, <http://id.loc.gov/authorities/sh85089581#concept>, <http://id.loc.gov/authorities/sh88004018#concept>, <http://id.loc.gov/authorities/sh85148840#concept> ;
+  skos:notation "khi" .

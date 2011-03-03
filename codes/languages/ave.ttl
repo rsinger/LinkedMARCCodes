@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ave#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Avestan"@en ;
+  skos:altLabel "Avesta"@en, "Bactrian, Old (Avestan)"@en, "Old Bactrian (Avestan)"@en, "Zend"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ae>, <http://lexvo.org/id/iso639-3/ave>, <info:lc/vocabulary/languages/ave> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85010527#concept> ;
+  skos:notation "ave" .

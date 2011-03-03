@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kac#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kachin"@en ;
+  skos:altLabel "Chingpaw"@en, "Jingpho"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/kac>, <info:lc/vocabulary/languages/kac> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85071242#concept> ;
+  skos:notation "kac" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ke#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Continuo"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh85134980#concept> ;
+  skos:notation "ke" .

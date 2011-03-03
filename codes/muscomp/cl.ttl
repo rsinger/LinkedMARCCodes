@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cl#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chorale preludes"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Chorale_prelude>, <info:lc/vocabulary/muscomp/cl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85024709#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85024708#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Chorale_prelude> ;
+  skos:notation "cl" .

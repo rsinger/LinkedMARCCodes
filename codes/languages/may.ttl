@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<may#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Malay"@en ;
+  skos:altLabel "Palembang Malay"@en ;
+  skos:notation "may" .

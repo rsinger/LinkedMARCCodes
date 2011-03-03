@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mao#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Maori"@en ;
+  skos:altLabel "South Island Maori"@en, "Maori, South Island"@en, "Maori, South Island"@en ;
+  skos:notation "mao" .

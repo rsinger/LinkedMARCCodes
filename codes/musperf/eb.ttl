@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<eb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Tape"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/e#term> ; 
+  skos:notation "eb" .

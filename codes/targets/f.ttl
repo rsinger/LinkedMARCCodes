@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Specialized"@en ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh89004538#concept> ;
+  dcterms:description "Aimed at a particular audience and the nature of the presentation would make the item of little interest to other audiences. Examples of items which are coded f include: 1) technical material geared to a specialized audience, and 2) items which address a limited audience; for example, the employees of a single organization."@en ;
+  skos:notation "f" .

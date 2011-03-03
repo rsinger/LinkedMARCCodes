@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nzi#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Nzima"@en ;
+  skos:altLabel "Nsima"@en, "Nzema"@en, "Zema"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/nzi>, <info:lc/vocabulary/languages/nzi> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85093556#concept> ;
+  skos:notation "nzi" .

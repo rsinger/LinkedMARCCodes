@@ -3,7 +3,7 @@
 <i-cq#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Comoros"@en ;
-  skos:altLabel "Comoro Islands"@en, "Îles Comores"@en ;
+  skos:altLabel "Comoro Islands"@en, "\u00CEles Comores"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/cq#location>, <http://sws.geonames.org/921929/>, <http://dbpedia.org/resource/Comoros>, <info:lc/vocabulary/gacs/i-cq> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Comoros> ;
   dcterms:isPartOf <i#location> ;

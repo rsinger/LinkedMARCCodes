@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hun#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Hungarian"@en ;
+  skos:altLabel "Magyar"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/hu>, <http://lexvo.org/id/iso639-3/hun>, <info:lc/vocabulary/languages/hun> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85062997#concept> ;
+  skos:notation "hun" .

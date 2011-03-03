@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hmo#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Hiri Motu"@en ;
+  skos:altLabel "Police Motu"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ho>, <http://lexvo.org/id/iso639-3/hmo>, <info:lc/vocabulary/languages/hmo> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85061012#concept> ;
+  skos:notation "hmo" .

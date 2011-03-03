@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<grc#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Greek, Ancient (to 1453)"@en ;
+  skos:altLabel "Ancient Greek"@en, "Biblical Greek"@en, "Byzantine Greek"@en, "Classical Greek"@en, "Greek, Biblical"@en, "Greek, Byzantine"@en, "Greek, Classical"@en, "Greek, Hellenistic"@en, "Greek, Medieval"@en, "Greek, Patristic"@en, "Greek (Koine)"@en, "Hellenistic Greek"@en, "Koine (Greek)"@en, "Medieval Greek"@en, "Patristic Greek"@en, "Aeolic Greek"@en, "Greek, Aeolic"@en, "Greek, Aeolic"@en, "Attic Greek"@en, "Greek, Attic"@en, "Greek, Attic"@en, "Doric Greek"@en, "Greek, Doric"@en, "Greek, Doric"@en, "Ionic Greek"@en, "Greek, Ionic"@en, "Greek, Ionic"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/grc>, <info:lc/vocabulary/languages/grc> ;
+  skos:notation "grc" .

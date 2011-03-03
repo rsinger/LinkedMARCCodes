@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ful#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Fula"@en ;
+  skos:altLabel "Adamawa"@en, "Fulah"@en, "Fulani"@en, "Fulbe"@en, "Fulfulde"@en, "Peul"@en, "Poul"@en, "Bororo (West Africa)"@en, "Pular"@en, "Poular"@en, "Toucouleur"@en, "Tukolor"@en, "Poular"@en, "Toucouleur"@en, "Tukolor"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ff>, <http://lexvo.org/id/iso639-3/ful>, <info:lc/vocabulary/languages/ful> ;
+  skos:notation "ful" .

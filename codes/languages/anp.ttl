@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<anp#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Angika"@en ;
+  skos:altLabel "Anga"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/anp>, <info:lc/vocabulary/languages/anp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85005018#concept> ;
+  skos:notation "anp" .

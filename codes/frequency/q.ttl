@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<q#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Quarterly"@en ;
+  dcterms:description "Issued or updated every three months.  Includes publications whose frequency is 4 numbers a year."@en ;
+  skos:notation "q" .

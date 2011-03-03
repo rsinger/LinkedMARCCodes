@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lim#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Limburgish"@en ;
+  skos:altLabel "Limburger"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/li>, <http://lexvo.org/id/iso639-3/lim>, <info:lc/vocabulary/languages/lim> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh2002009968#concept> ;
+  skos:notation "lim" .

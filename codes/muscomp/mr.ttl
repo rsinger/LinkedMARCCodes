@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mr#genre>
+  a mo:Genre ;
+  skos:prefLabel "Marches"@en ;
+  owl:sameAs <http://dbpedia.org/resource/March_%28music%29>, <info:lc/vocabulary/muscomp/mr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85080979#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/March_%28music%29> ;
+  skos:notation "mr" .

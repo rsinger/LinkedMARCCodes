@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dum#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Dutch, Middle (ca. 1050-1350)"@en ;
+  skos:altLabel "Middle Dutch"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/dum>, <info:lc/vocabulary/languages/dum> ;
+  skos:notation "dum" .

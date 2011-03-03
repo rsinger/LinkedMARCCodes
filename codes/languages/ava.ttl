@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ava#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Avaric"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/av>, <http://lexvo.org/id/iso639-3/ava>, <info:lc/vocabulary/languages/ava> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85010497#concept> ;
+  skos:notation "ava" .

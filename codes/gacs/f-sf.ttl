@@ -3,6 +3,6 @@
 <f-sf#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Sao Tome and Principe"@en ;
-  skos:altLabel "São Thomé e Pr¡ncipe"@en ;
+  skos:altLabel "S\u00E3o Thom\u00E9 e Pr\u00A1ncipe"@en ;
   dcterms:isPartOf <f#location> ;
   skos:notation "f-sf" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<s#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "String, bowed"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/sn#term>, <http://purl.org/NET/marccodes/musperf/sa#term>, <http://purl.org/NET/marccodes/musperf/sb#term>, <http://purl.org/NET/marccodes/musperf/su#term>, <http://purl.org/NET/marccodes/musperf/sc#term>, <http://purl.org/NET/marccodes/musperf/sd#term>, <http://purl.org/NET/marccodes/musperf/se#term>, <http://purl.org/NET/marccodes/musperf/sf#term>, <http://purl.org/NET/marccodes/musperf/sy#term>, <http://purl.org/NET/marccodes/musperf/sg#term>, <http://purl.org/NET/marccodes/musperf/sz#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Bowed_string_instruments>, <http://id.loc.gov/authorities/sh85129122#concept> ;
+  skos:notation "s" .

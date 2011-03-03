@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kur#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kurdish"@en ;
+  skos:altLabel "Kurmanji"@en, "Mukri"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ku>, <http://lexvo.org/id/iso639-3/kur>, <info:lc/vocabulary/languages/kur> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85073463#concept> ;
+  skos:notation "kur" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fl#genre>
+  a mo:Genre ;
+  skos:prefLabel "Flamenco"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Flamenco>, <info:lc/vocabulary/muscomp/fl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85048988#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85048987#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Flamenco> ;
+  skos:notation "fl" .

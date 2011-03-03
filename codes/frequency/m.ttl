@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<m#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Monthly"@en ;
+  dcterms:description "Includes publications whose frequency is 9, 10, 11, or 12 numbers a year."@en ;
+  skos:notation "m" .

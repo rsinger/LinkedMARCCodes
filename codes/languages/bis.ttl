@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bis#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Bislama"@en ;
+  skos:altLabel "Beach-la-mar"@en, "B\u00EAche-de-mer"@en, "Bichelamar"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/bi>, <http://lexvo.org/id/iso639-3/bis>, <info:lc/vocabulary/languages/bis> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85014432#concept> ;
+  skos:notation "bis" .

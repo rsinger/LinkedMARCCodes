@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fry#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Frisian"@en ;
+  skos:altLabel "Friesian"@en, "West Frisian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/fy>, <http://lexvo.org/id/iso639-3/fry>, <info:lc/vocabulary/languages/fry> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85052008#concept> ;
+  skos:notation "fry" .

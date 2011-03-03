@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<raj#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Rajasthani"@en ;
+  skos:altLabel "Bagri"@en, "Bagari"@en, "Bahgri"@en, "Baorias"@en, "Bagari"@en, "Bahgri"@en, "Baorias"@en, "Gujuri"@en, "Gojari"@en, "Gojri"@en, "Gujar"@en, "Gujari"@en, "Gujer"@en, "Gujjari"@en, "Gujri (Gujuri)"@en, "Gojari"@en, "Gojri"@en, "Gujar"@en, "Gujari"@en, "Gujer"@en, "Gujjari"@en, "Gujri (Gujuri)"@en, "Harauti"@en, "Jaipur\u012B"@en, "Dhundhari"@en, "Dhundhari"@en, "Lambadi"@en, "Banjara"@en, "Labhani"@en, "Lamani"@en, "Lambani"@en, "Banjara"@en, "Labhani"@en, "Lamani"@en, "Lambani"@en, "Malvi"@en, "Malavi"@en, "Malavi"@en, "Nimadi"@en, "Nemadi"@en, "Nimari"@en, "Nemadi"@en, "Nimari"@en, "Wagdi"@en, "V\u0101ga\u1E0D\u012B"@en, "V\u0101gar\u012B"@en, "Vagdi"@en, "Vaged"@en, "Vageri"@en, "Vagi"@en, "Vagri"@en, "Wagadi"@en, "Waghari"@en, "Wagholi"@en, "V\u0101ga\u1E0D\u012B"@en, "V\u0101gar\u012B"@en, "Vagdi"@en, "Vaged"@en, "Vageri"@en, "Vagi"@en, "Vagri"@en, "Wagadi"@en, "Waghari"@en, "Wagholi"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/raj>, <info:lc/vocabulary/languages/raj> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85057876#concept>, <http://id.loc.gov/authorities/sh85058824#concept>, <http://id.loc.gov/authorities/sh85074171#concept> ;
+  skos:notation "raj" .

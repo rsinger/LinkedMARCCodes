@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oji#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Ojibwa"@en ;
+  skos:altLabel "Anishinabe"@en, "Chippewa"@en, "Otchipwe"@en, "Salteaux"@en, "Saulteaux"@en, "Ottawa"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/oj>, <http://lexvo.org/id/iso639-3/oji>, <info:lc/vocabulary/languages/oji> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85096089#concept> ;
+  skos:notation "oji" .

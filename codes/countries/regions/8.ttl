@@ -2,17 +2,5 @@
 
 <8#location>
   skos:prefLabel "South America"@en ;
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/ag#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/bo#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/bl#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/cl#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/ck#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/ec#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/fg#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/gy#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/py#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/pe#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/sr#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/uy#location> ; 
-  dcterms:hasPart <http://purl.org/NET/marccodes/countries/ve#location> ; 
+  dcterms:hasPart <http://purl.org/NET/marccodes/countries/ag#location>, <http://purl.org/NET/marccodes/countries/bo#location>, <http://purl.org/NET/marccodes/countries/bl#location>, <http://purl.org/NET/marccodes/countries/cl#location>, <http://purl.org/NET/marccodes/countries/ck#location>, <http://purl.org/NET/marccodes/countries/ec#location>, <http://purl.org/NET/marccodes/countries/fg#location>, <http://purl.org/NET/marccodes/countries/gy#location>, <http://purl.org/NET/marccodes/countries/py#location>, <http://purl.org/NET/marccodes/countries/pe#location>, <http://purl.org/NET/marccodes/countries/sr#location>, <http://purl.org/NET/marccodes/countries/uy#location>, <http://purl.org/NET/marccodes/countries/ve#location> ; 
   a wgs84:SpatialThing .

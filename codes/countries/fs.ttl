@@ -2,7 +2,7 @@
 
 <fs#location>
   a wgs84:SpatialThing ;
-  skos:prefLabel "Terres australes et antarctiques françaises"@en ;
+  skos:prefLabel "Terres australes et antarctiques fran\u00E7aises"@en ;
   skos:altLabel "Amsterdam Island"@en, "Crozet Island"@en, "French Southern and Antarctic Lands"@en, "Kerguelen Island"@en, "Saint Paul Island"@en, "T.A.A.F."@en ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
   skos:notation "fs" .

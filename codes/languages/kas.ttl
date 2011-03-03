@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kas#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kashmiri"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ks>, <http://lexvo.org/id/iso639-3/kas>, <info:lc/vocabulary/languages/kas> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85071703#concept> ;
+  skos:notation "kas" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lav#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Latvian"@en ;
+  skos:altLabel "Lettish"@en, "Latgalian"@en, "East Latvian"@en, "High Latvian"@en, "Letgalian"@en, "East Latvian"@en, "High Latvian"@en, "Letgalian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/lv>, <http://lexvo.org/id/iso639-3/lav>, <info:lc/vocabulary/languages/lav> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85075013#concept> ;
+  skos:notation "lav" .

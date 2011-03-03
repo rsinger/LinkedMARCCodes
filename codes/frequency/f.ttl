@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Semiannual"@en ;
+  dcterms:description "Issued or updated twice a year.  Includes publications whose frequency is 2 numbers a year."@en ;
+  skos:notation "f" .

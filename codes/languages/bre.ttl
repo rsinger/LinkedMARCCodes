@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bre#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Breton"@en ;
+  skos:altLabel "Armoric"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/br>, <http://lexvo.org/id/iso639-3/bre>, <info:lc/vocabulary/languages/bre> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85016753#concept> ;
+  skos:notation "bre" .

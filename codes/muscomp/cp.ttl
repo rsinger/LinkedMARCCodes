@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cp#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chansons, polyphonic"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/cp> ;
+  umbel:isLike <http://dbpedia.org/resource/Chanson> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Chanson> ;
+  skos:notation "cp" .

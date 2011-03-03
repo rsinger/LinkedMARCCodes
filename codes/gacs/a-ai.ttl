@@ -6,8 +6,6 @@
   skos:altLabel "Armenia"@en, "Transcaucasia"@en, "Armenian S.S.R."@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/ai#location>, <http://sws.geonames.org/174982/>, <http://dbpedia.org/resource/Armenia>, <info:lc/vocabulary/gacs/a-ai> ;
   rdfs:seeAlso <http://id.loc.gov/authorities/sh85136878#concept> ;
-  skos:note "Coded [e-ur-ai] (Armenia (Republic)) before June 1998"@en, "Coded [e-ur-ai] (Armenia (Republic)), [e-ur-aj] (Azerbaijan), [e-ur-gs] (Georgia
-            (Republic)) before June 1998]"@en, "Coded [e-ur-ai] (Armenia (Republic)), [e-ur-aj] (Azerbaijan), [e-ur-gs] (Georgia
-            (Republic)) before June 1998]"@en ;
+  skos:note "Coded [e-ur-ai] (Armenia (Republic)) before June 1998"@en, "Coded [e-ur-ai] (Armenia (Republic)), [e-ur-aj] (Azerbaijan), [e-ur-gs] (Georgia\n            (Republic)) before June 1998]"@en, "Coded [e-ur-ai] (Armenia (Republic)), [e-ur-aj] (Azerbaijan), [e-ur-gs] (Georgia\n            (Republic)) before June 1998]"@en ;
   dcterms:isPartOf <a#location> ;
   skos:notation "a-ai" .

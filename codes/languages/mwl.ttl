@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mwl#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Mirandese"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/mwl>, <info:lc/vocabulary/languages/mwl> ;
+  skos:notation "mwl" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mun#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Munda (Other)"@en ;
+  skos:altLabel "Asuri"@en, "Bhumij"@en, "Ho"@en, "Kharia"@en, "Korwa"@en, "Korava (Munda)"@en, "Korava (Munda)"@en, "Kurku"@en, "Bondeya"@en, "Bopchi"@en, "Kirku"@en, "Korak\u016B"@en, "Korki"@en, "Korku"@en, "Kuri (India)"@en, "Bondeya"@en, "Bopchi"@en, "Kirku"@en, "Korak\u016B"@en, "Korki"@en, "Korku"@en, "Kuri (India)"@en, "Mundari"@en, "Kohl"@en, "Kohl"@en, "Nihali"@en, "Nahali"@en, "Nahali"@en, "Sora"@en, "Sabara"@en, "Saora"@en, "Savara"@en, "Sawara"@en, "Sabara"@en, "Saora"@en, "Savara"@en, "Sawara"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/mun> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh93008727#concept>, <http://id.loc.gov/authorities/sh93008728#concept>, <http://id.loc.gov/authorities/sh85061304#concept>, <http://id.loc.gov/authorities/sh85072169#concept>, <http://id.loc.gov/authorities/sh87006122#concept>, <http://id.loc.gov/authorities/sh85073473#concept>, <http://id.loc.gov/authorities/sh85088416#concept>, <http://id.loc.gov/authorities/sh85089525#concept>, <http://id.loc.gov/authorities/sh85117749#concept> ;
+  skos:notation "mun" .

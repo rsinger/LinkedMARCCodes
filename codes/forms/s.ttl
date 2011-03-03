@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<s#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Electronic"@en ;
+  dcterms:description "Intended for manipulation by a computer. The item may reside in a carrier accessed either directly or remotely, in some cases requiring the use of peripheral devices attached to the computer (e.g., a CD-ROM player). This code is not used for items that do not require the use of a computer (e.g., music compact discs, videodiscs). This code can be used as a generic code for any form of electronic resource. Codes o and q may be used if there is a need to separately identify online and direct electronic resources."@en ;
+  skos:notation "s" .

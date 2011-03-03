@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Viola"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Viola>, <http://id.loc.gov/authorities/sh85143429#concept> ;
+  skos:notation "sb" .

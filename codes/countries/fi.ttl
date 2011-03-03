@@ -3,7 +3,7 @@
 <fi#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Finland"@en ;
-  skos:altLabel "Ahvenanmaa"@en, "Åland Islands"@en ;
+  skos:altLabel "Ahvenanmaa"@en, "\u00C5land Islands"@en ;
   owl:sameAs <http://sws.geonames.org/660013/>, <http://purl.org/NET/marccodes/gacs/e-fi#location>, <info:lc/vocabulary/countries/fi> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
   skos:notation "fi" .

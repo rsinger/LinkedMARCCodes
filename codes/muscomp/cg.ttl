@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Concerti grossi"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Concerti_grossi>, <info:lc/vocabulary/muscomp/cg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85029628#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Concerti_grossi> ;
+  skos:notation "cg" .

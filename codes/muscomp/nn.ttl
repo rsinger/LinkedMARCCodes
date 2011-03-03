@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nn#genre>
+  a mo:Genre ;
+  skos:prefLabel "Not applicable"@en ;
+  owl:sameAs <http://dbpedia.org/resource/N/A>, <info:lc/vocabulary/muscomp/nn> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/N/A> ;
+  skos:notation "nn" .

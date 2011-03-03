@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Percussion - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:notation "pu" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<frr#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "North Frisian"@en ;
+  skos:altLabel "Frisian, North"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/frr>, <info:lc/vocabulary/languages/frr> ;
+  skos:notation "frr" .

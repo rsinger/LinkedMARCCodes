@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tup#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Tupi languages"@en ;
+  skos:altLabel "Parintintin"@en, "Tupi"@en, "\u00D1eengat\u00FA"@en, "\u00D1eengat\u00FA"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/tup> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85138695#concept> ;
+  skos:notation "tup" .

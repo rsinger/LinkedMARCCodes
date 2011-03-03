@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ch#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chorales"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Chorale>, <info:lc/vocabulary/muscomp/ch> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85024733#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85024707#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Chorale> ;
+  skos:notation "ch" .

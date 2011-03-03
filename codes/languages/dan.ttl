@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dan#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Danish"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/da>, <http://lexvo.org/id/iso639-3/dan>, <info:lc/vocabulary/languages/dan> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85035731#concept> ;
+  skos:notation "dan" .

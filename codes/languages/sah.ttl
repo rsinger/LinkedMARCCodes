@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sah#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Yakut"@en ;
+  skos:altLabel "Jakut"@en, "Sakha"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/sah>, <info:lc/vocabulary/languages/sah> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85148937#concept> ;
+  skos:notation "sah" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Guitar"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Guitars> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Guitar>, <http://id.loc.gov/authorities/sh85057803#concept> ;
+  skos:notation "tb" .

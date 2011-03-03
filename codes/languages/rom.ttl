@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rom#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Romani"@en ;
+  skos:altLabel "Gipsy"@en, "Gypsy"@en, "Romany"@en, "Rommany"@en, "Cal\u00F3 (Romani)"@en, "Lovari"@en, "Nuri"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/rom>, <info:lc/vocabulary/languages/rom> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85115084#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85093309#concept> ;
+  skos:notation "rom" .

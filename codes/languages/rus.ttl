@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rus#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Russian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ru>, <http://lexvo.org/id/iso639-3/rus>, <info:lc/vocabulary/languages/rus> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85115971#concept> ;
+  skos:notation "rus" .

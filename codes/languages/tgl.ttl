@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tgl#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Tagalog"@en ;
+  skos:altLabel "Filipino (Tagalog)"@en, "Pilipino"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/tl>, <http://lexvo.org/id/iso639-3/tgl>, <info:lc/vocabulary/languages/tgl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85131901#concept> ;
+  skos:notation "tgl" .

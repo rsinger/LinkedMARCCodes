@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mag#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Magahi"@en ;
+  skos:altLabel "Bihari (Magahi)"@en, "Magadhi"@en, "Magaya"@en, "Maghadi"@en, "Maghai"@en, "Maghaya"@en, "Maghori"@en, "Magi (India)"@en, "Magodhi"@en, "Megahi"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/mag>, <info:lc/vocabulary/languages/mag> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85079567#concept> ;
+  skos:notation "mag" .

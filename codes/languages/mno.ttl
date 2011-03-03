@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mno#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Manobo languages"@en ;
+  skos:altLabel "Agusan Manobo"@en, "Ata Manobo"@en, "Binukid Manobo"@en, "Binokid"@en, "Bukidnon"@en, "Binokid"@en, "Bukidnon"@en, "Cotabato Manobo"@en, "Dibabawon"@en, "Debabaon"@en, "Dibabaon"@en, "Mandaya"@en, "Debabaon"@en, "Dibabaon"@en, "Mandaya"@en, "Higaonon"@en, "Ilianen Manobo"@en, "Kagayanen"@en, "Cagayano Cillo"@en, "Cagayano Cillo"@en, "Manuvu"@en, "Bagobo, Upper"@en, "Upper Bagobo"@en, "Bagobo, Upper"@en, "Upper Bagobo"@en, "MatigSalug"@en, "Sarangani Manobo"@en, "Culamanes"@en, "Kulaman"@en, "Culamanes"@en, "Kulaman"@en, "Western Bukidnon Manobo"@en, "Bukidnon Manobo, Western"@en, "Central Manobo"@en, "Central Mindanao Manobo"@en, "Bukidnon Manobo, Western"@en, "Central Manobo"@en, "Central Mindanao Manobo"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/mno> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh88007669#concept>, <http://id.loc.gov/authorities/sh88007670#concept>, <http://id.loc.gov/authorities/sh85017827#concept>, <http://id.loc.gov/authorities/sh88007671#concept>, <http://id.loc.gov/authorities/sh85037644#concept>, <http://id.loc.gov/authorities/sh88007672#concept>, <http://id.loc.gov/authorities/sh85071265#concept>, <http://id.loc.gov/authorities/sh85080783#concept>, <http://id.loc.gov/authorities/sh88007673#concept>, <http://id.loc.gov/authorities/sh88007674#concept>, <http://id.loc.gov/authorities/sh88007675#concept> ;
+  skos:notation "mno" .

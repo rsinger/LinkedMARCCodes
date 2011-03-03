@@ -3,7 +3,7 @@
 <pg#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Guinea-Bissau"@en ;
-  skos:altLabel "Arquipélago dos Bijagós"@en, "Bijagós, Arquipélago dos"@en, "Bissagos Islands"@en, "Guinea, Portuguese"@en, "Portuguese Guinea"@en ;
+  skos:altLabel "Arquip\u00E9lago dos Bijag\u00F3s"@en, "Bijag\u00F3s, Arquip\u00E9lago dos"@en, "Bissagos Islands"@en, "Guinea, Portuguese"@en, "Portuguese Guinea"@en ;
   owl:sameAs <http://sws.geonames.org/2372248/>, <http://purl.org/NET/marccodes/gacs/f-pg#location>, <info:lc/vocabulary/countries/pg> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
   skos:notation "pg" .

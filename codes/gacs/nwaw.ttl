@@ -5,5 +5,5 @@
   skos:prefLabel "Aruba"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/aw#location>, <http://sws.geonames.org/3577279/>, <http://dbpedia.org/resource/Aruba>, <info:lc/vocabulary/gacs/nwaw> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Aruba> ;
-  skos:note "Coded [nwco] (Curaçao) before Sept. 2002"@en ;
+  skos:note "Coded [nwco] (Cura\u00E7ao) before Sept. 2002"@en ;
   skos:notation "nwaw" .

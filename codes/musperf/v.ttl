@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<v#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Voice"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/vu#term>, <http://purl.org/NET/marccodes/musperf/vb#term>, <http://purl.org/NET/marccodes/musperf/vc#term>, <http://purl.org/NET/marccodes/musperf/vd#term>, <http://purl.org/NET/marccodes/musperf/ve#term>, <http://purl.org/NET/marccodes/musperf/vf#term>, <http://purl.org/NET/marccodes/musperf/vy#term>, <http://purl.org/NET/marccodes/musperf/vg#term>, <http://purl.org/NET/marccodes/musperf/vh#term>, <http://purl.org/NET/marccodes/musperf/vi#term>, <http://purl.org/NET/marccodes/musperf/vj#term>, <http://purl.org/NET/marccodes/musperf/vn#term>, <http://purl.org/NET/marccodes/musperf/va#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005092#concept> ;
+  skos:notation "v" .

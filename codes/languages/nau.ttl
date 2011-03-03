@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nau#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Nauru"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/na>, <http://lexvo.org/id/iso639-3/nau>, <info:lc/vocabulary/languages/nau> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85090323#concept> ;
+  skos:notation "nau" .

@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<btk#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Batak"@en ;
+  skos:altLabel "Batta (Sumatra)"@en, "Alas"@en, "Angkola"@en, "Dairi Pakpak"@en, "Pakpak"@en, "Pakpak"@en, "Karo-Batak"@en, "Mandailing"@en, "Batak Mandailing"@en, "Batak Mandailing"@en, "Simelungun"@en, "Toba-Batak"@en ;
+  skos:notation "btk" .

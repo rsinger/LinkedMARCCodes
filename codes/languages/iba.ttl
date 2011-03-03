@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<iba#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Iban"@en ;
+  skos:altLabel "Sea Dyak"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/iba>, <info:lc/vocabulary/languages/iba> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85063901#concept> ;
+  skos:notation "iba" .

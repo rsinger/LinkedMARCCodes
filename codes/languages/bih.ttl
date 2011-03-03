@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bih#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Bihari (Other)"@en ;
+  skos:altLabel "Behari"@en, "Bajjika"@en, "Kudmali"@en, "Bedia"@en, "Dharua"@en, "Khotta (Kurmali)"@en, "Kurma"@en, "Kurmali"@en, "Kurmali Thar"@en, "Kurmik"@en, "Kurni"@en, "Kurumali"@en, "Bedia"@en, "Dharua"@en, "Khotta (Kurmali)"@en, "Kurma"@en, "Kurmali"@en, "Kurmali Thar"@en, "Kurmik"@en, "Kurni"@en, "Kurumali"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/bih> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85011054#concept>, <http://id.loc.gov/authorities/sh88004087#concept> ;
+  skos:notation "bih" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vi#genre>
+  a mo:Genre ;
+  skos:prefLabel "Villancicos"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Villancico>, <info:lc/vocabulary/muscomp/vi> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85143361#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Villancico> ;
+  skos:notation "vi" .

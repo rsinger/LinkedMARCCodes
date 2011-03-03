@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cho#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Choctaw"@en ;
+  skos:altLabel "Chahta"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/cho>, <info:lc/vocabulary/languages/cho> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85024613#concept> ;
+  skos:notation "cho" .

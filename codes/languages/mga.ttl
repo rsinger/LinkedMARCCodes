@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mga#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Irish, Middle (ca. 1100-1550)"@en ;
+  skos:altLabel "Middle Irish"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/mga>, <info:lc/vocabulary/languages/mga> ;
+  skos:notation "mga" .

@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vol#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Volap\u00FCk"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/vo>, <http://lexvo.org/id/iso639-3/vol>, <info:lc/vocabulary/languages/vol> ;
+  skos:notation "vol" .

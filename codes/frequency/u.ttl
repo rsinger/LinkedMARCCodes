@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<u#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Unknown"@en ;
+  dcterms:description "Current frequency of the item is unknown."@en ;
+  skos:notation "u" .

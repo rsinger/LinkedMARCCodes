@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Lute"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Lutes> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Lute>, <http://id.loc.gov/authorities/sh85078975#concept> ;
+  skos:notation "tc" .

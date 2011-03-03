@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kua#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kuanyama"@en ;
+  skos:altLabel "Cuanhama"@en, "Kwanyama"@en, "Ovambo (Kuanyama)"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/kj>, <http://lexvo.org/id/iso639-3/kua>, <info:lc/vocabulary/languages/kua> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85073346#concept> ;
+  skos:notation "kua" .

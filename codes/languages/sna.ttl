@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sna#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Shona"@en ;
+  skos:altLabel "China (Africa)"@en, "Mashona"@en, "Karanga"@en, "Zezuru"@en, "Central Shona"@en, "Central Shona"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/sn>, <http://lexvo.org/id/iso639-3/sna>, <info:lc/vocabulary/languages/sna> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh93004963#concept> ;
+  skos:notation "sna" .

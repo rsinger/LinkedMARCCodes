@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fiu#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Finno-Ugrian (Other)"@en ;
+  skos:altLabel "Ingrian"@en, "Izhorskii"@en, "Izhorskii"@en, "Khanty"@en, "Ostiak"@en, "Xanty"@en, "Ostiak"@en, "Xanty"@en, "Livonian"@en, "Ludic"@en, "Lydi"@en, "Lydi"@en, "Mansi"@en, "Vogul"@en, "Vogul"@en, "Mordvin"@en, "Mordva"@en, "Mordvinian"@en, "Mordva"@en, "Mordvinian"@en, "Veps"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/fiu> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85066360#concept>, <http://id.loc.gov/authorities/sh85072162#concept>, <http://id.loc.gov/authorities/sh85077822#concept>, <http://id.loc.gov/authorities/sh85080633#concept>, <http://id.loc.gov/authorities/sh85087237#concept>, <http://id.loc.gov/authorities/sh85142784#concept> ;
+  skos:notation "fiu" .

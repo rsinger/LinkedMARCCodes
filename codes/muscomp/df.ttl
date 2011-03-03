@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<df#genre>
+  a mo:Genre ;
+  skos:prefLabel "Dance forms"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Dance_music>, <info:lc/vocabulary/muscomp/df> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85035638#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Dance_music> ;
+  skos:notation "df" .

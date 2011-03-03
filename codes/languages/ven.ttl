@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ven#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Venda"@en ;
+  skos:altLabel "Tshivenda"@en, "Wenda"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ve>, <http://lexvo.org/id/iso639-3/ven>, <info:lc/vocabulary/languages/ven> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85142606#concept> ;
+  skos:notation "ven" .

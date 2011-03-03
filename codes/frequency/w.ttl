@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<w#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Weekly"@en ;
+  dcterms:description "Issued once a week."@en ;
+  skos:notation "w" .

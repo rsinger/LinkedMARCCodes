@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mon#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Mongolian"@en ;
+  skos:altLabel "Mongol"@en, "Chahar"@en, "\u010Cakhar"@en, "\u010Cakhar"@en, "Khalkha"@en, "Ordos"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/mn>, <http://lexvo.org/id/iso639-3/mon>, <info:lc/vocabulary/languages/mon> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85072148#concept>, <http://id.loc.gov/authorities/sh85095408#concept> ;
+  skos:notation "mon" .

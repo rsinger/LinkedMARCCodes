@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<p#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Percussion"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/pa#term>, <http://purl.org/NET/marccodes/musperf/pb#term>, <http://purl.org/NET/marccodes/musperf/pc#term>, <http://purl.org/NET/marccodes/musperf/pu#term>, <http://purl.org/NET/marccodes/musperf/pd#term>, <http://purl.org/NET/marccodes/musperf/py#term>, <http://purl.org/NET/marccodes/musperf/pz#term>, <http://purl.org/NET/marccodes/musperf/pn#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Percussion_instruments> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Percussion_instruments>, <http://id.loc.gov/authorities/sh85099761#concept> ;
+  skos:notation "p" .

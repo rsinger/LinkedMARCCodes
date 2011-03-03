@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tel#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Telugu"@en ;
+  skos:altLabel "Andhra"@en, "Gentoo"@en, "Telegu"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/te>, <http://lexvo.org/id/iso639-3/tel>, <info:lc/vocabulary/languages/tel> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85133667#concept> ;
+  skos:notation "tel" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<glv#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Manx"@en ;
+  skos:altLabel "Manx Gaelic"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/gv>, <http://lexvo.org/id/iso639-3/glv>, <info:lc/vocabulary/languages/glv> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85080787#concept> ;
+  skos:notation "glv" .

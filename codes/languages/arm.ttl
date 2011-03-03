@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<arm#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Armenian"@en ;
+  skos:altLabel "Khayasa"@en, "Hayasa"@en, "Khaiass"@en, "Hayasa"@en, "Khaiass"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/arm> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85007285#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85072188#concept> ;
+  skos:notation "arm" .

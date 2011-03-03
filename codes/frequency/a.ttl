@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Annual"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Annual> ;
+  dcterms:description "Issued or updated once a year."@en ;
+  skos:notation "a" .

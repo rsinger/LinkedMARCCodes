@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Marimba"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Marimba>, <http://id.loc.gov/authorities/sh85081095#concept> ;
+  skos:notation "pc" .

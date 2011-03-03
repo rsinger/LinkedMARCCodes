@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<est#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Estonian"@en ;
+  skos:altLabel "Seto"@en, "Setu"@en, "Setu"@en, "V\u00F5ro"@en, "V\u00F5ru"@en, "Werro"@en, "V\u00F5ru"@en, "Werro"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/et>, <http://lexvo.org/id/iso639-3/est>, <info:lc/vocabulary/languages/est> ;
+  skos:notation "est" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<b#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Primary"@en ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85111655#concept> ;
+  dcterms:description "Intended for children, approximate ages 6-8 years."@en ;
+  skos:notation "b" .

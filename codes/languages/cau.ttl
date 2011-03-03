@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cau#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Caucasian (Other)"@en ;
+  skos:altLabel "Abazin"@en, "Bats"@en, "Bac"@en, "Tsova-Tush"@en, "Tush"@en, "Bac"@en, "Tsova-Tush"@en, "Tush"@en, "Bezhta"@en, "Botlikh"@en, "Budukh"@en, "Chamalal"@en, "Dido"@en, "Tsez"@en, "Tsez"@en, "Ginukh"@en, "Ginukhtsy"@en, "Ginux"@en, "Hinukh"@en, "Hinux"@en, "Ginukhtsy"@en, "Ginux"@en, "Hinukh"@en, "Hinux"@en, "Hunzib"@en, "Gunzib"@en, "Gunzib"@en, "Kubachi"@en, "Lak"@en, "Laz"@en, "Chan"@en, "Chanuri"@en, "Chanzan"@en, "Laze"@en, "Lazian"@en, "Lazuri"@en, "Zan"@en, "Chan"@en, "Chanuri"@en, "Chanzan"@en, "Laze"@en, "Lazian"@en, "Lazuri"@en, "Zan"@en, "Mingrelian"@en, "Svan"@en, "Tabasaran"@en, "Tsakhur"@en, "Ubykh"@en, "Oubykh"@en, "Oubykh"@en, "Udi"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/cau> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85000059#concept>, <http://id.loc.gov/authorities/sh85012399#concept>, <http://id.loc.gov/authorities/sh99002901#concept>, <http://id.loc.gov/authorities/sh87007666#concept>, <http://id.loc.gov/authorities/sh85017614#concept>, <http://id.loc.gov/authorities/sh85022415#concept>, <http://id.loc.gov/authorities/sh85037757#concept>, <http://id.loc.gov/authorities/sh85054990#concept>, <http://id.loc.gov/authorities/sh96004239#concept>, <http://id.loc.gov/authorities/sh85073994#concept>, <http://id.loc.gov/authorities/sh85075410#concept>, <http://id.loc.gov/authorities/sh85085637#concept>, <http://id.loc.gov/authorities/sh85130933#concept>, <http://id.loc.gov/authorities/sh85131779#concept>, <http://id.loc.gov/authorities/sh85138307#concept>, <http://id.loc.gov/authorities/sh85139238#concept>, <http://id.loc.gov/authorities/sh85139254#concept> ;
+  skos:notation "cau" .

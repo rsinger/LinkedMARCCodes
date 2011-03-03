@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<an#genre>
+  a mo:Genre ;
+  skos:prefLabel "Anthems"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Anthem>, <info:lc/vocabulary/muscomp/an> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85005524#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Anthem> ;
+  skos:notation "an" .

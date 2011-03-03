@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ina#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Interlingua (International Auxiliary Language Association)"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ia>, <http://lexvo.org/id/iso639-3/ina>, <info:lc/vocabulary/languages/ina> ;
+  skos:notation "ina" .

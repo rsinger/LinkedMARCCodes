@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<md#genre>
+  a mo:Genre ;
+  skos:prefLabel "Madrigals"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Madrigal_%28music%29>, <info:lc/vocabulary/muscomp/md> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85079546#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Madrigal_%28music%29> ;
+  skos:notation "md" .

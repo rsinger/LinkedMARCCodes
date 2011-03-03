@@ -3,7 +3,7 @@
 <aopf#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Paracel Islands"@en ;
-  skos:altLabel "Hoàng Sa"@en, "Hsi-sha Islands"@en, "Xisha Islands"@en ;
+  skos:altLabel "Ho\u00E0ng Sa"@en, "Hsi-sha Islands"@en, "Xisha Islands"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/aopf> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85097727#concept> ;
   skos:notation "aopf" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Oboe"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Oboes> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Oboe>, <http://id.loc.gov/authorities/sh85093674#concept> ;
+  skos:notation "wb" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cpf#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Creoles and Pidgins, French-based (Other)"@en ;
+  skos:altLabel "French-based Creoles and Pidgins (Other)"@en, "Dominican French Creole"@en, "French Creole, Dominican"@en, "French Creole, Dominican"@en, "Louisiana French Creole"@en, "French Creole, Louisiana"@en, "French Creole, Louisiana"@en, "Mauritian French Creole"@en, "French Creole, Mauritian"@en, "French Creole, Mauritian"@en, "Michif"@en, "Cree, French"@en, "French Cree"@en, "Mitchif"@en, "Cree, French"@en, "French Cree"@en, "Mitchif"@en, "Reunionese French Creole"@en, "French Creole, Reunionese"@en, "French Creole, Reunionese"@en, "Seychellois French Creole"@en, "French Creole, Seychellois"@en, "French Creole, Seychellois"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/cpf> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85084691#concept> ;
+  skos:notation "cpf" .

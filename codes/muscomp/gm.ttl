@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gm#genre>
+  a mo:Genre ;
+  skos:prefLabel "Gospel music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Gospel_music>, <info:lc/vocabulary/muscomp/gm> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85055979#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2008105342#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Gospel_music> ;
+  skos:notation "gm" .

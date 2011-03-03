@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<jbo#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Lojban (Artificial language)"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/jbo>, <info:lc/vocabulary/languages/jbo> ;
+  skos:notation "jbo" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<swe#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Swedish"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/sv>, <http://dbpedia.org/resource/Swedish_language>, <http://lexvo.org/id/iso639-3/swe>, <info:lc/vocabulary/languages/swe> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85131135#concept> ;
+  skos:notation "swe" .

@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<d#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Daily"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Daily> ;
+  dcterms:description "Issued or updated once a day. Note: this may include Saturday and Sunday."@en ;
+  skos:notation "d" .

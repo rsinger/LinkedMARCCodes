@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kro#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kru (Other)"@en ;
+  skos:altLabel "Bete"@en, "Dadjriwal\u00E9"@en, "Dadjrignoa"@en, "Dagli"@en, "Dajriwali"@en, "Dadjrignoa"@en, "Dagli"@en, "Dajriwali"@en, "Dida"@en, "Wawi"@en, "Wawi"@en, "Godi\u00E9"@en, "Go (C\u00F4te d'Ivoire)"@en, "Godia"@en, "Godye"@en, "Go (C\u00F4te d'Ivoire)"@en, "Godia"@en, "Godye"@en, "Kru"@en, "Kuwaa"@en, "Belle"@en, "Belleh"@en, "Kowaao"@en, "Kwaa"@en, "Belle"@en, "Belleh"@en, "Kowaao"@en, "Kwaa"@en, "Neyo"@en, "Gwibwen"@en, "N\u00E9ouol\u00E9"@en, "N\u00E9yau"@en, "Niyo"@en, "Towi"@en, "Gwibwen"@en, "N\u00E9ouol\u00E9"@en, "N\u00E9yau"@en, "Niyo"@en, "Towi"@en, "Ngere"@en, "Gere"@en, "Gu\u00E9r\u00E9"@en, "Gere"@en, "Gu\u00E9r\u00E9"@en, "Nyabwa"@en, "Niaboua"@en, "Niaboua"@en, "Tchien"@en, "Gien"@en, "Kien"@en, "Tie"@en, "Gien"@en, "Kien"@en, "Tie"@en, "Tepo"@en, "Kroumen"@en, "Tewi"@en, "Kroumen"@en, "Tewi"@en, "Wobe"@en, "Ouobe"@en, "Ouobe"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/kro> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85013456#concept>, <http://id.loc.gov/authorities/sh85037710#concept>, <http://id.loc.gov/authorities/sh85055658#concept>, <http://id.loc.gov/authorities/sh85073316#concept>, <http://id.loc.gov/authorities/sh2009001355#concept>, <http://id.loc.gov/authorities/sh2009005722#concept>, <http://id.loc.gov/authorities/sh95007899#concept>, <http://id.loc.gov/authorities/sh85093487#concept>, <http://id.loc.gov/authorities/sh85132920#concept>, <http://id.loc.gov/authorities/sh85133970#concept>, <http://id.loc.gov/authorities/sh85147201#concept> ;
+  skos:notation "kro" .

@@ -2,6 +2,6 @@
 
 <i-re#location>
   a wgs84:SpatialThing ;
-  skos:prefLabel "Réunion"@en ;
+  skos:prefLabel "R\u00E9union"@en ;
   dcterms:isPartOf <i#location> ;
   skos:notation "i-re" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ewo#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Ewondo"@en ;
+  skos:altLabel "Jaunde"@en, "Yaounde"@en, "Yaunde"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/ewo>, <info:lc/vocabulary/languages/ewo> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85046052#concept> ;
+  skos:notation "ewo" .

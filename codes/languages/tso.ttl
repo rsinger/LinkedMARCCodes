@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tso#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Tsonga"@en ;
+  skos:altLabel "Changana"@en, "Gwamba"@en, "Shangaan"@en, "Thonga"@en, "Tonga (Tsonga)"@en, "Xitsonga"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ts>, <http://lexvo.org/id/iso639-3/tso>, <info:lc/vocabulary/languages/tso> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85138332#concept> ;
+  skos:notation "tso" .

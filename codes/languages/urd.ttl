@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<urd#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Urdu"@en ;
+  skos:altLabel "Bihari (Urdu)"@en, "Gujri (Urdu)"@en, "Gurjari"@en, "Islami"@en, "Moorish (India)"@en, "Undri"@en, "Urudu"@en, "Dakhini"@en, "Dakani"@en, "Dakhani"@en, "Dakhini Hindi"@en, "Dakhini Hindustani"@en, "Dakhini Urdu"@en, "Dakhni"@en, "Dakini"@en, "Dakkani"@en, "Dakkhani"@en, "Deccan"@en, "Dehlavi"@en, "Gujari (Dakhini)"@en, "Hindavi"@en, "Dakani"@en, "Dakhani"@en, "Dakhini Hindi"@en, "Dakhini Hindustani"@en, "Dakhini Urdu"@en, "Dakhni"@en, "Dakini"@en, "Dakkani"@en, "Dakkhani"@en, "Deccan"@en, "Dehlavi"@en, "Gujari (Dakhini)"@en, "Hindavi"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ur>, <http://lexvo.org/id/iso639-3/urd>, <info:lc/vocabulary/languages/urd> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85035479#concept> ;
+  skos:notation "urd" .

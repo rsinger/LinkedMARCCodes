@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ka#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Piano"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Piano> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh85101722#concept>, <http://purl.org/ontology/mo/mit#Piano> ;
+  skos:notation "ka" .

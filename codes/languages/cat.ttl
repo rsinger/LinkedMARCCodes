@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cat#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Catalan"@en ;
+  skos:altLabel "Majorcan Catalan"@en, "Catalan, Majorcan"@en, "Catalan, Majorcan"@en, "Valencian Catalan"@en, "Catalan, Valencian"@en, "Catalan, Valencian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ca>, <http://lexvo.org/id/iso639-3/cat>, <info:lc/vocabulary/languages/cat> ;
+  skos:notation "cat" .

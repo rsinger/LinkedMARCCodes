@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lun#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Lunda"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/lun>, <info:lc/vocabulary/languages/lun> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85078874#concept> ;
+  skos:notation "lun" .

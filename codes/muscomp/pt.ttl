@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pt#genre>
+  a mo:Genre ;
+  skos:prefLabel "Part-songs"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Part_song>, <info:lc/vocabulary/muscomp/pt> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85098319#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Part_song> ;
+  skos:notation "pt" .

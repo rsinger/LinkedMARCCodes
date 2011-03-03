@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ukr#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Ukrainian"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/uk>, <http://lexvo.org/id/iso639-3/ukr>, <info:lc/vocabulary/languages/ukr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85139389#concept> ;
+  skos:notation "ukr" .

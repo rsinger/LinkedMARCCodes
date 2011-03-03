@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sio#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Siouan (Other)"@en ;
+  skos:altLabel "Biloxi"@en, "Chiwere"@en, "Crow"@en, "Dhegiha"@en, "Cegiha"@en, "Cegiha"@en, "Hidatsa"@en, "Grosventres (Hidatsa)"@en, "Grosventres (Hidatsa)"@en, "Mandan"@en, "Ofo"@en, "Ofogoula"@en, "Ofogoula"@en, "Omaha"@en, "Oto"@en, "Watoto"@en, "Watoto"@en, "Tutelo"@en, "Winnebago"@en, "Hocak"@en, "Hocak"@en, "Woccon"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/sio> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85014073#concept>, <http://id.loc.gov/authorities/sh91003822#concept>, <http://id.loc.gov/authorities/sh85037443#concept>, <http://id.loc.gov/authorities/sh85060627#concept>, <http://id.loc.gov/authorities/sh85080418#concept>, <http://id.loc.gov/authorities/sh85094232#concept>, <http://id.loc.gov/authorities/sh85094669#concept>, <http://id.loc.gov/authorities/sh85096041#concept>, <http://id.loc.gov/authorities/sh85138990#concept>, <http://id.loc.gov/authorities/sh85147017#concept>, <http://id.loc.gov/authorities/sh98001968#concept> ;
+  skos:notation "sio" .

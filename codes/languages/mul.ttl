@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mul#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Multiple languages"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/mul>, <info:lc/vocabulary/languages/mul> ;
+  skos:notation "mul" .

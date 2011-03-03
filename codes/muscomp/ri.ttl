@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ri#genre>
+  a mo:Genre ;
+  skos:prefLabel "Ricercars"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Ricercar>, <info:lc/vocabulary/muscomp/ri> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Ricercar> ;
+  skos:notation "ri" .

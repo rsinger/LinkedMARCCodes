@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wol#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Wolof"@en ;
+  skos:altLabel "Jaloof"@en, "Jolof"@en, "Ouolof"@en, "Volof"@en, "Yolof"@en, "Lebou"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/wo>, <http://lexvo.org/id/iso639-3/wol>, <info:lc/vocabulary/languages/wol> ;
+  skos:notation "wol" .

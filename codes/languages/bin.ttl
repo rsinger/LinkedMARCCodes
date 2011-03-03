@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bin#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Edo"@en ;
+  skos:altLabel "Bini"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/bin>, <info:lc/vocabulary/languages/bin> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85014103#concept> ;
+  skos:notation "bin" .

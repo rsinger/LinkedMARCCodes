@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<din#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Dinka"@en ;
+  skos:altLabel "Denca"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/din>, <info:lc/vocabulary/languages/din> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85038075#concept> ;
+  skos:notation "din" .

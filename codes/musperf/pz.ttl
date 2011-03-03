@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pz#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Percussion - Other"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Other_percussion> ;
+  skos:notation "pz" .

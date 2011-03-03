@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pp#genre>
+  a mo:Genre ;
+  skos:prefLabel "Popular music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Popular_music>, <info:lc/vocabulary/muscomp/pp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85088865#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Popular_music> ;
+  skos:notation "pp" .

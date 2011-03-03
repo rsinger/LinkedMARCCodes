@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<k#term>
+  a dcterms:Frequency ;
+  skos:prefLabel "Continuously updated"@en ;
+  dcterms:description "Updated more frequent than daily."@en ;
+  skos:notation "k" .

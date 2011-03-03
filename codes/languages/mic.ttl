@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mic#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Micmac"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/mic>, <info:lc/vocabulary/languages/mic> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85084718#concept> ;
+  skos:notation "mic" .

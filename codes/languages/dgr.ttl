@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dgr#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Dogrib"@en ;
+  skos:altLabel "Thlingchadinne"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/dgr>, <info:lc/vocabulary/languages/dgr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh99013338#concept> ;
+  skos:notation "dgr" .

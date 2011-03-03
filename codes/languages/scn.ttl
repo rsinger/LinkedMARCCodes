@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<scn#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Sicilian Italian"@en ;
+  skos:altLabel "Italian, Sicilian"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/scn>, <info:lc/vocabulary/languages/scn> ;
+  skos:notation "scn" .

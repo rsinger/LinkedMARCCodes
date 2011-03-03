@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tsi#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Tsimshian"@en ;
+  skos:altLabel "Zimsh\u012Ban"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/tsi>, <info:lc/vocabulary/languages/tsi> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85138327#concept> ;
+  skos:notation "tsi" .

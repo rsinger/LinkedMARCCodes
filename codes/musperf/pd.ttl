@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Drum"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Drums> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Drums>, <http://id.loc.gov/authorities/sh85039773#concept> ;
+  skos:notation "pd" .

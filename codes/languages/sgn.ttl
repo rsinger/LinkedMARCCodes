@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sgn#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Sign languages"@en ;
+  skos:altLabel "American Sign Language"@en, "Ameslan"@en, "Ameslan"@en, "Australasian Signed English"@en, "Austrian Sign Language"@en, "\u00D6GS (Sign language)"@en, "\u00D6sterreichische Geb\u00E4rdensprache"@en, "\u00D6GS (Sign language)"@en, "\u00D6sterreichische Geb\u00E4rdensprache"@en, "British Sign Language"@en, "Danish Sign Language"@en, "DSL (Danish Sign Language)"@en, "DSL (Danish Sign Language)"@en, "Icelandic Sign Language"@en, "ISL (Icelandic Sign Language)"@en, "ISL (Icelandic Sign Language)"@en, "Jordanian Sign Language"@en, "JSL (Sign Language)"@en, "Lughat al-Ish\u0101ra al-Urdunia"@en, "JSL (Sign Language)"@en, "Lughat al-Ish\u0101ra al-Urdunia"@en, "Mauritian Sign Language"@en, "Quebec Sign Language"@en, "Langue des signes qu\u00E9b\u00E9coise"@en, "Langue des signes qu\u00E9b\u00E9coise"@en ;
+  skos:notation "sgn" .

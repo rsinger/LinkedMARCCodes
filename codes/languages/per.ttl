@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<per#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Persian"@en ;
+  skos:altLabel "Farsi"@en, "Dari"@en, "Kabuli"@en, "Kabuli-Persian"@en, "Khorasani"@en, "Kabuli"@en, "Kabuli-Persian"@en, "Khorasani"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/per> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85035797#concept> ;
+  skos:notation "per" .

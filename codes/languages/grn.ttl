@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<grn#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Guarani"@en ;
+  skos:altLabel "Chiriguano"@en, "Aba"@en, "Camba"@en, "Tembeta"@en, "Aba"@en, "Camba"@en, "Tembeta"@en, "Chirip\u00E1"@en, "Tsiripa"@en, "Tsiripa"@en, "Mbya"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/gn>, <http://lexvo.org/id/iso639-3/grn>, <info:lc/vocabulary/languages/grn> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85024450#concept>, <http://id.loc.gov/authorities/sh85082492#concept> ;
+  skos:notation "grn" .

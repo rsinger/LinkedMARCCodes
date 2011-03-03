@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aar#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Afar"@en ;
+  skos:altLabel "Adaiel"@en, "Danakil"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/aa>, <http://lexvo.org/id/iso639-3/aar>, <info:lc/vocabulary/languages/aar> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85001491#concept> ;
+  skos:notation "aar" .

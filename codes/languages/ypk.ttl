@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ypk#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Yupik languages"@en ;
+  skos:altLabel "Eskimo languages, Western"@en, "Western Eskimo languages"@en, "Central Yupik"@en, "Eskimo, West Alaska"@en, "West Alaska Eskimo"@en, "Eskimo, West Alaska"@en, "West Alaska Eskimo"@en, "Cup\u00B4ig"@en, "Pacific Gulf Yupik"@en, "Aleut (Eskimo)"@en, "Eskimo, South Alaska"@en, "Sugpiak Eskimo"@en, "Suk (Eskimo)"@en, "Aleut (Eskimo)"@en, "Eskimo, South Alaska"@en, "Sugpiak Eskimo"@en, "Suk (Eskimo)"@en, "Sirinek"@en, "Yuit"@en, "Asiatic Eskimo"@en, "Eskimo, Asiatic"@en, "Saint Lawrence Island Yupik"@en, "Siberian Yupik"@en, "Asiatic Eskimo"@en, "Eskimo, Asiatic"@en, "Saint Lawrence Island Yupik"@en, "Siberian Yupik"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/ypk> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh90002786#concept>, <http://id.loc.gov/authorities/sh90002818#concept>, <http://id.loc.gov/authorities/sh2001004741#concept>, <http://id.loc.gov/authorities/sh85149492#concept> ;
+  skos:notation "ypk" .

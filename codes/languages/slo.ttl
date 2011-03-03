@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<slo#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Slovak"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/slo> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85123476#concept> ;
+  skos:notation "slo" .

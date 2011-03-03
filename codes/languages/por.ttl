@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<por#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Portuguese"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/pt>, <http://lexvo.org/id/iso639-3/por>, <info:lc/vocabulary/languages/por> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85105344#concept> ;
+  skos:notation "por" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Ragtime music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Ragtime>, <info:lc/vocabulary/muscomp/rg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85110853#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2010109891#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Ragtime> ;
+  skos:notation "rg" .

@@ -4,5 +4,5 @@
   a wgs84:SpatialThing ;
   skos:prefLabel "Bonaire (Netherlands Antilles)"@en ;
   owl:sameAs <http://sws.geonames.org/3513881/>, <http://dbpedia.org/resource/Bonaire>, <info:lc/vocabulary/gacs/nwbn> ;
-  skos:note "Coded [nwco] (Curaçao) before Sept. 200"@en ;
+  skos:note "Coded [nwco] (Cura\u00E7ao) before Sept. 200"@en ;
   skos:notation "nwbn" .

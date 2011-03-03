@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<him#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Himachali"@en ;
+  skos:altLabel "Pahari, Western"@en, "Western Pahari"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/him> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85060847#concept> ;
+  skos:notation "him" .

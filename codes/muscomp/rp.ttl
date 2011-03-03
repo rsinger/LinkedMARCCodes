@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rp#genre>
+  a mo:Genre ;
+  skos:prefLabel "Rhapsodies"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Rhapsody_%28music%29>, <info:lc/vocabulary/muscomp/rp> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85113601#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Rhapsody_%28music%29> ;
+  skos:notation "rp" .

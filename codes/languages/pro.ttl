@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pro#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Proven\u00E7al (to 1500)"@en ;
+  skos:altLabel "Occitan, Old (to 1500)"@en, "Old Occitan (to 1500)"@en, "Old Proven\u00E7al (to 1500)"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/pro>, <info:lc/vocabulary/languages/pro> ;
+  skos:notation "pro" .

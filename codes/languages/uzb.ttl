@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uzb#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Uzbek"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/uz>, <http://lexvo.org/id/iso639-3/uzb>, <info:lc/vocabulary/languages/uzb> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85141661#concept> ;
+  skos:notation "uzb" .

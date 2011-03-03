@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sa#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Violin"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Violins> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Violin>, <http://id.loc.gov/authorities/sh85143544#concept> ;
+  skos:notation "sa" .

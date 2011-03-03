@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bho#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Bhojpuri"@en ;
+  skos:altLabel "Bajpuri"@en, "Bhojapuri"@en, "Bhozpuri"@en, "Bihari (Bhojpuri)"@en, "Deswali (Bhojpuri)"@en, "Khotla"@en, "Piscimas"@en, "Sadani"@en, "Chota Nagpuri"@en, "Chotar Nagpuri"@en, "Dikku Kaji"@en, "Dikkukaji"@en, "Nagpuri (Bhojpuri)"@en, "Nagpuri\u0101"@en, "Napuria"@en, "Sadan"@en, "Sadari"@en, "Sadati"@en, "Sadhan"@en, "Sadhana"@en, "Sadharan"@en, "Sadna"@en, "Sadri"@en, "Sadrik"@en, "Santri"@en, "Siddri"@en, "Sradri"@en, "Chota Nagpuri"@en, "Chotar Nagpuri"@en, "Dikku Kaji"@en, "Dikkukaji"@en, "Nagpuri (Bhojpuri)"@en, "Nagpuri\u0101"@en, "Napuria"@en, "Sadan"@en, "Sadari"@en, "Sadati"@en, "Sadhan"@en, "Sadhana"@en, "Sadharan"@en, "Sadna"@en, "Sadri"@en, "Sadrik"@en, "Santri"@en, "Siddri"@en, "Sradri"@en, "Western Standard Bhojpuri"@en, "Benarsi"@en, "Bhojpuri, Western Standard"@en, "Purbi"@en, "Benarsi"@en, "Bhojpuri, Western Standard"@en, "Purbi"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/bho>, <info:lc/vocabulary/languages/bho> ;
+  skos:notation "bho" .

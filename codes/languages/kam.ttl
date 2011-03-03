@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kam#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kamba"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/kam>, <info:lc/vocabulary/languages/kam> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85071391#concept> ;
+  skos:notation "kam" .

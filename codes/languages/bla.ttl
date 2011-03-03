@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bla#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Siksika"@en ;
+  skos:altLabel "Blackfoot"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/bla>, <info:lc/vocabulary/languages/bla> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85122456#concept> ;
+  skos:notation "bla" .

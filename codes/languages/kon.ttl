@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kon#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kongo"@en ;
+  skos:altLabel "Congo"@en, "Kikongo"@en, "Laadi"@en, "Kilari"@en, "Kilari"@en, "Ntaandu"@en, "Kintaandu"@en, "Kisantu"@en, "Santu"@en, "Kintaandu"@en, "Kisantu"@en, "Santu"@en, "Zombo"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/kg>, <http://lexvo.org/id/iso639-3/kon>, <info:lc/vocabulary/languages/kon> ;
+  skos:notation "kon" .

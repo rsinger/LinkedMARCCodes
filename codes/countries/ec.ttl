@@ -3,7 +3,7 @@
 <ec#location>
   a wgs84:SpatialThing ;
   skos:prefLabel "Ecuador"@en ;
-  skos:altLabel "Archipiélago de Colón"@en, "Colón, Archipiélago de"@en, "Galapagos Islands"@en ;
+  skos:altLabel "Archipi\u00E9lago de Col\u00F3n"@en, "Col\u00F3n, Archipi\u00E9lago de"@en, "Galapagos Islands"@en ;
   owl:sameAs <http://sws.geonames.org/3658394/>, <http://purl.org/NET/marccodes/gacs/s-ec#location>, <http://purl.org/NET/marccodes/gacs/pogg#location>, <info:lc/vocabulary/countries/ec> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
   skos:notation "ec" .

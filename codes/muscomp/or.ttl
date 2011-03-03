@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<or#genre>
+  a mo:Genre ;
+  skos:prefLabel "Oratorios"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Oratorio>, <info:lc/vocabulary/muscomp/or> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85095291#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85095290#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Oratorio> ;
+  skos:notation "or" .

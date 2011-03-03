@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nav#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Navajo"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/nv>, <http://lexvo.org/id/iso639-3/nav>, <info:lc/vocabulary/languages/nav> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85090350#concept> ;
+  skos:notation "nav" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<iku#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Inuktitut"@en ;
+  skos:altLabel "Inuit"@en, "Inuvialuktun"@en, "Kopagmiut"@en, "Chiglit"@en, "Siglit"@en, "Chiglit"@en, "Siglit"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/iu>, <http://lexvo.org/id/iso639-3/iku>, <info:lc/vocabulary/languages/iku> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85072942#concept> ;
+  skos:notation "iku" .

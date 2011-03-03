@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ach#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Acoli"@en ;
+  skos:altLabel "Acholi"@en, "Gang"@en, "Lwo"@en, "Shuli"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/ach>, <info:lc/vocabulary/languages/ach> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85000564#concept> ;
+  skos:notation "ach" .

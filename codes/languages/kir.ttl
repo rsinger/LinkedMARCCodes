@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kir#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Kyrgyz"@en ;
+  skos:altLabel "Kara-Kirghiz"@en, "Kirghiz"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ky>, <http://lexvo.org/id/iso639-3/kir>, <info:lc/vocabulary/languages/kir> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85072516#concept> ;
+  skos:notation "kir" .

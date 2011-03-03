@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sg#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Viola da gamba"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Viola_da_gamba>, <http://id.loc.gov/authorities/sh85143457#concept> ;
+  skos:notation "sg" .

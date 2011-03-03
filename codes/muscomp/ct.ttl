@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ct#genre>
+  a mo:Genre ;
+  skos:prefLabel "Cantatas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Cantata>, <info:lc/vocabulary/muscomp/ct> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85019780#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2002004305#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Cantata> ;
+  skos:notation "ct" .

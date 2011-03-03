@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pr#genre>
+  a mo:Genre ;
+  skos:prefLabel "Preludes"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Prelude_%28music%29>, <info:lc/vocabulary/muscomp/pr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85019665#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Prelude_%28music%29> ;
+  mo:similar_to <http://purl.org/NET/marccodes/muscomp/cn#genre>, <http://purl.org/NET/marccodes/muscomp/fg#genre> ;
+  skos:notation "pr" .

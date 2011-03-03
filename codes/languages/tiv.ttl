@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tiv#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Tiv"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/tiv>, <info:lc/vocabulary/languages/tiv> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85135670#concept> ;
+  skos:notation "tiv" .

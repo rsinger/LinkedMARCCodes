@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ps#genre>
+  a mo:Genre ;
+  skos:prefLabel "Passacaglias"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Passacaglia>, <info:lc/vocabulary/muscomp/ps> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85098453#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85098452#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Passacaglia> ;
+  skos:notation "ps" .

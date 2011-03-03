@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bej#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Beja"@en ;
+  skos:altLabel "Bedawiye"@en, "Bedja"@en, "Bish\u00E1ri"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/bej>, <info:lc/vocabulary/languages/bej> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85012920#concept> ;
+  skos:notation "bej" .

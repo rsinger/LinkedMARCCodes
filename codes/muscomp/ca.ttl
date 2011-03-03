@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ca#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chaconnes"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Chaconne>, <info:lc/vocabulary/muscomp/ca> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85022251#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Chaconne> ;
+  skos:notation "ca" .

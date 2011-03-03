@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cr#genre>
+  a mo:Genre ;
+  skos:prefLabel "Carols"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Carol_%28music%29>, <info:lc/vocabulary/muscomp/cr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85020400#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Carol_%28music%29> ;
+  skos:notation "cr" .

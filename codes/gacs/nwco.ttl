@@ -2,5 +2,5 @@
 
 <nwco#location>
   a wgs84:SpatialThing ;
-  skos:prefLabel "Curaçao (Netherlands Antilles)"@en ;
+  skos:prefLabel "Cura\u00E7ao (Netherlands Antilles)"@en ;
   skos:notation "nwco" .

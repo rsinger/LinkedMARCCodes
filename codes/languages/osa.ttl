@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<osa#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Osage"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/osa>, <info:lc/vocabulary/languages/osa> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85095864#concept> ;
+  skos:notation "osa" .

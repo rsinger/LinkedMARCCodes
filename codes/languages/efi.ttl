@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<efi#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Efik"@en ;
+  skos:altLabel "Calabar"@en, "Ibibio"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/efi>, <info:lc/vocabulary/languages/efi> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh86007446#concept> ;
+  skos:notation "efi" .

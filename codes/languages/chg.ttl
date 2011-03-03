@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<chg#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Chagatai"@en ;
+  skos:altLabel "Dschagatai"@en, "Jagataic"@en, "Old Uzbek"@en, "Tschagatai"@en, "Uzbek, Old"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/chg>, <info:lc/vocabulary/languages/chg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85022321#concept> ;
+  skos:notation "chg" .

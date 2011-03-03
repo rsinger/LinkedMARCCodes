@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vg#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Counter tenor"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:relatedMatch <http://dbpedia.org/resource/Category:Countertenors> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005072#concept> ;
+  skos:notation "vg" .

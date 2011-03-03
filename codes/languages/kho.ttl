@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kho#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Khotanese"@en ;
+  skos:altLabel "Khotan-Saka"@en, "Khotanese-Sakan"@en, "Khotani"@en, "Khotansaka"@en, "Middle Khotanese"@en, "North Aryan"@en, "Old Khotanese"@en, "Saka"@en, "Sakan"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/kho>, <info:lc/vocabulary/languages/kho> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85072221#concept> ;
+  skos:notation "kho" .

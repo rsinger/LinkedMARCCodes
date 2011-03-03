@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hau#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Hausa"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/ha>, <http://lexvo.org/id/iso639-3/hau>, <info:lc/vocabulary/languages/hau> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85059313#concept> ;
+  skos:notation "hau" .

@@ -1,0 +1,10 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rc#genre>
+  a mo:Genre ;
+  skos:prefLabel "Rock music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Rock_music>, <info:lc/vocabulary/muscomp/rc> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85114675#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2008110977#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Rock_music> ;
+  skos:notation "rc" .

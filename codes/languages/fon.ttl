@@ -1,0 +1,8 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fon#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Fon"@en ;
+  skos:altLabel "Dahoman"@en, "Djedji"@en, "Jeji"@en ;
+  owl:sameAs <http://lexvo.org/id/iso639-3/fon>, <info:lc/vocabulary/languages/fon> ;
+  skos:notation "fon" .

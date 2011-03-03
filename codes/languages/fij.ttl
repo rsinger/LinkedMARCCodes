@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fij#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Fijian"@en ;
+  skos:altLabel "Viti"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/fj>, <http://lexvo.org/id/iso639-3/fij>, <info:lc/vocabulary/languages/fij> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85048183#concept> ;
+  skos:notation "fij" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Program music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Program_music>, <info:lc/vocabulary/muscomp/pg> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85107301#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Program_music> ;
+  skos:notation "pg" .

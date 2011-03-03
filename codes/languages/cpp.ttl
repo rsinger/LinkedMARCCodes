@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cpp#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Creoles and Pidgins, Portuguese-based (Other)"@en ;
+  skos:altLabel "Portuguese-based Creoles and Pidgins (Other)"@en, "Annobon"@en, "Ambu"@en, "Ambu"@en, "Cape Verde Creole"@en, "Brava Island Creole"@en, "Brava Island Creole"@en, "Crioulo"@en, "Indo-Portuguese"@en, "Ceylon Portuguese"@en, "Ceylon Portuguese"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/cpp> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh88000624#concept> ;
+  skos:notation "cpp" .

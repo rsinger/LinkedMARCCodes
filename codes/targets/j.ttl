@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<j#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Juvenile"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Children's_literature> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85023598#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm012129> ;
+  dcterms:description "Intended for use by children and young people, approximate ages 0-15. The code is used when a more specific code for the juvenile target audience is not desired."@en ;
+  skos:notation "j" .

@@ -1,0 +1,9 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dut#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Dutch"@en ;
+  skos:altLabel "Flemish"@en, "Netherlandic"@en ;
+  owl:sameAs <info:lc/vocabulary/languages/dut> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85040106#concept> ;
+  skos:notation "dut" .

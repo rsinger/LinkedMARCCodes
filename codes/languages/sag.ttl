@@ -1,0 +1,7 @@
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sag#lang>
+  a lingvoj:Lingvo ;
+  skos:prefLabel "Sango (Ubangi Creole)"@en ;
+  owl:sameAs <http://www.lingvoj.org/lang/sg>, <http://lexvo.org/id/iso639-3/sag>, <info:lc/vocabulary/languages/sag> ;
+  skos:notation "sag" .
