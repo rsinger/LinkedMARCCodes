@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-au#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Austria"@en ;
   skos:altLabel "Pannonia"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/au#location>, <http://sws.geonames.org/2782113/>, <http://dbpedia.org/resource/Austria>, <info:lc/vocabulary/gacs/e-au> ;

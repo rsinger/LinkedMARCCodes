@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <fa#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Faroe Islands"@en ;
   skos:altLabel "F\u00E6roe Islands"@en ;
   owl:sameAs <http://sws.geonames.org/2622320/>, <http://dbpedia.org/resource/Faroe_Islands>, <http://purl.org/NET/marccodes/gacs/lnfa#location>, <info:lc/vocabulary/countries/fa> ;

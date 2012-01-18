@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ts#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "United Arab Emirates"@en ;
   skos:altLabel "Abu Dhabi"@en, "Abu Zaby"@en, "`Ajman"@en, "Dubai"@en, "Dubayy"@en, "Fujairah"@en, "Fujayrah"@en, "Kalba"@en, "Oman, Trucial"@en, "Ras al Khaimah"@en, "Ra's al-Khaymah"@en, "Shariqah"@en, "Sharjah"@en, "Trucial Coast"@en, "Trucial Oman"@en, "Trucial Sheikdoms"@en, "Trucial States"@en, "Umm al Qaiwain"@en, "Umm al-Qaywayn"@en ;
   owl:sameAs <http://sws.geonames.org/290557/>, <info:lc/vocabulary/countries/ts> ;

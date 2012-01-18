@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <lau#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Louisiana"@en ;
   owl:sameAs <http://sws.geonames.org/4331987/>, <http://dbpedia.org/resource/Louisiana>, <http://purl.org/NET/marccodes/gacs/n-us-la#location>, <info:lc/vocabulary/countries/lau> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;

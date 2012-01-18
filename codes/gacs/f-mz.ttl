@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <f-mz#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Mozambique"@en ;
   skos:altLabel "East Africa, Portuguese German East Africa"@en, "People's Republic of Mozambique"@en, "Portuguese East Africa"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/mz#location>, <http://sws.geonames.org/1036973/>, <http://dbpedia.org/resource/Mozambique>, <info:lc/vocabulary/gacs/f-mz> ;

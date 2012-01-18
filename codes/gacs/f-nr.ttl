@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <f-nr#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Nigeria"@en ;
   skos:altLabel "Adamawa (Emirate)"@en, "Songhai Empire"@en, "Biafra"@en ;
   skos:note "Coded [f-by] (Biafra) before Mar. 1988"@en, "Coded [f-by] (Biafra) before Mar. 1988"@en ;

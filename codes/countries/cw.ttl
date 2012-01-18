@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <cw#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Cook Islands"@en ;
   skos:altLabel "Danger Atoll"@en, "Manihiki Atoll"@en, "Penrhyn Atoll"@en, "Rakahanga Atoll"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/pocw#location>, <info:lc/vocabulary/countries/cw> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-ts#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "United Arab Emirates"@en ;
   skos:altLabel "Ab\u016B \u1E92aby (United Arab Emirates: Emirate)"@en, "Abu Dhabi (United Arab Emirates : Emirate)"@en, "Abu Dhabi (United Arab Emirates : Emirate)"@en, "Dubayy (United Arab Emirates : Emirate)"@en, "Dubai"@en, "Dubai"@en, "Trucial States"@en ;
   dcterms:isPartOf <a#location> ;

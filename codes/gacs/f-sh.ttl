@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <f-sh#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Spanish North Africa"@en ;
   skos:altLabel "Ceuta (Spain)"@en, "Melilla (Spain)"@en, "Spanish Territories in Northern Morocco"@en ;
   dcterms:isPartOf <f#location> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <lnbm#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Bermuda Islands"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/bm#location>, <http://sws.geonames.org/3573342/>, <http://dbpedia.org/resource/Bermuda>, <info:lc/vocabulary/gacs/lnbm> ;
   skos:notation "lnbm" .

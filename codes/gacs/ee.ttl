@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ee#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Europe, Eastern"@en ;
   skos:altLabel "Carpathian Mountains"@en, "Communist countries"@en, "Eastern Europe"@en, "Europe, East Central"@en ;
   owl:sameAs <http://dbpedia.org/resource/Eastern_Europe>, <info:lc/vocabulary/gacs/ee> ;

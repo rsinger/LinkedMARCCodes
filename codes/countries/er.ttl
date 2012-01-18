@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <er#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Estonia"@en ;
   owl:sameAs <http://sws.geonames.org/453733/>, <http://purl.org/NET/marccodes/gacs/e-er#location>, <info:lc/vocabulary/countries/er> ;
   skos:note "Before 1992-10-01 use err (Estonia)"@en ;

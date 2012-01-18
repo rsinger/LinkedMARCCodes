@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-nb#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Nebraska"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/nbu#location>, <http://sws.geonames.org/5073708/>, <http://dbpedia.org/resource/Nebraska>, <info:lc/vocabulary/gacs/n-us-nb> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Nebraska> ;

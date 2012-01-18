@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nw#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "West Indies"@en ;
   skos:altLabel "Antilles, Greater"@en, "Greater Antilles"@en, "Indies, West"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/nw> ;

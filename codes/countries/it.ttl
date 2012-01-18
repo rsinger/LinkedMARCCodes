@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <it#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Italy"@en ;
   skos:altLabel "Pantelleria"@en, "Sardinia"@en, "Sicily"@en ;
   owl:sameAs <http://sws.geonames.org/3175395/>, <http://purl.org/NET/marccodes/gacs/e-it#location>, <info:lc/vocabulary/countries/it> ;

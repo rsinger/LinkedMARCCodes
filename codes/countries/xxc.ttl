@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <xxc#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Canada"@en ;
   owl:sameAs <http://sws.geonames.org/6251999/>, <http://purl.org/NET/marccodes/gacs/n-cn#location>, <info:lc/vocabulary/countries/xxc> ;
   skos:note "Before 1988-03-01 use cn (Canada)"@en ;

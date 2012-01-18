@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ua#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Egypt"@en ;
   skos:altLabel "Arab Republic of Egypt"@en, "United Arab Republic"@en ;
   owl:sameAs <http://sws.geonames.org/357994/>, <http://purl.org/NET/marccodes/gacs/f-ua#location>, <info:lc/vocabulary/countries/ua> ;

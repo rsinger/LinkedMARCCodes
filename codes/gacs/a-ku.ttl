@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-ku#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Kuwait"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/ku#location>, <http://sws.geonames.org/285570/>, <http://dbpedia.org/resource/Kuwait>, <info:lc/vocabulary/gacs/a-ku> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Kuwait> ;

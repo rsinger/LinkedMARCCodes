@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <na#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Netherlands Antilles"@en ;
   skos:altLabel "Bonaire"@en, "Cura\u00E7ao"@en, "Saba"@en, "Saint Martin, Southern"@en, "Sint Eustatius"@en ;
   owl:sameAs <http://sws.geonames.org/3513447/>, <http://dbpedia.org/resource/Netherlands_Antilles>, <info:lc/vocabulary/countries/na> ;

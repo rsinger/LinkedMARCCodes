@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-cn#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Canada"@en ;
   skos:altLabel "Canada, Eastern"@en, "Eastern Canada"@en, "Eastern Canada"@en, "Canada, Northern"@en, "Northern Canada"@en, "Northern Canada"@en, "Northwest, Canadian"@en, "Canadian Northwest"@en, "West (Canada)"@en, "Canadian Northwest"@en, "West (Canada)"@en, "Saint Lawrence River"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/xxc#location>, <http://sws.geonames.org/6251999/>, <http://dbpedia.org/resource/Canada>, <info:lc/vocabulary/gacs/n-cn> ;

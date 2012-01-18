@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-urf#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Russian Far East (Russia)"@en ;
   skos:altLabel "Far East (Russia)"@en, "Far Eastern Region (Russia)"@en, "Soviet Far East (Russia)"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/e-urf> ;

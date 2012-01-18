@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <vm#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Vietnam"@en ;
   skos:altLabel "Democratic People's Republic of Vietnam"@en, "North Vietnam"@en, "South Vietnam"@en, "Vietnam, North"@en, "Vietnam, Republic of"@en, "Vietnam, South"@en ;
   owl:sameAs <http://sws.geonames.org/1562822/>, <info:lc/vocabulary/countries/vm> ;

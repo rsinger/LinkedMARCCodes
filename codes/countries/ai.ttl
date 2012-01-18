@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ai#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Armenia (Republic)"@en ;
   skos:altLabel "Armenian S.S.R."@en, "Soviet Union"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/a-ai#location>, <info:lc/vocabulary/countries/ai> ;

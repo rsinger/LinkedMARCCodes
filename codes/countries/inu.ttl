@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <inu#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Indiana"@en ;
   owl:sameAs <http://sws.geonames.org/4921868/>, <http://purl.org/NET/marccodes/gacs/n-us-in#location>, <info:lc/vocabulary/countries/inu> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;

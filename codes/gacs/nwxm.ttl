@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nwxm#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Saint Vincent and the Grenadines"@en ;
   skos:altLabel "Grenadines (Saint Vincent and the Grenadines and Grenada)"@en, "Saint Vincent"@en, "St. Vincent"@en, "St. Vincent"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/nwxm> ;

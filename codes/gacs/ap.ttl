@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ap#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Persian Gulf"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/ap> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85100065#concept> ;

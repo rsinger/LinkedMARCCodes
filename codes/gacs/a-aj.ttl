@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-aj#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Azerbaijan"@en ;
   skos:altLabel "Transcaucasia"@en, "Azerbaijan S.S.R."@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/aj#location>, <http://sws.geonames.org/587116/>, <http://dbpedia.org/resource/Azerbaijan>, <info:lc/vocabulary/gacs/a-aj> ;

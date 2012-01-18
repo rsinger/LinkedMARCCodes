@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <bl#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Brazil"@en ;
   skos:altLabel "Fernando de Noronha"@en, "Ilha da Trindade"@en, "Ilhas Martim Vaz"@en, "Martim Vaz, Ilhas"@en, "Penedos de S\u00E3o Pedro e S\u00E3o Paulo"@en, "Rocas"@en, "Trindade, Ilha da"@en ;
   owl:sameAs <http://sws.geonames.org/3469034/>, <http://purl.org/NET/marccodes/gacs/s-bl#location>, <info:lc/vocabulary/countries/bl> ;

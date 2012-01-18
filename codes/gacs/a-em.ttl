@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-em#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "East Timor"@en ;
   skos:altLabel "Lesser Sunda Islands (Indonesia and East Timor)"@en, "Sunda Islands, Lesser (Indonesia and East Timor)"@en, "Sunda Islands, Lesser (Indonesia and East Timor)"@en, "Timor Island"@en, "Portuguese Timor"@en, "Timor, East"@en, "Timor, Portuguese"@en, "Timor Timur"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/em#location>, <http://sws.geonames.org/1966436/>, <http://dbpedia.org/resource/East_Timor>, <info:lc/vocabulary/gacs/a-em> ;

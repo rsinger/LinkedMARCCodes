@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-bn#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Borneo"@en ;
   owl:sameAs <http://sws.geonames.org/1648148/>, <http://dbpedia.org/resource/Borneo>, <info:lc/vocabulary/gacs/a-bn> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85015863#concept>, <http://dbpedia.org/resource/Category:Borneo> ;

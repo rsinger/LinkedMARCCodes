@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <jo#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Jordan"@en ;
   owl:sameAs <http://sws.geonames.org/248816/>, <http://purl.org/NET/marccodes/gacs/a-jo#location>, <info:lc/vocabulary/countries/jo> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;

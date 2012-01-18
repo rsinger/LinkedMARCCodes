@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ls#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "South Atlantic Ocean"@en ;
   skos:altLabel "Guinea, Gulf of"@en, "Gulf of Guinea"@en, "Gulf of Guinea"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/ls> ;

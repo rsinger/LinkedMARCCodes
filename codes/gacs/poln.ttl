@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <poln#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Line Islands"@en ;
   owl:sameAs <http://sws.geonames.org/4030941/>, <http://dbpedia.org/resource/Line_Islands>, <info:lc/vocabulary/gacs/poln> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh91003705#concept>, <http://dbpedia.org/resource/Category:Line_Islands> ;

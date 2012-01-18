@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-co#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Colorado"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/cou#location>, <http://sws.geonames.org/5417618/>, <http://dbpedia.org/resource/Colorado>, <info:lc/vocabulary/gacs/n-us-co> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Colorado> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <s-gy#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Guyana"@en ;
   skos:altLabel "British Guiana"@en, "Guiana, British"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/gy#location>, <http://sws.geonames.org/3378535/>, <http://dbpedia.org/resource/Guyana>, <info:lc/vocabulary/gacs/s-gy> ;

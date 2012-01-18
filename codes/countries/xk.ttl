@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <xk#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Saint Lucia"@en ;
   owl:sameAs <http://sws.geonames.org/3576468/>, <http://dbpedia.org/resource/Saint_Lucia>, <info:lc/vocabulary/countries/xk> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;

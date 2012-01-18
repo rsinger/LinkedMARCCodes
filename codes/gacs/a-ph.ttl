@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-ph#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Philippines"@en ;
   skos:altLabel "Eastern Samar (Philippines)"@en, "Luzon (Philippines)"@en, "Mindanao Island (Philippines)"@en, "Negros Island (Philippines)"@en, "Northern Samar (Philippines)"@en, "Panay Island (Philippines)"@en, "Samar (Philippines)"@en, "Philippine Islands"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/a-ph> ;

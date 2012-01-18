@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <h#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "French Community"@en ;
   skos:altLabel "Communaut\u00E9 francaise"@en, "French Union"@en ;
   owl:sameAs <http://dbpedia.org/resource/French_Community>, <info:lc/vocabulary/gacs/h> ;

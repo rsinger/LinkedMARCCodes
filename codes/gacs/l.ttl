@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <l#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Atlantic Ocean"@en ;
   skos:altLabel "Islands of the Atlantic"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/regions/11#location>, <http://sws.geonames.org/3373405/>, <http://dbpedia.org/resource/Atlantic_Ocean>, <info:lc/vocabulary/gacs/l> ;

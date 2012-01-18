@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <kn#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Korea (North)"@en ;
   skos:altLabel "Democratic People's Republic of Korea"@en, "North Korea"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/a-kn#location>, <info:lc/vocabulary/countries/kn> ;

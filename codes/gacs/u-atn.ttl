@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <u-atn#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Northern Australia"@en ;
   skos:altLabel "Australia, Northern"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/u-atn> ;

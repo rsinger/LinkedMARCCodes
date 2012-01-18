@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-urn#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Soviet Union, Northwestern"@en ;
   skos:altLabel "Northwestern Soviet Union"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/e-urn> ;

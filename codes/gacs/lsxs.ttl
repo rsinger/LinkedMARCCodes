@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <lsxs#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "South Georgia and South Sandwich Islands"@en ;
   skos:altLabel "Sandwich Islands, South"@en, "South Sandwich Islands"@en ;
   skos:note "Coded [lsfk] (Falkland Islands) before Oct. 1992"@en, "Coded [lsfk] (Falkland Islands) before Oct. 1992"@en, "Coded [lsfk] (Falkland Islands) before Oct. 1992"@en, "Coded [lsfk] (Falkland Islands) before Oct. 1992"@en, "Coded [lsfk] (Falkland Islands) before Oct. 1992"@en ;

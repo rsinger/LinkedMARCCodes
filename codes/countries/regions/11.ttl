@@ -4,4 +4,4 @@
   skos:prefLabel "Atlantic Ocean"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/l#location> ;
   dcterms:hasPart <http://purl.org/NET/marccodes/countries/bm#location>, <http://purl.org/NET/marccodes/countries/bv#location>, <http://purl.org/NET/marccodes/countries/cv#location>, <http://purl.org/NET/marccodes/countries/fk#location>, <http://purl.org/NET/marccodes/countries/fa#location>, <http://purl.org/NET/marccodes/countries/xj#location>, <http://purl.org/NET/marccodes/countries/xs#location> ; 
-  a wgs84:SpatialThing .
+  a dcterms:Location .

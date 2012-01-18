@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <f-ly#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Libya"@en ;
   skos:altLabel "Tibesti Mountains"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/ly#location>, <http://sws.geonames.org/2215636/>, <http://dbpedia.org/resource/Libya>, <info:lc/vocabulary/gacs/f-ly> ;

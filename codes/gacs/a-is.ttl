@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-is#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Israel"@en ;
   skos:altLabel "Jerusalem"@en, "Palestine"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/is#location>, <http://sws.geonames.org/294640/>, <http://dbpedia.org/resource/Israel>, <info:lc/vocabulary/gacs/a-is> ;

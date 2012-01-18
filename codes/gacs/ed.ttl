@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ed#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Balkan Peninsula"@en ;
   skos:altLabel "Europe, Southeastern"@en, "Southeastern Europe"@en ;
   owl:sameAs <http://sws.geonames.org/685608/>, <http://dbpedia.org/resource/Balkans>, <info:lc/vocabulary/gacs/ed> ;

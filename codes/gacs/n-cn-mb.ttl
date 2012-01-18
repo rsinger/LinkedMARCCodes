@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-cn-mb#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Manitoba"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/mbc#location>, <http://sws.geonames.org/6065171/>, <http://dbpedia.org/resource/Manitoba>, <info:lc/vocabulary/gacs/n-cn-mb> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Manitoba> ;

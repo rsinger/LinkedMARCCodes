@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-mk#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Oman"@en ;
   skos:altLabel "Arabia, Southern"@en, "Muscat and Oman"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/a-mk> ;

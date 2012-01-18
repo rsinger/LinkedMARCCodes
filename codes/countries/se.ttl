@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <se#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Seychelles"@en ;
   skos:altLabel "Aldabra Islands"@en, "Alphonse Island"@en, "Amirante Isles"@en, "Bijoutier Island"@en, "Cosmoledo Islands"@en, "Desroches, Ile"@en, "Farquhar Atoll"@en, "Fran\u00E7ois Island"@en, "Ile Desroches"@en, "Saint Francois Island"@en, "Saint Pierre Islet"@en ;
   owl:sameAs <http://sws.geonames.org/241170/>, <info:lc/vocabulary/countries/se> ;

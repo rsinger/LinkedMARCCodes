@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <pofj#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Fiji"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/fj#location>, <http://sws.geonames.org/2205218/>, <http://dbpedia.org/resource/Fiji>, <info:lc/vocabulary/gacs/pofj> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Fiji> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-ja#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Japan"@en ;
   skos:altLabel "Okinawa Island (Japan)"@en, "Ryukyu Islands"@en, "Ryukyu Islands, Southern"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/ja#location>, <http://sws.geonames.org/1861060/>, <http://dbpedia.org/resource/Japan>, <info:lc/vocabulary/gacs/a-ja> ;

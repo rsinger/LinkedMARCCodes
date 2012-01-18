@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Europe"@en ;
   skos:altLabel "European Economic Community countries"@en, "European Union countries"@en, "Holy Roman Empire"@en, "Rome"@en, "Roman Empire"@en, "Roman Empire"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/regions/3#location>, <http://sws.geonames.org/6255148/>, <http://dbpedia.org/resource/Europe>, <info:lc/vocabulary/gacs/e> ;

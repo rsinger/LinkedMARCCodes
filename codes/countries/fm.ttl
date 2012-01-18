@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <fm#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Micronesia (Federated States)"@en ;
   skos:altLabel "Ascension Island (Micronesia)"@en, "Eauripik Atoll"@en, "Fais Island"@en, "Faraulep Atoll"@en, "Federated States of Micronesia"@en, "Gaferut Island"@en, "Hall Islands"@en, "Ifalik Atoll"@en, "Kapingamarangi Atoll"@en, "Kosrae (Micronesia)"@en, "Kusaie (Micronesia)"@en, "Mortlock Islands"@en, "Namonuito Atoll"@en, "Ngatik Atoll"@en, "Ngulu Atoll"@en, "Nukuoru Atoll"@en, "Oroluk Atoll"@en, "Pacific Islands (Trust Territory)"@en, "Pingelap Atoll"@en, "Pohnpei"@en, "Ponape (Micronesia)"@en, "Pulap Atoll"@en, "Pulusak Island"@en, "Puluwat Atoll"@en, "Satawal Island"@en, "Senyavin Islands"@en, "Truk (Micronesia)"@en, "Trust Territory of the Pacific Islands"@en, "Ulithi Islands"@en, "West Fayu Atoll"@en, "Woleai Atolls"@en, "Yap (Micronesia)"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/pomi#location>, <info:lc/vocabulary/countries/fm> ;

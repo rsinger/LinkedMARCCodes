@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nwcj#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Cayman Islands"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/cj#location>, <http://sws.geonames.org/3580718/>, <http://dbpedia.org/resource/Cayman_Islands>, <info:lc/vocabulary/gacs/nwcj> ;
   skos:notation "nwcj" .

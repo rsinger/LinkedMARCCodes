@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-my#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Malaysia"@en ;
   skos:altLabel "Sabah"@en, "British North Borneo"@en, "North Borneo"@en, "British North Borneo"@en, "North Borneo"@en, "Sarawak"@en, "Straits Settlements"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/my#location>, <http://sws.geonames.org/1733045/>, <http://dbpedia.org/resource/Malaysia>, <info:lc/vocabulary/gacs/a-my> ;

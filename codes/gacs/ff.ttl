@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ff#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Africa, North"@en ;
   skos:altLabel "Africa, Northwest"@en, "Northwest Africa"@en, "Northwest Africa"@en, "Islamic Empire"@en, "Rome"@en, "Roman Empire"@en, "Roman Empire"@en, "North Africa"@en ;
   owl:sameAs <http://sws.geonames.org/2219875/>, <http://dbpedia.org/resource/North_Africa>, <info:lc/vocabulary/gacs/ff> ;

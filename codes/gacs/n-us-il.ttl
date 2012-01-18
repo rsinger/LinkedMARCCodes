@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-il#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Illinois"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/ilu#location>, <http://sws.geonames.org/4896861/>, <http://dbpedia.org/resource/Illinois>, <info:lc/vocabulary/gacs/n-us-il> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Illinois> ;

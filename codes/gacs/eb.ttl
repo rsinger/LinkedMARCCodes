@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <eb#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Baltic States"@en ;
   owl:sameAs <http://dbpedia.org/resource/Baltic_states>, <info:lc/vocabulary/gacs/eb> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85011369#concept>, <http://dbpedia.org/resource/Category:Baltic_states> ;

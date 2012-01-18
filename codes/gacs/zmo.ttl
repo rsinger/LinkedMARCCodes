@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <zmo#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Moon"@en ;
   owl:sameAs <http://dbpedia.org/resource/Moon>, <info:lc/vocabulary/gacs/zmo> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85087107#concept>, <http://dbpedia.org/resource/Category:Moon> ;

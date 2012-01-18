@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <sn#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Andes"@en ;
   skos:altLabel "Andean Area"@en ;
   owl:sameAs <http://sws.geonames.org/3923974/>, <http://dbpedia.org/resource/Andes>, <info:lc/vocabulary/gacs/sn> ;

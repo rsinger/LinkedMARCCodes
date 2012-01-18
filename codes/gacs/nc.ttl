@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nc#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Central America"@en ;
   skos:altLabel "America, Central"@en, "Middle America"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/regions/10#location>, <http://dbpedia.org/resource/Central_America>, <info:lc/vocabulary/gacs/nc> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <f-rh#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Zimbabwe"@en ;
   skos:altLabel "Rhodesia"@en, "Rhodesia and Nyasaland"@en, "Federation of Rhodesia and Nyasaland"@en, "Federation of Rhodesia and Nyasaland"@en, "Rhodesia, Southern"@en, "Southern Rhodesia"@en ;
   dcterms:isPartOf <f#location> ;

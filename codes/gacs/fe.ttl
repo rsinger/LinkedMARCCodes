@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <fe#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Africa, Eastern"@en ;
   skos:altLabel "Africa, East"@en, "British East Africa"@en, "East Africa"@en, "British East Africa"@en, "East Africa"@en, "Eastern Africa"@en ;
   owl:sameAs <http://dbpedia.org/resource/East_Africa>, <info:lc/vocabulary/gacs/fe> ;

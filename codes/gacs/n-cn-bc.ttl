@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-cn-bc#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "British Columbia"@en ;
   skos:altLabel "Canada, Western"@en, "Western Canada"@en, "Western Canada"@en, "Northwest, Pacific"@en, "Northwest (U.S.)"@en, "Pacific Northwest"@en, "Northwest (U.S.)"@en, "Pacific Northwest"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/bcc#location>, <http://sws.geonames.org/5909050/>, <http://dbpedia.org/resource/British_Columbia>, <info:lc/vocabulary/gacs/n-cn-bc> ;

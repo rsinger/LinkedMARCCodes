@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ncu#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "North Carolina"@en ;
   owl:sameAs <http://sws.geonames.org/4482348/>, <http://dbpedia.org/resource/North_Carolina>, <info:lc/vocabulary/countries/ncu> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;

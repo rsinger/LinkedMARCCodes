@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nr#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Rocky Mountains"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/nr> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85114790#concept> ;

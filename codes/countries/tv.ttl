@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <tv#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Tuvalu"@en ;
   skos:altLabel "Ellice Islands"@en, "Funafuti Atoll"@en, "Gilbert and Ellice Islands"@en, "Niulakita Island"@en, "Nukufetau Atoll"@en, "Nukulaelae Atoll"@en, "Nukulailai Atoll"@en, "Nurakita Island"@en ;
   owl:sameAs <http://sws.geonames.org/2110297/>, <info:lc/vocabulary/countries/tv> ;

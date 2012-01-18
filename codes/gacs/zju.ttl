@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <zju#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Jupiter (Planet)"@en ;
   owl:sameAs <http://dbpedia.org/resource/Jupiter>, <info:lc/vocabulary/gacs/zju> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85071063#concept> ;

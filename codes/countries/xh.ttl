@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <xh#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Niue"@en ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
   skos:notation "xh" .

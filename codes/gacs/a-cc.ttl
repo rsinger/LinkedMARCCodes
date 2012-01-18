@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-cc#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "China"@en ;
   skos:altLabel "Manchuria (China)"@en, "Mainland China"@en, "People's Republic of China"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/cc#location>, <http://sws.geonames.org/1814991/>, <http://dbpedia.org/resource/China>, <info:lc/vocabulary/gacs/a-cc> ;

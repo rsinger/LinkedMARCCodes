@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-li#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Lithuania"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/li#location>, <http://sws.geonames.org/597427/>, <http://dbpedia.org/resource/Lithuania>, <info:lc/vocabulary/gacs/e-li> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Lithuania> ;

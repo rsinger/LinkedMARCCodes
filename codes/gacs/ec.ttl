@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ec#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Europe, Central"@en ;
   skos:altLabel "Central Europe"@en, "Europe, East Central"@en ;
   owl:sameAs <http://dbpedia.org/resource/Central_Europe>, <info:lc/vocabulary/gacs/ec> ;

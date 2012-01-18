@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <aq#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Antigua and Barbuda"@en ;
   skos:altLabel "Antigua"@en, "Barbuda"@en, "Redonda"@en ;
   owl:sameAs <http://sws.geonames.org/3576396/>, <http://dbpedia.org/resource/Antigua_and_Barbuda>, <http://purl.org/NET/marccodes/gacs/nwaq#location>, <info:lc/vocabulary/countries/aq> ;

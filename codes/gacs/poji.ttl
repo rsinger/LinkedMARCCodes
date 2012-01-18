@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <poji#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Johnston Island"@en ;
   owl:sameAs <http://sws.geonames.org/5854928/>, <info:lc/vocabulary/gacs/poji> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh90005900#concept> ;

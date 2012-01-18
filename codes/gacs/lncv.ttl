@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <lncv#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Cape Verde"@en ;
   skos:altLabel "Cabo Verde"@en, "Republic of Cape Verde"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/cv#location>, <http://sws.geonames.org/3374766/>, <http://dbpedia.org/resource/Cape_Verde>, <info:lc/vocabulary/gacs/lncv> ;

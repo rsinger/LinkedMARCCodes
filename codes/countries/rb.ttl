@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <rb#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Serbia"@en ;
   skos:altLabel "Yugoslavia"@en ;
   owl:sameAs <http://sws.geonames.org/6290252/>, <info:lc/vocabulary/countries/rb> ;

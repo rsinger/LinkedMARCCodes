@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <xa#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Christmas Island (Indian Ocean)"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/i-xa#location>, <info:lc/vocabulary/countries/xa> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;

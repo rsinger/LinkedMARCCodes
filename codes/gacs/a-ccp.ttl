@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-ccp#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Bo Hai (China)"@en ;
   skos:altLabel "Bohai (China : Gulf)"@en, "Chihli, Gulf of (China)"@en, "Po Gulf (China)"@en, "Po Hai (China)"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/a-ccp> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-bx#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Brunei"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/bx#location>, <http://sws.geonames.org/1820814/>, <http://dbpedia.org/resource/Brunei>, <info:lc/vocabulary/gacs/a-bx> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Brunei> ;

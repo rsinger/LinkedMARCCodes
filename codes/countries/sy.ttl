@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <sy#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Syria"@en ;
   skos:altLabel "Syrian Arab Republic"@en ;
   owl:sameAs <http://sws.geonames.org/163843/>, <info:lc/vocabulary/countries/sy> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <poea#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Easter Island"@en ;
   skos:altLabel "Isla de Pascua"@en, "Pascua Island"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/cl#location>, <http://sws.geonames.org/5945395/>, <http://sws.geonames.org/5945396/>, <http://sws.geonames.org/4030726/>, <http://dbpedia.org/resource/Easter_Island>, <info:lc/vocabulary/gacs/poea> ;

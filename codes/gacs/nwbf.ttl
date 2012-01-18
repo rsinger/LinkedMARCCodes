@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nwbf#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Bahamas"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/bf#location>, <http://sws.geonames.org/3572887/>, <info:lc/vocabulary/gacs/nwbf> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Bahamas> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-de#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Delaware"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/deu#location>, <http://sws.geonames.org/4142224/>, <http://dbpedia.org/resource/Delaware>, <info:lc/vocabulary/gacs/n-us-de> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Delaware> ;

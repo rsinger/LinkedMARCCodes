@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <bm#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Bermuda Islands"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/lnbm#location>, <info:lc/vocabulary/countries/bm> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;

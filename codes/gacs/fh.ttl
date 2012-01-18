@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <fh#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Africa, Northeast"@en ;
   skos:altLabel "Africa, Italian East"@en, "East African Horn"@en, "Italian East Africa"@en, "Northeast Africa"@en ;
   owl:sameAs <http://dbpedia.org/resource/Horn_of_Africa>, <info:lc/vocabulary/gacs/fh> ;

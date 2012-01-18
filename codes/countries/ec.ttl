@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ec#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Ecuador"@en ;
   skos:altLabel "Archipi\u00E9lago de Col\u00F3n"@en, "Col\u00F3n, Archipi\u00E9lago de"@en, "Galapagos Islands"@en ;
   owl:sameAs <http://sws.geonames.org/3658394/>, <http://purl.org/NET/marccodes/gacs/s-ec#location>, <http://purl.org/NET/marccodes/gacs/pogg#location>, <info:lc/vocabulary/countries/ec> ;

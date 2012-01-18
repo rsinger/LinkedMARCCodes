@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-cnm#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Maritime Provinces"@en ;
   owl:sameAs <http://dbpedia.org/resource/Maritimes>, <info:lc/vocabulary/gacs/n-cnm> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85081318#concept> ;

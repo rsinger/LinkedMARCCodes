@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <i-hm#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Heard and McDonald Islands"@en ;
   skos:altLabel "Heard Island (Heard and McDonald Islands)"@en, "McDonald Island (Heard and McDonald Islands)"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/hm#location>, <http://sws.geonames.org/1547314/>, <http://dbpedia.org/resource/Heard_Island_and_McDonald_Islands>, <info:lc/vocabulary/gacs/i-hm> ;

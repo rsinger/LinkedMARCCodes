@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <mu#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Mauritania"@en ;
   owl:sameAs <http://sws.geonames.org/2378080/>, <http://purl.org/NET/marccodes/gacs/f-mu#location>, <info:lc/vocabulary/countries/mu> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;

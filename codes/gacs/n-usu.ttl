@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-usu#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Southern States"@en ;
   skos:altLabel "Confederate States of America"@en, "Cumberland Mountains"@en, "Gulf States"@en, "South Atlantic States"@en, "Atlantic States, South"@en, "Atlantic States, South"@en, "Southwest, Old"@en, "Southwestern States"@en, "Sunbelt States"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/n-usu> ;

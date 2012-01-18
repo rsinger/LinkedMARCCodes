@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-gi#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Gibraltar"@en ;
   skos:altLabel "Gibraltar, Strait of"@en, "Strait of Gibraltar"@en, "Strait of Gibraltar"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/gi#location>, <http://sws.geonames.org/2411586/>, <http://dbpedia.org/resource/Gibraltar>, <info:lc/vocabulary/gacs/e-gi> ;

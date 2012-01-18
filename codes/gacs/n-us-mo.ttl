@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-mo#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Missouri"@en ;
   skos:altLabel "Ozark Mountains"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/mou#location>, <http://sws.geonames.org/4398678/>, <http://dbpedia.org/resource/Missouri>, <info:lc/vocabulary/gacs/n-us-mo> ;

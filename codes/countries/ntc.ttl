@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ntc#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Northwest Territories"@en ;
   owl:sameAs <http://sws.geonames.org/6091069/>, <info:lc/vocabulary/countries/ntc> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;

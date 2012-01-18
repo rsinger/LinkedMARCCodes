@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <f-ml#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Mali"@en ;
   skos:altLabel "Songhai Empire"@en, "French Sudan"@en, "Sudan, French"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/ml#location>, <http://sws.geonames.org/2453866/>, <http://dbpedia.org/resource/Mali>, <info:lc/vocabulary/gacs/f-ml> ;

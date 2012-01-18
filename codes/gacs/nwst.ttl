@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nwst#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Saint Martin (West Indies)"@en ;
   skos:altLabel "Sint Maarten (West Indies)"@en, "St. Martin (West Indies)"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/nwst> ;

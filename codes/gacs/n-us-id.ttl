@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-id#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Idaho"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/idu#location>, <http://sws.geonames.org/5596512/>, <http://dbpedia.org/resource/Idaho>, <info:lc/vocabulary/gacs/n-us-id> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Idaho> ;

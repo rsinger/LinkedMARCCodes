@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ae#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "East Asia"@en ;
   skos:altLabel "Asia, East"@en, "East (Far East)"@en, "Far East"@en ;
   owl:sameAs <http://dbpedia.org/resource/East_Asia>, <info:lc/vocabulary/gacs/ae> ;

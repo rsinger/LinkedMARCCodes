@@ -4,4 +4,4 @@
   skos:prefLabel "Central America"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/nc#location> ;
   dcterms:hasPart <http://purl.org/NET/marccodes/countries/bh#location>, <http://purl.org/NET/marccodes/countries/cr#location>, <http://purl.org/NET/marccodes/countries/es#location>, <http://purl.org/NET/marccodes/countries/gt#location>, <http://purl.org/NET/marccodes/countries/ho#location>, <http://purl.org/NET/marccodes/countries/nq#location>, <http://purl.org/NET/marccodes/countries/pn#location> ; 
-  a wgs84:SpatialThing .
+  a dcterms:Location .

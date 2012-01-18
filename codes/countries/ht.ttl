@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ht#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Haiti"@en ;
   owl:sameAs <http://sws.geonames.org/3723988/>, <http://purl.org/NET/marccodes/gacs/nwht#location>, <info:lc/vocabulary/countries/ht> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;

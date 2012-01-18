@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-ge#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Germany (East)"@en ;
   skos:altLabel "Democratic German Republic"@en, "East Germany"@en, "German Democratic Republic"@en, "Germany, Eastern"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/gw#location>, <http://dbpedia.org/resource/East_Germany>, <info:lc/vocabulary/gacs/e-ge> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <cv#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Cape Verde"@en ;
   skos:altLabel "Boa Vista"@en, "Brava"@en, "Fogo"@en, "Maio"@en, "Sal"@en, "Santo Antao"@en, "S\u00E3o Nicolau"@en, "S\u00E3o Tiago"@en, "S\u00E3o Vicente"@en ;
   owl:sameAs <http://sws.geonames.org/3374766/>, <http://purl.org/NET/marccodes/gacs/lncv#location>, <info:lc/vocabulary/countries/cv> ;

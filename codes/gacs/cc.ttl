@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <cc#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Caribbean Sea"@en ;
   owl:sameAs <http://sws.geonames.org/4563233/>, <http://sws.geonames.org/4795435/>, <http://sws.geonames.org/3491073/>, <http://dbpedia.org/resource/Caribbean_Sea>, <info:lc/vocabulary/gacs/cc> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85020308#concept>, <http://dbpedia.org/resource/Category:Caribbean_Sea> ;

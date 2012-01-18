@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <gb#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Kiribati"@en ;
   skos:altLabel "Banaba"@en, "Birnie Island"@en, "Canton Island"@en, "Caroline Island"@en, "Central and Southern Line Islands"@en, "Christmas Atoll"@en, "Enderbury Island"@en, "Fanning Atoll"@en, "Flint Island"@en, "Gardner Atoll"@en, "Gilbert and Ellice Islands"@en, "Gilbert Islands"@en, "Hull Atoll"@en, "Kiritimati"@en, "Line Islands (Southern)"@en, "Malden Island"@en, "Manra Atoll"@en, "McKean Atoll"@en, "Nikomaroro Atoll"@en, "Ocean Island"@en, "Orona Atoll"@en, "Phoenix Atoll"@en, "Phoenix Islands"@en, "Rawaki"@en, "Starbuck Island"@en, "Sydney Atoll"@en, "Tabuarean Island"@en, "Vostok Island"@en, "Washington Island"@en ;
   owl:sameAs <http://sws.geonames.org/4030945/>, <http://purl.org/NET/marccodes/gacs/pokb#location>, <info:lc/vocabulary/countries/gb> ;

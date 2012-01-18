@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <lnaz#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Azores"@en ;
   skos:altLabel "A\u00E7ores"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/po#location>, <http://sws.geonames.org/3373385/>, <http://dbpedia.org/resource/Azores>, <info:lc/vocabulary/gacs/lnaz> ;

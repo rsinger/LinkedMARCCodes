@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <dd#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Developed countries"@en ;
   skos:altLabel "Advanced countries"@en, "Economically advanced countries"@en, "First World"@en, "Industrialized countries"@en ;
   owl:sameAs <http://dbpedia.org/resource/CIA_developed_country_list>, <info:lc/vocabulary/gacs/dd> ;

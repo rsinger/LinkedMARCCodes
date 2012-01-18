@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-aa#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Albania"@en ;
   skos:altLabel "People's Socialist Republic of Albania"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/aa#location>, <http://sws.geonames.org/783754/>, <http://dbpedia.org/resource/Albania>, <info:lc/vocabulary/gacs/e-aa> ;

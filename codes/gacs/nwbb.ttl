@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nwbb#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Barbados"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/bb#location>, <http://sws.geonames.org/3374084/>, <http://dbpedia.org/resource/Barbados>, <info:lc/vocabulary/gacs/nwbb> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Barbados> ;

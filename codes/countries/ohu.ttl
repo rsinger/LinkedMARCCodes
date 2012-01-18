@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ohu#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Ohio"@en ;
   owl:sameAs <http://sws.geonames.org/5165418/>, <info:lc/vocabulary/countries/ohu> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;

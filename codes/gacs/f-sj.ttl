@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <f-sj#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Sudan"@en ;
   skos:altLabel "Anglo-Egyptian Sudan"@en ;
   dcterms:isPartOf <f#location> ;

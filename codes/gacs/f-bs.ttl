@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <f-bs#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Botswana"@en ;
   skos:altLabel "Bechuanaland"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/bs#location>, <http://sws.geonames.org/933860/>, <http://dbpedia.org/resource/Botswana>, <info:lc/vocabulary/gacs/f-bs> ;

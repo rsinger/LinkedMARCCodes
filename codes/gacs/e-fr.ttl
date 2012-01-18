@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-fr#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "France"@en ;
   skos:altLabel "Corsica (France)"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/fr#location>, <http://sws.geonames.org/3017382/>, <http://dbpedia.org/resource/France>, <info:lc/vocabulary/gacs/e-fr> ;

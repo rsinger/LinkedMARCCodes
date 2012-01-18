@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <np#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Great Plains"@en ;
   owl:sameAs <http://sws.geonames.org/5445514/>, <http://dbpedia.org/resource/Great_Plains>, <info:lc/vocabulary/gacs/np> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85056998#concept> ;

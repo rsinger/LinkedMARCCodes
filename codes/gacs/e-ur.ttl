@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-ur#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Soviet Union"@en ;
   skos:altLabel "Communist countries"@en, "Russia"@en, "Russian Empire"@en, "Russian Empire"@en, "Soviet Union, Southern"@en, "Southern Soviet Union"@en, "Southern Soviet Union"@en, "Soviet Union, Western"@en, "Western Soviet Union"@en, "Western Soviet Union"@en, "Commonwealth of Independent States countries"@en, "Former Soviet republics"@en, "U.S.S.R."@en ;
   owl:sameAs <info:lc/vocabulary/gacs/e-ur> ;

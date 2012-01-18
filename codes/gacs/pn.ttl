@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <pn#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "North Pacific Ocean"@en ;
   skos:altLabel "Alaska, Gulf of (Alaska)"@en, "Gulf of Alaska (Alaska)"@en, "Gulf of Alaska (Alaska)"@en, "Bering Sea"@en, "Philippine Sea"@en, "Pacific Ocean, North"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/pn> ;

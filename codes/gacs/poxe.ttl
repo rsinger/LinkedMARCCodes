@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <poxe#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Marshall Islands"@en ;
   skos:altLabel "Bikini Atoll (Marshall Islands)"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/xe#location>, <http://sws.geonames.org/2080185/>, <http://dbpedia.org/resource/Marshall_Islands>, <info:lc/vocabulary/gacs/poxe> ;

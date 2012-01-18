@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nwxi#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Saint Kitts and Nevis"@en ;
   skos:altLabel "Nevis"@en, "Saint Kitts"@en, "Saint Kitts-Nevis-Anguilla"@en, "St. Christopher-Nevis-Anguilla"@en, "St. Christopher-Nevis-Anguilla"@en, "Saint Christopher and Nevis"@en ;
   skos:notation "nwxi" .

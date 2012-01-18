@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-cb#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Cambodia"@en ;
   skos:altLabel "Kampuchea"@en, "Khmer Republic"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/cb#location>, <http://sws.geonames.org/1831722/>, <http://dbpedia.org/resource/Cambodia>, <info:lc/vocabulary/gacs/a-cb> ;

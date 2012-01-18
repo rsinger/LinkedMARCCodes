@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <gw#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Germany"@en ;
   skos:altLabel "Berlin, East"@en, "Berlin, West"@en, "East Berlin"@en, "Germany (East)"@en, "Germany (West)"@en, "Germany, Democratic Republic of"@en, "Germany, Federal Republic of"@en, "West Berlin"@en ;
   owl:sameAs <http://sws.geonames.org/2921044/>, <http://purl.org/NET/marccodes/gacs/e-gx#location>, <http://purl.org/NET/marccodes/gacs/e-ge#location>, <http://purl.org/NET/marccodes/gacs/e-gw#location>, <info:lc/vocabulary/countries/gw> ;

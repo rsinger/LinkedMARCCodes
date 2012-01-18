@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-gr#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Greece"@en ;
   skos:altLabel "Aegean Islands (Greece and Turkey)"@en, "Islands of the Aegean"@en, "Islands of the Aegean"@en, "Aegean Sea"@en, "Crete (Greece)"@en, "Dodekanesos (Greece)"@en, "Macedonia"@en, "Macedonia (Greece)"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/gr#location>, <http://sws.geonames.org/390903/>, <http://dbpedia.org/resource/Greece>, <info:lc/vocabulary/gacs/e-gr> ;

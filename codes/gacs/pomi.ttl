@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <pomi#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Micronesia (Federated States)"@en ;
   skos:altLabel "Chuuk (Micronesia)"@en, "Truk (Micronesia)"@en, "Truk (Micronesia)"@en, "Kosrae (Micronesia)"@en, "Kusaie (Micronesia)"@en, "Kusaie (Micronesia)"@en, "Pohnpei (Micronesia)"@en, "Ponape (Micronesia)"@en, "Ponape (Micronesia)"@en, "Yap (Micronesia)"@en, "Federated States of Micronesia"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/fm#location>, <http://sws.geonames.org/2081918/>, <http://dbpedia.org/resource/Federated_States_of_Micronesia>, <info:lc/vocabulary/gacs/pomi> ;

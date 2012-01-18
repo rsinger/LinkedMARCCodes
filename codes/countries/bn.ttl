@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <bn#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Bosnia and Hercegovina"@en ;
   skos:altLabel "Hercegovina"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/e-bn#location>, <info:lc/vocabulary/countries/bn> ;

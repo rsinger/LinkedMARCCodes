@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <pw#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Palau"@en ;
   skos:altLabel "Angaur Island"@en, "Babelthuap Island"@en, "Belau"@en, "Helen Island"@en, "Merir Island"@en, "Pacific Islands (Trust Territory)"@en, "Peleliu Island"@en, "Pelew"@en, "Pulo Anna Island"@en, "Sonsoral Islands"@en, "Tobi Island"@en, "Trust Territory of the Pacific Islands"@en ;
   skos:note "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en ;

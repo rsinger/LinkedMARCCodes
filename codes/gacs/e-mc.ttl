@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-mc#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Monaco"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/mc#location>, <http://sws.geonames.org/2993457/>, <http://dbpedia.org/resource/Monaco>, <info:lc/vocabulary/gacs/e-mc> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Monaco> ;

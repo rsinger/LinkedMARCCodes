@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <fw#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Africa, West"@en ;
   skos:altLabel "Africa, French-speaking West"@en, "French-speaking West Africa"@en, "French West Africa"@en, "French-speaking West Africa"@en, "French West Africa"@en, "Africa, Northwest"@en, "Northwest Africa"@en, "Northwest Africa"@en, "Ghana (Empire)"@en, "Mali (Empire)"@en, "British West Africa"@en, "West Africa"@en ;
   owl:sameAs <http://dbpedia.org/resource/West_Africa>, <info:lc/vocabulary/gacs/fw> ;

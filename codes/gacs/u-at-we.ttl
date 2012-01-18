@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <u-at-we#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Western Australia"@en ;
   skos:altLabel "Australia, Western"@en ;
   dcterms:isPartOf <u-at#location> ;

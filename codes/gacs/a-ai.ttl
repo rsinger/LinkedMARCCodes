@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-ai#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Armenia (Republic)"@en ;
   skos:altLabel "Armenia"@en, "Transcaucasia"@en, "Armenian S.S.R."@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/ai#location>, <http://sws.geonames.org/174982/>, <http://dbpedia.org/resource/Armenia>, <info:lc/vocabulary/gacs/a-ai> ;

@@ -1,6 +1,6 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <c#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Intercontinental areas (Western Hemisphere)"@en ;
   skos:notation "c" .

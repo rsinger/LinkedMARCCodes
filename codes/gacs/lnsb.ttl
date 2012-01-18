@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <lnsb#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Svalbard (Norway)"@en ;
   skos:altLabel "Bear Island (Norway)"@en, "Bj\u00F8rn\u00F8ya (Norway)"@en, "Bj\u00F8rn\u00F8ya (Norway)"@en, "Spitsbergen Island (Norway)"@en, "West Spitsbergen (Norway)"@en, "West Spitsbergen (Norway)"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/lnsb> ;

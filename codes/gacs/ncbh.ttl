@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ncbh#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Belize"@en ;
   skos:altLabel "British Honduras"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/bh#location>, <http://sws.geonames.org/3582678/>, <http://dbpedia.org/resource/Belize>, <info:lc/vocabulary/gacs/ncbh> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-ct#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Connecticut"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/ctu#location>, <http://sws.geonames.org/4831725/>, <http://dbpedia.org/resource/Connecticut>, <info:lc/vocabulary/gacs/n-us-ct> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Connecticut> ;

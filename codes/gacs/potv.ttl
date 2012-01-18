@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <potv#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Tuvalu"@en ;
   skos:altLabel "Gilbert and Ellice Islands Colony"@en, "Ellice Islands"@en ;
   skos:note "Coded [pogn] (Gilbert and Ellice Islands) before Mar. 1988"@en, "Coded [pogn] (Gilbert and Ellice Islands) before Mar. 1988"@en, "Coded [pogn] (Gilbert and Ellice Islands) before Mar. 1988"@en ;

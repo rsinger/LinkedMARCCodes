@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-urc#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Central Chernozem Region (Russia)"@en ;
   skos:altLabel "Central Black Earth Region (Russia)"@en, "Central Black Soil Region (Russia)"@en ;
   owl:sameAs <http://sws.geonames.org/480999/>, <http://dbpedia.org/resource/Central_Black_Earth_Region>, <info:lc/vocabulary/gacs/e-urc> ;

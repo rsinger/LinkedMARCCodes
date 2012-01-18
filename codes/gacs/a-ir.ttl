@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-ir#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Iran"@en ;
   skos:altLabel "Armenia"@en, "Persia"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/ir#location>, <http://sws.geonames.org/130758/>, <http://dbpedia.org/resource/Iran>, <info:lc/vocabulary/gacs/a-ir> ;

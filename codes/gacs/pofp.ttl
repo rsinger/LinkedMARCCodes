@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <pofp#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "French Polynesia"@en ;
   skos:altLabel "Austral Islands (French Polynesia)"@en, "Tubuai Islands (French Polynesia)"@en, "Tubuai Islands (French Polynesia)"@en, "Gambier Islands (French Polynesia)"@en, "Marquesas Islands (French Polynesia)"@en, "Archipel des Marquises (French Polynesia)"@en, "\u00CEles Marquises de Mendo\u00E7a (French Polynesia)"@en, "Islas Marquesas de Mendoza (French Polynesia)"@en, "Menda\u00F1a (French Polynesia)"@en, "Archipel des Marquises (French Polynesia)"@en, "\u00CEles Marquises de Mendo\u00E7a (French Polynesia)"@en, "Islas Marquesas de Mendoza (French Polynesia)"@en, "Menda\u00F1a (French Polynesia)"@en, "Society Islands (French Polynesia)"@en, "Tuamotu Archipelago (French Polynesia)"@en, "Oceania, French"@en, "Polynesia, French"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/fp#location>, <http://sws.geonames.org/4030656/>, <http://dbpedia.org/resource/French_Polynesia>, <info:lc/vocabulary/gacs/pofp> ;

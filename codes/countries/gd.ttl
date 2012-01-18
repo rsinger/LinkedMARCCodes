@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <gd#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Grenada"@en ;
   skos:altLabel "Grenadine Islands, Southern"@en ;
   owl:sameAs <http://sws.geonames.org/3580239/>, <http://dbpedia.org/resource/Grenada>, <http://purl.org/NET/marccodes/gacs/nwgd#location>, <info:lc/vocabulary/countries/gd> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <eg#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Equatorial Guinea"@en ;
   skos:altLabel "Annob\u00F3n"@en, "Bioko"@en, "Corisco Island"@en, "Elobey, Great"@en, "Elobey, Small"@en, "Fernando Po Island"@en, "Macias Nguema Biyogo"@en, "Pagalu"@en, "Rio Muni"@en ;
   owl:sameAs <http://sws.geonames.org/2309096/>, <http://purl.org/NET/marccodes/gacs/f-eg#location>, <info:lc/vocabulary/countries/eg> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <mz#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Mozambique"@en ;
   owl:sameAs <http://sws.geonames.org/1036973/>, <http://purl.org/NET/marccodes/gacs/f-mz#location>, <info:lc/vocabulary/countries/mz> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nmu#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "New Mexico"@en ;
   owl:sameAs <http://sws.geonames.org/5481136/>, <info:lc/vocabulary/countries/nmu> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nl#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "New Caledonia"@en ;
   skos:altLabel "Belep Islands"@en, "Chesterfield, Iles"@en, "Huon, Ile"@en, "Ile des Pins"@en, "Ile Huon"@en, "Ile Uvea (New Caledonia)"@en, "Ile Walpole"@en, "Iles Belep"@en, "Iles Chesterfield"@en, "Isle of Pines (Pacific Ocean)"@en, "Loyalty Islands"@en, "Pines, Isle of (Pacific Ocean)"@en, "Pins, Ile des"@en, "Uvea (New Caledonia)"@en, "Walpole, Ile"@en ;
   owl:sameAs <http://sws.geonames.org/2139685/>, <info:lc/vocabulary/countries/nl> ;

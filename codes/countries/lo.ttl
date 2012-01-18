@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <lo#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Lesotho"@en ;
   skos:altLabel "Basutoland"@en ;
   owl:sameAs <http://sws.geonames.org/932692/>, <http://dbpedia.org/resource/Lesotho>, <http://purl.org/NET/marccodes/gacs/f-lo#location>, <info:lc/vocabulary/countries/lo> ;

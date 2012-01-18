@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-mi#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Michigan"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/miu#location>, <http://sws.geonames.org/5001836/>, <http://dbpedia.org/resource/Michigan>, <info:lc/vocabulary/gacs/n-us-mi> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Michigan> ;

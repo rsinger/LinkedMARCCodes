@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ncgt#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Guatemala"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/gt#location>, <http://sws.geonames.org/3595528/>, <http://dbpedia.org/resource/Guatemala>, <info:lc/vocabulary/gacs/ncgt> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Guatemala> ;

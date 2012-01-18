@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ay#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Yellow Sea"@en ;
   skos:altLabel "Huang Hai"@en, "Kwang Sea"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/ay> ;

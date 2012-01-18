@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <su#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Rio de la Plata (Argentina and Uruguay)"@en ;
   skos:altLabel "La Plata River (Argentina and Uruguay)"@en, "Plata, Rio de la (Argentina and Uruguay)"@en, "Plate River (Argentina and Uruguay)"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/su> ;

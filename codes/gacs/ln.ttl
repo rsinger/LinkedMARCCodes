@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ln#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "North Atlantic Ocean"@en ;
   skos:altLabel "Baltic Sea"@en, "Bermuda Triangle"@en, "English Channel"@en, "Fundy, Bay of"@en, "Bay of Fundy"@en, "Bay of Fundy"@en, "Georges Bank"@en, "Irish Sea"@en, "North Sea"@en, "Norwegian Sea"@en, "Skagerrak (Denmark and Norway)"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/ln> ;

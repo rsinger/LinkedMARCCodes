@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nwla#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Antilles, Lesser"@en ;
   skos:altLabel "West Indies, French"@en, "French West Indies"@en, "French West Indies"@en, "Lesser Antilles"@en ;
   owl:sameAs <http://sws.geonames.org/3578932/>, <http://dbpedia.org/resource/Lesser_Antilles>, <info:lc/vocabulary/gacs/nwla> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <pome#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Melanesia"@en ;
   owl:sameAs <http://sws.geonames.org/2132910/>, <http://sws.geonames.org/2194172/>, <http://dbpedia.org/resource/Melanesia>, <info:lc/vocabulary/gacs/pome> ;
   umbel:isAbout <http://id.loc.gov/authorities/sh85083370#concept>, <http://dbpedia.org/resource/Category:Melanesia> ;

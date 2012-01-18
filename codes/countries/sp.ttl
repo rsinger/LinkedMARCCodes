@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <sp#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Spain"@en ;
   skos:altLabel "Balearic Islands"@en, "Canary Islands"@en ;
   owl:sameAs <http://sws.geonames.org/2510769/>, <http://purl.org/NET/marccodes/gacs/lnca#location>, <info:lc/vocabulary/countries/sp> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ta#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Tajikistan"@en ;
   skos:altLabel "Soviet Union"@en, "Tadzhik S.S.R."@en, "Tajik S.S.R."@en ;
   owl:sameAs <http://sws.geonames.org/1220409/>, <info:lc/vocabulary/countries/ta> ;

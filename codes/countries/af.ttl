@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <af#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Afghanistan"@en ;
   owl:sameAs <http://sws.geonames.org/1149361/>, <info:lc/vocabulary/countries/af> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;

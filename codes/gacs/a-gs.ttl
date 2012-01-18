@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-gs#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Georgia (Republic)"@en ;
   skos:altLabel "Transcaucasia"@en, "Georgia (Soviet Union)"@en, "Georgian S.S.R."@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/gs#location>, <http://sws.geonames.org/614540/>, <info:lc/vocabulary/gacs/a-gs> ;

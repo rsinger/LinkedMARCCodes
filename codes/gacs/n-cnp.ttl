@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-cnp#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Prairie Provinces"@en ;
   skos:altLabel "Canada, Western"@en, "Western Canada"@en, "Western Canada"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/n-cnp> ;

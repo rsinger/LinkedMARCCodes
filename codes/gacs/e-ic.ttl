@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-ic#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Iceland"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/ic#location>, <http://sws.geonames.org/2629691/>, <http://dbpedia.org/resource/Iceland>, <info:lc/vocabulary/gacs/e-ic> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Iceland> ;

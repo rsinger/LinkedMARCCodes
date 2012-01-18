@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-mx#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Mexico"@en ;
   skos:altLabel "Colorado River (Colo.-Mexico)"@en, "Colorado River Delta (Mexico)"@en, "Middle America"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/mx#location>, <http://sws.geonames.org/3996063/>, <http://dbpedia.org/resource/Mexico>, <info:lc/vocabulary/gacs/n-mx> ;

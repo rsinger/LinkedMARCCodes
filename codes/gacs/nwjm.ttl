@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nwjm#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Jamaica"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/jm#location>, <http://sws.geonames.org/3489940/>, <http://dbpedia.org/resource/Jamaica>, <info:lc/vocabulary/gacs/nwjm> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Jamaica> ;

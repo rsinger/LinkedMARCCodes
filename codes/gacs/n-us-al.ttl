@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-al#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Alabama"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/alu#location>, <http://sws.geonames.org/4829764/>, <http://dbpedia.org/resource/Alabama>, <info:lc/vocabulary/gacs/n-us-al> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Alabama> ;

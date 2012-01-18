@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <nw#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Northern Mariana Islands"@en ;
   skos:altLabel "Agrihan Island"@en, "Aguijan Island"@en, "Alamagan Island"@en, "Anatahan Island"@en, "Asuncion Island"@en, "Farallon de Medinilla Island"@en, "Farallon de Pajaros Island"@en, "Guguan Island"@en, "Mariana Islands"@en, "Maug Islands"@en, "Pacific Islands (Trust Territory)"@en, "Pagan Island"@en, "Rota Island"@en, "Saipan Island"@en, "Sarigan Island"@en, "Tinian Island"@en, "Trust Territory of the Pacific Islands"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/poxd#location>, <info:lc/vocabulary/countries/nw> ;

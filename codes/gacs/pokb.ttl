@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <pokb#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Kiribati"@en ;
   skos:altLabel "Banaba (Kiribati)"@en, "Ocean Island (Kiribati)"@en, "Ocean Island (Kiribati)"@en, "Canton and Enderbury Islands"@en, "Enderbury and Canton Islands"@en, "Enderbury and Canton Islands"@en, "Gilbert and Ellice Islands Colony"@en, "Kiritimati (Kiribati)"@en, "Christmas Island (Pacific Ocean)"@en, "Christmas Island (Pacific Ocean)"@en, "Phoenix Islands (Kiribati)"@en, "Gilbert Islands"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/gb#location>, <http://sws.geonames.org/4030945/>, <http://dbpedia.org/resource/Kiribati>, <info:lc/vocabulary/gacs/pokb> ;

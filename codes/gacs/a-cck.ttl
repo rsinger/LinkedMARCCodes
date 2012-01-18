@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <a-cck#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Kunlun Mountains (China and India)"@en ;
   skos:altLabel "Kwenlun Mountains"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/a-cck> ;

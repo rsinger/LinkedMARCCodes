@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ea#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Eritrea"@en ;
   owl:sameAs <http://sws.geonames.org/338010/>, <http://purl.org/NET/marccodes/gacs/f-ea#location>, <info:lc/vocabulary/countries/ea> ;
   skos:note "Before 1993-11-01 use et (Ethiopia)"@en ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <xxk#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "United Kingdom"@en ;
   skos:altLabel "Great Britain"@en ;
   owl:sameAs <http://sws.geonames.org/2635167/>, <http://purl.org/NET/marccodes/gacs/e-uk#location>, <info:lc/vocabulary/countries/xxk> ;

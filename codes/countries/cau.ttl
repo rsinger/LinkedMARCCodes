@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <cau#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "California"@en ;
   owl:sameAs <http://sws.geonames.org/5332921/>, <http://purl.org/NET/marccodes/gacs/n-us-ca#location>, <info:lc/vocabulary/countries/cau> ;
   dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <ho#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Honduras"@en ;
   skos:altLabel "Swan Islands"@en ;
   owl:sameAs <http://sws.geonames.org/3608932/>, <http://purl.org/NET/marccodes/gacs/ncho#location>, <info:lc/vocabulary/countries/ho> ;

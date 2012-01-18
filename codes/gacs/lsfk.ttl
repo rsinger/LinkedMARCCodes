@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <lsfk#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Falkland Islands"@en ;
   skos:altLabel "South Orkney Islands"@en, "Malvinas Islands"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/fk#location>, <http://sws.geonames.org/3474414/>, <http://dbpedia.org/resource/Falkland_Islands>, <info:lc/vocabulary/gacs/lsfk> ;

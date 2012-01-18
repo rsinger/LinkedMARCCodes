@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <e-ure#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Siberia, Eastern (Russia)"@en ;
   skos:altLabel "East Siberian Region (Russia)"@en, "Eastern Siberia (Russia)"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/e-ure> ;

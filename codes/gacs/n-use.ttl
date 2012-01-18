@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-use#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Northeastern States"@en ;
   skos:altLabel "Northeast (U.S.)"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/n-use> ;

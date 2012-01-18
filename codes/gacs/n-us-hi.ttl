@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-hi#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Hawaii"@en ;
   skos:altLabel "Sunbelt States"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/hiu#location>, <http://sws.geonames.org/5855797/>, <http://dbpedia.org/resource/Hawaii>, <info:lc/vocabulary/gacs/n-us-hi> ;

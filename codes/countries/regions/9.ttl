@@ -4,4 +4,4 @@
   skos:prefLabel "Australasia"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/gacs/u#location> ;
   dcterms:hasPart <http://purl.org/NET/marccodes/countries/at#location>, <http://purl.org/NET/marccodes/countries/aca#location>, <http://purl.org/NET/marccodes/countries/xga#location>, <http://purl.org/NET/marccodes/countries/xna#location>, <http://purl.org/NET/marccodes/countries/nz#location>, <http://purl.org/NET/marccodes/countries/nx#location>, <http://purl.org/NET/marccodes/countries/xoa#location>, <http://purl.org/NET/marccodes/countries/qea#location>, <http://purl.org/NET/marccodes/countries/xra#location>, <http://purl.org/NET/marccodes/countries/tma#location>, <http://purl.org/NET/marccodes/countries/vra#location>, <http://purl.org/NET/marccodes/countries/wea#location> ; 
-  a wgs84:SpatialThing .
+  a dcterms:Location .

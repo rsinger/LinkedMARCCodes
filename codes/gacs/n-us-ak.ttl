@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-us-ak#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Alaska"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/aku#location>, <http://sws.geonames.org/5879092/>, <http://dbpedia.org/resource/Alaska>, <info:lc/vocabulary/gacs/n-us-ak> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Alaska> ;

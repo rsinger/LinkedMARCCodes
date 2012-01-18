@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <n-gl#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Greenland"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/gl#location>, <http://sws.geonames.org/3425505/>, <http://dbpedia.org/resource/Greenland>, <info:lc/vocabulary/gacs/n-gl> ;
   umbel:isAbout <http://dbpedia.org/resource/Category:Greenland> ;

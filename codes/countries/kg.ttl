@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <kg#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Kyrgyzstan"@en ;
   skos:altLabel "Kirghiz S.S.R."@en, "Soviet Union"@en, "Kirghizia"@en ;
   owl:sameAs <http://sws.geonames.org/1527747/>, <http://purl.org/NET/marccodes/gacs/a-kg#location>, <info:lc/vocabulary/countries/kg> ;

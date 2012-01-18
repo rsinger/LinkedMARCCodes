@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <lsai#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Ascension Island (Atlantic Ocean)"@en ;
   owl:sameAs <http://purl.org/NET/marccodes/countries/xj#location>, <http://dbpedia.org/resource/Ascension_Island>, <info:lc/vocabulary/gacs/lsai> ;
   skos:notation "lsai" .

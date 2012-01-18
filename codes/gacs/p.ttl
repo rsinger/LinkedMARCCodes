@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <p#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Pacific Ocean"@en ;
   skos:altLabel "Pacific Area"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/p> ;

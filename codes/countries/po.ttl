@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <po#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Portugal"@en ;
   skos:altLabel "Azores"@en, "Madeira Island"@en ;
   owl:sameAs <http://sws.geonames.org/2264397/>, <http://purl.org/NET/marccodes/gacs/lnaz#location>, <info:lc/vocabulary/countries/po> ;

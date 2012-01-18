@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <aa#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Amur River (China and Russia)"@en ;
   skos:altLabel "Hei Ho (China and Russia)"@en, "Heilong Jiang (China and Russia)"@en, "Reka Amur (China and Russia)"@en, "Sakhalin Ula (China and Russia)"@en ;
   owl:sameAs <info:lc/vocabulary/gacs/aa> ;

@@ -1,7 +1,7 @@
 # not a valid turtle document, be sure to include ./PREFIX
 
 <pk#location>
-  a wgs84:SpatialThing ;
+  a dcterms:Location ;
   skos:prefLabel "Pakistan"@en ;
   skos:altLabel "Gwadar"@en, "West Pakistan"@en ;
   owl:sameAs <http://sws.geonames.org/1168579/>, <info:lc/vocabulary/countries/pk> ;
