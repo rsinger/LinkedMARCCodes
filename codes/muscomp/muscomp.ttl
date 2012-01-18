@@ -1,0 +1,681 @@
+@prefix	skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix	rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix	owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix	mo:	<http://purl.org/ontology/mo/> .
+@prefix	umbel:	<http://umbel.org/umbel#> .
+@prefix	rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+@base	<http://purl.org/NET/marccodes/muscomp/> .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<an#genre>
+  a mo:Genre ;
+  skos:prefLabel "Anthems"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Anthem>, <info:lc/vocabulary/muscomp/an> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85005524#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Anthem> ;
+  skos:notation "an" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bd#genre>
+  a mo:Genre ;
+  skos:prefLabel "Ballads"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Ballads>, <info:lc/vocabulary/muscomp/bd> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85011228#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Ballads> ;
+  skos:notation "bd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Bluegrass Music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Bluegrass_music>, <info:lc/vocabulary/muscomp/bg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85015108#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Bluegrass_music> ;
+  skos:notation "bg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bl#genre>
+  a mo:Genre ;
+  skos:prefLabel "Blues"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Blues>, <info:lc/vocabulary/muscomp/bl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85015115#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Blues> ;
+  skos:notation "bl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bt#genre>
+  a mo:Genre ;
+  skos:prefLabel "Ballets"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Ballet_%28music%29>, <info:lc/vocabulary/muscomp/bt> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85011293#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Ballet_%28music%29> ;
+  skos:notation "bt" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ca#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chaconnes"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Chaconne>, <info:lc/vocabulary/muscomp/ca> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85022251#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Chaconne> ;
+  skos:notation "ca" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cb#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chants, Other religions"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/cb> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85022543#concept>, <http://purl.org/NET/marccodes/muscomp/cc#genre> ;
+  skos:notation "cb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cc#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chants, Christian"@en ;
+  skos:altLabel "Christian Chants"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/cc> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85022543#concept>, <http://purl.org/NET/marccodes/muscomp/cb#genre> ;
+  skos:notation "cc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Concerti grossi"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Concerti_grossi>, <info:lc/vocabulary/muscomp/cg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85029628#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Concerti_grossi> ;
+  skos:notation "cg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ch#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chorales"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Chorale>, <info:lc/vocabulary/muscomp/ch> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85024733#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85024707#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Chorale> ;
+  skos:notation "ch" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cl#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chorale preludes"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Chorale_prelude>, <info:lc/vocabulary/muscomp/cl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85024709#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85024708#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Chorale_prelude> ;
+  skos:notation "cl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cn#genre>
+  a mo:Genre ;
+  skos:prefLabel "Canons and rounds"@en ;
+  skos:altLabel "Canons"@en, "Rounds"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/cn> ;
+  umbel:isLike <http://dbpedia.org/resource/Canon_%28music%29>, <http://dbpedia.org/resource/Round_%28music%29> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85019665#concept>, <http://id.loc.gov/authorities/sh85055248#concept>, <http://id.loc.gov/authorities/sj96006064#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh92004988#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Canon_%28music%29>, <http://en.wikipedia.org/wiki/Round_%28music%29> ;
+  mo:similar_to <http://purl.org/NET/marccodes/muscomp/fg#genre>, <http://purl.org/NET/marccodes/muscomp/pr#genre> ;
+  skos:notation "cn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<co#genre>
+  a mo:Genre ;
+  skos:prefLabel "Concertos"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Concerto>, <info:lc/vocabulary/muscomp/co> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85029646#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85029644#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Concerto> ;
+  skos:notation "co" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cp#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chansons, polyphonic"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/cp> ;
+  umbel:isLike <http://dbpedia.org/resource/Chanson> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Chanson> ;
+  skos:notation "cp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cr#genre>
+  a mo:Genre ;
+  skos:prefLabel "Carols"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Carol_%28music%29>, <info:lc/vocabulary/muscomp/cr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85020400#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Carol_%28music%29> ;
+  skos:notation "cr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cs#genre>
+  a mo:Genre ;
+  skos:prefLabel "Chance compositions"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Aleatoric_music>, <info:lc/vocabulary/muscomp/cs> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85022486#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Aleatoric_music> ;
+  skos:notation "cs" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ct#genre>
+  a mo:Genre ;
+  skos:prefLabel "Cantatas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Cantata>, <info:lc/vocabulary/muscomp/ct> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85019780#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2002004305#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Cantata> ;
+  skos:notation "ct" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cy#genre>
+  a mo:Genre ;
+  skos:prefLabel "Country music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Country_music>, <info:lc/vocabulary/muscomp/cy> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85033470#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Country_music> ;
+  skos:notation "cy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cz#genre>
+  a mo:Genre ;
+  skos:prefLabel "Canzonas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Canzone>, <info:lc/vocabulary/muscomp/cz> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85019848#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Canzone> ;
+  skos:notation "cz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<df#genre>
+  a mo:Genre ;
+  skos:prefLabel "Dance forms"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Dance_music>, <info:lc/vocabulary/muscomp/df> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85035638#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Dance_music> ;
+  skos:notation "df" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dv#genre>
+  a mo:Genre ;
+  skos:prefLabel "Divertimentos, serenades, cassations, divertissements, and notturni"@en ;
+  skos:altLabel "Divertimentos"@en, "Serenades"@en, "Cassations"@en, "Divertissements"@en, "Notturni"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/dv> ;
+  umbel:isLike <http://dbpedia.org/resource/Divertimento>, <http://dbpedia.org/resource/Serenade>, <http://dbpedia.org/resource/Divertissement> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85129761#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85129759#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Divertimento>, <http://en.wikipedia.org/wiki/Serenade>, <http://en.wikipedia.org/wiki/Divertissement> ;
+  mo:similar_to <http://purl.org/NET/marccodes/muscomp/su#genre> ;
+  skos:notation "dv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Fugues"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Fugue>, <info:lc/vocabulary/muscomp/fg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85019665#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85052251#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Fugue> ;
+  mo:similar_to <http://purl.org/NET/marccodes/muscomp/cn#genre>, <http://purl.org/NET/marccodes/muscomp/pr#genre> ;
+  skos:notation "fg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fl#genre>
+  a mo:Genre ;
+  skos:prefLabel "Flamenco"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Flamenco>, <info:lc/vocabulary/muscomp/fl> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85048988#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85048987#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Flamenco> ;
+  skos:notation "fl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fm#genre>
+  a mo:Genre ;
+  skos:prefLabel "Folk music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Folk_music>, <info:lc/vocabulary/muscomp/fm> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85049843#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Folk_music> ;
+  skos:notation "fm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ft#genre>
+  a mo:Genre ;
+  skos:prefLabel "Fantasias"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Fantasia_%28music%29>, <info:lc/vocabulary/muscomp/ft> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85047111#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Fantasia_%28music%29> ;
+  skos:notation "ft" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gm#genre>
+  a mo:Genre ;
+  skos:prefLabel "Gospel music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Gospel_music>, <info:lc/vocabulary/muscomp/gm> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85055979#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2008105342#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Gospel_music> ;
+  skos:notation "gm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hy#genre>
+  a mo:Genre ;
+  skos:prefLabel "Hymns"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Hymn>, <info:lc/vocabulary/muscomp/hy> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85063599#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh99001951#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Hymn> ;
+  skos:notation "hy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<jz#genre>
+  a mo:Genre ;
+  skos:prefLabel "Jazz"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Jazz>, <info:lc/vocabulary/muscomp/jz> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85069833#concept>, <http://id.loc.gov/authorities/sh85069851#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Jazz> ;
+  skos:notation "jz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mc#genre>
+  a mo:Genre ;
+  skos:prefLabel "Musical revues and comedies"@en ;
+  skos:altLabel "Musical revues"@en, "Musical comedies"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/mc> ;
+  umbel:isLike <http://dbpedia.org/resource/Revue>, <http://dbpedia.org/resource/Musical_theatre> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh89002763#concept>, <http://id.loc.gov/authorities/sh85089018#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Revue>, <http://en.wikipedia.org/wiki/Musical_theatre> ;
+  skos:notation "mc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<md#genre>
+  a mo:Genre ;
+  skos:prefLabel "Madrigals"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Madrigal_%28music%29>, <info:lc/vocabulary/muscomp/md> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85079546#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Madrigal_%28music%29> ;
+  skos:notation "md" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mi#genre>
+  a mo:Genre ;
+  skos:prefLabel "Minuets"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/mi> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85085888#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85085887#concept> ;
+  skos:notation "mi" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mo#genre>
+  a mo:Genre ;
+  skos:prefLabel "Motets"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Motet>, <info:lc/vocabulary/muscomp/mo> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85087515#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85087514#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Motet> ;
+  skos:notation "mo" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mp#genre>
+  a mo:Genre ;
+  skos:prefLabel "Motion picture music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Film_score>, <info:lc/vocabulary/muscomp/mp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85088056#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Film_score> ;
+  skos:notation "mp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mr#genre>
+  a mo:Genre ;
+  skos:prefLabel "Marches"@en ;
+  owl:sameAs <http://dbpedia.org/resource/March_%28music%29>, <info:lc/vocabulary/muscomp/mr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85080979#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/March_%28music%29> ;
+  skos:notation "mr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ms#genre>
+  a mo:Genre ;
+  skos:prefLabel "Masses"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Mass_%28music%29>, <info:lc/vocabulary/muscomp/ms> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85081963#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85081852#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Mass_%28music%29> ;
+  skos:notation "ms" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mu#genre>
+  a mo:Genre ;
+  skos:prefLabel "Multiple forms"@en ;
+  skos:notation "mu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mz#genre>
+  a mo:Genre ;
+  skos:prefLabel "Mazurkas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Mazurka>, <info:lc/vocabulary/muscomp/mz> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85082460#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Mazurka> ;
+  skos:notation "mz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nc#genre>
+  a mo:Genre ;
+  skos:prefLabel "Nocturnes"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Nocturne>, <info:lc/vocabulary/muscomp/nc> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Nocturne> ;
+  skos:notation "nc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nn#genre>
+  a mo:Genre ;
+  skos:prefLabel "Not applicable"@en ;
+  owl:sameAs <http://dbpedia.org/resource/N/A>, <info:lc/vocabulary/muscomp/nn> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/N/A> ;
+  skos:notation "nn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<op#genre>
+  a mo:Genre ;
+  skos:prefLabel "Operas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Opera>, <info:lc/vocabulary/muscomp/op> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85094914#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85094900#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Opera> ;
+  skos:notation "op" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<or#genre>
+  a mo:Genre ;
+  skos:prefLabel "Oratorios"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Oratorio>, <info:lc/vocabulary/muscomp/or> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85095291#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85095290#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Oratorio> ;
+  skos:notation "or" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ov#genre>
+  a mo:Genre ;
+  skos:prefLabel "Overtures"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Overture>, <info:lc/vocabulary/muscomp/ov> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85096215#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85096214> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Overture> ;
+  skos:notation "ov" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Program music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Program_music>, <info:lc/vocabulary/muscomp/pg> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85107301#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Program_music> ;
+  skos:notation "pg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pm#genre>
+  a mo:Genre ;
+  skos:prefLabel "Passion music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Passion_%28music%29>, <info:lc/vocabulary/muscomp/pm> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85098521#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85098522#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Passion_%28music%29> ;
+  skos:notation "pm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<po#genre>
+  a mo:Genre ;
+  skos:prefLabel "Polonaises"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Polonaise>, <info:lc/vocabulary/muscomp/po> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85104553#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85104552#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Polonaise> ;
+  skos:notation "po" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pp#genre>
+  a mo:Genre ;
+  skos:prefLabel "Popular music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Popular_music>, <info:lc/vocabulary/muscomp/pp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85088865#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Popular_music> ;
+  skos:notation "pp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pr#genre>
+  a mo:Genre ;
+  skos:prefLabel "Preludes"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Prelude_%28music%29>, <info:lc/vocabulary/muscomp/pr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85019665#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Prelude_%28music%29> ;
+  mo:similar_to <http://purl.org/NET/marccodes/muscomp/cn#genre>, <http://purl.org/NET/marccodes/muscomp/fg#genre> ;
+  skos:notation "pr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ps#genre>
+  a mo:Genre ;
+  skos:prefLabel "Passacaglias"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Passacaglia>, <info:lc/vocabulary/muscomp/ps> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85098453#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85098452#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Passacaglia> ;
+  skos:notation "ps" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pt#genre>
+  a mo:Genre ;
+  skos:prefLabel "Part-songs"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Part_song>, <info:lc/vocabulary/muscomp/pt> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85098319#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Part_song> ;
+  skos:notation "pt" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pv#genre>
+  a mo:Genre ;
+  skos:prefLabel "Pavans"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Pavan_%28dance%29>, <info:lc/vocabulary/muscomp/pv> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85098834#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh98004408#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Pavan_%28dance%29> ;
+  skos:notation "pv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rc#genre>
+  a mo:Genre ;
+  skos:prefLabel "Rock music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Rock_music>, <info:lc/vocabulary/muscomp/rc> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85114675#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2008110977#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Rock_music> ;
+  skos:notation "rc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rd#genre>
+  a mo:Genre ;
+  skos:prefLabel "Rondos"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Rondo>, <info:lc/vocabulary/muscomp/rd> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85115233#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85115232#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Rondo> ;
+  skos:notation "rd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Ragtime music"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Ragtime>, <info:lc/vocabulary/muscomp/rg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85110853#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh2010109891#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Ragtime> ;
+  skos:notation "rg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ri#genre>
+  a mo:Genre ;
+  skos:prefLabel "Ricercars"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Ricercar>, <info:lc/vocabulary/muscomp/ri> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Ricercar> ;
+  skos:notation "ri" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rp#genre>
+  a mo:Genre ;
+  skos:prefLabel "Rhapsodies"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Rhapsody_%28music%29>, <info:lc/vocabulary/muscomp/rp> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85113601#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Rhapsody_%28music%29> ;
+  skos:notation "rp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rq#genre>
+  a mo:Genre ;
+  skos:prefLabel "Requiems"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Requiem>, <info:lc/vocabulary/muscomp/rq> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85112983#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Requiem> ;
+  skos:notation "rq" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sd#genre>
+  a mo:Genre ;
+  skos:prefLabel "Square dance music"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/sd> ;
+  umbel:isLike <http://dbpedia.org/resource/Square_dance> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85127085#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Square_dance> ;
+  skos:notation "sd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sg#genre>
+  a mo:Genre ;
+  skos:prefLabel "Songs"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Song>, <info:lc/vocabulary/muscomp/sg> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85125040#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Song> ;
+  skos:notation "sg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sn#genre>
+  a mo:Genre ;
+  skos:prefLabel "Sonatas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Sonata>, <info:lc/vocabulary/muscomp/sn> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85124818#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85124817#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Sonata> ;
+  skos:notation "sn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sp#genre>
+  a mo:Genre ;
+  skos:prefLabel "Symphonic poems"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Symphonic_poem>, <info:lc/vocabulary/muscomp/sp> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85131460#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85131459#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Symphonic_poem> ;
+  skos:notation "sp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<st#genre>
+  a mo:Genre ;
+  skos:prefLabel "Studies and exercises"@en ;
+  owl:sameAs <info:lc/vocabulary/muscomp/st> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh99001764#concept> ;
+  skos:notation "st" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<su#genre>
+  a mo:Genre ;
+  skos:prefLabel "Suites"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Suite>, <info:lc/vocabulary/muscomp/su> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85129761#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85129759#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Suite> ;
+  mo:similar_to <http://purl.org/NET/marccodes/muscomp/dv#genre> ;
+  skos:notation "su" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sy#genre>
+  a mo:Genre ;
+  skos:prefLabel "Symphonies"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Symphony>, <info:lc/vocabulary/muscomp/sy> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85131473#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85131542#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Symphony> ;
+  skos:notation "sy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tc#genre>
+  a mo:Genre ;
+  skos:prefLabel "Toccatas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Tocatta>, <info:lc/vocabulary/muscomp/tc> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh93006216#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85135769#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Tocatta> ;
+  skos:notation "tc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tl#genre>
+  a mo:Genre ;
+  skos:prefLabel "Teatro lirico"@en ;
+  skos:notation "tl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ts#genre>
+  a mo:Genre ;
+  skos:prefLabel "Trio-sonatas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Trio_sonata>, <info:lc/vocabulary/muscomp/ts> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85137567#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85137566#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Trio_sonata> ;
+  skos:notation "ts" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uu#genre>
+  a mo:Genre ;
+  skos:prefLabel "Unknown"@en ;
+  skos:notation "uu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vi#genre>
+  a mo:Genre ;
+  skos:prefLabel "Villancicos"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Villancico>, <info:lc/vocabulary/muscomp/vi> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85143361#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Villancico> ;
+  skos:notation "vi" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vr#genre>
+  a mo:Genre ;
+  skos:prefLabel "Variations"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Variation_%28music%29>, <info:lc/vocabulary/muscomp/vr> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85142099#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85142096#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Variation_%28music%29> ;
+  skos:notation "vr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wz#genre>
+  a mo:Genre ;
+  skos:prefLabel "Waltzes"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Waltz_%28music%29>, <info:lc/vocabulary/muscomp/wz> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85144994#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85144993#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Waltz_%28music%29> ;
+  skos:notation "wz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<za#genre>
+  a mo:Genre ;
+  skos:prefLabel "Zarzuelas"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Zarzuela>, <info:lc/vocabulary/muscomp/za> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85149682#concept> ;
+  rdfs:seeAlso <http://id.loc.gov/authorities/sh85149681#concept> ;
+  mo:wikipedia <http://en.wikipedia.org/wiki/Zarzuela> ;
+  skos:notation "za" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zz#genre>
+  a mo:Genre ;
+  skos:prefLabel "Other"@en ;
+  skos:notation "zz" .

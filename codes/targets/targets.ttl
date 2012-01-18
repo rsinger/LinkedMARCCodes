@@ -1,0 +1,73 @@
+@prefix	skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix	rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix	owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix	dcterms:	<http://purl.org/dc/terms/> .
+@prefix	umbel:	<http://umbel.org/umbel#> .
+@base	<http://purl.org/NET/marccodes/targets/> .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Preschool"@en ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh87008036#concept> ;
+  dcterms:description "Intended for children, approximate ages 0-5 years."@en ;
+  skos:notation "a" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<b#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Primary"@en ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85111655#concept> ;
+  dcterms:description "Intended for children, approximate ages 6-8 years."@en ;
+  skos:notation "b" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<c#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Pre-adolescent"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Preadolescence> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh94001321#concept> ;
+  dcterms:description "Intended for young people, approximate ages 9-13."@en ;
+  skos:notation "c" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<d#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Adolescent"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Adolescence> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh87006824#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm010613> ;
+  dcterms:description "Intended for young people, approximate ages 14-17."@en ;
+  skos:notation "d" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Adult"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Adult> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85001056#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm000096> ;
+  dcterms:description "Intended for adults."@en ;
+  skos:notation "e" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Specialized"@en ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh89004538#concept> ;
+  dcterms:description "Aimed at a particular audience and the nature of the presentation would make the item of little interest to other audiences. Examples of items which are coded f include: 1) technical material geared to a specialized audience, and 2) items which address a limited audience; for example, the employees of a single organization."@en ;
+  skos:notation "f" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<g#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "General"@en ;
+  dcterms:description "Of general interest and not aimed at a particular target audience. The code is used for most fictional works that are not covered more appropriately by one of the other codes."@en ;
+  skos:notation "g" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<j#term>
+  a dcterms:AgentClass ;
+  skos:prefLabel "Juvenile"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Children's_literature> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85023598#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm012129> ;
+  dcterms:description "Intended for use by children and young people, approximate ages 0-15. The code is used when a more specific code for the juvenile target audience is not desired."@en ;
+  skos:notation "j" .

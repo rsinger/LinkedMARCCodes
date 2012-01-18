@@ -1,0 +1,973 @@
+@prefix	skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix	rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix	owl:	<http://www.w3.org/2002/07/owl#> .
+@base	<http://purl.org/NET/marccodes/musperf/> .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<b#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Brass"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/bn#term>, <http://purl.org/NET/marccodes/musperf/ba#term>, <http://purl.org/NET/marccodes/musperf/bu#term>, <http://purl.org/NET/marccodes/musperf/bb#term>, <http://purl.org/NET/marccodes/musperf/bc#term>, <http://purl.org/NET/marccodes/musperf/bd#term>, <http://purl.org/NET/marccodes/musperf/be#term>, <http://purl.org/NET/marccodes/musperf/bf#term>, <http://purl.org/NET/marccodes/musperf/by#term>, <http://purl.org/NET/marccodes/musperf/bz#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Brass>, <http://id.loc.gov/authorities/sh85016448#concept> ;
+  skos:notation "b" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ba#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Horn"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Horn>, <http://id.loc.gov/authorities/sh85061988#concept> ;
+  skos:notation "ba" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Trumpet"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Trumpet>, <http://id.loc.gov/authorities/sh85138176#concept> ;
+  skos:notation "bb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Cornet"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Cornet>, <http://id.loc.gov/authorities/sh85032812#concept> ;
+  skos:notation "bc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Trombone"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Trombone>, <http://id.loc.gov/authorities/sh85137992#concept> ;
+  skos:notation "bd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<be#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Tuba"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Tuba>, <http://id.loc.gov/authorities/sh85138369#concept> ;
+  skos:notation "be" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bf#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Baritone"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Baritone_horn>, <http://id.loc.gov/authorities/sh85011845#concept> ;
+  skos:notation "bf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bn#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Brass - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:notation "bn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Brass - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:notation "bu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<by#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Brass - Ethnic"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:notation "by" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bz#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Brass - Other"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/b#term> ; 
+  skos:relatedMatch <http://purl.org/ontology/mo/mit#Other_instruments> ;
+  skos:notation "bz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<c#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Chorus"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/cb#term>, <http://purl.org/NET/marccodes/musperf/cu#term>, <http://purl.org/NET/marccodes/musperf/cc#term>, <http://purl.org/NET/marccodes/musperf/cd#term>, <http://purl.org/NET/marccodes/musperf/cy#term>, <http://purl.org/NET/marccodes/musperf/cn#term>, <http://purl.org/NET/marccodes/musperf/ca#term> ; 
+  skos:notation "c" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ca#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Mixed Chorus"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/c#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005089#concept> ;
+  skos:notation "ca" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Women's Chorus"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/c#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Girls%27_and_women%27s_choirs> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005091#concept> ;
+  skos:notation "cb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Men's Chorus"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/c#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Boys%27_and_men%27s_choirs> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005088#concept> ;
+  skos:notation "cc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Children's Chorus"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/c#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Choirs_of_children> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005087#concept> ;
+  skos:notation "cd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cn#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Chorus - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/c#term> ; 
+  skos:notation "cn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Chorus - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/c#term> ; 
+  skos:notation "cu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cy#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Chorus - Ethnic"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/c#term> ; 
+  skos:notation "cy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<e#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Electronic"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/ec#term>, <http://purl.org/NET/marccodes/musperf/eu#term>, <http://purl.org/NET/marccodes/musperf/ed#term>, <http://purl.org/NET/marccodes/musperf/ez#term>, <http://purl.org/NET/marccodes/musperf/en#term>, <http://purl.org/NET/marccodes/musperf/ea#term>, <http://purl.org/NET/marccodes/musperf/eb#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Electronic_instruments>, <http://id.loc.gov/authorities/sh85089002#concept> ;
+  skos:notation "e" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ea#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Synthesizer"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/e#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Synthesizer>, <http://id.loc.gov/authorities/sh85131654#concept> ;
+  skos:notation "ea" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<eb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Tape"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/e#term> ; 
+  skos:notation "eb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ec#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Computer"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/e#term> ; 
+  skos:notation "ec" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ed#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Ondes Martinot"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/e#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Ondes_Martenot>, <http://id.loc.gov/authorities/sh85094731#concept> ;
+  skos:notation "ed" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<en#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Electronic - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/e#term> ; 
+  skos:notation "en" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<eu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Electronic - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/e#term> ; 
+  skos:notation "eu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ez#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Electronic - Other"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/e#term> ; 
+  skos:relatedMatch <http://purl.org/ontology/mo/mit#Other_instruments> ;
+  skos:notation "ez" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<k#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Keyboard"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/kf#term>, <http://purl.org/NET/marccodes/musperf/ky#term>, <http://purl.org/NET/marccodes/musperf/kz#term>, <http://purl.org/NET/marccodes/musperf/kn#term>, <http://purl.org/NET/marccodes/musperf/ka#term>, <http://purl.org/NET/marccodes/musperf/kb#term>, <http://purl.org/NET/marccodes/musperf/ku#term>, <http://purl.org/NET/marccodes/musperf/kc#term>, <http://purl.org/NET/marccodes/musperf/kd#term>, <http://purl.org/NET/marccodes/musperf/ke#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Keyboard_instruments> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh85072117#concept> ;
+  skos:notation "k" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ka#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Piano"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Piano> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh85101722#concept>, <http://purl.org/ontology/mo/mit#Piano> ;
+  skos:notation "ka" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Organ"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Organs_(music)> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Organ>, <http://id.loc.gov/authorities/sh85095454#concept> ;
+  skos:notation "kb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Harpsichord"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Harpsichord> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Harpsichord>, <http://id.loc.gov/authorities/sh85059045#concept> ;
+  skos:notation "kc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Clavichord"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh85026847#concept> ;
+  skos:notation "kd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ke#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Continuo"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh85134980#concept> ;
+  skos:notation "ke" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kf#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Celeste"@en ;
+  skos:altLabel "Celesta"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh85021624#concept>, <http://purl.org/ontology/mo/mit#Celesta> ;
+  skos:notation "kf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kn#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Keyboard - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:notation "kn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ku#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Keyboard - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:notation "ku" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ky#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Keyboard - Ethnic"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:notation "ky" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kz#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Keyboard - Other"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/k#term> ; 
+  skos:relatedMatch <http://purl.org/ontology/mo/mit#Other_instruments> ;
+  skos:notation "kz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<o#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Larger ensemble"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/oz#term>, <http://purl.org/NET/marccodes/musperf/on#term>, <http://purl.org/NET/marccodes/musperf/oa#term>, <http://purl.org/NET/marccodes/musperf/ob#term>, <http://purl.org/NET/marccodes/musperf/oc#term>, <http://purl.org/NET/marccodes/musperf/ou#term>, <http://purl.org/NET/marccodes/musperf/od#term>, <http://purl.org/NET/marccodes/musperf/oe#term>, <http://purl.org/NET/marccodes/musperf/of#term>, <http://purl.org/NET/marccodes/musperf/oy#term> ; 
+  skos:notation "o" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oa#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Full orchestra"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:relatedMatch <http://dbpedia.org/resource/Category:Orchestras> ;
+  skos:notation "oa" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ob#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Chamber orchestra"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Chamber_orchestras> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh85022426#concept> ;
+  skos:notation "ob" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "String orchestra"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:notation "oc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<od#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Band"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:notation "od" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oe#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Dance orchestra"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh85035648#concept> ;
+  skos:notation "oe" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<of#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Brass band"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Brass_bands> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh85016436> ;
+  skos:notation "of" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<on#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Larger ensemble - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:notation "on" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ou#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Larger ensemble - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:notation "ou" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oy#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Larger ensemble - Ethnic"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:notation "oy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oz#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Larger ensemble - Other"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/o#term> ; 
+  skos:notation "oz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<p#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Percussion"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/pa#term>, <http://purl.org/NET/marccodes/musperf/pb#term>, <http://purl.org/NET/marccodes/musperf/pc#term>, <http://purl.org/NET/marccodes/musperf/pu#term>, <http://purl.org/NET/marccodes/musperf/pd#term>, <http://purl.org/NET/marccodes/musperf/py#term>, <http://purl.org/NET/marccodes/musperf/pz#term>, <http://purl.org/NET/marccodes/musperf/pn#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Percussion_instruments> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Percussion_instruments>, <http://id.loc.gov/authorities/sh85099761#concept> ;
+  skos:notation "p" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pa#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Timpani"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Timpani>, <http://id.loc.gov/authorities/sh85135469#concept> ;
+  skos:notation "pa" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Xylophone"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Xylophone>, <http://id.loc.gov/authorities/sh85148860#concept> ;
+  skos:notation "pb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Marimba"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Marimba>, <http://id.loc.gov/authorities/sh85081095#concept> ;
+  skos:notation "pc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Drum"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Drums> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Drums>, <http://id.loc.gov/authorities/sh85039773#concept> ;
+  skos:notation "pd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pn#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Percussion - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:notation "pn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Percussion - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:notation "pu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<py#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Percussion - Ethnic"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:notation "py" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pz#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Percussion - Other"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/p#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Other_percussion> ;
+  skos:notation "pz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<s#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "String, bowed"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/sn#term>, <http://purl.org/NET/marccodes/musperf/sa#term>, <http://purl.org/NET/marccodes/musperf/sb#term>, <http://purl.org/NET/marccodes/musperf/su#term>, <http://purl.org/NET/marccodes/musperf/sc#term>, <http://purl.org/NET/marccodes/musperf/sd#term>, <http://purl.org/NET/marccodes/musperf/se#term>, <http://purl.org/NET/marccodes/musperf/sf#term>, <http://purl.org/NET/marccodes/musperf/sy#term>, <http://purl.org/NET/marccodes/musperf/sg#term>, <http://purl.org/NET/marccodes/musperf/sz#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Bowed_string_instruments>, <http://id.loc.gov/authorities/sh85129122#concept> ;
+  skos:notation "s" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sa#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Violin"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Violins> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Violin>, <http://id.loc.gov/authorities/sh85143544#concept> ;
+  skos:notation "sa" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Viola"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Viola>, <http://id.loc.gov/authorities/sh85143429#concept> ;
+  skos:notation "sb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Violoncello"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Cellos> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Cello>, <http://id.loc.gov/authorities/sh85143658#concept> ;
+  skos:notation "sc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Double bass"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Double_basses> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Double_Bass>, <http://id.loc.gov/authorities/sh85039150#concept> ;
+  skos:notation "sd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<se#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Viol"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh85143421#concept> ;
+  skos:notation "se" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sf#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Viola d'amore"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Viola_d_amore>, <http://id.loc.gov/authorities/sh85143468#concept> ;
+  skos:notation "sf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sg#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Viola da gamba"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Viola_da_gamba>, <http://id.loc.gov/authorities/sh85143457#concept> ;
+  skos:notation "sg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sn#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, bowed - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:notation "sn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<su#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, bowed - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:notation "su" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sy#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, bowed - Ethnic"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:notation "sy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sz#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, bowed - Other"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/s#term> ; 
+  skos:relatedMatch <http://purl.org/ontology/mo/mit#Other_instruments> ;
+  skos:notation "sz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<t#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, plucked"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/ta#term>, <http://purl.org/NET/marccodes/musperf/tb#term>, <http://purl.org/NET/marccodes/musperf/tu#term>, <http://purl.org/NET/marccodes/musperf/tc#term>, <http://purl.org/NET/marccodes/musperf/td#term>, <http://purl.org/NET/marccodes/musperf/ty#term>, <http://purl.org/NET/marccodes/musperf/tz#term>, <http://purl.org/NET/marccodes/musperf/tn#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Plucked_string_instruments>, <http://id.loc.gov/authorities/sh98007684#concept> ;
+  skos:notation "t" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ta#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Harp"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Harps> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Harp>, <http://id.loc.gov/authorities/sh85058984#concept> ;
+  skos:notation "ta" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Guitar"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Guitars> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Guitar>, <http://id.loc.gov/authorities/sh85057803#concept> ;
+  skos:notation "tb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Lute"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Lutes> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Lute>, <http://id.loc.gov/authorities/sh85078975#concept> ;
+  skos:notation "tc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<td#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Mandolin"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Mandolin>, <http://id.loc.gov/authorities/sh85080452#concept> ;
+  skos:notation "td" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tn#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, plucked - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:notation "tn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, plucked - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:notation "tu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ty#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, plucked - Ethnic"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:notation "ty" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tz#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Strings, plucked - Other"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/t#term> ; 
+  skos:relatedMatch <http://purl.org/ontology/mo/mit#Other_instruments> ;
+  skos:notation "tz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<v#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Voice"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/vu#term>, <http://purl.org/NET/marccodes/musperf/vb#term>, <http://purl.org/NET/marccodes/musperf/vc#term>, <http://purl.org/NET/marccodes/musperf/vd#term>, <http://purl.org/NET/marccodes/musperf/ve#term>, <http://purl.org/NET/marccodes/musperf/vf#term>, <http://purl.org/NET/marccodes/musperf/vy#term>, <http://purl.org/NET/marccodes/musperf/vg#term>, <http://purl.org/NET/marccodes/musperf/vh#term>, <http://purl.org/NET/marccodes/musperf/vi#term>, <http://purl.org/NET/marccodes/musperf/vj#term>, <http://purl.org/NET/marccodes/musperf/vn#term>, <http://purl.org/NET/marccodes/musperf/va#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005092#concept> ;
+  skos:notation "v" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<va#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Soprano"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:relatedMatch <http://dbpedia.org/resource/Category:Sopranos> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005074#concept> ;
+  skos:notation "va" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Mezzo Soprano"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005078#concept> ;
+  skos:notation "vb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Alto"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005067#concept> ;
+  skos:notation "vc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Tenor"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:relatedMatch <http://dbpedia.org/resource/Category:Tenors> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005075#concept> ;
+  skos:notation "vd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ve#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Baritone"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005073#concept> ;
+  skos:notation "ve" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vf#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Bass"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005068#concept> ;
+  skos:notation "vf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vg#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Counter tenor"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:relatedMatch <http://dbpedia.org/resource/Category:Countertenors> ;
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005072#concept> ;
+  skos:notation "vg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vh#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "High voice"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005077#concept> ;
+  skos:notation "vh" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vi#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Medium voice"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005071#concept> ;
+  skos:notation "vi" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vj#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Low voice"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:exactMatch <http://id.loc.gov/authorities/sh2001005076#concept> ;
+  skos:notation "vj" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vn#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Voices - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:notation "vn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Voices - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:notation "vu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vy#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Voices - Ethnic"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/v#term> ; 
+  skos:notation "vy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<w#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Woodwinds"@en ;
+  skos:narrower <http://purl.org/NET/marccodes/musperf/wn#term>, <http://purl.org/NET/marccodes/musperf/wa#term>, <http://purl.org/NET/marccodes/musperf/wu#term>, <http://purl.org/NET/marccodes/musperf/wb#term>, <http://purl.org/NET/marccodes/musperf/wc#term>, <http://purl.org/NET/marccodes/musperf/wd#term>, <http://purl.org/NET/marccodes/musperf/we#term>, <http://purl.org/NET/marccodes/musperf/wf#term>, <http://purl.org/NET/marccodes/musperf/wy#term>, <http://purl.org/NET/marccodes/musperf/wg#term>, <http://purl.org/NET/marccodes/musperf/wz#term>, <http://purl.org/NET/marccodes/musperf/wh#term>, <http://purl.org/NET/marccodes/musperf/wi#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Woodwind_instruments> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Woodwind>, <http://id.loc.gov/authorities/sh85147966#concept> ;
+  skos:notation "w" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wa#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Flute"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Flutes> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Flute>, <http://id.loc.gov/authorities/sh85049452#concept> ;
+  skos:notation "wa" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wb#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Oboe"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Oboes> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Oboe>, <http://id.loc.gov/authorities/sh85093674#concept> ;
+  skos:notation "wb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wc#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Clarinet"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Clarinets> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Clarinet>, <http://id.loc.gov/authorities/sh85026570#concept> ;
+  skos:notation "wc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wd#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Bassoon"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Bassoon>, <http://id.loc.gov/authorities/sh85012193#concept> ;
+  skos:notation "wd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<we#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Piccolo"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Piccolo>, <http://id.loc.gov/authorities/sh85101940#concept> ;
+  skos:notation "we" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wf#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "English horn"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#English_Horn>, <http://id.loc.gov/authorities/sh85043380#concept> ;
+  skos:notation "wf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wg#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Bass clarinet"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Bass_clarinet>, <http://id.loc.gov/authorities/sh85012150#concept> ;
+  skos:notation "wg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wh#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Recorder"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Recorder>, <http://id.loc.gov/authorities/sh85111889#concept> ;
+  skos:notation "wh" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wi#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Saxophone"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:closeMatch <http://dbpedia.org/resource/Category:Saxophones> ;
+  skos:exactMatch <http://purl.org/ontology/mo/mit#Saxophone>, <http://id.loc.gov/authorities/sh85117829#concept> ;
+  skos:notation "wi" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wn#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Woodwinds - Unspecified"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:notation "wn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Woodwinds - Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:notation "wu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wy#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Woodwinds - Ethnic"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:notation "wy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wz#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Woodwinds - Other"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/w#term> ; 
+  skos:relatedMatch <http://purl.org/ontology/mo/mit#Other_instruments> ;
+  skos:notation "wz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zn#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Unspecified instruments"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/z#term> ; 
+  skos:notation "zn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<zu#term>
+  a skos:Concept ;
+  skos:inScheme <http://purl.org/NET/marccodes/musperf/#scheme> ; 
+  skos:prefLabel "Unknown"@en ;
+  skos:broader <http://purl.org/NET/marccodes/musperf/z#term> ; 
+  skos:notation "zu" .

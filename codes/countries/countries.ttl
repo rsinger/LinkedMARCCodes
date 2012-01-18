@@ -1,0 +1,2803 @@
+@prefix	skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix	rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix	owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix	wgs84:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix	dcterms:	<http://purl.org/dc/terms/> .
+@base	<http://purl.org/NET/marccodes/countries/> .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aa#location>
+  a dcterms:Location ;
+  skos:prefLabel "Albania"@en ;
+  owl:sameAs <http://sws.geonames.org/783754/>, <http://purl.org/NET/marccodes/gacs/e-aa#location>, <info:lc/vocabulary/countries/aa> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "aa" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<abc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Alberta"@en ;
+  owl:sameAs <http://sws.geonames.org/5883102/>, <http://purl.org/NET/marccodes/gacs/n-cn-ab#location>, <info:lc/vocabulary/countries/abc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "abc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aca#location>
+  a dcterms:Location ;
+  skos:prefLabel "Australian Capital Territory"@en ;
+  owl:sameAs <http://sws.geonames.org/2177478/>, <http://purl.org/NET/marccodes/gacs/u-at-ac#location>, <info:lc/vocabulary/countries/aca> ;
+  skos:note "Coded [at] (Australia) before Sept. 2005"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "aca" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ae#location>
+  a dcterms:Location ;
+  skos:prefLabel "Algeria"@en ;
+  owl:sameAs <http://sws.geonames.org/2589581/>, <http://purl.org/NET/marccodes/gacs/f-ae#location>, <info:lc/vocabulary/countries/ae> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ae" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<af#location>
+  a dcterms:Location ;
+  skos:prefLabel "Afghanistan"@en ;
+  owl:sameAs <http://sws.geonames.org/1149361/>, <info:lc/vocabulary/countries/af> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "af" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ag#location>
+  a dcterms:Location ;
+  skos:prefLabel "Argentina"@en ;
+  owl:sameAs <http://sws.geonames.org/3865483/>, <http://purl.org/NET/marccodes/gacs/s-ag#location>, <info:lc/vocabulary/countries/ag> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "ag" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ai#location>
+  a dcterms:Location ;
+  skos:prefLabel "Armenia (Republic)"@en ;
+  skos:altLabel "Armenian S.S.R."@en, "Soviet Union"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/a-ai#location>, <info:lc/vocabulary/countries/ai> ;
+  skos:note "Before 1992-06-01 use air (Armenian S.S.R.)"@en, "Before 1992-06-01 use air (Armenian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use air (Armenian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ai" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aj#location>
+  a dcterms:Location ;
+  skos:prefLabel "Azerbaijan"@en ;
+  skos:altLabel "Azerbaijan S.S.R."@en, "Soviet Union"@en ;
+  owl:sameAs <http://sws.geonames.org/587116/>, <http://purl.org/NET/marccodes/gacs/a-aj#location>, <info:lc/vocabulary/countries/aj> ;
+  skos:note "Before 1992-06-01 use ajr (Azerbaijan S.S.R.)"@en, "Before 1992-06-01 use ajr (Azerbaijan S.S.R. )"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use ajr (Azerbaijan S.S.R. )"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "aj" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aku#location>
+  a dcterms:Location ;
+  skos:prefLabel "Alaska"@en ;
+  owl:sameAs <http://sws.geonames.org/5879092/>, <http://purl.org/NET/marccodes/gacs/n-us-ak#location>, <info:lc/vocabulary/countries/aku> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "aku" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<alu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Alabama"@en ;
+  owl:sameAs <http://sws.geonames.org/4829764/>, <http://dbpedia.org/resource/Alabama>, <http://purl.org/NET/marccodes/gacs/n-us-al#location>, <info:lc/vocabulary/countries/alu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "alu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<am#location>
+  a dcterms:Location ;
+  skos:prefLabel "Anguilla"@en ;
+  skos:altLabel "Saint Kitts-Nevis-Anguilla"@en, "Sombrero Island"@en ;
+  owl:sameAs <http://sws.geonames.org/3573511/>, <http://dbpedia.org/resource/Anguilla>, <http://purl.org/NET/marccodes/gacs/nwxa#location>, <info:lc/vocabulary/countries/am> ;
+  skos:note "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en, "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en, "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "am" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<an#location>
+  a dcterms:Location ;
+  skos:prefLabel "Andorra"@en ;
+  owl:sameAs <http://sws.geonames.org/3041565/>, <http://purl.org/NET/marccodes/gacs/e-an#location>, <info:lc/vocabulary/countries/an> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "an" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ao#location>
+  a dcterms:Location ;
+  skos:prefLabel "Angola"@en ;
+  skos:altLabel "Cabinda"@en ;
+  owl:sameAs <http://sws.geonames.org/3351879/>, <http://purl.org/NET/marccodes/gacs/f-ao#location>, <info:lc/vocabulary/countries/ao> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ao" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aq#location>
+  a dcterms:Location ;
+  skos:prefLabel "Antigua and Barbuda"@en ;
+  skos:altLabel "Antigua"@en, "Barbuda"@en, "Redonda"@en ;
+  owl:sameAs <http://sws.geonames.org/3576396/>, <http://dbpedia.org/resource/Antigua_and_Barbuda>, <http://purl.org/NET/marccodes/gacs/nwaq#location>, <info:lc/vocabulary/countries/aq> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "aq" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aru#location>
+  a dcterms:Location ;
+  skos:prefLabel "Arkansas"@en ;
+  owl:sameAs <http://sws.geonames.org/4099753/>, <http://purl.org/NET/marccodes/gacs/n-us-ar#location>, <info:lc/vocabulary/countries/aru> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "aru" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<as#location>
+  a dcterms:Location ;
+  skos:prefLabel "American Samoa"@en ;
+  skos:altLabel "Eastern Samoa"@en, "Samoa, American"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/poas#location>, <info:lc/vocabulary/countries/as> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "as" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<at#location>
+  a dcterms:Location ;
+  skos:prefLabel "Australia"@en ;
+  skos:altLabel "Ashmore and Cartier Islands"@en, "Macquarie Island"@en ;
+  owl:sameAs <http://sws.geonames.org/2077456/>, <http://dbpedia.org/resource/Australia>, <http://purl.org/NET/marccodes/gacs/u-ac#location>, <http://purl.org/NET/marccodes/gacs/u-at#location>, <info:lc/vocabulary/countries/at> ;
+  skos:note "Before 1978-01-01 use ac (Ashmore and Cartier Islands)"@en, "Before 1978-01-01 use ac (Ashmore and Cartier Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "at" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<au#location>
+  a dcterms:Location ;
+  skos:prefLabel "Austria"@en ;
+  owl:sameAs <http://sws.geonames.org/2782113/>, <http://purl.org/NET/marccodes/gacs/e-au#location>, <info:lc/vocabulary/countries/au> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "au" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<aw#location>
+  a dcterms:Location ;
+  skos:prefLabel "Aruba"@en ;
+  owl:sameAs <http://sws.geonames.org/3577279/>, <http://dbpedia.org/resource/Aruba>, <http://purl.org/NET/marccodes/gacs/nwaw#location>, <info:lc/vocabulary/countries/aw> ;
+  skos:note "Before 1988-03-01 use na (Netherlands Antilles)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "aw" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ay#location>
+  a dcterms:Location ;
+  skos:prefLabel "Antarctica"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/t#location>, <info:lc/vocabulary/countries/ay> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/7#location> ;
+  skos:notation "ay" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<azu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Arizona"@en ;
+  owl:sameAs <http://sws.geonames.org/5551752/>, <http://purl.org/NET/marccodes/gacs/n-us-az#location>, <info:lc/vocabulary/countries/azu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "azu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ba#location>
+  a dcterms:Location ;
+  skos:prefLabel "Bahrain"@en ;
+  skos:altLabel "Bahrein"@en ;
+  owl:sameAs <http://sws.geonames.org/290291/>, <http://dbpedia.org/resource/Bahrain>, <http://purl.org/NET/marccodes/gacs/a-ba#location>, <info:lc/vocabulary/countries/ba> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ba" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bb#location>
+  a dcterms:Location ;
+  skos:prefLabel "Barbados"@en ;
+  owl:sameAs <http://sws.geonames.org/3374084/>, <http://purl.org/NET/marccodes/gacs/nwbb#location>, <info:lc/vocabulary/countries/bb> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "bb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bcc#location>
+  a dcterms:Location ;
+  skos:prefLabel "British Columbia"@en ;
+  owl:sameAs <http://sws.geonames.org/5909050/>, <http://purl.org/NET/marccodes/gacs/n-cn-bc#location>, <info:lc/vocabulary/countries/bcc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "bcc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bd#location>
+  a dcterms:Location ;
+  skos:prefLabel "Burundi"@en ;
+  owl:sameAs <http://sws.geonames.org/433561/>, <http://purl.org/NET/marccodes/gacs/f-bd#location>, <info:lc/vocabulary/countries/bd> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "bd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<be#location>
+  a dcterms:Location ;
+  skos:prefLabel "Belgium"@en ;
+  owl:sameAs <http://sws.geonames.org/2802361/>, <http://purl.org/NET/marccodes/gacs/e-be#location>, <info:lc/vocabulary/countries/be> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "be" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bf#location>
+  a dcterms:Location ;
+  skos:prefLabel "Bahamas"@en ;
+  owl:sameAs <http://sws.geonames.org/3572887/>, <http://purl.org/NET/marccodes/gacs/nwbf#location>, <info:lc/vocabulary/countries/bf> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "bf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bg#location>
+  a dcterms:Location ;
+  skos:prefLabel "Bangladesh"@en ;
+  skos:altLabel "East Pakistan"@en ;
+  owl:sameAs <http://sws.geonames.org/1210997/>, <http://purl.org/NET/marccodes/gacs/a-bg#location>, <info:lc/vocabulary/countries/bg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "bg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bh#location>
+  a dcterms:Location ;
+  skos:prefLabel "Belize"@en ;
+  skos:altLabel "British Honduras"@en ;
+  owl:sameAs <http://sws.geonames.org/3582678/>, <http://dbpedia.org/resource/Belize>, <http://purl.org/NET/marccodes/gacs/ncbh#location>, <info:lc/vocabulary/countries/bh> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "bh" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bi#location>
+  a dcterms:Location ;
+  skos:prefLabel "British Indian Ocean Territory"@en ;
+  skos:altLabel "Chagos Archipelago"@en, "Diego Garcia Island"@en ;
+  owl:sameAs <http://sws.geonames.org/1282588/>, <http://purl.org/NET/marccodes/gacs/i-bi#location>, <info:lc/vocabulary/countries/bi> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "bi" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bl#location>
+  a dcterms:Location ;
+  skos:prefLabel "Brazil"@en ;
+  skos:altLabel "Fernando de Noronha"@en, "Ilha da Trindade"@en, "Ilhas Martim Vaz"@en, "Martim Vaz, Ilhas"@en, "Penedos de S\u00E3o Pedro e S\u00E3o Paulo"@en, "Rocas"@en, "Trindade, Ilha da"@en ;
+  owl:sameAs <http://sws.geonames.org/3469034/>, <http://purl.org/NET/marccodes/gacs/s-bl#location>, <info:lc/vocabulary/countries/bl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "bl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Bermuda Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/lnbm#location>, <info:lc/vocabulary/countries/bm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
+  skos:notation "bm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bn#location>
+  a dcterms:Location ;
+  skos:prefLabel "Bosnia and Hercegovina"@en ;
+  skos:altLabel "Hercegovina"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/e-bn#location>, <info:lc/vocabulary/countries/bn> ;
+  skos:note "Before 1992-10-01 use yu (Yugoslavia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "bn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bo#location>
+  a dcterms:Location ;
+  skos:prefLabel "Bolivia"@en ;
+  owl:sameAs <http://sws.geonames.org/3923057/>, <http://purl.org/NET/marccodes/gacs/s-bo#location>, <info:lc/vocabulary/countries/bo> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "bo" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bp#location>
+  a dcterms:Location ;
+  skos:prefLabel "Solomon Islands"@en ;
+  skos:altLabel "British Solomon Islands"@en, "Choiseul"@en, "Guadalcanal"@en, "Malaita"@en, "San Crist\u00F3bal"@en, "Santa Isabel"@en, "Solomon Islands Protectorate"@en ;
+  owl:sameAs <http://sws.geonames.org/2103350/>, <info:lc/vocabulary/countries/bp> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "bp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<br#location>
+  a dcterms:Location ;
+  skos:prefLabel "Burma"@en ;
+  skos:altLabel "Myanmar"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/a-br#location>, <info:lc/vocabulary/countries/br> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "br" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bs#location>
+  a dcterms:Location ;
+  skos:prefLabel "Botswana"@en ;
+  skos:altLabel "Bechuanaland"@en ;
+  owl:sameAs <http://sws.geonames.org/933860/>, <http://purl.org/NET/marccodes/gacs/f-bs#location>, <info:lc/vocabulary/countries/bs> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "bs" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bt#location>
+  a dcterms:Location ;
+  skos:prefLabel "Bhutan"@en ;
+  owl:sameAs <http://sws.geonames.org/1252634/>, <http://dbpedia.org/resource/Bhutan>, <http://purl.org/NET/marccodes/gacs/a-bt#location>, <info:lc/vocabulary/countries/bt> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "bt" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Bulgaria"@en ;
+  owl:sameAs <http://sws.geonames.org/732800/>, <http://purl.org/NET/marccodes/gacs/e-bu#location>, <info:lc/vocabulary/countries/bu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "bu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bv#location>
+  a dcterms:Location ;
+  skos:prefLabel "Bouvet Island"@en ;
+  owl:sameAs <http://sws.geonames.org/3371123/>, <http://purl.org/NET/marccodes/gacs/lsbv#location>, <info:lc/vocabulary/countries/bv> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
+  skos:notation "bv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bw#location>
+  a dcterms:Location ;
+  skos:prefLabel "Belarus"@en ;
+  skos:altLabel "Byelarus"@en, "Belorussian S.S.R."@en, "Byeolorussian S.S.R."@en, "Soviet Union"@en ;
+  owl:sameAs <http://sws.geonames.org/630336/>, <http://purl.org/NET/marccodes/gacs/e-bw#location>, <info:lc/vocabulary/countries/bw> ;
+  skos:note "Before 1992-06-01 use bwr (Byelorussian S.S.R)"@en, "Before 1992-06-01 use bwr (Byelorussian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use bwr (Byelorussian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "bw" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<bx#location>
+  a dcterms:Location ;
+  skos:prefLabel "Brunei"@en ;
+  owl:sameAs <http://sws.geonames.org/1820814/>, <http://purl.org/NET/marccodes/gacs/a-bx#location>, <info:lc/vocabulary/countries/bx> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "bx" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cau#location>
+  a dcterms:Location ;
+  skos:prefLabel "California"@en ;
+  owl:sameAs <http://sws.geonames.org/5332921/>, <http://purl.org/NET/marccodes/gacs/n-us-ca#location>, <info:lc/vocabulary/countries/cau> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "cau" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cb#location>
+  a dcterms:Location ;
+  skos:prefLabel "Cambodia"@en ;
+  skos:altLabel "Democratic Kampuchea"@en, "Kampuchea"@en, "Khmer Republic"@en ;
+  owl:sameAs <http://sws.geonames.org/1831722/>, <http://purl.org/NET/marccodes/gacs/a-cb#location>, <info:lc/vocabulary/countries/cb> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "cb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cc#location>
+  a dcterms:Location ;
+  skos:prefLabel "China"@en ;
+  skos:altLabel "Hainan Island"@en, "Hong Kong"@en, "Inner Mongolia"@en, "Kowloon"@en, "Macao"@en, "Macau"@en, "Manchuria"@en, "Sinkiang"@en, "New Territories"@en, "Taipa"@en, "Tibet"@en ;
+  owl:sameAs <http://sws.geonames.org/1814991/>, <http://purl.org/NET/marccodes/gacs/a-cc#location>, <info:lc/vocabulary/countries/cc> ;
+  skos:note "Before 1997-10-01 use hk (Hong Kong)"@en, "Before 2000-05-01 use mh (Macao)"@en, "Before 2000-05-01 use mh (Macao)"@en, "Before 1997-10-01 use hk (Hong Kong)"@en, "Before 2000-05-01 use mh (Macao)"@en, "Before 2000-05-01 use mh (Macao)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "cc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cd#location>
+  a dcterms:Location ;
+  skos:prefLabel "Chad"@en ;
+  owl:sameAs <http://sws.geonames.org/2434508/>, <http://purl.org/NET/marccodes/gacs/f-cd#location>, <info:lc/vocabulary/countries/cd> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "cd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ce#location>
+  a dcterms:Location ;
+  skos:prefLabel "Sri Lanka"@en ;
+  skos:altLabel "Ceylon"@en ;
+  owl:sameAs <http://sws.geonames.org/1227603/>, <info:lc/vocabulary/countries/ce> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ce" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cf#location>
+  a dcterms:Location ;
+  skos:prefLabel "Congo (Brazzaville)"@en ;
+  skos:altLabel "Middle Congo"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/f-cf#location>, <info:lc/vocabulary/countries/cf> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "cf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cg#location>
+  a dcterms:Location ;
+  skos:prefLabel "Congo (Democratic Republic)"@en ;
+  skos:altLabel "Belgian Congo"@en, "Congo (Kinshasa)"@en, "Democratic Republic of the Congo"@en, "Zaire"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/f-cg#location>, <info:lc/vocabulary/countries/cg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "cg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ch#location>
+  a dcterms:Location ;
+  skos:prefLabel "China (Republic : 1949- )"@en ;
+  skos:altLabel "Formosa Island"@en, "Nationalist China"@en, "P'eng-hu Island"@en, "Pescadores Islands"@en, "Taiwan Island"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ch" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ci#location>
+  a dcterms:Location ;
+  skos:prefLabel "Croatia"@en ;
+  owl:sameAs <http://sws.geonames.org/3202326/>, <http://dbpedia.org/resource/Croatia>, <http://purl.org/NET/marccodes/gacs/e-ci#location>, <info:lc/vocabulary/countries/ci> ;
+  skos:note "Before 1992-10-01 use yu (Yugoslavia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "ci" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cj#location>
+  a dcterms:Location ;
+  skos:prefLabel "Cayman Islands"@en ;
+  skos:altLabel "Cayman Brac Island"@en, "Grand Cayman Island"@en, "Little Cayman Island"@en ;
+  owl:sameAs <http://sws.geonames.org/3580718/>, <http://purl.org/NET/marccodes/gacs/nwcj#location>, <info:lc/vocabulary/countries/cj> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "cj" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ck#location>
+  a dcterms:Location ;
+  skos:prefLabel "Colombia"@en ;
+  skos:altLabel "Isla de Malpelo"@en, "Malpelo, Isla de"@en, "San Andr\u00E9s y Providencia"@en, "Serrana Bank"@en, "Serranilla Bank"@en ;
+  owl:sameAs <http://sws.geonames.org/3686110/>, <http://purl.org/NET/marccodes/gacs/s-ck#location>, <info:lc/vocabulary/countries/ck> ;
+  skos:note "Before 1978-01-01 use uc (United States Misc. Caribbean Islands)"@en, "Before 1978-01-01 use uc (United States Misc. Caribbean Islands)"@en, "Before 1978-01-01 use uc (United States Misc. Caribbean Islands)"@en, "Before 1978-01-01 use uc (United States Misc. Caribbean Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "ck" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cl#location>
+  a dcterms:Location ;
+  skos:prefLabel "Chile"@en ;
+  skos:altLabel "Easter Island"@en, "Isla de Pasqua"@en, "Isla Sala y G\u00F3mez"@en, "Islas Juan Fern\u00E1ndez"@en, "Juan Fern\u00E1ndez, Islas"@en, "Pasqua, Isla de"@en, "Sala y G\u00F3mez, Isla"@en, "San F\u00E9lix"@en ;
+  owl:sameAs <http://sws.geonames.org/3895114/>, <http://purl.org/NET/marccodes/gacs/s-cl#location>, <http://purl.org/NET/marccodes/gacs/poea#location>, <info:lc/vocabulary/countries/cl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "cl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Cameroon"@en ;
+  skos:altLabel "British Cameroons"@en, "East Cameroon"@en, "French Cameroons"@en, "German Cameroons"@en, "Southern Cameroons"@en, "West Cameroon"@en ;
+  owl:sameAs <http://sws.geonames.org/2233387/>, <http://purl.org/NET/marccodes/gacs/f-cm#location>, <info:lc/vocabulary/countries/cm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "cm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cou#location>
+  a dcterms:Location ;
+  skos:prefLabel "Colorado"@en ;
+  owl:sameAs <http://sws.geonames.org/5417618/>, <http://dbpedia.org/resource/Colorado>, <http://purl.org/NET/marccodes/gacs/n-us-co#location>, <info:lc/vocabulary/countries/cou> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "cou" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cq#location>
+  a dcterms:Location ;
+  skos:prefLabel "Comoros"@en ;
+  skos:altLabel "Anjouan Island"@en, "Comores"@en, "Grande Comore Island"@en, "Moheli Island"@en ;
+  owl:sameAs <http://sws.geonames.org/921929/>, <http://dbpedia.org/resource/Comoros>, <http://purl.org/NET/marccodes/gacs/i-cq#location>, <info:lc/vocabulary/countries/cq> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "cq" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cr#location>
+  a dcterms:Location ;
+  skos:prefLabel "Costa Rica"@en ;
+  skos:altLabel "Cocos Island"@en ;
+  owl:sameAs <http://sws.geonames.org/3624060/>, <http://purl.org/NET/marccodes/gacs/nccr#location>, <info:lc/vocabulary/countries/cr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "cr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ctu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Connecticut"@en ;
+  owl:sameAs <http://sws.geonames.org/4831725/>, <http://purl.org/NET/marccodes/gacs/n-us-ct#location>, <info:lc/vocabulary/countries/ctu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "ctu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Cuba"@en ;
+  skos:altLabel "Isle of Pines (Caribbean)"@en, "Pines, Isle of (Caribbean)"@en ;
+  owl:sameAs <http://sws.geonames.org/3562981/>, <http://purl.org/NET/marccodes/gacs/nwcu#location>, <info:lc/vocabulary/countries/cu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "cu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cv#location>
+  a dcterms:Location ;
+  skos:prefLabel "Cape Verde"@en ;
+  skos:altLabel "Boa Vista"@en, "Brava"@en, "Fogo"@en, "Maio"@en, "Sal"@en, "Santo Antao"@en, "S\u00E3o Nicolau"@en, "S\u00E3o Tiago"@en, "S\u00E3o Vicente"@en ;
+  owl:sameAs <http://sws.geonames.org/3374766/>, <http://purl.org/NET/marccodes/gacs/lncv#location>, <info:lc/vocabulary/countries/cv> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
+  skos:notation "cv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cw#location>
+  a dcterms:Location ;
+  skos:prefLabel "Cook Islands"@en ;
+  skos:altLabel "Danger Atoll"@en, "Manihiki Atoll"@en, "Penrhyn Atoll"@en, "Rakahanga Atoll"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/pocw#location>, <info:lc/vocabulary/countries/cw> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "cw" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cx#location>
+  a dcterms:Location ;
+  skos:prefLabel "Central African Republic"@en ;
+  skos:altLabel "Central African Empire"@en, "Ubangi-Shari"@en ;
+  owl:sameAs <http://sws.geonames.org/239880/>, <http://purl.org/NET/marccodes/gacs/f-cx#location>, <info:lc/vocabulary/countries/cx> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "cx" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<cy#location>
+  a dcterms:Location ;
+  skos:prefLabel "Cyprus"@en ;
+  owl:sameAs <http://sws.geonames.org/146669/>, <http://purl.org/NET/marccodes/gacs/a-cy#location>, <info:lc/vocabulary/countries/cy> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "cy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dcu#location>
+  a dcterms:Location ;
+  skos:prefLabel "District of Columbia"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "dcu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<deu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Delaware"@en ;
+  owl:sameAs <http://sws.geonames.org/4142224/>, <http://purl.org/NET/marccodes/gacs/n-us-de#location>, <info:lc/vocabulary/countries/deu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "deu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dk#location>
+  a dcterms:Location ;
+  skos:prefLabel "Denmark"@en ;
+  skos:altLabel "Bornholm Island"@en ;
+  owl:sameAs <http://sws.geonames.org/2623032/>, <http://purl.org/NET/marccodes/gacs/e-dk#location>, <info:lc/vocabulary/countries/dk> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "dk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Benin"@en ;
+  skos:altLabel "Dahomey"@en ;
+  owl:sameAs <http://sws.geonames.org/2395170/>, <http://purl.org/NET/marccodes/gacs/f-dm#location>, <info:lc/vocabulary/countries/dm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "dm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dq#location>
+  a dcterms:Location ;
+  skos:prefLabel "Dominica"@en ;
+  owl:sameAs <http://sws.geonames.org/3575830/>, <http://dbpedia.org/resource/Dominica>, <http://purl.org/NET/marccodes/gacs/nwdq#location>, <info:lc/vocabulary/countries/dq> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "dq" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<dr#location>
+  a dcterms:Location ;
+  skos:prefLabel "Dominican Republic"@en ;
+  owl:sameAs <http://sws.geonames.org/3508796/>, <http://purl.org/NET/marccodes/gacs/nwdr#location>, <info:lc/vocabulary/countries/dr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "dr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ea#location>
+  a dcterms:Location ;
+  skos:prefLabel "Eritrea"@en ;
+  owl:sameAs <http://sws.geonames.org/338010/>, <http://purl.org/NET/marccodes/gacs/f-ea#location>, <info:lc/vocabulary/countries/ea> ;
+  skos:note "Before 1993-11-01 use et (Ethiopia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ea" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ec#location>
+  a dcterms:Location ;
+  skos:prefLabel "Ecuador"@en ;
+  skos:altLabel "Archipi\u00E9lago de Col\u00F3n"@en, "Col\u00F3n, Archipi\u00E9lago de"@en, "Galapagos Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/3658394/>, <http://purl.org/NET/marccodes/gacs/s-ec#location>, <http://purl.org/NET/marccodes/gacs/pogg#location>, <info:lc/vocabulary/countries/ec> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "ec" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<eg#location>
+  a dcterms:Location ;
+  skos:prefLabel "Equatorial Guinea"@en ;
+  skos:altLabel "Annob\u00F3n"@en, "Bioko"@en, "Corisco Island"@en, "Elobey, Great"@en, "Elobey, Small"@en, "Fernando Po Island"@en, "Macias Nguema Biyogo"@en, "Pagalu"@en, "Rio Muni"@en ;
+  owl:sameAs <http://sws.geonames.org/2309096/>, <http://purl.org/NET/marccodes/gacs/f-eg#location>, <info:lc/vocabulary/countries/eg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "eg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<em#location>
+  a dcterms:Location ;
+  skos:prefLabel "East Timor"@en ;
+  owl:sameAs <http://sws.geonames.org/1966436/>, <http://purl.org/NET/marccodes/gacs/a-em#location>, <info:lc/vocabulary/countries/em> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "em" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<enk#location>
+  a dcterms:Location ;
+  skos:prefLabel "England"@en ;
+  owl:sameAs <http://sws.geonames.org/6269131/>, <http://purl.org/NET/marccodes/gacs/e-uk-en#location>, <info:lc/vocabulary/countries/enk> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "enk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<er#location>
+  a dcterms:Location ;
+  skos:prefLabel "Estonia"@en ;
+  owl:sameAs <http://sws.geonames.org/453733/>, <http://purl.org/NET/marccodes/gacs/e-er#location>, <info:lc/vocabulary/countries/er> ;
+  skos:note "Before 1992-10-01 use err (Estonia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "er" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<es#location>
+  a dcterms:Location ;
+  skos:prefLabel "El Salvador"@en ;
+  skos:altLabel "Salvador"@en ;
+  owl:sameAs <http://sws.geonames.org/3585968/>, <http://purl.org/NET/marccodes/gacs/nces#location>, <info:lc/vocabulary/countries/es> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "es" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<et#location>
+  a dcterms:Location ;
+  skos:prefLabel "Ethiopia"@en ;
+  owl:sameAs <http://sws.geonames.org/337996/>, <http://purl.org/NET/marccodes/gacs/f-et#location>, <info:lc/vocabulary/countries/et> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "et" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fa#location>
+  a dcterms:Location ;
+  skos:prefLabel "Faroe Islands"@en ;
+  skos:altLabel "F\u00E6roe Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/2622320/>, <http://dbpedia.org/resource/Faroe_Islands>, <http://purl.org/NET/marccodes/gacs/lnfa#location>, <info:lc/vocabulary/countries/fa> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
+  skos:notation "fa" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fg#location>
+  a dcterms:Location ;
+  skos:prefLabel "French Guiana"@en ;
+  skos:altLabel "Guiana, French"@en ;
+  owl:sameAs <http://sws.geonames.org/3381670/>, <http://purl.org/NET/marccodes/gacs/s-fg#location>, <info:lc/vocabulary/countries/fg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "fg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fi#location>
+  a dcterms:Location ;
+  skos:prefLabel "Finland"@en ;
+  skos:altLabel "Ahvenanmaa"@en, "\u00C5land Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/660013/>, <http://purl.org/NET/marccodes/gacs/e-fi#location>, <info:lc/vocabulary/countries/fi> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "fi" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fj#location>
+  a dcterms:Location ;
+  skos:prefLabel "Fiji"@en ;
+  skos:altLabel "Rotuma Island"@en, "Vanua Levu Island"@en, "Viti Levu Island"@en ;
+  owl:sameAs <http://sws.geonames.org/2205218/>, <http://purl.org/NET/marccodes/gacs/pofj#location>, <info:lc/vocabulary/countries/fj> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "fj" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fk#location>
+  a dcterms:Location ;
+  skos:prefLabel "Falkland Islands"@en ;
+  skos:altLabel "East Falkland Island"@en, "Islas Malvinas"@en, "Malvinas, Islas"@en, "West Falkland Island"@en ;
+  owl:sameAs <http://sws.geonames.org/3474414/>, <http://purl.org/NET/marccodes/gacs/lsfk#location>, <info:lc/vocabulary/countries/fk> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
+  skos:notation "fk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<flu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Florida"@en ;
+  owl:sameAs <http://sws.geonames.org/4155751/>, <info:lc/vocabulary/countries/flu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "flu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Micronesia (Federated States)"@en ;
+  skos:altLabel "Ascension Island (Micronesia)"@en, "Eauripik Atoll"@en, "Fais Island"@en, "Faraulep Atoll"@en, "Federated States of Micronesia"@en, "Gaferut Island"@en, "Hall Islands"@en, "Ifalik Atoll"@en, "Kapingamarangi Atoll"@en, "Kosrae (Micronesia)"@en, "Kusaie (Micronesia)"@en, "Mortlock Islands"@en, "Namonuito Atoll"@en, "Ngatik Atoll"@en, "Ngulu Atoll"@en, "Nukuoru Atoll"@en, "Oroluk Atoll"@en, "Pacific Islands (Trust Territory)"@en, "Pingelap Atoll"@en, "Pohnpei"@en, "Ponape (Micronesia)"@en, "Pulap Atoll"@en, "Pulusak Island"@en, "Puluwat Atoll"@en, "Satawal Island"@en, "Senyavin Islands"@en, "Truk (Micronesia)"@en, "Trust Territory of the Pacific Islands"@en, "Ulithi Islands"@en, "West Fayu Atoll"@en, "Woleai Atolls"@en, "Yap (Micronesia)"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/pomi#location>, <info:lc/vocabulary/countries/fm> ;
+  skos:note "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "fm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fp#location>
+  a dcterms:Location ;
+  skos:prefLabel "French Polynesia"@en ;
+  skos:altLabel "Austral Islands"@en, "Clipperton Island"@en, "Gambier Islands"@en, "Iles Australes"@en, "Iles du Vent"@en, "Iles Sous le Vent"@en, "Marquesas Islands"@en, "Polynesia, French"@en, "Society Islands"@en, "Sous le Vent, Iles"@en, "Tahiti"@en, "Tuamotu Archipelago"@en, "Vent, Iles du"@en ;
+  owl:sameAs <http://sws.geonames.org/4030656/>, <http://purl.org/NET/marccodes/gacs/pofp#location>, <info:lc/vocabulary/countries/fp> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "fp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fr#location>
+  a dcterms:Location ;
+  skos:prefLabel "France"@en ;
+  skos:altLabel "Corsica"@en ;
+  owl:sameAs <http://sws.geonames.org/3017382/>, <http://purl.org/NET/marccodes/gacs/e-fr#location>, <info:lc/vocabulary/countries/fr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "fr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<fs#location>
+  a dcterms:Location ;
+  skos:prefLabel "Terres australes et antarctiques fran\u00E7aises"@en ;
+  skos:altLabel "Amsterdam Island"@en, "Crozet Island"@en, "French Southern and Antarctic Lands"@en, "Kerguelen Island"@en, "Saint Paul Island"@en, "T.A.A.F."@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "fs" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ft#location>
+  a dcterms:Location ;
+  skos:prefLabel "Djibouti"@en ;
+  skos:altLabel "Afars"@en, "French Somaliland"@en, "French Territory of the Afars and Issas"@en, "Issas"@en ;
+  owl:sameAs <http://sws.geonames.org/223816/>, <http://purl.org/NET/marccodes/gacs/f-ft#location>, <info:lc/vocabulary/countries/ft> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ft" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gau#location>
+  a dcterms:Location ;
+  skos:prefLabel "Georgia"@en ;
+  owl:sameAs <http://sws.geonames.org/614540/>, <http://purl.org/NET/marccodes/gacs/n-us-ga#location>, <info:lc/vocabulary/countries/gau> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "gau" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gb#location>
+  a dcterms:Location ;
+  skos:prefLabel "Kiribati"@en ;
+  skos:altLabel "Banaba"@en, "Birnie Island"@en, "Canton Island"@en, "Caroline Island"@en, "Central and Southern Line Islands"@en, "Christmas Atoll"@en, "Enderbury Island"@en, "Fanning Atoll"@en, "Flint Island"@en, "Gardner Atoll"@en, "Gilbert and Ellice Islands"@en, "Gilbert Islands"@en, "Hull Atoll"@en, "Kiritimati"@en, "Line Islands (Southern)"@en, "Malden Island"@en, "Manra Atoll"@en, "McKean Atoll"@en, "Nikomaroro Atoll"@en, "Ocean Island"@en, "Orona Atoll"@en, "Phoenix Atoll"@en, "Phoenix Islands"@en, "Rawaki"@en, "Starbuck Island"@en, "Sydney Atoll"@en, "Tabuarean Island"@en, "Vostok Island"@en, "Washington Island"@en ;
+  owl:sameAs <http://sws.geonames.org/4030945/>, <http://purl.org/NET/marccodes/gacs/pokb#location>, <info:lc/vocabulary/countries/gb> ;
+  skos:note "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1993-01-01 use cp (Canton and Enderbury Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "After 1993-12-01 use cp (Canton and Enderbury Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1993-01-01 use cp (Canton and Enderbury Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "After 1993-12-01 use cp (Canton and Enderbury Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use ln (Central and Southern Line Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "gb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gd#location>
+  a dcterms:Location ;
+  skos:prefLabel "Grenada"@en ;
+  skos:altLabel "Grenadine Islands, Southern"@en ;
+  owl:sameAs <http://sws.geonames.org/3580239/>, <http://dbpedia.org/resource/Grenada>, <http://purl.org/NET/marccodes/gacs/nwgd#location>, <info:lc/vocabulary/countries/gd> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "gd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gh#location>
+  a dcterms:Location ;
+  skos:prefLabel "Ghana"@en ;
+  skos:altLabel "Ashanti"@en, "Gold Coast"@en, "Northern Territories"@en, "Togoland"@en ;
+  owl:sameAs <http://sws.geonames.org/2300660/>, <http://purl.org/NET/marccodes/gacs/f-gh#location>, <info:lc/vocabulary/countries/gh> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "gh" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gi#location>
+  a dcterms:Location ;
+  skos:prefLabel "Gibraltar"@en ;
+  owl:sameAs <http://sws.geonames.org/2411586/>, <http://dbpedia.org/resource/Gibraltar>, <http://purl.org/NET/marccodes/gacs/e-gi#location>, <info:lc/vocabulary/countries/gi> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "gi" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gl#location>
+  a dcterms:Location ;
+  skos:prefLabel "Greenland"@en ;
+  owl:sameAs <http://sws.geonames.org/3425505/>, <http://purl.org/NET/marccodes/gacs/n-gl#location>, <info:lc/vocabulary/countries/gl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "gl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Gambia"@en ;
+  owl:sameAs <http://sws.geonames.org/2413451/>, <http://dbpedia.org/resource/The_Gambia>, <http://purl.org/NET/marccodes/gacs/f-gm#location>, <info:lc/vocabulary/countries/gm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "gm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<go#location>
+  a dcterms:Location ;
+  skos:prefLabel "Gabon"@en ;
+  owl:sameAs <http://sws.geonames.org/2400553/>, <http://purl.org/NET/marccodes/gacs/f-go#location>, <info:lc/vocabulary/countries/go> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "go" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gp#location>
+  a dcterms:Location ;
+  skos:prefLabel "Guadeloupe"@en ;
+  skos:altLabel "Basse-Terre"@en, "Grande-Terre"@en, "Ile Saint-Barth\u00E9lemy"@en, "Iles de la Petite Terre"@en, "Iles des Saintes"@en, "La D\u00E9sirade"@en, "Marie-Galante"@en, "Petite Terre, Iles de"@en, "Saint-Barth\u00E9lemy"@en, "Saint Martin, Northern"@en, "Saintes, Iles des"@en ;
+  owl:sameAs <http://sws.geonames.org/3579143/>, <http://purl.org/NET/marccodes/gacs/nwgp#location>, <info:lc/vocabulary/countries/gp> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "gp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gr#location>
+  a dcterms:Location ;
+  skos:prefLabel "Greece"@en ;
+  skos:altLabel "Aegean Islands"@en, "Crete"@en, "Dodecanese"@en, "Ionian Islands"@en, "Mount Athos"@en ;
+  owl:sameAs <http://sws.geonames.org/390903/>, <http://purl.org/NET/marccodes/gacs/e-gr#location>, <info:lc/vocabulary/countries/gr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "gr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gs#location>
+  a dcterms:Location ;
+  skos:prefLabel "Georgia (Republic)"@en ;
+  skos:altLabel "Georgian S.S.R."@en, "Soviet Union"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/a-gs#location>, <info:lc/vocabulary/countries/gs> ;
+  skos:note "Before 1992-06-01 use gsr (Georgian S.S.R.)"@en, "Before 1992-06-01 use gsr (Georgian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use gsr (Georgian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "gs" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gt#location>
+  a dcterms:Location ;
+  skos:prefLabel "Guatemala"@en ;
+  owl:sameAs <http://sws.geonames.org/3595528/>, <http://dbpedia.org/resource/Guatemala>, <http://purl.org/NET/marccodes/gacs/ncgt#location>, <info:lc/vocabulary/countries/gt> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "gt" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Guam"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/pogu#location>, <info:lc/vocabulary/countries/gu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "gu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gv#location>
+  a dcterms:Location ;
+  skos:prefLabel "Guinea"@en ;
+  skos:altLabel "French Guinea"@en ;
+  owl:sameAs <http://sws.geonames.org/2420477/>, <http://purl.org/NET/marccodes/gacs/f-gv#location>, <info:lc/vocabulary/countries/gv> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "gv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gw#location>
+  a dcterms:Location ;
+  skos:prefLabel "Germany"@en ;
+  skos:altLabel "Berlin, East"@en, "Berlin, West"@en, "East Berlin"@en, "Germany (East)"@en, "Germany (West)"@en, "Germany, Democratic Republic of"@en, "Germany, Federal Republic of"@en, "West Berlin"@en ;
+  owl:sameAs <http://sws.geonames.org/2921044/>, <http://purl.org/NET/marccodes/gacs/e-gx#location>, <http://purl.org/NET/marccodes/gacs/e-ge#location>, <http://purl.org/NET/marccodes/gacs/e-gw#location>, <info:lc/vocabulary/countries/gw> ;
+  skos:note "Before 1991-01-01 use ge (Germany (East))"@en, "Before 1990-01-01 use wb (West Berlin)"@en, "Before 1991-01-01 use ge (Germany (East))"@en, "Before 1991-01-01 use ge (Germany (East))"@en, "Before 1991-01-01 use ge (Germany (East))"@en, "Before 1990-01-01 use wb (West Berlin)"@en, "Before 1991-01-01 use ge (Germany (East))"@en, "Before 1990-01-01 use wb (West Berlin)"@en, "Before 1991-01-01 use ge (Germany (East))"@en, "Before 1991-01-01 use ge (Germany (East))"@en, "Before 1991-01-01 use ge (Germany (East))"@en, "Before 1990-01-01 use wb (West Berlin)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "gw" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gy#location>
+  a dcterms:Location ;
+  skos:prefLabel "Guyana"@en ;
+  skos:altLabel "British Guiana"@en, "Guiana, British"@en ;
+  owl:sameAs <http://sws.geonames.org/3378535/>, <http://purl.org/NET/marccodes/gacs/s-gy#location>, <info:lc/vocabulary/countries/gy> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "gy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<gz#location>
+  a dcterms:Location ;
+  skos:prefLabel "Gaza Strip"@en ;
+  owl:sameAs <http://sws.geonames.org/281132/>, <http://dbpedia.org/resource/Gaza_Strip>, <http://purl.org/NET/marccodes/gacs/awgz#location>, <info:lc/vocabulary/countries/gz> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "gz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hiu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Hawaii"@en ;
+  owl:sameAs <http://sws.geonames.org/5855797/>, <http://purl.org/NET/marccodes/gacs/n-us-hi#location>, <info:lc/vocabulary/countries/hiu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "hiu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Heard and McDonald Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/i-hm#location>, <info:lc/vocabulary/countries/hm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "hm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ho#location>
+  a dcterms:Location ;
+  skos:prefLabel "Honduras"@en ;
+  skos:altLabel "Swan Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/3608932/>, <http://purl.org/NET/marccodes/gacs/ncho#location>, <info:lc/vocabulary/countries/ho> ;
+  skos:note "Before 1978-01-01 use sv (Swan Islands)"@en, "Before 1978-01-01 use sv (Swan Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "ho" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ht#location>
+  a dcterms:Location ;
+  skos:prefLabel "Haiti"@en ;
+  owl:sameAs <http://sws.geonames.org/3723988/>, <http://purl.org/NET/marccodes/gacs/nwht#location>, <info:lc/vocabulary/countries/ht> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "ht" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<hu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Hungary"@en ;
+  owl:sameAs <http://sws.geonames.org/719819/>, <http://purl.org/NET/marccodes/gacs/e-hu#location>, <info:lc/vocabulary/countries/hu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "hu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<iau#location>
+  a dcterms:Location ;
+  skos:prefLabel "Iowa"@en ;
+  owl:sameAs <http://sws.geonames.org/4862182/>, <http://purl.org/NET/marccodes/gacs/n-us-ia#location>, <info:lc/vocabulary/countries/iau> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "iau" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ic#location>
+  a dcterms:Location ;
+  skos:prefLabel "Iceland"@en ;
+  owl:sameAs <http://sws.geonames.org/2629691/>, <http://purl.org/NET/marccodes/gacs/e-ic#location>, <info:lc/vocabulary/countries/ic> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "ic" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<idu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Idaho"@en ;
+  owl:sameAs <http://sws.geonames.org/5596512/>, <http://purl.org/NET/marccodes/gacs/n-us-id#location>, <info:lc/vocabulary/countries/idu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "idu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ie#location>
+  a dcterms:Location ;
+  skos:prefLabel "Ireland"@en ;
+  skos:altLabel "Eire"@en ;
+  owl:sameAs <http://sws.geonames.org/2963597/>, <http://purl.org/NET/marccodes/gacs/e-ie#location>, <info:lc/vocabulary/countries/ie> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "ie" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ii#location>
+  a dcterms:Location ;
+  skos:prefLabel "India"@en ;
+  skos:altLabel "Amindivi Islands"@en, "Andaman Islands"@en, "Daman"@en, "Diu"@en, "Goa"@en, "Laccadive Island"@en, "Minicoy Island"@en, "Nicobar Islands"@en, "Sikkim"@en ;
+  owl:sameAs <http://sws.geonames.org/1269750/>, <http://purl.org/NET/marccodes/gacs/a-ii#location>, <info:lc/vocabulary/countries/ii> ;
+  skos:note "Before 1978-01-01 use sk (Sikkim)"@en, "Before 1978-01-01 use sk (Sikkim)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ii" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ilu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Illinois"@en ;
+  owl:sameAs <http://sws.geonames.org/4896861/>, <http://purl.org/NET/marccodes/gacs/n-us-il#location>, <info:lc/vocabulary/countries/ilu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "ilu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<inu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Indiana"@en ;
+  owl:sameAs <http://sws.geonames.org/4921868/>, <http://purl.org/NET/marccodes/gacs/n-us-in#location>, <info:lc/vocabulary/countries/inu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "inu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<io#location>
+  a dcterms:Location ;
+  skos:prefLabel "Indonesia"@en ;
+  skos:altLabel "Atauro, Ilha de"@en, "Ilha de Atauro"@en, "Ilheu de Jaco"@en, "Irian Barat"@en, "Jaco, Ilheu de"@en, "Netherlands New Guinea"@en, "Oe-Cussi"@en, "Portuguese Timor"@en, "West New Guinea"@en ;
+  owl:sameAs <http://sws.geonames.org/1643084/>, <http://purl.org/NET/marccodes/gacs/a-io#location>, <info:lc/vocabulary/countries/io> ;
+  skos:note "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en, "Before 1978-01-01 use pt (Portuguese Timor)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "io" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<iq#location>
+  a dcterms:Location ;
+  skos:prefLabel "Iraq"@en ;
+  owl:sameAs <http://sws.geonames.org/99237/>, <http://purl.org/NET/marccodes/gacs/a-iq#location>, <info:lc/vocabulary/countries/iq> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "iq" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ir#location>
+  a dcterms:Location ;
+  skos:prefLabel "Iran"@en ;
+  owl:sameAs <http://sws.geonames.org/130758/>, <http://purl.org/NET/marccodes/gacs/a-ir#location>, <info:lc/vocabulary/countries/ir> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ir" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<is#location>
+  a dcterms:Location ;
+  skos:prefLabel "Israel"@en ;
+  skos:altLabel "Israel-Jordan Demilitarized Zones"@en, "Israel-Syria Demilitarized Zones"@en ;
+  owl:sameAs <http://sws.geonames.org/294640/>, <http://purl.org/NET/marccodes/gacs/a-is#location>, <info:lc/vocabulary/countries/is> ;
+  skos:note "Before 1978-01-01 use iw (Israel-Jordan Demilitarized Zones)"@en, "Before 1978-01-01 use iu (Israel-Syria Demilitarized Zones)"@en, "Before 1978-01-01 use iw (Israel-Jordan Demilitarized Zones)"@en, "Before 1978-01-01 use iu (Israel-Syria Demilitarized Zones)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "is" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<it#location>
+  a dcterms:Location ;
+  skos:prefLabel "Italy"@en ;
+  skos:altLabel "Pantelleria"@en, "Sardinia"@en, "Sicily"@en ;
+  owl:sameAs <http://sws.geonames.org/3175395/>, <http://purl.org/NET/marccodes/gacs/e-it#location>, <info:lc/vocabulary/countries/it> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "it" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<iv#location>
+  a dcterms:Location ;
+  skos:prefLabel "C\u00F4te d'Ivoire"@en ;
+  skos:altLabel "Ivory Coast"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/f-iv#location>, <info:lc/vocabulary/countries/iv> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "iv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<iy#location>
+  a dcterms:Location ;
+  skos:prefLabel "Iraq-Saudi Arabia Neutral Zone"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "iy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ja#location>
+  a dcterms:Location ;
+  skos:prefLabel "Japan"@en ;
+  skos:altLabel "Bonin Islands"@en, "Daitojima"@en, "Marcus Island"@en, "Namposhoto (Northern)"@en, "Namposhoto (Southern)"@en, "Nishinoshima Island"@en, "Okinawa"@en, "Parece Vela Island"@en, "Ryukyu Islands, Northern"@en, "Ryukyu Islands, Southern"@en, "Torishima"@en, "Volcano Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/1861060/>, <http://purl.org/NET/marccodes/gacs/a-ja#location>, <info:lc/vocabulary/countries/ja> ;
+  skos:note "Before 1978-01-01 use ry (Ryukyu Islands, Southern)"@en, "Before 1978-01-01 use ry (Ryukyu Islands, Southern)"@en, "Before 1978-01-01 use ry (Ryukyu Islands, Southern)"@en, "Before 1978-01-01 use ry (Ryukyu Islands, Southern)"@en, "Before 1978-01-01 use ry (Ryukyu Islands, Southern)"@en, "Before 1978-01-01 use ry (Ryukyu Islands, Southern)"@en, "Before 1978-01-01 use ry (Ryukyu Islands, Southern)"@en, "Before 1978-01-01 use ry (Ryukyu Islands, Southern)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ja" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ji#location>
+  a dcterms:Location ;
+  skos:prefLabel "Johnston Atoll"@en ;
+  skos:altLabel "Sand Island"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "ji" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<jm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Jamaica"@en ;
+  skos:altLabel "Morant Cays"@en, "Pedro Cays"@en ;
+  owl:sameAs <http://sws.geonames.org/3489940/>, <http://purl.org/NET/marccodes/gacs/nwjm#location>, <info:lc/vocabulary/countries/jm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "jm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<jo#location>
+  a dcterms:Location ;
+  skos:prefLabel "Jordan"@en ;
+  owl:sameAs <http://sws.geonames.org/248816/>, <http://purl.org/NET/marccodes/gacs/a-jo#location>, <info:lc/vocabulary/countries/jo> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "jo" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ke#location>
+  a dcterms:Location ;
+  skos:prefLabel "Kenya"@en ;
+  owl:sameAs <http://sws.geonames.org/192950/>, <http://purl.org/NET/marccodes/gacs/f-ke#location>, <info:lc/vocabulary/countries/ke> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ke" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kg#location>
+  a dcterms:Location ;
+  skos:prefLabel "Kyrgyzstan"@en ;
+  skos:altLabel "Kirghiz S.S.R."@en, "Soviet Union"@en, "Kirghizia"@en ;
+  owl:sameAs <http://sws.geonames.org/1527747/>, <http://purl.org/NET/marccodes/gacs/a-kg#location>, <info:lc/vocabulary/countries/kg> ;
+  skos:note "Before 1992-06-01 use kgr (Kirghiz S.S.R.)"@en, "Before 1992-06-01 use kgr (Kirghiz S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use kgr (Kirghiz S.S.R.)"@en, "Before 1992-06-01 use kgr (Kirghiz S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use kgr (Kirghiz S.S.R.)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "kg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kn#location>
+  a dcterms:Location ;
+  skos:prefLabel "Korea (North)"@en ;
+  skos:altLabel "Democratic People's Republic of Korea"@en, "North Korea"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/a-kn#location>, <info:lc/vocabulary/countries/kn> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "kn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ko#location>
+  a dcterms:Location ;
+  skos:prefLabel "Korea (South)"@en ;
+  skos:altLabel "Korea, Republic of"@en, "South Korea"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/a-ko#location>, <info:lc/vocabulary/countries/ko> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ko" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ksu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Kansas"@en ;
+  owl:sameAs <http://sws.geonames.org/4273857/>, <http://purl.org/NET/marccodes/gacs/n-us-ks#location>, <info:lc/vocabulary/countries/ksu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "ksu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ku#location>
+  a dcterms:Location ;
+  skos:prefLabel "Kuwait"@en ;
+  owl:sameAs <http://sws.geonames.org/285570/>, <http://purl.org/NET/marccodes/gacs/a-ku#location>, <info:lc/vocabulary/countries/ku> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ku" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kv#location>
+  a dcterms:Location ;
+  skos:prefLabel "Kosovo"@en ;
+  owl:sameAs <http://sws.geonames.org/831053/>, <http://purl.org/NET/marccodes/gacs/e-kv#location>, <info:lc/vocabulary/countries/kv> ;
+  skos:note "Coded [rb] for Serbia from February 2007-May 2008. From 1992-April 2007 it was\n               coded [yu] for Serbia and Montenegro"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "kv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kyu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Kentucky"@en ;
+  owl:sameAs <http://sws.geonames.org/6254925/>, <http://purl.org/NET/marccodes/gacs/n-us-ky#location>, <info:lc/vocabulary/countries/kyu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "kyu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<kz#location>
+  a dcterms:Location ;
+  skos:prefLabel "Kazakhstan"@en ;
+  skos:altLabel "Kazakh S.S.R."@en, "Soviet Union"@en ;
+  owl:sameAs <http://sws.geonames.org/1522867/>, <http://purl.org/NET/marccodes/gacs/a-kz#location>, <info:lc/vocabulary/countries/kz> ;
+  skos:note "Before 1992-06-01 use kzr (Kazakh S.S.R.)"@en, "Before 1992-06-01 use kzr (Kazakh S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use kzr (Kazakh S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "kz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lau#location>
+  a dcterms:Location ;
+  skos:prefLabel "Louisiana"@en ;
+  owl:sameAs <http://sws.geonames.org/4331987/>, <http://dbpedia.org/resource/Louisiana>, <http://purl.org/NET/marccodes/gacs/n-us-la#location>, <info:lc/vocabulary/countries/lau> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "lau" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lb#location>
+  a dcterms:Location ;
+  skos:prefLabel "Liberia"@en ;
+  owl:sameAs <http://sws.geonames.org/2275384/>, <http://purl.org/NET/marccodes/gacs/f-lb#location>, <info:lc/vocabulary/countries/lb> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "lb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<le#location>
+  a dcterms:Location ;
+  skos:prefLabel "Lebanon"@en ;
+  owl:sameAs <http://sws.geonames.org/272103/>, <http://dbpedia.org/resource/Lebanon>, <http://purl.org/NET/marccodes/gacs/a-le#location>, <info:lc/vocabulary/countries/le> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "le" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lh#location>
+  a dcterms:Location ;
+  skos:prefLabel "Liechtenstein"@en ;
+  owl:sameAs <http://sws.geonames.org/3042058/>, <http://dbpedia.org/resource/Liechtenstein>, <http://purl.org/NET/marccodes/gacs/e-lh#location>, <info:lc/vocabulary/countries/lh> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "lh" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<li#location>
+  a dcterms:Location ;
+  skos:prefLabel "Lithuania"@en ;
+  owl:sameAs <http://sws.geonames.org/597427/>, <http://purl.org/NET/marccodes/gacs/e-li#location>, <info:lc/vocabulary/countries/li> ;
+  skos:note "Before 1992-06-01 use lir (Lithuania)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "li" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lo#location>
+  a dcterms:Location ;
+  skos:prefLabel "Lesotho"@en ;
+  skos:altLabel "Basutoland"@en ;
+  owl:sameAs <http://sws.geonames.org/932692/>, <http://dbpedia.org/resource/Lesotho>, <http://purl.org/NET/marccodes/gacs/f-lo#location>, <info:lc/vocabulary/countries/lo> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "lo" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ls#location>
+  a dcterms:Location ;
+  skos:prefLabel "Laos"@en ;
+  owl:sameAs <http://sws.geonames.org/1655842/>, <http://purl.org/NET/marccodes/gacs/a-ls#location>, <info:lc/vocabulary/countries/ls> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ls" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Luxembourg"@en ;
+  owl:sameAs <http://sws.geonames.org/2960313/>, <http://purl.org/NET/marccodes/gacs/e-lu#location>, <info:lc/vocabulary/countries/lu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "lu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<lv#location>
+  a dcterms:Location ;
+  skos:prefLabel "Latvia"@en ;
+  owl:sameAs <http://sws.geonames.org/458258/>, <http://purl.org/NET/marccodes/gacs/e-lv#location>, <info:lc/vocabulary/countries/lv> ;
+  skos:note "Before 1992-06-01 use lvr (Latvia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "lv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ly#location>
+  a dcterms:Location ;
+  skos:prefLabel "Libya"@en ;
+  owl:sameAs <http://sws.geonames.org/2215636/>, <info:lc/vocabulary/countries/ly> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ly" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mau#location>
+  a dcterms:Location ;
+  skos:prefLabel "Massachusetts"@en ;
+  owl:sameAs <http://sws.geonames.org/6254926/>, <http://purl.org/NET/marccodes/gacs/n-us-m#location>, <info:lc/vocabulary/countries/mau> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "mau" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mbc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Manitoba"@en ;
+  owl:sameAs <http://sws.geonames.org/6065171/>, <http://purl.org/NET/marccodes/gacs/n-cn-mb#location>, <info:lc/vocabulary/countries/mbc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "mbc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Monaco"@en ;
+  owl:sameAs <http://sws.geonames.org/2993457/>, <http://purl.org/NET/marccodes/gacs/e-mc#location>, <info:lc/vocabulary/countries/mc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "mc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mdu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Maryland"@en ;
+  owl:sameAs <http://sws.geonames.org/4361885/>, <http://dbpedia.org/resource/Maryland>, <http://purl.org/NET/marccodes/gacs/n-us-md#location>, <info:lc/vocabulary/countries/mdu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "mdu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<meu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Maine"@en ;
+  owl:sameAs <http://sws.geonames.org/4971068/>, <http://purl.org/NET/marccodes/gacs/n-us-me#location>, <info:lc/vocabulary/countries/meu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "meu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mf#location>
+  a dcterms:Location ;
+  skos:prefLabel "Mauritius"@en ;
+  skos:altLabel "Agalega Islands"@en, "Cargados Carajos Shoals"@en, "Rodrigues Island"@en, "Saint Brandon"@en ;
+  owl:sameAs <http://sws.geonames.org/934292/>, <http://dbpedia.org/resource/Mauritius>, <http://purl.org/NET/marccodes/gacs/i-mf#location>, <info:lc/vocabulary/countries/mf> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "mf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mg#location>
+  a dcterms:Location ;
+  skos:prefLabel "Madagascar"@en ;
+  skos:altLabel "Malagasy Republic"@en ;
+  owl:sameAs <http://sws.geonames.org/1062947/>, <http://purl.org/NET/marccodes/gacs/f-mg#location>, <info:lc/vocabulary/countries/mg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "mg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<miu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Michigan"@en ;
+  owl:sameAs <http://sws.geonames.org/5001836/>, <http://purl.org/NET/marccodes/gacs/n-us-mi#location>, <info:lc/vocabulary/countries/miu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "miu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mj#location>
+  a dcterms:Location ;
+  skos:prefLabel "Montserrat"@en ;
+  owl:sameAs <http://sws.geonames.org/3578097/>, <http://dbpedia.org/resource/Montserrat>, <http://purl.org/NET/marccodes/gacs/nwmj#location>, <info:lc/vocabulary/countries/mj> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "mj" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mk#location>
+  a dcterms:Location ;
+  skos:prefLabel "Oman"@en ;
+  skos:altLabel "Kuria Muria Islands"@en, "Muscat and Oman"@en ;
+  owl:sameAs <http://sws.geonames.org/286963/>, <info:lc/vocabulary/countries/mk> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "mk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ml#location>
+  a dcterms:Location ;
+  skos:prefLabel "Mali"@en ;
+  skos:altLabel "French Sudan"@en, "Soudan"@en, "Sudan, French"@en ;
+  owl:sameAs <http://sws.geonames.org/2453866/>, <http://purl.org/NET/marccodes/gacs/f-ml#location>, <info:lc/vocabulary/countries/ml> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ml" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Malta"@en ;
+  skos:altLabel "Comino Island"@en, "Gozo Island"@en ;
+  owl:sameAs <http://sws.geonames.org/2562770/>, <http://dbpedia.org/resource/Malta_Island>, <http://purl.org/NET/marccodes/gacs/e-mm#location>, <info:lc/vocabulary/countries/mm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "mm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mnu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Minnesota"@en ;
+  owl:sameAs <http://sws.geonames.org/5037779/>, <http://purl.org/NET/marccodes/gacs/n-us-mn#location>, <info:lc/vocabulary/countries/mnu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "mnu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mo#location>
+  a dcterms:Location ;
+  skos:prefLabel "Montenegro"@en ;
+  skos:altLabel "Yugoslavia"@en ;
+  owl:sameAs <http://sws.geonames.org/3194884/>, <http://purl.org/NET/marccodes/gacs/e-mo#location>, <info:lc/vocabulary/countries/mo> ;
+  skos:note "Coded [yu] for Serbia and Montenegro from 1992-April 2007"@en, "Before 1992-01-01 use yu (Yugoslavia)"@en, "Before 1992-01-01 use yu (Yugoslavia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "mo" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mou#location>
+  a dcterms:Location ;
+  skos:prefLabel "Missouri"@en ;
+  owl:sameAs <http://sws.geonames.org/4398678/>, <http://purl.org/NET/marccodes/gacs/n-us-mo#location>, <info:lc/vocabulary/countries/mou> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "mou" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mp#location>
+  a dcterms:Location ;
+  skos:prefLabel "Mongolia"@en ;
+  skos:altLabel "Mongolian People's Republic"@en, "Outer Mongolia"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/a-mp#location>, <info:lc/vocabulary/countries/mp> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "mp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mq#location>
+  a dcterms:Location ;
+  skos:prefLabel "Martinique"@en ;
+  owl:sameAs <http://sws.geonames.org/3570311/>, <http://purl.org/NET/marccodes/gacs/nwmq#location>, <info:lc/vocabulary/countries/mq> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "mq" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mr#location>
+  a dcterms:Location ;
+  skos:prefLabel "Morocco"@en ;
+  skos:altLabel "French Morocco"@en, "Ifni"@en, "Spanish Morocco"@en, "Tangier Zone"@en, "Zona Sur del Protectorado de Marruecos"@en ;
+  owl:sameAs <http://sws.geonames.org/2542007/>, <http://purl.org/NET/marccodes/gacs/f-mr#location>, <info:lc/vocabulary/countries/mr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "mr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<msu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Mississippi"@en ;
+  owl:sameAs <http://sws.geonames.org/4436296/>, <http://purl.org/NET/marccodes/gacs/n-us-ms#location>, <info:lc/vocabulary/countries/msu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "msu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mtu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Montana"@en ;
+  owl:sameAs <http://sws.geonames.org/5667009/>, <http://purl.org/NET/marccodes/gacs/n-us-mt#location>, <info:lc/vocabulary/countries/mtu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "mtu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Mauritania"@en ;
+  owl:sameAs <http://sws.geonames.org/2378080/>, <http://purl.org/NET/marccodes/gacs/f-mu#location>, <info:lc/vocabulary/countries/mu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "mu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mv#location>
+  a dcterms:Location ;
+  skos:prefLabel "Moldova"@en ;
+  skos:altLabel "Moldavian S.S.R."@en, "Soviet Union"@en ;
+  owl:sameAs <http://sws.geonames.org/617790/>, <http://purl.org/NET/marccodes/gacs/e-mv#location>, <info:lc/vocabulary/countries/mv> ;
+  skos:note "Before 1992-06-01 use mvr (Moldavian S.S.R.)"@en, "Before 1992-06-01 use mvr (Moldavian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use mvr (Moldavian S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "mv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mw#location>
+  a dcterms:Location ;
+  skos:prefLabel "Malawi"@en ;
+  skos:altLabel "Nyasaland"@en ;
+  owl:sameAs <http://sws.geonames.org/927384/>, <http://purl.org/NET/marccodes/gacs/f-mw#location>, <info:lc/vocabulary/countries/mw> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "mw" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mx#location>
+  a dcterms:Location ;
+  skos:prefLabel "Mexico"@en ;
+  skos:altLabel "Islas de Revillagigedo"@en, "Revillagigedo, Islas de"@en ;
+  owl:sameAs <http://sws.geonames.org/3996063/>, <http://purl.org/NET/marccodes/gacs/n-mx#location>, <info:lc/vocabulary/countries/mx> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "mx" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<my#location>
+  a dcterms:Location ;
+  skos:prefLabel "Malaysia"@en ;
+  skos:altLabel "Borneo, North"@en, "Malaya"@en, "North Borneo"@en, "Sabah"@en, "Sarawak"@en ;
+  owl:sameAs <http://sws.geonames.org/1733045/>, <http://purl.org/NET/marccodes/gacs/am#location>, <http://purl.org/NET/marccodes/gacs/a-my#location>, <info:lc/vocabulary/countries/my> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "my" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<mz#location>
+  a dcterms:Location ;
+  skos:prefLabel "Mozambique"@en ;
+  owl:sameAs <http://sws.geonames.org/1036973/>, <http://purl.org/NET/marccodes/gacs/f-mz#location>, <info:lc/vocabulary/countries/mz> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "mz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<na#location>
+  a dcterms:Location ;
+  skos:prefLabel "Netherlands Antilles"@en ;
+  skos:altLabel "Bonaire"@en, "Cura\u00E7ao"@en, "Saba"@en, "Saint Martin, Southern"@en, "Sint Eustatius"@en ;
+  owl:sameAs <http://sws.geonames.org/3513447/>, <http://dbpedia.org/resource/Netherlands_Antilles>, <info:lc/vocabulary/countries/na> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "na" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nbu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Nebraska"@en ;
+  owl:sameAs <http://sws.geonames.org/5073708/>, <http://purl.org/NET/marccodes/gacs/n-us-nb#location>, <info:lc/vocabulary/countries/nbu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nbu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ncu#location>
+  a dcterms:Location ;
+  skos:prefLabel "North Carolina"@en ;
+  owl:sameAs <http://sws.geonames.org/4482348/>, <http://dbpedia.org/resource/North_Carolina>, <info:lc/vocabulary/countries/ncu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "ncu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ndu#location>
+  a dcterms:Location ;
+  skos:prefLabel "North Dakota"@en ;
+  owl:sameAs <http://sws.geonames.org/5690763/>, <info:lc/vocabulary/countries/ndu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "ndu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ne#location>
+  a dcterms:Location ;
+  skos:prefLabel "Netherlands"@en ;
+  skos:altLabel "Holland"@en ;
+  owl:sameAs <http://sws.geonames.org/2750405/>, <info:lc/vocabulary/countries/ne> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "ne" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nfc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Newfoundland and Labrador"@en ;
+  skos:altLabel "Labrador"@en, "Newfoundland"@en ;
+  owl:sameAs <http://sws.geonames.org/6354959/>, <info:lc/vocabulary/countries/nfc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nfc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ng#location>
+  a dcterms:Location ;
+  skos:prefLabel "Niger"@en ;
+  owl:sameAs <http://sws.geonames.org/2440476/>, <info:lc/vocabulary/countries/ng> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ng" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nhu#location>
+  a dcterms:Location ;
+  skos:prefLabel "New Hampshire"@en ;
+  owl:sameAs <http://sws.geonames.org/5090174/>, <info:lc/vocabulary/countries/nhu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nhu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nik#location>
+  a dcterms:Location ;
+  skos:prefLabel "Northern Ireland"@en ;
+  skos:altLabel "Ireland, Northern"@en ;
+  owl:sameAs <http://sws.geonames.org/2641364/>, <info:lc/vocabulary/countries/nik> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "nik" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nju#location>
+  a dcterms:Location ;
+  skos:prefLabel "New Jersey"@en ;
+  owl:sameAs <http://sws.geonames.org/5101760/>, <info:lc/vocabulary/countries/nju> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nju" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nkc#location>
+  a dcterms:Location ;
+  skos:prefLabel "New Brunswick"@en ;
+  owl:sameAs <http://sws.geonames.org/6087430/>, <info:lc/vocabulary/countries/nkc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nkc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nl#location>
+  a dcterms:Location ;
+  skos:prefLabel "New Caledonia"@en ;
+  skos:altLabel "Belep Islands"@en, "Chesterfield, Iles"@en, "Huon, Ile"@en, "Ile des Pins"@en, "Ile Huon"@en, "Ile Uvea (New Caledonia)"@en, "Ile Walpole"@en, "Iles Belep"@en, "Iles Chesterfield"@en, "Isle of Pines (Pacific Ocean)"@en, "Loyalty Islands"@en, "Pines, Isle of (Pacific Ocean)"@en, "Pins, Ile des"@en, "Uvea (New Caledonia)"@en, "Walpole, Ile"@en ;
+  owl:sameAs <http://sws.geonames.org/2139685/>, <info:lc/vocabulary/countries/nl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "nl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nmu#location>
+  a dcterms:Location ;
+  skos:prefLabel "New Mexico"@en ;
+  owl:sameAs <http://sws.geonames.org/5481136/>, <info:lc/vocabulary/countries/nmu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nmu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nn#location>
+  a dcterms:Location ;
+  skos:prefLabel "Vanuatu"@en ;
+  skos:altLabel "Banks Islands"@en, "New Hebrides"@en, "Torres Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/2134431/>, <info:lc/vocabulary/countries/nn> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "nn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<no#location>
+  a dcterms:Location ;
+  skos:prefLabel "Norway"@en ;
+  skos:altLabel "Bear Island"@en, "Jan Mayen"@en, "Spitsbergen"@en, "Svalbard (Norway)"@en ;
+  owl:sameAs <http://sws.geonames.org/3144096/>, <info:lc/vocabulary/countries/no> ;
+  skos:note "Before 1988-03-01 use jn (Jan Mayen)"@en, "Before 1988-03-01 use sb (Svalbard)"@en, "Before 1988-03-01 use jn (Jan Mayen)"@en, "Before 1988-03-01 use sb (Svalbard)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "no" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<np#location>
+  a dcterms:Location ;
+  skos:prefLabel "Nepal"@en ;
+  owl:sameAs <http://sws.geonames.org/1282988/>, <http://purl.org/NET/marccodes/gacs/a-np#location>, <info:lc/vocabulary/countries/np> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "np" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nq#location>
+  a dcterms:Location ;
+  skos:prefLabel "Nicaragua"@en ;
+  skos:altLabel "Corn Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/3617476/>, <info:lc/vocabulary/countries/nq> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "nq" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nr#location>
+  a dcterms:Location ;
+  skos:prefLabel "Nigeria"@en ;
+  skos:altLabel "British Cameroons, Northern"@en ;
+  owl:sameAs <http://sws.geonames.org/2328926/>, <info:lc/vocabulary/countries/nr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "nr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nsc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Nova Scotia"@en ;
+  owl:sameAs <http://sws.geonames.org/6091530/>, <info:lc/vocabulary/countries/nsc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nsc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ntc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Northwest Territories"@en ;
+  owl:sameAs <http://sws.geonames.org/6091069/>, <info:lc/vocabulary/countries/ntc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "ntc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Nauru"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/ponu#location>, <info:lc/vocabulary/countries/nu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "nu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nuc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Nunavut"@en ;
+  owl:sameAs <http://sws.geonames.org/6091732/>, <info:lc/vocabulary/countries/nuc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nuc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nvu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Nevada"@en ;
+  owl:sameAs <http://sws.geonames.org/5509151/>, <info:lc/vocabulary/countries/nvu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nvu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nw#location>
+  a dcterms:Location ;
+  skos:prefLabel "Northern Mariana Islands"@en ;
+  skos:altLabel "Agrihan Island"@en, "Aguijan Island"@en, "Alamagan Island"@en, "Anatahan Island"@en, "Asuncion Island"@en, "Farallon de Medinilla Island"@en, "Farallon de Pajaros Island"@en, "Guguan Island"@en, "Mariana Islands"@en, "Maug Islands"@en, "Pacific Islands (Trust Territory)"@en, "Pagan Island"@en, "Rota Island"@en, "Saipan Island"@en, "Sarigan Island"@en, "Tinian Island"@en, "Trust Territory of the Pacific Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/poxd#location>, <info:lc/vocabulary/countries/nw> ;
+  skos:note "Before 1985-01-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1987-07-01 use nm (Northern Mariana Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "nw" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nx#location>
+  a dcterms:Location ;
+  skos:prefLabel "Norfolk Island"@en ;
+  owl:sameAs <http://sws.geonames.org/2155115/>, <info:lc/vocabulary/countries/nx> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "nx" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nyu#location>
+  a dcterms:Location ;
+  skos:prefLabel "New York (State)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "nyu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<nz#location>
+  a dcterms:Location ;
+  skos:prefLabel "New Zealand"@en ;
+  skos:altLabel "Chatham Islands"@en, "Kermadec Islands"@en, "North Island"@en, "South Island"@en, "Stewart Island"@en ;
+  owl:sameAs <http://sws.geonames.org/2186224/>, <http://purl.org/NET/marccodes/gacs/poki#location>, <info:lc/vocabulary/countries/nz> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "nz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ohu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Ohio"@en ;
+  owl:sameAs <http://sws.geonames.org/5165418/>, <info:lc/vocabulary/countries/ohu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "ohu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oku#location>
+  a dcterms:Location ;
+  skos:prefLabel "Oklahoma"@en ;
+  owl:sameAs <http://sws.geonames.org/4544379/>, <info:lc/vocabulary/countries/oku> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "oku" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<onc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Ontario"@en ;
+  owl:sameAs <http://sws.geonames.org/6093943/>, <info:lc/vocabulary/countries/onc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "onc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<oru#location>
+  a dcterms:Location ;
+  skos:prefLabel "Oregon"@en ;
+  owl:sameAs <http://sws.geonames.org/5744337/>, <http://dbpedia.org/resource/Oregon>, <info:lc/vocabulary/countries/oru> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "oru" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ot#location>
+  a dcterms:Location ;
+  skos:prefLabel "Mayotte"@en ;
+  owl:sameAs <http://sws.geonames.org/921810/>, <http://dbpedia.org/resource/Mayotte>, <http://purl.org/NET/marccodes/gacs/i-my#location>, <info:lc/vocabulary/countries/ot> ;
+  skos:note "Before 1987-07-01 use cq (Comoros)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "ot" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pau#location>
+  a dcterms:Location ;
+  skos:prefLabel "Pennsylvania"@en ;
+  owl:sameAs <http://sws.geonames.org/6254927/>, <info:lc/vocabulary/countries/pau> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "pau" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Pitcairn Island"@en ;
+  skos:altLabel "Ducie Atoll"@en, "Henderson Island"@en, "Oeno Atoll"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "pc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pe#location>
+  a dcterms:Location ;
+  skos:prefLabel "Peru"@en ;
+  owl:sameAs <http://sws.geonames.org/3932488/>, <info:lc/vocabulary/countries/pe> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "pe" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pf#location>
+  a dcterms:Location ;
+  skos:prefLabel "Paracel Islands]"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "pf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pg#location>
+  a dcterms:Location ;
+  skos:prefLabel "Guinea-Bissau"@en ;
+  skos:altLabel "Arquip\u00E9lago dos Bijag\u00F3s"@en, "Bijag\u00F3s, Arquip\u00E9lago dos"@en, "Bissagos Islands"@en, "Guinea, Portuguese"@en, "Portuguese Guinea"@en ;
+  owl:sameAs <http://sws.geonames.org/2372248/>, <http://purl.org/NET/marccodes/gacs/f-pg#location>, <info:lc/vocabulary/countries/pg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "pg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ph#location>
+  a dcterms:Location ;
+  skos:prefLabel "Philippines"@en ;
+  owl:sameAs <http://sws.geonames.org/1694008/>, <info:lc/vocabulary/countries/ph> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ph" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pic#location>
+  a dcterms:Location ;
+  skos:prefLabel "Prince Edward Island"@en ;
+  owl:sameAs <http://sws.geonames.org/6113358/>, <info:lc/vocabulary/countries/pic> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "pic" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pk#location>
+  a dcterms:Location ;
+  skos:prefLabel "Pakistan"@en ;
+  skos:altLabel "Gwadar"@en, "West Pakistan"@en ;
+  owl:sameAs <http://sws.geonames.org/1168579/>, <info:lc/vocabulary/countries/pk> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "pk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pl#location>
+  a dcterms:Location ;
+  skos:prefLabel "Poland"@en ;
+  owl:sameAs <http://sws.geonames.org/798544/>, <info:lc/vocabulary/countries/pl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "pl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pn#location>
+  a dcterms:Location ;
+  skos:prefLabel "Panama"@en ;
+  skos:altLabel "Canal Zone"@en ;
+  owl:sameAs <http://sws.geonames.org/3703430/>, <http://purl.org/NET/marccodes/gacs/nccz#location>, <info:lc/vocabulary/countries/pn> ;
+  skos:note "Before 1985-01-01 use cz (Canal Zone)"@en, "Before 1985-01-01 use cz (Canal Zone)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/10#location> ;
+  skos:notation "pn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<po#location>
+  a dcterms:Location ;
+  skos:prefLabel "Portugal"@en ;
+  skos:altLabel "Azores"@en, "Madeira Island"@en ;
+  owl:sameAs <http://sws.geonames.org/2264397/>, <http://purl.org/NET/marccodes/gacs/lnaz#location>, <info:lc/vocabulary/countries/po> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "po" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pp#location>
+  a dcterms:Location ;
+  skos:prefLabel "Papua New Guinea"@en ;
+  skos:altLabel "Admiralty Islands"@en, "Bismarck Archipelago"@en, "D'Entrecasteaux Islands"@en, "Louisiada Archipelago"@en, "New Britain Island"@en, "New Guinea"@en, "New Ireland Island"@en, "North East New Guinea"@en, "Solomon Islands, Northern"@en, "Trobriand Islands"@en, "Woodlark Island"@en ;
+  owl:sameAs <http://sws.geonames.org/2088628/>, <info:lc/vocabulary/countries/pp> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "pp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pr#location>
+  a dcterms:Location ;
+  skos:prefLabel "Puerto Rico"@en ;
+  owl:sameAs <http://sws.geonames.org/4566966/>, <info:lc/vocabulary/countries/pr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "pr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<pw#location>
+  a dcterms:Location ;
+  skos:prefLabel "Palau"@en ;
+  skos:altLabel "Angaur Island"@en, "Babelthuap Island"@en, "Belau"@en, "Helen Island"@en, "Merir Island"@en, "Pacific Islands (Trust Territory)"@en, "Peleliu Island"@en, "Pelew"@en, "Pulo Anna Island"@en, "Sonsoral Islands"@en, "Tobi Island"@en, "Trust Territory of the Pacific Islands"@en ;
+  skos:note "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "pw" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<py#location>
+  a dcterms:Location ;
+  skos:prefLabel "Paraguay"@en ;
+  owl:sameAs <http://sws.geonames.org/3437598/>, <info:lc/vocabulary/countries/py> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "py" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<qa#location>
+  a dcterms:Location ;
+  skos:prefLabel "Qatar"@en ;
+  owl:sameAs <http://sws.geonames.org/289688/>, <info:lc/vocabulary/countries/qa> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "qa" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<qea#location>
+  a dcterms:Location ;
+  skos:prefLabel "Queensland"@en ;
+  owl:sameAs <http://sws.geonames.org/2152274/>, <info:lc/vocabulary/countries/qea> ;
+  skos:note "Coded [at] (Australia) before Sept. 2005"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "qea" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<quc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Qu\u00E9bec (Province)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "quc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rb#location>
+  a dcterms:Location ;
+  skos:prefLabel "Serbia"@en ;
+  skos:altLabel "Yugoslavia"@en ;
+  owl:sameAs <http://sws.geonames.org/6290252/>, <info:lc/vocabulary/countries/rb> ;
+  skos:note "Coded [yu] for Serbia and Montenegro from 1992-April 2007"@en, "Before 1992-01-01 use yu (Yugoslavia)"@en, "Before 1992-01-01 use yu (Yugoslavia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "rb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<re#location>
+  a dcterms:Location ;
+  skos:prefLabel "R\u00E9union"@en ;
+  skos:altLabel "Bassas da India"@en, "Europa, Ile"@en, "Glorieuses, Iles"@en, "Ile Europa"@en, "Ile Juan de Nova"@en, "Ile Tromelin"@en, "Iles Glorieuses"@en, "Juan de Nova, Ile"@en, "Tromelin, Ile"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "re" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rh#location>
+  a dcterms:Location ;
+  skos:prefLabel "Zimbabwe"@en ;
+  skos:altLabel "Rhodesia"@en, "Southern Rhodesia"@en, "Zimbabwe Rhodesia"@en ;
+  owl:sameAs <http://sws.geonames.org/878675/>, <info:lc/vocabulary/countries/rh> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "rh" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<riu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Rhode Island"@en ;
+  owl:sameAs <http://sws.geonames.org/5224323/>, <info:lc/vocabulary/countries/riu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "riu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Romania"@en ;
+  skos:altLabel "Rumania"@en ;
+  owl:sameAs <http://sws.geonames.org/798549/>, <info:lc/vocabulary/countries/rm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "rm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ru#location>
+  a dcterms:Location ;
+  skos:prefLabel "Russia (Federation)"@en ;
+  skos:altLabel "Franz Josef Land"@en, "Habomai Islands"@en, "Kuril Islands (Southern)"@en, "New Siberian Islands"@en, "Novaya Zemlya"@en, "Russian S.F.S.R."@en, "Sakhalin (Southern)"@en, "Severnaya Zemlya"@en, "Soviet Union"@en, "Wrangel Island"@en ;
+  skos:note "Before 1992-06-01 use rur (Russian S.F.S.R.)"@en, "Before 1992-06-01 use rur (Russian S.F.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use rur (Russian S.F.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "ru" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<rw#location>
+  a dcterms:Location ;
+  skos:prefLabel "Rwanda"@en ;
+  owl:sameAs <http://sws.geonames.org/49518/>, <info:lc/vocabulary/countries/rw> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "rw" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sa#location>
+  a dcterms:Location ;
+  skos:prefLabel "South Africa"@en ;
+  skos:altLabel "Bophuthatswana"@en, "Ciskei"@en, "Lebowa"@en, "Machangana"@en, "Marion Island"@en, "Prince Edward Islands"@en, "South Sotho"@en, "Transkei"@en, "Tswana"@en, "Venda"@en, "Walvis Bay Enclave"@en, "Zulu"@en ;
+  owl:sameAs <http://sws.geonames.org/953987/>, <info:lc/vocabulary/countries/sa> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sa" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<scu#location>
+  a dcterms:Location ;
+  skos:prefLabel "South Carolina"@en ;
+  owl:sameAs <http://sws.geonames.org/4597040/>, <http://dbpedia.org/resource/South_Carolina>, <info:lc/vocabulary/countries/scu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "scu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sdu#location>
+  a dcterms:Location ;
+  skos:prefLabel "South Dakota"@en ;
+  owl:sameAs <http://sws.geonames.org/5769223/>, <info:lc/vocabulary/countries/sdu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "sdu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<se#location>
+  a dcterms:Location ;
+  skos:prefLabel "Seychelles"@en ;
+  skos:altLabel "Aldabra Islands"@en, "Alphonse Island"@en, "Amirante Isles"@en, "Bijoutier Island"@en, "Cosmoledo Islands"@en, "Desroches, Ile"@en, "Farquhar Atoll"@en, "Fran\u00E7ois Island"@en, "Ile Desroches"@en, "Saint Francois Island"@en, "Saint Pierre Islet"@en ;
+  owl:sameAs <http://sws.geonames.org/241170/>, <info:lc/vocabulary/countries/se> ;
+  skos:note "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en, "Before 1978-01-01 use bi (British Indian Ocean Territory)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "se" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sf#location>
+  a dcterms:Location ;
+  skos:prefLabel "Sao Tome and Principe"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sg#location>
+  a dcterms:Location ;
+  skos:prefLabel "Senegal"@en ;
+  owl:sameAs <http://sws.geonames.org/2245662/>, <info:lc/vocabulary/countries/sg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sh#location>
+  a dcterms:Location ;
+  skos:prefLabel "Spanish North Africa"@en ;
+  skos:altLabel "Ceuta"@en, "Chafarinas, Islas"@en, "Islas Chafarinas"@en, "Melilla"@en, "Pe\u00F1\u00F3n de Alhucemas"@en, "Pe\u00F1\u00F3n de V\u00E9lez de la Gomera"@en, "Plazas de Soberania"@en, "Spanish Territories in Northern Morocco"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sh" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<si#location>
+  a dcterms:Location ;
+  skos:prefLabel "Singapore"@en ;
+  owl:sameAs <http://sws.geonames.org/1880251/>, <info:lc/vocabulary/countries/si> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "si" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sj#location>
+  a dcterms:Location ;
+  skos:prefLabel "Sudan"@en ;
+  owl:sameAs <http://sws.geonames.org/366755/>, <info:lc/vocabulary/countries/sj> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sj" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sl#location>
+  a dcterms:Location ;
+  skos:prefLabel "Sierra Leone"@en ;
+  owl:sameAs <http://sws.geonames.org/2403846/>, <info:lc/vocabulary/countries/sl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sm#location>
+  a dcterms:Location ;
+  skos:prefLabel "San Marino"@en ;
+  owl:sameAs <http://sws.geonames.org/3168068/>, <info:lc/vocabulary/countries/sm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "sm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<snc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Saskatchewan"@en ;
+  owl:sameAs <http://sws.geonames.org/6141242/>, <info:lc/vocabulary/countries/snc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "snc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<so#location>
+  a dcterms:Location ;
+  skos:prefLabel "Somalia"@en ;
+  skos:altLabel "Somali Republic"@en ;
+  owl:sameAs <http://sws.geonames.org/51537/>, <info:lc/vocabulary/countries/so> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "so" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sp#location>
+  a dcterms:Location ;
+  skos:prefLabel "Spain"@en ;
+  skos:altLabel "Balearic Islands"@en, "Canary Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/2510769/>, <http://purl.org/NET/marccodes/gacs/lnca#location>, <info:lc/vocabulary/countries/sp> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "sp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sq#location>
+  a dcterms:Location ;
+  skos:prefLabel "Swaziland"@en ;
+  owl:sameAs <http://sws.geonames.org/934841/>, <http://dbpedia.org/resource/Swaziland>, <info:lc/vocabulary/countries/sq> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sq" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sr#location>
+  a dcterms:Location ;
+  skos:prefLabel "Surinam"@en ;
+  skos:altLabel "Dutch Guiana"@en, "Guiana, Dutch"@en, "Netherlands Guiana"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "sr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ss#location>
+  a dcterms:Location ;
+  skos:prefLabel "Western Sahara"@en ;
+  skos:altLabel "R\u00EDo de Oro"@en, "Saguia el Hamra"@en, "Spanish Sahara"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ss" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<stk#location>
+  a dcterms:Location ;
+  skos:prefLabel "Scotland"@en ;
+  owl:sameAs <http://sws.geonames.org/2638360/>, <info:lc/vocabulary/countries/stk> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "stk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<su#location>
+  a dcterms:Location ;
+  skos:prefLabel "Saudi Arabia"@en ;
+  owl:sameAs <http://sws.geonames.org/102358/>, <info:lc/vocabulary/countries/su> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "su" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sw#location>
+  a dcterms:Location ;
+  skos:prefLabel "Sweden"@en ;
+  owl:sameAs <http://sws.geonames.org/2661886/>, <info:lc/vocabulary/countries/sw> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "sw" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sx#location>
+  a dcterms:Location ;
+  skos:prefLabel "Namibia"@en ;
+  skos:altLabel "South-West Africa"@en ;
+  owl:sameAs <http://sws.geonames.org/3355338/>, <http://purl.org/NET/marccodes/gacs/f-sx#location>, <info:lc/vocabulary/countries/sx> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "sx" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sy#location>
+  a dcterms:Location ;
+  skos:prefLabel "Syria"@en ;
+  skos:altLabel "Syrian Arab Republic"@en ;
+  owl:sameAs <http://sws.geonames.org/163843/>, <info:lc/vocabulary/countries/sy> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "sy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<sz#location>
+  a dcterms:Location ;
+  skos:prefLabel "Switzerland"@en ;
+  owl:sameAs <http://sws.geonames.org/2658434/>, <info:lc/vocabulary/countries/sz> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "sz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ta#location>
+  a dcterms:Location ;
+  skos:prefLabel "Tajikistan"@en ;
+  skos:altLabel "Soviet Union"@en, "Tadzhik S.S.R."@en, "Tajik S.S.R."@en ;
+  owl:sameAs <http://sws.geonames.org/1220409/>, <info:lc/vocabulary/countries/ta> ;
+  skos:note "Before 1992-06-01 use tar (Tajik S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use tar (Tajik S.S.R.)"@en, "Before 1992-06-01 use tar (Tajik S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use tar (Tajik S.S.R.)"@en, "Before 1992-06-01 use tar (Tajik S.S.R.)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ta" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Turks and Caicos Islands"@en ;
+  skos:altLabel "Caicos Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/3576916/>, <info:lc/vocabulary/countries/tc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "tc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tg#location>
+  a dcterms:Location ;
+  skos:prefLabel "Togo"@en ;
+  owl:sameAs <http://sws.geonames.org/2363686/>, <info:lc/vocabulary/countries/tg> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "tg" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<th#location>
+  a dcterms:Location ;
+  skos:prefLabel "Thailand"@en ;
+  skos:altLabel "Siam"@en ;
+  owl:sameAs <http://sws.geonames.org/1605651/>, <info:lc/vocabulary/countries/th> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "th" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ti#location>
+  a dcterms:Location ;
+  skos:prefLabel "Tunisia"@en ;
+  owl:sameAs <http://sws.geonames.org/2464461/>, <info:lc/vocabulary/countries/ti> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ti" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tk#location>
+  a dcterms:Location ;
+  skos:prefLabel "Turkmenistan"@en ;
+  skos:altLabel "Soviet Union"@en, "Turkmen S.S.R."@en ;
+  owl:sameAs <http://sws.geonames.org/1218197/>, <info:lc/vocabulary/countries/tk> ;
+  skos:note "Before 1992-06-01 use tkr (Turkmen S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use tkr (Turkmen S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use tkr (Turkmen S.S.R.)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "tk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tl#location>
+  a dcterms:Location ;
+  skos:prefLabel "Tokelau"@en ;
+  skos:altLabel "Atafu Atoll"@en, "Fakaofu Atoll"@en, "Nukunono Atoll"@en, "Union Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/4031074/>, <info:lc/vocabulary/countries/tl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "tl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tma#location>
+  a dcterms:Location ;
+  skos:prefLabel "Tasmania"@en ;
+  owl:sameAs <http://sws.geonames.org/2147291/>, <info:lc/vocabulary/countries/tma> ;
+  skos:note "Coded [at] (Australia) before Sept. 2005"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "tma" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tnu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Tennessee"@en ;
+  owl:sameAs <http://sws.geonames.org/4662168/>, <info:lc/vocabulary/countries/tnu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "tnu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<to#location>
+  a dcterms:Location ;
+  skos:prefLabel "Tonga"@en ;
+  skos:altLabel "Friendly Islands"@en, "Haapai"@en, "Lulunga"@en, "Nomuka"@en, "Otu Tolu"@en, "Tongatapu"@en, "Vavau"@en ;
+  owl:sameAs <http://sws.geonames.org/4032283/>, <info:lc/vocabulary/countries/to> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "to" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tr#location>
+  a dcterms:Location ;
+  skos:prefLabel "Trinidad and Tobago"@en ;
+  skos:altLabel "Tobago"@en ;
+  owl:sameAs <http://sws.geonames.org/3573591/>, <http://dbpedia.org/resource/Trinidad_and_Tobago>, <info:lc/vocabulary/countries/tr> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "tr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ts#location>
+  a dcterms:Location ;
+  skos:prefLabel "United Arab Emirates"@en ;
+  skos:altLabel "Abu Dhabi"@en, "Abu Zaby"@en, "`Ajman"@en, "Dubai"@en, "Dubayy"@en, "Fujairah"@en, "Fujayrah"@en, "Kalba"@en, "Oman, Trucial"@en, "Ras al Khaimah"@en, "Ra's al-Khaymah"@en, "Shariqah"@en, "Sharjah"@en, "Trucial Coast"@en, "Trucial Oman"@en, "Trucial Sheikdoms"@en, "Trucial States"@en, "Umm al Qaiwain"@en, "Umm al-Qaywayn"@en ;
+  owl:sameAs <http://sws.geonames.org/290557/>, <info:lc/vocabulary/countries/ts> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ts" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Turkey"@en ;
+  owl:sameAs <http://sws.geonames.org/298795/>, <info:lc/vocabulary/countries/tu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "tu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tv#location>
+  a dcterms:Location ;
+  skos:prefLabel "Tuvalu"@en ;
+  skos:altLabel "Ellice Islands"@en, "Funafuti Atoll"@en, "Gilbert and Ellice Islands"@en, "Niulakita Island"@en, "Nukufetau Atoll"@en, "Nukulaelae Atoll"@en, "Nukulailai Atoll"@en, "Nurakita Island"@en ;
+  owl:sameAs <http://sws.geonames.org/2110297/>, <info:lc/vocabulary/countries/tv> ;
+  skos:note "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en, "Before 1978-10-01 use gn (Gilbert and Ellice Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "tv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<txu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Texas"@en ;
+  owl:sameAs <http://sws.geonames.org/4736286/>, <info:lc/vocabulary/countries/txu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "txu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<tz#location>
+  a dcterms:Location ;
+  skos:prefLabel "Tanzania"@en ;
+  skos:altLabel "Pemba"@en, "Tanganyika"@en, "Zanzibar"@en ;
+  owl:sameAs <http://sws.geonames.org/149590/>, <info:lc/vocabulary/countries/tz> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "tz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ua#location>
+  a dcterms:Location ;
+  skos:prefLabel "Egypt"@en ;
+  skos:altLabel "Arab Republic of Egypt"@en, "United Arab Republic"@en ;
+  owl:sameAs <http://sws.geonames.org/357994/>, <http://purl.org/NET/marccodes/gacs/f-ua#location>, <info:lc/vocabulary/countries/ua> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ua" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uc#location>
+  a dcterms:Location ;
+  skos:prefLabel "United States Misc. Caribbean Islands"@en ;
+  skos:altLabel "Navassa Island"@en, "Quita Sueno Bank"@en, "Roncador Cay"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "uc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ug#location>
+  a dcterms:Location ;
+  skos:prefLabel "Uganda"@en ;
+  owl:sameAs <http://sws.geonames.org/226074/>, <info:lc/vocabulary/countries/ug> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "ug" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uik#location>
+  a dcterms:Location ;
+  skos:prefLabel "United Kingdom Misc. Islands"@en ;
+  skos:altLabel "Alderney"@en, "Brechou"@en, "Channel Islands"@en, "Guernsey Island"@en, "Herm Island"@en, "Isle of Man"@en, "Jersey (Island)"@en, "Jethou"@en, "Lihou"@en, "Orkney Islands"@en, "Sark Island"@en, "Shetland Islands"@en ;
+  skos:note "Before 1988-03-01 use ui (United Kingdom Misc. Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "uik" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<un#location>
+  a dcterms:Location ;
+  skos:prefLabel "Ukraine"@en ;
+  owl:sameAs <http://sws.geonames.org/690791/>, <info:lc/vocabulary/countries/un> ;
+  skos:note "Before 1992-06-01 use unr (Ukraine)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "un" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<up#location>
+  a dcterms:Location ;
+  skos:prefLabel "United States Misc. Pacific Islands"@en ;
+  skos:altLabel "Baker Island"@en, "Howland Island"@en, "Jarvis Island"@en, "Kingman Reef"@en, "Palmyra Atoll"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "up" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<utu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Utah"@en ;
+  owl:sameAs <http://sws.geonames.org/5549030/>, <info:lc/vocabulary/countries/utu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "utu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uv#location>
+  a dcterms:Location ;
+  skos:prefLabel "Burkina Faso"@en ;
+  skos:altLabel "Upper Volta"@en ;
+  owl:sameAs <http://sws.geonames.org/2361809/>, <http://purl.org/NET/marccodes/gacs/f-uv#location>, <info:lc/vocabulary/countries/uv> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "uv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uy#location>
+  a dcterms:Location ;
+  skos:prefLabel "Uruguay"@en ;
+  owl:sameAs <http://sws.geonames.org/3439705/>, <info:lc/vocabulary/countries/uy> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "uy" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<uz#location>
+  a dcterms:Location ;
+  skos:prefLabel "Uzbekistan"@en ;
+  skos:altLabel "Soviet Union"@en, "Uzbek S.S.R."@en ;
+  owl:sameAs <http://sws.geonames.org/1512440/>, <info:lc/vocabulary/countries/uz> ;
+  skos:note "Before 1992-06-01 use uzr (Uzbek S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use uzr (Uzbek S.S.R.)"@en, "Before 1992-06-01 use xxr (Soviet Union)"@en, "Before 1988-03-01 use ur (Soviet Union)"@en, "Before 1992-06-01 use uzr (Uzbek S.S.R.)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "uz" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vau#location>
+  a dcterms:Location ;
+  skos:prefLabel "Virginia"@en ;
+  owl:sameAs <http://sws.geonames.org/6254928/>, <info:lc/vocabulary/countries/vau> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "vau" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vb#location>
+  a dcterms:Location ;
+  skos:prefLabel "British Virgin Islands"@en ;
+  skos:altLabel "Anegada"@en, "Colony of the Virgin Islands"@en, "Jost Van Dyke"@en, "Tortola"@en, "Virgin Gorda"@en, "Virgin Islands (British)"@en ;
+  owl:sameAs <http://sws.geonames.org/3577718/>, <http://dbpedia.org/resource/British_Virgin_Islands>, <http://purl.org/NET/marccodes/gacs/nwvb#location>, <info:lc/vocabulary/countries/vb> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "vb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Vatican City"@en ;
+  skos:altLabel "Holy See"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "vc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ve#location>
+  a dcterms:Location ;
+  skos:prefLabel "Venezuela"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/8#location> ;
+  skos:notation "ve" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vi#location>
+  a dcterms:Location ;
+  skos:prefLabel "Virgin Islands of the United States"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "vi" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Vietnam"@en ;
+  skos:altLabel "Democratic People's Republic of Vietnam"@en, "North Vietnam"@en, "South Vietnam"@en, "Vietnam, North"@en, "Vietnam, Republic of"@en, "Vietnam, South"@en ;
+  owl:sameAs <http://sws.geonames.org/1562822/>, <info:lc/vocabulary/countries/vm> ;
+  skos:note "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vn (Vietnam, North)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en, "Before 1978-01-01 use vs (Vietnam, South)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "vm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vp#location>
+  a dcterms:Location ;
+  skos:prefLabel "Various places"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/7#location> ;
+  skos:notation "vp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vra#location>
+  a dcterms:Location ;
+  skos:prefLabel "Victoria"@en ;
+  owl:sameAs <http://sws.geonames.org/2145234/>, <info:lc/vocabulary/countries/vra> ;
+  skos:note "Coded [at] (Australia) before Sept. 2005"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "vra" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<vtu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Vermont"@en ;
+  owl:sameAs <http://sws.geonames.org/5242283/>, <http://dbpedia.org/resource/Vermont>, <info:lc/vocabulary/countries/vtu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "vtu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wau#location>
+  a dcterms:Location ;
+  skos:prefLabel "Washington (State)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "wau" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wea#location>
+  a dcterms:Location ;
+  skos:prefLabel "Western Australia"@en ;
+  owl:sameAs <http://sws.geonames.org/2058645/>, <info:lc/vocabulary/countries/wea> ;
+  skos:note "Coded [at] (Australia) before Sept. 2005"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "wea" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wf#location>
+  a dcterms:Location ;
+  skos:prefLabel "Wallis and Futuna"@en ;
+  skos:altLabel "Alofi"@en, "Futuna"@en, "Horne, Iles de"@en, "Ile Uvea (Wallis and Futuna)"@en, "Iles de Horne"@en, "Uvea (Wallis and Futuna)"@en ;
+  owl:sameAs <http://sws.geonames.org/4034749/>, <http://dbpedia.org/resource/Wallis_and_Futuna>, <info:lc/vocabulary/countries/wf> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "wf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wiu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Wisconsin"@en ;
+  owl:sameAs <http://sws.geonames.org/5279468/>, <info:lc/vocabulary/countries/wiu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "wiu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wj#location>
+  a dcterms:Location ;
+  skos:prefLabel "West Bank of the Jordan River"@en ;
+  skos:altLabel "Jordan (Territory under Israeli occupation, 1967- )"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "wj" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wk#location>
+  a dcterms:Location ;
+  skos:prefLabel "Wake Island"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "wk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wlk#location>
+  a dcterms:Location ;
+  skos:prefLabel "Wales"@en ;
+  owl:sameAs <http://sws.geonames.org/2634895/>, <info:lc/vocabulary/countries/wlk> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "wlk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ws#location>
+  a dcterms:Location ;
+  skos:prefLabel "Samoa"@en ;
+  skos:altLabel "Samoa i Sisifo"@en, "Samoa, Western"@en, "Savai'i"@en, "Upolu"@en, "Western Samoa"@en ;
+  owl:sameAs <http://sws.geonames.org/4034894/>, <info:lc/vocabulary/countries/ws> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "ws" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wvu#location>
+  a dcterms:Location ;
+  skos:prefLabel "West Virginia"@en ;
+  owl:sameAs <http://sws.geonames.org/4826850/>, <info:lc/vocabulary/countries/wvu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "wvu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<wyu#location>
+  a dcterms:Location ;
+  skos:prefLabel "Wyoming"@en ;
+  owl:sameAs <http://sws.geonames.org/5843591/>, <info:lc/vocabulary/countries/wyu> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "wyu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xa#location>
+  a dcterms:Location ;
+  skos:prefLabel "Christmas Island (Indian Ocean)"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/i-xa#location>, <info:lc/vocabulary/countries/xa> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "xa" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xb#location>
+  a dcterms:Location ;
+  skos:prefLabel "Cocos (Keeling) Islands"@en ;
+  skos:altLabel "Keeling Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/i-xb#location>, <info:lc/vocabulary/countries/xb> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "xb" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Maldives"@en ;
+  skos:altLabel "Maldive Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/1282028/>, <http://purl.org/NET/marccodes/gacs/i-xc#location>, <info:lc/vocabulary/countries/xc> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/12#location> ;
+  skos:notation "xc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xd#location>
+  a dcterms:Location ;
+  skos:prefLabel "Saint Kitts-Nevis"@en ;
+  skos:altLabel "Saint Christopher"@en, "Saint Kitts-Nevis-Anguilla"@en, "St. Christopher"@en ;
+  skos:note "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en, "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en, "Before 1985-01-01 use xi (Saint Kitts-Nevis-Anguilla)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "xd" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xe#location>
+  a dcterms:Location ;
+  skos:prefLabel "Marshall Islands"@en ;
+  skos:altLabel "Ailinglapalap Atoll"@en, "Arno (Atoll)"@en, "Bikini (Atoll)"@en, "Ebon Atoll"@en, "Eniwetok Atoll"@en, "Jaluit Atoll"@en, "Kili Island"@en, "Kwajalein Atoll"@en, "Majuro Atoll"@en, "Maloelap Atoll"@en, "Mili Atoll"@en, "Namorik Atoll"@en, "Pacific Islands (Trust Territory)"@en, "Ralik Chain"@en, "Ratak Chains"@en, "Rongelap Atoll"@en, "Taongi Atoll"@en, "Trust Territory of the Pacific Islands"@en, "Ujelang Atoll"@en, "Utirik Atoll"@en, "Wotje Atoll"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/poxe#location>, <info:lc/vocabulary/countries/xe> ;
+  skos:note "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en, "Before 1988-03-01 use tt (Trust Territory of the Pacific Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "xe" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xf#location>
+  a dcterms:Location ;
+  skos:prefLabel "Midway Islands"@en ;
+  owl:sameAs <http://purl.org/NET/marccodes/gacs/poxf#location>, <info:lc/vocabulary/countries/xf> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "xf" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xga#location>
+  a dcterms:Location ;
+  skos:prefLabel "Coral Sea Islands Territory"@en ;
+  skos:note "Coded [at] (Australia) before Sept. 2005"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "xga" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xh#location>
+  a dcterms:Location ;
+  skos:prefLabel "Niue"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/5#location> ;
+  skos:notation "xh" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xj#location>
+  a dcterms:Location ;
+  skos:prefLabel "Saint Helena"@en ;
+  skos:altLabel "Ascension Island (Atlantic Ocean)"@en, "Gough Island"@en, "Inaccessible Island"@en, "Nightingale Island"@en, "Tristan da Cunha Island"@en ;
+  owl:sameAs <http://sws.geonames.org/3370751/>, <http://dbpedia.org/resource/Saint_Helena>, <http://purl.org/NET/marccodes/gacs/lsai#location>, <info:lc/vocabulary/countries/xj> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
+  skos:notation "xj" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xk#location>
+  a dcterms:Location ;
+  skos:prefLabel "Saint Lucia"@en ;
+  owl:sameAs <http://sws.geonames.org/3576468/>, <http://dbpedia.org/resource/Saint_Lucia>, <info:lc/vocabulary/countries/xk> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "xk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xl#location>
+  a dcterms:Location ;
+  skos:prefLabel "Saint Pierre and Miquelon"@en ;
+  skos:altLabel "Miquelon"@en ;
+  owl:sameAs <http://sws.geonames.org/3424932/>, <http://dbpedia.org/resource/Saint_Pierre_and_Miquelon>, <info:lc/vocabulary/countries/xl> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "xl" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xm#location>
+  a dcterms:Location ;
+  skos:prefLabel "Saint Vincent and the Grenadines"@en ;
+  skos:altLabel "Grenadine Islands, Northern"@en, "Saint Vincent"@en ;
+  owl:sameAs <http://sws.geonames.org/3577815/>, <info:lc/vocabulary/countries/xm> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/6#location> ;
+  skos:notation "xm" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xn#location>
+  a dcterms:Location ;
+  skos:prefLabel "Macedonia"@en ;
+  owl:sameAs <http://sws.geonames.org/718075/>, <info:lc/vocabulary/countries/xn> ;
+  skos:note "Before 1992-10-01 use yu (Yugoslavia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "xn" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xna#location>
+  a dcterms:Location ;
+  skos:prefLabel "New South Wales"@en ;
+  owl:sameAs <http://sws.geonames.org/2155400/>, <info:lc/vocabulary/countries/xna> ;
+  skos:note "Coded [at] (Australia) before Sept. 2005"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "xna" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xo#location>
+  a dcterms:Location ;
+  skos:prefLabel "Slovakia"@en ;
+  skos:altLabel "Czechoslovakia"@en, "Slovak Socialist Republic"@en ;
+  owl:sameAs <http://sws.geonames.org/3057568/>, <http://dbpedia.org/resource/Slovakia>, <http://purl.org/NET/marccodes/gacs/e-cs#location>, <info:lc/vocabulary/countries/xo> ;
+  skos:note "Before 1993-06-01 use cs (Czechoslovakia)"@en, "Before 1993-05-01 use cs (Czechoslovakia)"@en, "Before 1993-05-01 use cs (Czechoslovakia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "xo" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xoa#location>
+  a dcterms:Location ;
+  skos:prefLabel "Northern Territory"@en ;
+  owl:sameAs <http://sws.geonames.org/2064513/>, <info:lc/vocabulary/countries/xoa> ;
+  skos:note "Coded [at] (Australia) before Sept. 2005"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "xoa" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xp#location>
+  a dcterms:Location ;
+  skos:prefLabel "Spratly Island"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "xp" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xr#location>
+  a dcterms:Location ;
+  skos:prefLabel "Czech Republic"@en ;
+  skos:altLabel "Czechoslovakia"@en ;
+  owl:sameAs <http://sws.geonames.org/3077311/>, <http://purl.org/NET/marccodes/gacs/e-xr#location>, <http://purl.org/NET/marccodes/gacs/e-cs#location>, <info:lc/vocabulary/countries/xr> ;
+  skos:note "Before 1993-05-01 use cs (Czechoslovakia)"@en, "Before 1993-05-01 use cs (Czechoslovakia)"@en, "Before 1993-05-01 use cs (Czechoslovakia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "xr" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xra#location>
+  a dcterms:Location ;
+  skos:prefLabel "South Australia"@en ;
+  owl:sameAs <http://sws.geonames.org/2061327/>, <info:lc/vocabulary/countries/xra> ;
+  skos:note "Coded [at] (Australia) before Sept. 2005"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/9#location> ;
+  skos:notation "xra" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xs#location>
+  a dcterms:Location ;
+  skos:prefLabel "South Georgia and the South Sandwich Islands"@en ;
+  skos:altLabel "South Georgia Island"@en, "South Sandwich Islands"@en ;
+  owl:sameAs <http://sws.geonames.org/3474415/>, <info:lc/vocabulary/countries/xs> ;
+  skos:note "Before 1991-01-01 use fk (Falkland Islands)"@en, "Before 1991-01-01 use fk (Falkland Islands)"@en, "Before 1991-01-01 use fk (Falkland Islands)"@en, "Before 1991-01-01 use fk (Falkland Islands)"@en, "Before 1991-01-01 use fk (Falkland Islands)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/11#location> ;
+  skos:notation "xs" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xv#location>
+  a dcterms:Location ;
+  skos:prefLabel "Slovenia"@en ;
+  owl:sameAs <http://sws.geonames.org/3190538/>, <info:lc/vocabulary/countries/xv> ;
+  skos:note "Before 1992-10-01 use yu (Yugoslavia)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "xv" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xx#location>
+  a dcterms:Location ;
+  skos:prefLabel "No place, unknown, or undetermined"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/7#location> ;
+  skos:notation "xx" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xxc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Canada"@en ;
+  owl:sameAs <http://sws.geonames.org/6251999/>, <http://purl.org/NET/marccodes/gacs/n-cn#location>, <info:lc/vocabulary/countries/xxc> ;
+  skos:note "Before 1988-03-01 use cn (Canada)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "xxc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xxk#location>
+  a dcterms:Location ;
+  skos:prefLabel "United Kingdom"@en ;
+  skos:altLabel "Great Britain"@en ;
+  owl:sameAs <http://sws.geonames.org/2635167/>, <http://purl.org/NET/marccodes/gacs/e-uk#location>, <info:lc/vocabulary/countries/xxk> ;
+  skos:note "Before 1988-03-01 use uk (United Kingdom)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/3#location> ;
+  skos:notation "xxk" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<xxu#location>
+  a dcterms:Location ;
+  skos:prefLabel "United States"@en ;
+  skos:note "Before 1988-03-01 use us (United States)"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "xxu" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ye#location>
+  a dcterms:Location ;
+  skos:prefLabel "Yemen"@en ;
+  skos:altLabel "Aden"@en, "Aden (Protectorate)"@en, "Arab Republic of Yemen"@en, "Federation of South Arabia"@en, "Kamaran"@en, "Perim"@en, "Protectorate of South Arabia"@en, "Socotra"@en, "South Arabia"@en, "Southern Yemen"@en, "Yemen (People's Democratic Republic)"@en ;
+  owl:sameAs <http://sws.geonames.org/69543/>, <info:lc/vocabulary/countries/ye> ;
+  skos:note "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic)"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic)"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic)"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic)"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en, "Before 1991-01-01 use ys (Yemen (People's Democratic Republic))"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/1#location> ;
+  skos:notation "ye" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<ykc#location>
+  a dcterms:Location ;
+  skos:prefLabel "Yukon Territory"@en ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/2#location> ;
+  skos:notation "ykc" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<za#location>
+  a dcterms:Location ;
+  skos:prefLabel "Zambia"@en ;
+  skos:altLabel "Northern Rhodesia"@en ;
+  owl:sameAs <http://sws.geonames.org/895949/>, <info:lc/vocabulary/countries/za> ;
+  dcterms:isPartOf <http://purl.org/NET/marccodes/countries/regions/4#location> ;
+  skos:notation "za" .

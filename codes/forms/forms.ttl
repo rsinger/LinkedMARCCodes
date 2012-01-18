@@ -1,0 +1,75 @@
+@prefix	skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix	rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix	owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix	dcterms:	<http://purl.org/dc/terms/> .
+@prefix	umbel:	<http://umbel.org/umbel#> .
+@base	<http://purl.org/NET/marccodes/forms/> .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<a#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Microfilm"@en ;
+  owl:sameAs <info:lc/vocabulary/forms/a> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85084838#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm006501> ;
+  skos:notation "a" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<b#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Microfiche"@en ;
+  owl:sameAs <info:lc/vocabulary/forms/b> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85084829#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm006499> ;
+  skos:notation "b" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<c#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Microopaque"@en ;
+  owl:sameAs <info:lc/vocabulary/forms/c> ;
+  umbel:isAbout <http://id.loc.gov/vocabulary/graphicMaterials/tgm006503> ;
+  skos:notation "c" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<d#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Large print"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Large-print>, <info:lc/vocabulary/forms/d> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh85074712#concept> ;
+  dcterms:description "Item is in a large print format. Items are usually identified as large-print by a qualifier to the ISBN, a series statement, or a formal edition statement. According to the standard set by the National Library Service for the Blind and Physically Handicapped of the Library of Congress, 14-point type is the minimum to be regarded as large type. Items labeled \"large print\" or \"larger print,\" regardless of font size, should also be coded as large print."@en ;
+  skos:notation "d" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<f#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Braille"@en ;
+  owl:sameAs <http://dbpedia.org/resource/Braille>, <info:lc/vocabulary/forms/f> ;
+  umbel:isAbout <http://id.loc.gov/authorities/sh94008942#concept>, <http://id.loc.gov/vocabulary/graphicMaterials/tgm001288> ;
+  skos:notation "f" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<o#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Online"@en ;
+  dcterms:description "The resource is accessed by means of hardware and software connections to a communications network. If a distinction between types of electronic resources is not necessary, code s can be used as a generic code for any form of electronic resource."@en ;
+  skos:notation "o" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<q#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Direct electronic"@en ;
+  dcterms:description "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc. If a distinction between types of electronic resources is not necessary, code s can be used as a generic code for any form of electronic resource."@en ;
+  skos:notation "q" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<r#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Regular print reproduction"@en ;
+  dcterms:description "Eye-readable print, such as a photocopy."@en ;
+  skos:notation "r" .
+# not a valid turtle document, be sure to include ./PREFIX
+
+<s#form>
+  a dcterms:MediaType ;
+  skos:prefLabel "Electronic"@en ;
+  dcterms:description "Intended for manipulation by a computer. The item may reside in a carrier accessed either directly or remotely, in some cases requiring the use of peripheral devices attached to the computer (e.g., a CD-ROM player). This code is not used for items that do not require the use of a computer (e.g., music compact discs, videodiscs). This code can be used as a generic code for any form of electronic resource. Codes o and q may be used if there is a need to separately identify online and direct electronic resources."@en ;
+  skos:notation "s" .
